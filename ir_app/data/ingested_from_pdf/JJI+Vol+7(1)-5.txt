@@ -1,0 +1,2901 @@
+Jurnal Jamu Indonesia (2022) 7(1):31-49 
+Artikel Penelitian 
+ISSN 2407-7178 eISSN 2407-7763 
+DOI: https://doi.org/10.29244/jji.v7i1.253 
+ 
+ 
+ 
+Penulis 
+Yasmiwar Susilawati1,2*, Norisca Aliza Putriana3, Silmi Auliya Zakariya1 
+ 
+Afiliasi 
+1Pusat Studi Herbal, Fakultas Farmasi, Universitas Padjadjaran, Jl. Raya Bandung-Sumedang km 
+21, Sumedang 45363 
+2Departemen Biologi Farmasi, Fakultas Farmasi, Universitas Padjadjaran, Jl. Raya Bandung-
+Sumedang km 21, Sumedang 45363 
+3Departemen Farmasetika dan Teknologi Farmasi, Fakultas Farmasi, Universitas Padjadjaran, Jl. 
+Raya Bandung-Sumedang km 21, Sumedang 45363 
+ 
+ 
+ 
+ 
+ 
+ 
+Kata Kunci 
+ COVID-19 
+ Daya tahan tubuh 
+ Ramuan herbal 
+ Tanaman obat 
+ 
+ 
+Keywords 
+ COVID-19 
+ immune system 
+ herbal ingredients 
+ medicinal plants 
+ 
+ 
+ 
+ 
+Diterima  17 Januari 2022 
+Direvisi 
+11 Mei 2022 
+Disetujui 19 Mei 2022 
+ 
+ 
+ 
+ 
+ 
+*Penulis Koresponding 
+Yasmiwar Susilawati 
+email: 
+yasmiwar@unpad.ac.id 
+ 
+ABSTRAK 
+Pandemi COVID-19 yang disebabkan oleh penyebaran yang sangat cepat virus SARS-CoV-2 menyebabkan 
+tingginya kematian di berbagai belahan dunia, termasuk di Indonesia. Salah satu cara masyarakat Indonesia 
+mencegah dan mempercepat proses penyembuhan COVID-19 adalah dengan meningkatkan daya tahan 
+tubuh menggunakan pengobatan tradisional. Mereka terbiasa menggunakan jamu yang merupakan ramuan 
+dari beberapa tumbuhan obat. Ulasan ini bertujuan untuk menginformasikan ramuan peningkat daya tahan 
+tubuh di Indonesia beserta cara pembuatan, komposisi, kandungan kimia dan  cara penggunaannya sehingga 
+diperoleh landasan ilmiah dalam memahami khasiat dan cara pembuatan ramuan herbal peningkat daya 
+tahan tubuh. Metode penelitian dilakukan dengan menelusuri pustaka tahun 2011-2021 melalui basis data 
+Google Scholar dari bulan September 2021 hingga Oktober 2021. Kata kunci penelusuran adalah “immune 
+booster”, “peningkat daya tubuh”, “herbal peningkat imun”, “jamu”, “ramuan herbal”, “formulasi” 
+menggunakan Boolean operator ‘AND’ ‘OR’ dan ‘NOT’. Diperoleh hasil pencarian pustaka yang memenuhi 
+kriteria inklusi sebanyak 30 pustaka. Hasil kajian pustaka didapatkan  37 ramuan herbal peningkat daya 
+tahan tubuh yang di dalamnya terdapat 22 spesies tumbuhan obat dengan familia terbanyak adalah 
+Zingiberaceae (31%). Dari 22 spesies tumbuhan diketahui bahwa 10 tumbuhan yang paling banyak 
+ditemukan dalam ramuan adalah kunyit, jahe, sereh, temulawak, kayu manis, jahe merah, jeruk nipis, 
+kencur, meniran, dan pegagan. Dari komponen kandungan kimia tumbuhan dalam ramuan, diketahui 
+metabolit sekunder yang berpotensi dalam peningkatan daya tahan tubuh adalah golongan minyak atsiri, 
+flavonoid, saponin, tanin, dan fenol. Sedangkan senyawa yang beraktivitas dalam peningkat daya tahan 
+tubuh adalah kurkumin, gingerol, xanthorrhizol, citral, p-metoksisinamat, dan filantin. 
+ 
+ABSTRACT 
+The COVID-19 pandemic caused by SARS-CoV-2 virus lead to massive death counts in parts of the 
+world, including in Indonesia. Indonesian people often use herbal medicine as a way to increase their 
+immune system, to prevent infection, and to accelerate the healing process of COVID-19. They are used 
+to compose herbs with several medicinal plants as ingredients.  This review was aimed to provide 
+information about immune booster herbs in Indonesia along with how to make it, its composition, its 
+chemical contents, and how to use it in order to obtain scientific basis in understanding the efficacy and 
+the herbal formulation. The method was carried out by browsing the literature from 2011-2021 
+through Google Scholar database from September 2021 to October 2021. The keywords used were 
+"immune booster",  “immune boosting herbs”, “jamu”, “herbal ingredient”, “formulation” using the 
+Boolean Operators 'AND' 'OR' and ‘NOT’. The literature that met the inclusion criteria were 30 journals. 
+From the literature review, it was known that there are 22 species of medicinal plants that are used for 
+37 immune booster jamus with Zingiberaceae as the majority of the family (31%). The top ten plants 
+commonly found in the ingredients are turmeric, ginger, lemongrass, temulawak, cinnamon, red 
+ginger, lime, lesser galangal, meniran, and centella asiatica. Based on the plant’s chemical 
+constituents, it was found that the secondary metabolites components which could potentially boost 
+immunity are essential oils, flavonoids, saponins, tannins, and phenols. Meanwhile, the active 
+compounds for immune booster were curcumin, gingerol, xanthorrhizol, citral, p-methoxycinnamate, 
+and philanthine. 
+ 
+ 
+ 
+Review: Ramuan Herbal Indonesia sebagai Peningkat Daya Tahan Tubuh 
+ 
+Review: Indonesian Herbal Ingredients as Immune Booster 
+
+32 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+PENDAHULUAN 
+COVID-19 yang merupakan penyakit pada sistem 
+pernafasan disebabkan oleh virus SARS-CoV-2. Gejala 
+umum yang dirasakan bagi penderita COVID-19 adalah 
+demam, batuk, sesak, sakit tenggorokan, dan pilek 
+(Sajed & Amgain 2020). SARS-CoV-2 sedikit berbeda 
+dengan jenis SARS lain, karena jenis ini cepat menular, 
+bahkan hingga saat ini belum ditemukan obat spesifik 
+untuk penyakit ini (Khailany et al. 2020). Dalam 
+pencegahan 
+penularan 
+diperlukan 
+pemeliharaan 
+kesehatan, di antaranya mengenakan masker, sering 
+membersihkan tangan, menghindari kerumunan (Sajed 
+& Amgain 2020). 
+Berdasarkan penelitian, ketika pasien COVID-19 dengan 
+kondisi sistem imun yang baik, akan lebih mampu 
+melawan SARS-CoV-2 sehingga lebih cepat proses 
+penyembuhannya (Thevarajan et al. 2020). Sebaliknya 
+Individu dengan sistem imun lemah, kurang mampu 
+melawan patogen sehingga proses penyembuhan lebih 
+lama (Ayres & Schneider 2012). 
+Meningkatkan sistem imun merupakan alternatif 
+pencegahan dan penanganan COVID-19 yang dapat 
+dilakukan dengan cara mengonsumsi asupan gizi yang 
+simbang, menjaga fisik dan mental yang baik (Kusumo 
+et al. 2020). Salah satu asupan yang sering digunakan 
+masyarakat Indonesia untuk menjaga kesehatannya 
+adalah Jamu (Kusumo et al. 2020). Jamu merupakan 
+obat tradisional yang biasanya terdiri dari satu ataupun 
+campuran tumbuhan yang telah dipercaya secara 
+turun-temurun (Kusumo et al. 2020).  
+Obat tradisional merupakan bahan atau campuran 
+bahan yang berasal dari tumbuhan, hewan, mineral, 
+galenik yang digunakan dalam pengobatan secara 
+turun-temurun (BPOM RI 2015). Bahan dari tumbuhan 
+yang digunakan adalah rimpang, akar, batang, buah, 
+daun, dan bunga. Obat tradisional terbagi menjadi 3 
+jenis, yaitu jamu, OHT (Obat Herbal Terstandar), dan 
+fitofarmaka (BPOM RI 2015). Jamu ialah obat 
+tradisional yang telah digunakan secara turun-temurun 
+dan khasiat telah terbukti secara empiris (BPOM RI 
+2015). Obat Herbal Terstandar ialah obat tradisional 
+yang khasiat telah ditunjang dengan bukti secara ilmiah 
+atau hasil uji pra-klinik (BPOM RI 2015). Fitofarmaka 
+ialah obat tradisional yang pembuatannya telah 
+terstandar dan manfaatnya telah ditunjang dengan 
+hasil uji klinik (BPOM RI 2015). 
+Obat spesifik untuk COVID-19 hingga saat ini masih 
+belum 
+ditemukan, 
+sehingga 
+salah 
+satu 
+cara 
+meningkatkan daya tahan tubuh yang baik adalah 
+dengan mengonsumsi ramuan herbal atau jamu 
+(Kusumo et al. 2020). Walaupun saat ini telah dilakukan 
+pengendalian infeksi COVID-19 dengan vaksinasi agar 
+terbentuknya antibodi (Yan et al. 2021), jamu akan 
+tetap 
+menjadi 
+pilihan 
+dalam 
+penjagaan 
+dan 
+peningkatan daya tahan tubuh masyarakat Indonesia. 
+Senyawa-senyawa 
+yang 
+memiliki 
+potensi 
+dalam 
+penghambatan infeksi coronavirus di antaranya adalah 
+quercetin, 
+myricetin, 
+psoralidin, 
+caffeic 
+acid, 
+tryptanthrin, 
+lycorine, 
+scutellarein, 
+silvestrol, 
+saikosaponin, 
+isobavachalone, 
+dan 
+griffithsin 
+(Kurniawan & Ikhsanudin 2020). 
+Kemenkes menyatakan bahwa dari 50% masyarakat 
+Indonesia yang menggunakan jamu, 96% di antaranya 
+merasakan manfaat dari jamu (Kemenkes 2019). 
+Semakin 
+meningkatnya 
+pengetahuan 
+masyarakat 
+mengenai tanaman obat atau ramuan herbal pada 
+masa pandemi, maka semakin meningkat juga antusias 
+masyarakat dalam pengonsumsian jamu (Kemenkes 
+2019; Siregar & Siregar 2020). Ketika semakin banyak 
+penggunaan ramuan herbal oleh masyarakat Indonesia, 
+maka industri farmasi juga dapat mengembangkan 
+ramuan herbal dengan menggunakan teknologi farmasi 
+(Elfahmi 
+et 
+al. 
+2014). 
+Ketika 
+industri 
+farmasi 
+mengembangkan ramuan herbal menjadi bentuk 
+sediaan farmasi dengan menggunakan teknologi 
+farmasi, 
+masyarakat 
+akan 
+lebih 
+mudah 
+dalam 
+pengonsumsian jamu dari segi kepatuhan, kualitas 
+produk yang baik dan dosis yang lebih akurat (Elfahmi 
+et al. 2014; Nur Hayati et al. 2019). 
+Review ini membahas tentang ramuan herbal yang 
+digunakan untuk meningkatkan daya tahan tubuh. 
+Review ini disusun dengan tujuan memberikan 
+informasi mengenai ramuan peningkat daya tahan 
+tubuh disertai dengan cara pembuatan, komposisi, cara 
+penggunaan, dan kandungan kimianya agar diperoleh 
+landasan ilmiah dalam pemanfaatan jamu dan 
+memudahkan masyarakat Indonesia dalam pembuatan 
+ramuan herbal peningkat daya tahan tubuh.  
+ 
+METODE 
+Metode yang digunakan dalam kajian pustaka ini 
+dengan menelusuri pustaka melalui basis data Google 
+Scholar pada bulan September 2021-Oktober 2021. 
+Kata kunci penelusuran adalah “immune booster”, 
+“peningkat daya tubuh”, “herbal peningkat imun”, 
+“jamu”, “ramuan herbal”, “formulasi” menggunakan 
+Boolean operator ‘AND’ ‘OR’ dan ‘NOT’. Kriteria inklusi 
+yang digunakan adalah artikel tahun 2011-2021 
+berbahasa Inggris atau Indonesia yang relevan dengan 
+judul dan abstrak, yaitu artikel yang menjelaskan 
+ramuan herbal peningkat daya tahan tubuh yang 
+terdapat di dalamnya setidaknya komposisi ramuan. 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+33 
+ 
+ 
+ 
+Sedangkan kriteria eksklusi adalah review artikel, 
+artikel non-full teks dan artikel yang menjelaskan 
+ramuan herbal peningkat daya tahan tubuh bukan 
+berasal dari ramuan herbal Indonesia. 
+ 
+HASIL & PEMBAHASAN 
+Didapatkan artikel hasil pencarian pustaka pada 
+Google Scholar sebanyak 145. Pemilihan pustaka 
+setelah melalui skrining sesuai kriteria inklusi didapat 
+30 pustaka. 
+Berikut 
+merupakan 
+ramuan 
+herbal 
+secara 
+tradisional yang digunakan sebagai peningkat daya 
+tahan tubuh yang dapat disajikan pada Tabel 1. Selain 
+ramuan herbal secara tradisional, didapatkan juga 
+ramuan 
+peningkat 
+daya 
+tahan 
+tubuh 
+yang 
+pembuatannya telah menggunakan teknologi farmasi 
+yang disajikan pada Tabel 2.  
+Berdasarkan ramuan yang didapat, terdapat 22 
+spesies tumbuhan yang digunakan. Berikut merupakan 
+tumbuhan komponen ramuan herbal peningkat daya 
+tahan tubuh yang dikaji nama latin, familia, dan 
+senyawa aktif dari masing-masing tumbuhan yang 
+disajikan pada Tabel 3. 
+Ramuan herbal yang didapat dari kajian pustaka 
+sebanyak 37 ramuan herbal  yang di dalamnya terdapat 
+22 spesies tamanan. Biasanya pada ramuan terdapat 
+penambahan pemanis dan pengharum agar lebih dapat 
+dinikmati ketika diminum, yaitu madu, gula aren, gula 
+merah dan stevia sebagai pemanis dan daun pandan, 
+jeruk nipis sebagai pengaroma. 
+Ramuan Kunyit Asam merupakan minuman yang 
+baik dalam meningkatkan daya tahan tubuh. Bahan 
+baku yang digunakan mudah ditemukan di pasaran. 
+Pembuatannya dengan cara penumbukan dalam 
+lumpang, kemudian ditambah air minum dan disaring. 
+Hasil saringan tersebut dapat langsung diminum. 
+Namun, ramuan ini dapat juga dibuat dengan 
+perebusan. Bahan direbus hingga air rebusan tersisa 
+setengahnya, selanjutnya didinginkan, saring, dan siap 
+diminum (Andian & Saputra 2021). 
+Ramuan nomor 2 hingga nomor 12 pada Tabel 1, 
+merupakan ramuan yang dipercaya masyarakat etnik 
+Sulawesi Selatan, yaitu Makassar dan Toraja. Etnik ini 
+mempercayai bahan-bahan yang digunakan adalah 
+bahan yang mudah ditemukan, ekonomis, dan mudah 
+diolah. Ramuan dasarnya terdapat jahe, kunyit, 
+temulawak, sereh, dan meniran. Pada pembuatannya, 
+bahan berupa rimpang digeprek, jika daun dapat 
+digunakan 2-3 lembar atau segenggam. Semua ramuan 
+ini direbus dalam air. Jika terdapat penambahan jeruk 
+nipis atau madu, maka bahan tersebut ditambahkan di 
+akhir setelah dingin (Noena & Base 2021). 
+Teh Serai dibuat dalam bentuk teh celup dan 
+menggunakan pemanis alami yaitu daun stevia. 
+Pembuatan berasal dari bahan yang telah dikeringkan 
+(serai, jahe, daun stevia), bahan ditumbuk kecil-kecil 
+dengan perbandingan jahe: daun serai: daun stevia 
+(3:1:1) (Suhesti et al. 2021). 
+Ramuan jahe, kunyit, temulawak dapat dibuat 
+menjadi teh herbal melalui bahan yang diproses 
+dengan perebusan ataupun dibuat menjadi teh celup. 
+Teh celup dibuat dengan cara bahan dibersihkan, 
+dirajang, dikeringkan, lalu diblender, hasil yang didapat 
+dikemas dalam bungkus teh 10 gram (Ningsih et al. 
+2020). Ramuan ini dapat meningkatkan daya tahan 
+tubuh, karena senyawa yang terkandung banyak 
+berguna sebagai antioksidan (Ningsih et al. 2020). 
+Ramuan Daun Kelor dibuat dalam bentuk teh, maka 
+bahan dikeringkan. Ketika pengeringan dilakukan, 
+pastikan menghindari panas di bawah matahari secara 
+langsung agar senyawa yang terdapat pada daun kelor 
+tetap baik (Britany & Sumarni 2020). Biasanya pada 
+saat daun kelor diseduh, teh ditambah dengan madu 
+karena teh daun kelor memiliki rasa yang langu (Britany 
+& Sumarni 2020). 
+Ramuan campuran temulawak, kunyit, dan meniran 
+ini telah terdapat uji pra klinis dan klinis. Pada uji pra 
+klinis, rebusan campuran tersebut meningkatkan 
+kebugaran yang terlihat dari uji ketahanan renang pada 
+mencit (Rahmawati 2018). Pada uji klinis yang 
+dilakukan pada siswa SMA berumur 16-18 tahun, 
+dinyatakan 
+ramuan 
+campuran 
+tersebut 
+dapat 
+meningkatkan kebugaran dan telah terbukti aman pada 
+organ hati dan ginjal (Novianto et al. 2020). 
+Teh Rosella dibuat dari bahan bunga rosella dan 
+gula (sukrosa) menggunakan starter mikroba. Hasil 
+fermentasi teh ini memiliki rasa asam. Fermentasi yang 
+dilakukan selama 6-10 hari akan menghasilkan rasa 
+seperti buah yang segar, namun jika lebih dari 10 hari 
+akan menghasilkan rasa seperti cuka (Nurdin et al. 
+2015). Ramuan ini berguna dalam peningkat daya 
+tahan tubuh karena mengandung antioksidan tinggi 
+(Nurdin et al. 2015). 
+Minuman Jasule merupakan ramuan jahe susu 
+dengan ditambahkan lemon di akhir ketika akan siap 
+minum (Susantiningsih et al. 2021). 
+Minuman Jahe dibuat dengan direbus selama 15 
+menit. Ramuan yang terdiri dari temulawak, kunyit, 
+kencur, asam jawa, dan jahe merah dimasak dalam air 
+agar pati pada rimpang keluar (Nurlila & La Fua 2020).
+ 
+ 
+
+34 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+Tabel 1. Ramuan Herbal Peningkat Daya Tahan Tubuh  
+ 
+No 
+Ramuan 
+Herbal 
+Etnis/ 
+Daerah 
+Komposisi 
+Takaran 
+Cara Penggunaan 
+Referensi 
+1. 
+Kunyit Asam: 
+Gresik, Jawa 
+Timur 
+Kunyit  
+Gula aren 
+Gula putih 
+Asam jawa 
+Garam  
+Air  
+1 kg 
+¾ kg 
+½ kg 
+6 buah 
+3 sdt 
+7 liter 
+2 kali sehari 200 ml 
+ 
+ 
+(Andian & Saputra 
+2021; Ingsih et al. 
+2020) 
+2. 
+Temulawak 
+Jahe/Jahe 
+merah 
+Sereh 
+ 
+Makassar 
+dan Toraja 
+Temulawak 
+Jahe/jahe merah 
+Daun sereh 
+Air 
+Gula aren  
+1-2 ruas 
+2-3 ruas 
+2-3 lembar 
+2 gelas 
+opsional 
+2 kali sehari 
+diminum hangat-
+hangat 
+(Noena & Base 2021) 
+3. 
+Temulawak 
+Jahe 
+Kunyit 
+Sereh 
+Makassar 
+dan Toraja 
+Temulawak 
+Jahe/jahe merah 
+Kunyit  
+Air 
+Atau 
+Semua bahan  
+Air 
+1-2 ruas 
+2-3 ruas 
+2-3 ruas 
+2-3 gelas 
+ 
+(1:1:1:1) 
+2 kali sehari 
+(Akbar et al. 2021; 
+Noena & Base 2021) 
+4. 
+Jahe 
+Sereh 
+Makassar 
+dan Toraja 
+Jahe  
+Daun sereh 
+Air 
+1-2 ruas 
+2-3 lembar 
+1-2 gelas 
+1 kali sehari 
+(Noena & Base 2021) 
+5. 
+Jahe 
+Jeruk nipis 
+Kayu manis 
+Makassar 
+dan Toraja 
+Jahe 
+Jeruk nipis 
+Kayu manis  
+Gula merah  
+Tidak 
+disebutkan 
+1 kali sehari 
+(Noena & Base 2021) 
+6. 
+Kunyit 
+Lengkuas 
+ 
+Makassar 
+dan Toraja 
+Kunyit 
+Lengkuas 
+Madu/jeruk nipis  
+Tidak 
+disebutkan 
+2 kali sehari 
+(Noena & Base 2021) 
+7. 
+Kunyit 
+Temulawak 
+Makassar 
+dan Toraja 
+Kunyit 
+Temulawak 
+Tidak 
+disebutkan 
+2 kali sehari 
+(Noena & Base 2021) 
+8. 
+Sereh  
+Lengkuas 
+Makassar 
+dan Toraja 
+Sereh  
+Lengkuas 
+Tidak 
+disebutkan 
+2 kali sehari 
+(Noena & Base 2021) 
+9. 
+Sereh 
+Kunyit 
+ 
+Makassar 
+dan Toraja 
+Sereh 
+Kunyit 
+Madu 
+Tidak 
+disebutkan 
+2 kali sehari 
+(Noena & Base 2021) 
+10 
+Beras kencur 
+ 
+Makassar 
+dan Toraja 
+Kencur 
+Kunyit 
+Beras 
+Garam  
+atau 
+Kencur 
+Beras 
+Gula merah 
+9 buah 
+3 buah 
+½ sdt 
+2 kali sehari 
+(Jalil 2019; Noena & 
+Base 2021) 
+11 
+Meniran 
+Kunyit 
+Makassar 
+dan Toraja 
+Daun meniran 
+Kunyit   
+Gula merah  
+Segenggam 
+1-2 ruas 
+Secukupnya 
+1 kali sehari 
+(Noena & Base 2021) 
+12 
+Meniran 
+Sereh 
+Makassar 
+dan Toraja 
+Daun meniran 
+Daun sereh 
+Gula merah 
+Segenggam 
+Segenggam 
+Secukupnya 
+1 kali sehari 
+(Noena & Base 2021) 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+35 
+ 
+ 
+ 
+No 
+Ramuan 
+Herbal 
+Etnis/ 
+Daerah 
+Komposisi 
+Takaran 
+Cara Penggunaan 
+Referensi 
+13 
+Teh Serai 
+Jahe 
+Karanganyar
+, Jawa 
+Tengah 
+Simplisia jahe, serai, 
+daun stevia 
+air panas 
+3:1:1 
+2 kali sehari 
+(Suhesti et al. 2021) 
+14 
+Jahe merah 
+Kayu manis 
+Deli Tua, 
+Sumatera 
+Utara 
+Jahe merah 
+Kayu manis  
+Gula merah 
+Tidak 
+disebutkan 
+- 
+(Sudewi et al. 2021) 
+15 
+Teh Herbal 
+Jahe 
+Temulawak 
+Kunyit 
+Jembul dan 
+Mojokerto 
+(Jawa 
+Tengah) 
+Jahe 
+Temulawak 
+Kunyit 
+Tidak 
+disebutkan 
+- 
+(Ningsih et al. 2020) 
+16 
+Jahe merah 
+Jeruk nipis 
+Kayu manis 
+ 
+- 
+Jahe merah 
+ 
+Jeruk nipis  
+Kayu manis 
+Gula merah 
+Air  
+2 ruas ibu jari 
+1 buah 
+3 jari 
+Secukupnya 
+3 cangkir 
+1x sehari 1½ 
+cangkir 
+(Kemenkes 2020) 
+17 
+Kunyit 
+Lengkuas 
+Jeruk nipis 
+ 
+- 
+Kunyit 
+ 
+Lengkuas 
+ 
+Jeruk nipis 
+Air  
+Gula merah  
+1 ruas ibu jari 
+1 ruas ibu jari 
+1 buah 
+3 cangkir 
+Secukupnya  
+2x sehari 1½ 
+cangkir 
+(Kemenkes 2020) 
+18 
+Pegagan 
+Jahe merah 
+Temulawak 
+ 
+- 
+Pegagan 
+Jahe merah  
+ 
+Temulawak  
+Gula aren 
+Air 
+1 jumput 
+1 ruas ibu jari 
+1 iris 
+Secukupnya 
+1,5 gelas 
+2x sehari 1 gelas 
+(Kemenkes 2020) 
+19 
+Pegagan 
+Jeruk nipis 
+- 
+Pegagan  
+Jeruk nipis 
+Air  
+1 jumput 
+1 buah 
+1,5 gelas 
+2x sehari 1 gelas 
+(Widyanata et al. 
+2020) 
+20 
+Kencur 
+Beras 
+Daun pandan 
+ 
+- 
+Kencur (setelah 
+dikupas) 
+Beras  
+Daun pandan 
+Gula aren 
+Air  
+50 gram 
+ 
+100 gram 
+3 lembar 
+Secukupnya 
+2300 mL 
+2x sehari 
+(Kemenkes 2020) 
+21 
+Teh daun 
+kelor 
+Limo, Jawa 
+Barat 
+Daun kelor 
+Air 
+Atau 
+Daun kelor 
+Air 
+Madu 
+2 genggam 
+2 cangkir 
+ 
+500 gram 
+2 kali sehari ½ - 1 
+cangkir 
+(Britany & Sumarni 
+2020; Kemenkes 
+2020) 
+22 
+Bawang putih 
+tunggal 
+(lanang) 
+- 
+Bawang putih tunggal 
+(lanang) 
+Air hangat  
+Madu  
+2 butir 
+ 
+1 gelas 
+Secukupnya  
+2x sehari 
+(Kemenkes 2020) 
+23 
+Temulawak 
+Kunyit 
+Meniran 
+- 
+Temulawak: Kunyit: 
+Meniran 
+5:4:3 
+- 
+(Farida et al. 2019) 
+24 
+Teh Rosella 
+- 
+Fermentasi seduhan 
+kelopak bunga rosella  
+Tidak 
+disebutkan 
+- 
+(Nurdin et al. 2015) 
+
+36 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+No 
+Ramuan 
+Herbal 
+Etnis/ 
+Daerah 
+Komposisi 
+Takaran 
+Cara Penggunaan 
+Referensi 
+Gula 
+25 
+Minuman 
+Jasule 
+Depok, Jawa 
+Barat 
+Jahe 
+Lemon 
+Susu 
+Tidak 
+disebutkan 
+- 
+(Susantiningsih et al. 
+2021) 
+26 
+Temulawak 
+Kunyit 
+Kencur 
+Asam jawa 
+Jahe merah 
+Kendari dan 
+Riau 
+Temulawak 
+Kunyit 
+Kencur 
+Asam jawa 
+Jahe merah 
+Air 
+Tidak 
+disebutkan 
+- 
+(Nurlila & La Fua 
+2020). 
+27 
+Minuman Jahe 
+Kendari dan 
+Riau 
+Bubuk jahe  
+Air panas 
+12 gram 
+250 mL 
+- 
+(Magzoub 2020; 
+Nurlila & La Fua 
+2020; Pane et al. 
+2021) 
+28 
+Minuman 
+Herbal 
+Kurkumin 
+(kunyit/temul
+awak) 
+Tatah 
+Belayung, 
+Banjarmasin 
+Rimpang  
+Air mendidih 
+100 gram 
+2x sehari (dosis 
+kurkumin 360-800 
+mg/hari) 
+(Khairiah & 
+Caesarina 2021; 
+Pawitan 2020) 
+29 
+Jahe 
+Temulawak/k
+unyit 
+Laos  
+Sereh  
+Cengkeh  
+Pala  
+Kayu manis 
+Palembang, 
+Sumatera 
+Selatan 
+Jahe  
+Temulawak/kunyit 
+ 
+Laos 
+Sereh 
+Cengkeh  
+Pala  
+Kayu manis  
+Air 
+3 buah 
+3 buah besar 
+3 buah 
+8 batang 
+2 
+2 buah 
+5 batang 
+2 liter 
+- 
+(Wijayanto et al. 
+2020) 
+30 
+ 
+Wedang 
+Pokak 
+Kedungbako, 
+Jawa Timur 
+Jahe  
+Pandan 
+Kayu manis 
+Secang  
+Cengkeh 
+Serai  
+Gula  
+Air 
+¼ kg 
+4 lembar 
+5 biji 
+2 lembar 
+5 biji 
+10 batang 
+1 ½ kg 
+20 liter 
+Diminum ketika 
+pagi atau malam 
+hari 
+(Wulandari et al. 
+2020) 
+31 
+Wedang 
+Secang 
+Mudorejo, 
+Jawa Tengah 
+Jahe 
+Kayu Secang 
+Serai 
+Kapulaga 
+Kayu manis 
+Tidak 
+disebutkan 
+- 
+(Wulandari et al. 
+2020) 
+32 
+Minuman 
+Leser 
+Surabaya, 
+Jawa Timur 
+Lemon 
+Sereh 
+Jahe 
+Kayu manis 
+Air 
+Gula pasir 
+Gula merah 
+Tidak 
+disebutkan 
+- 
+(Nandini 2021) 
+33 
+Kunyit 
+Meniran 
+Pegagan 
+ 
+Kunyit  
+Meniran 
+Pegagan 
+Air  
+Gula merah  
+2 jari 
+¼ genggam  
+½ genggam 
+3 gelas 
+Secukupnya  
+Dewasa: 1x sehari 
+1 gelas 
+Anak-anak: 4x 
+sehari 6 sdm 
+(Widyanata et al. 
+2020) 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+37 
+ 
+ 
+ 
+No 
+Ramuan 
+Herbal 
+Etnis/ 
+Daerah 
+Komposisi 
+Takaran 
+Cara Penggunaan 
+Referensi 
+34 
+Kunyit 
+Jahe 
+NTT 
+Kunyit 
+Jahe  
+Gula merah 
+Air 
+200 gram 
+200 gram 
+200 gram 
+(1:1:1) 
+- 
+(Botahala 2021) 
+35 
+Sipopon 
+Warujaya, 
+Jawa Barat 
+Kayu manis 
+Jahe 
+Kunyit 
+Temulawak 
+Sereh 
+Air 
+Tidak 
+disebutkan 
+- 
+(Faznur et al. 2020) 
+36 
+Kunyit 
+Jahe 
+Asam jawa 
+Riau  
+Kunyit 
+Jahe 
+Asam jawa 
+Air 
+Gula merah  
+Tidak 
+disebutkan 
+- 
+(Azizuddin 2021) 
+37 
+Sirkuma 
+Bali 
+Sirih 
+Kunyit 
+Kencur 
+Jahe merah 
+Temulawak 
+Pegagan 
+Madu 
+Gula aren 
+Gula pasir 
+Tidak 
+disebutkan 
+- 
+(Astriani et al. 2020) 
+ 
+Satuan takar dalam ramuan menurut Kemenkes, 2017 ialah: 
+1 genggam = 80 gram bahan segar 
+1 ibu jari = 8 cm atau 10 gram bahan segar 
+1 cangkir = 100 mL 
+1 gelas = 200 mL 
+ 
+ 
+Tabel 2. Ramuan Peningkat Daya Tahan Tubuh yang Telah Menggunakan Teknologi Farmasi 
+ 
+No 
+Ramuan 
+Herbal 
+Sediaan 
+Komposisi 
+Takaran 
+Metode 
+Referensi 
+1 
+Kulit buah 
+manggis 
+Granul 
+Ekstrak kulit manggis  
+aerosol  
+avicel 101  
+200 mg 
+0-20% 
+20-60% 
+Granulasi basah 
+(Supomo et al. 
+2015) 
+2 
+Sari buah 
+jambu biji 
+Serbuk 
+effervescen
+t 
+Sari buah jambu biji  
+Laktosa  
+Natrium bikarbonat  
+Asam sitrat  
+Asam tatrat  
+7,5-12,5 g 
+0,2-5,2 g 
+7,7 g 
+3,2 g 
+6,4 g 
+- 
+(Sihombing & 
+Diana 2016) 
+3 
+Jahe merah 
+Kunyit putih 
+Kencur 
+Daun kelor 
+Kayu secang 
+Daun nangka 
+Tablet hisap 
+Rimpang Jahe merah  
+Rimpang kunyit putih  
+Rimpang kencur  
+daun kelor  
+Kayu secang  
+Daun nangka  
+Asam sitrat 
+Asam tatrat 
+Na.Bicarbonat 
+Sukrosa 
+Dextrin 
+250 mg 
+50 mg 
+100 mg 
+50 mg 
+25 mg 
+25 mg 
+tidak disebutkan 
+takarannya 
+Granulasi basah 
+(Santoso et al. 
+2021) 
+
+38 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+No 
+Ramuan 
+Herbal 
+Sediaan 
+Komposisi 
+Takaran 
+Metode 
+Referensi 
+Mg stearate 
+4 
+Temulawak 
+Kunyit 
+Meniran 
+Kapsul 
+Ekstrak Temulawak 
+Ekstrak kunyit 
+Ekstrak meniran 
+Avicel/Laktosa/ 
+Amilum (pengisi) 
+Tidak disebutkan 
+- 
+(Farida et al. 
+2019) 
+5 
+Temulawak 
+Tablet hisap 
+Ekstrak rimpang  
+temulawak  
+Asam sitrat  
+Asam tartrat 
+Natrium bikarbonat 
+Stevia  
+Aspartame  
+PEG 6000  
+PVP  
+Perisa jeruk  
+Maltodekstrin  
+16% 
+ 
+9,16% 
+19,16% 
+32,43% 
+1,5-4% 
+0-4% 
+5% 
+3% 
+1% 
+ad 100% 
+Granulasi basah 
+(Lynatra et al. 
+2018) 
+6 
+Daun Sirsak 
+Kulit manggis 
+Jamur ling zhi 
+Tablet 
+Ekstrak Daun Sirsak  
+Ekstrak Kulit manggis  
+Ekstrak jamur ling zhi  
+Lactose mesh 80  
+Povidon K-30  
+Asam salisilat  
+Starch glycolate Na  
+Talk  
+Magnesium stearate  
+Kollidon CL  
+Metil paraben  
+Propil paraben  
+100 mg 
+100 mg 
+125 mg 
+44,40 mg 
+12 mg 
+8 mg 
+32 mg 
+8 mg 
+4 mg 
+40 mg 
+1,44 mg 
+0,16 mg 
+Granulasi basah 
+(Rahman et al. 
+2014) 
+ 
+ 
+Tabel 3. Tumbuhan Obat Komponen Ramuan Sebagai Peningkat Daya Tahan Tubuh 
+ 
+No 
+Tumbuhan 
+Obat 
+Nama Latin 
+Familia 
+Komponen Kimia 
+Referensi 
+1. 
+Kunyit 
+Curcuma longa L. 
+Zingiberaceae 
+Metabolit sekunder: Minyak atsiri, 
+flavonoid, steroid/triterpenoid, 
+alkaloid, saponin, tanin dan kuinon. 
+Senyawa: Kurkumin, karoten, asam 
+kafeat, eugenol, p-asam kumarat 
+(Kemenkes RI 2017; 
+Mulyani et al. 2014; 
+Ria & Aminin 2018; 
+Septiana & 
+Simanjuntak 2015) 
+2. 
+Jahe 
+Zingiber officinale 
+Rosc. 
+Zingiberaceae 
+Metabolit sekunder: Minyak atsiri, 
+fenol, flavonoid. 
+Senyawa: Gingerol, shogaol, 
+diarilheptanoid, curcumin 
+(Kemenkes RI 2017; 
+Supriani 2019; Yusuf et 
+al. 2018) 
+3. 
+Daun 
+Sereh 
+Andropogon nardus 
+Linn 
+Poaceae 
+Metabolit sekunder: Minyak atsiri 
+Senyawa: Citral, geranial, sitronelol, 
+limonene, eugenol 
+(Kemenkes RI 2017; 
+Suhesti et al. 2021; 
+Supriani 2019) 
+4. 
+Temulawak 
+Curcuma 
+xanthorrhiza Roxb. 
+Zingiberaceae 
+Metabolit sekunder: Minyak atsiri 
+Senyawa: Kurkumin, xanthorrhizol 
+(Kawiji et al. 2011; 
+Kemenkes RI 2017; 
+Widyastuti et al. 2021) 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+39 
+ 
+ 
+ 
+No 
+Tumbuhan 
+Obat 
+Nama Latin 
+Familia 
+Komponen Kimia 
+Referensi 
+5. 
+Kayu 
+Manis 
+Cinnamomum 
+burmanni 
+Lauraceae 
+Metabolit sekunder: Minyak atsiri 
+Senyawa: Sinamaldehida dan 
+eugenol 
+(Emilda 2018; 
+Kemenkes RI 2017) 
+6. 
+Jahe 
+Merah 
+Zingiber officinale 
+var. Rubrum 
+Zingiberaceae 
+Metabolit sekunder: Minyak atsiri, 
+fenol, flavonoid 
+Senyawa: Gingerol, shogaol, 
+zingibrene, gingerdiol, zingerone, 
+arginin 
+(Fitriana et al. 2013; 
+Ghasemzadeh et al. 
+2011; Kemenkes RI 
+2017) 
+7. 
+Jeruk Nipis 
+Citrus antriifolia 
+Rutaceae 
+Metabolit sekunder: Flavonoid  
+Senyawa: Hesperidin, asam sitrat, 
+fellandren, geranil asetat, linalin 
+asetat 
+(Hakim 2015; 
+Kemenkes RI 2017) 
+8. 
+Kencur 
+Kaempferia 
+galangal L. 
+Zingiberaceae 
+Metabolit sekunder: Minyak atsiri, 
+flavonoid, tanin dan saponin 
+Senyawa: Sineol, borneol, p-
+metoksisinamat, etil sinamat 
+(Hayati et al. 2016; 
+Kemenkes RI 2017; 
+Rahmi et al. 2016; 
+Soleh & Megantara 
+2019) 
+9. 
+Meniran 
+Phyllanthus niruri L. 
+Euphorbiaceae 
+Metabolit sekunder: Flavonoid, 
+alkaloid, tanin, saponin 
+Senyawa: Kuersetin, filantin 
+(Aldi & Rasyadi 2014; 
+Kemenkes RI 2017) 
+10. 
+Pegagan 
+Centella asiatica L. 
+Apiaceae 
+Metabolit sekunder: Flavonoid, 
+saponin, triterpenoid 
+Senyawa: Asiatikosida, medakosida, 
+madekasat, asam asiatat 
+(Kemenkes RI 2017; 
+Maruzy et al. 2020) 
+11. 
+Asam Jawa 
+Tamarindus indica 
+Caesalpiniaceae 
+Metabolit sekunder: Fenol 
+Senyawa: Asam tartrat, asam sitrat, 
+asam malat 
+(Nugraha & Triastuti 
+2020) 
+12. 
+Lengkuas/ 
+Laos 
+Alpinia galangal L. 
+Zingiberaceae 
+Metabolit sekunder: Minyak atsiri 
+Senyawa: Sineol, pinen, terpinen, 
+limonene, pinen 
+(Kemenkes RI 2017; 
+Sari 2016) 
+13. 
+Lemon 
+Citrus lemon L. 
+Rutaceae 
+Metabolit sekunder: Flavonoid, 
+alkaloid, saponin, steroid 
+Senyawa: Citral, d-lemonene, 
+felandren 
+(Lindawati & 
+Nofitasari, 2021; A. T. 
+Nugraha & Triastuti, 
+2020) 
+14. 
+Beras 
+Oryza sativa L. 
+Poaceae 
+Metabolit sekunder: Fenol 
+Senyawa: Asam ferulat, tokoferol, y-
+oryzanol 
+(Arifin 2019; Jalil 2019) 
+15. 
+Daun 
+Pandan 
+Pandanus 
+amarryllifolius roxb 
+Pandanaceae 
+Metabolit sekunder: Minyak atsiri, 
+alkaloid, flavonoid, tanin, polifenol 
+Senyawa: 2-acetyl-1pyrroline 
+(Faras et al. 2014; 
+Nugraha & Triastuti 
+2020) 
+16. 
+Cengkeh 
+Eugenia 
+caryophyllus 
+Myrtaceae 
+Metabolit sekunder: Minyak atsiri 
+Senyawa: eugenol, eugenil asestat, 
+tanen, timol, b-karyofilen 
+(Faris 2020; Nugraha & 
+Triastuti 2020) 
+17. 
+Kayu 
+Secang 
+Caesalpinia sappan 
+L. 
+Fabaceae 
+Metabolit sekunder: Minyak atsiri, 
+flavonoid 
+Senyawa: Asam galat, tanin, brazilin, 
+brasilein, oscimene 
+(Kemenkes RI 2017; 
+Prabawa et al. 2019) 
+18. 
+Daun Kelor 
+Moringa oleifera 
+Lam. 
+Moringaceae 
+Metabolit sekunder: Flavonoid 
+Senyawa: Asam kafeat, kaempferol, 
+quercetin, tokoferol 
+(Kemenkes RI 2017; 
+Ruriasri et al. 2021) 
+19. 
+Bawang 
+Putih 
+Allium sativum L. 
+Liliaceae 
+Metabolit sekunder: Minyak atsiri 
+Senyawa: Alliin, allisin, ajoene, allil 
+sistein 
+(Kemenkes RI 2017; 
+Sari 2016) 
+20. 
+Rosella 
+Hibiscus sabdariffa 
+L. 
+Malvaceae 
+Metabolit sekunder: Fenol, 
+flavonoid 
+(Kemenkes RI 2017; 
+Mardiah et al. 2019) 
+
+40 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+No 
+Tumbuhan 
+Obat 
+Nama Latin 
+Familia 
+Komponen Kimia 
+Referensi 
+Senyawa: Antosianin 
+21. 
+Pala 
+Myristica fragrans 
+Houtt 
+Myristicaceae 
+Metabolit sekunder: Minyak atsiri 
+Senyawa: Pinen, sabinen, eugenol, 
+lignin 
+(Kemenkes RI 2017; 
+Sari 2016) 
+22. 
+Kapulaga 
+Amomum 
+compactum Sol. 
+Zingiberaceae 
+Metabolit sekunder: Minyak atsiri 
+Senyawa: Pinene, limonene, 
+linanlool, terpinen, sabinene 
+(Kemenkes RI 2017; 
+Supriani 2019) 
+ 
+Minuman Kurkumin dibuat dari bahan yang 
+mengandung kurkumin, seperti kunyit atau temulawak 
+(Pawitan 2020). 
+Ramuan nomor 29 pada Tabel 1 dibuat dengan cara 
+membersihkan semua bahan, bahan diiris tipis, namun 
+untuk jahe dibakar terlebih dahulu sebelum diiris agar 
+menghilangkan rasa pahit. Semua bahan direbus dalam 
+air 2 liter. Ramuan tersebut dapat diminum ketika 
+hangat (Wijayanto et al. 2020). 
+Wedang Pokak merupakan minuman tradisional 
+khas hampir di seluruh Jawa. Semua bahan yang 
+digunakan merupakan antioksidan tinggi (Wulandari et 
+al. 2020). Bahan yang digunakan dimasak selama 
+kurang lebih 4 jam. Hasil disaring esok harinya 
+(Wulandari et al. 2020). 
+Wedang Secang termasuk minuman tradisional yang 
+telah turun-temurun dan menjadi minuman favorit raja 
+majapahit (Wulandari et al. 2020). Pembuatannya 
+dengan perebusan bahan (Wulandari et al. 2020). 
+Minuman Leser merupakan ramuan yang bahan 
+intinya adalah lemon dan sereh. Sereh yang digeprek 
+lalu ditambah air dan perasan lemon, gula pasir, gula 
+merah dan direbus selama 30 menit. Hasil rebusan 
+disaring 
+dan 
+dapat 
+diminum 
+hangat 
+ataupun 
+didinginkan dalam kulkas. Jika tidak menggunakan 
+lemon, dapat diganti menggunakan jeruk nipis. Dalam 
+komposisi terdapat jahe dan kayu manis, kedua bahan 
+ini dapat ditambahkan untuk menambah aroma dan 
+rasa (Nandini 2021). Minuman leser ini dapat menjadi 
+minuman yang berguna untuk detoksifikasi (Nandini 
+2021). 
+Ramuan jahe, kunyit dibuat dengan perebusan 
+selama 30 menit. Sebelum perebusan, kunyit diiris tipis 
+dan jahe dirajam. Setelah perebusan 30 menit, gula 
+merah ditambahkan dan direbus kembali 10 menit 
+(Botahala 
+2021). 
+Hasil 
+tersebut 
+disaring 
+dan 
+didinginkan sehingga siap diminum (Botahala 2021). 
+Ramuan Sipopon memiliki banyak manfaat selain 
+meningkatkan 
+daya 
+tahan 
+tubuh. 
+Ramuan 
+ini 
+menjadikan sistem metabolisme tubuh yang lebih baik. 
+Pada pembuatannya, bahan rimpang dikupas kulitnya 
+dan diiris, kayu manis dikerik, untuk sereh digeprek 
+(Faznur et al. 2020). Air ditambahkan dan direbus 
+dengan api sedang selama 10-15 menit atau hingga 
+warna air menjadi kecoklatan (Faznur et al. 2020). 
+Ramuan nomor 36 pada Tabel 1, jahe dan kunyit 
+yang telah dibersihkan, selanjutnya dihancurkan 
+menggunakan blender dengan penambahan sedikit air. 
+Ampas dipisahkan, sedangkan air hasil saringan 
+dimasukan ke dalam air yang telah mendidih. Gula 
+merah dan perasan asam jawa ditambahkan ke 
+dalamnya (Azizuddin 2021). Saring kembali dan 
+diamkan hingga dingin untuk siap diminum (Azizuddin 
+2021). 
+Ramuan Sirkuma merupakan jamu yang terkenal 
+dan berasal dari Bali (Astriani et al. 2020). Sirkuma 
+merupakan cmpuran dari sirih, kunyit, dan madu 
+(Astriani et al. 2020). Ramuan sirkuma dibuat dalam 
+bentuk serbuk (Astriani et al. 2020). Penggunaan gula 
+aren dan gula pasir bertujuan dalam pembentukan 
+kristalisasi agar berbentuk jamu serbuk (Astriani et al. 
+2020). Dalam proses pengkristalan sangat perlu 
+diperhatikan, yaitu menggunakan api sedang dan 
+penggunaan gula yang tidak terlalu banyak (Astriani et 
+al. 2020). 
+Rekomendasi atau usulan ramuan yang efektif 
+berdasarkan hasil kajian adalah ramuan campuran 
+temulawak, kunyit, meniran karena telah terdapat uji 
+praklinis dan klinis dari ramuan dan terbukti 
+meningkatkan kebugaran dan aman (Novianto et al. 
+2020; 
+Rahmawati 
+2018). 
+Selain 
+itu, 
+dapat 
+menggunakan ramuan nomor 16-22 pada Tabel 1 
+karena 
+telah 
+direkomendasikan 
+langsung 
+oleh 
+Kemenkes RI (Kemenkes 2020). 
+Tumbuhan herbal yang sering digunakan untuk 
+peningkat daya tahan tubuh berdasarkan hasil kajian 
+ialah yang ditemukan lebih dari 3 ramuan, di antaranya 
+kunyit, jahe, daun sereh/serai, temulawak, kayu manis, 
+jahe merah, jeruk nipis, kencur, meniran, dan pegagan. 
+Tumbuhan yang direkomendasikan berdasarkan hasil 
+kajian adalah kunyit, jahe, daun sereh, temulawak, 
+karena tumbuhan tersebut terbanyak digunakan dalam 
+berbagai ramuan dan terbukti dapat meningkatkan 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+41 
+ 
+ 
+ 
+daya tahan tubuh berdasarkan uji imunomodulator 
+yang dibahas pada bagian selanjutnya. 
+Tumbuhan yang sering digunakan terlihat pada 
+Gambar 1 bahwa kunyit ditemukan dalam 17 ramuan, 
+jahe ditemukan dalam 15 ramuan, daun sereh atau 
+serai ditemukan dalam 14 ramuan, temulawak 
+ditemukan dalam 11 ramuan, kayu manis ditemukan 
+dalam 8 ramuan, jahe merah ditemukan dalam 6 
+ramuan, jeruk nipis ditemukan dalam 5 ramuan, kencur 
+ditemukan dalam 4 ramuan, meniran ditemukan dalam 
+4 ramuan, dan pegagan ditemukan dalam 4 ramuan. 
+Berdasarkan Tabel 3, disimpulkan bahwa tumbuhan 
+terbanyak yang ditemukan dalam ramuan peningkat 
+daya tahan tubuh berasal dari familia Zingiberaceae 
+yaitu sebanyak 7 tumbuhan (31%). 
+Berdasarkan 22 herbal yang ditemukan pada 
+ramuan peningkat daya tahan tubuh, 10 tumbuhan 
+terbanyak yang ditemukan dalam ramuan kemudian 
+akan ditelaah mengenai uji aktvitas farmakologi yang 
+mendukung efek peningkatan daya tahan tubuh 
+tersebut. 
+1. Kunyit 
+(Curcuma 
+domesticae) 
+Familia: 
+Zingiberaceae 
+Pada kunyit terdapat senyawa kurkuminoid yang 
+berpotensi 
+sebagai 
+imunomostimulan 
+dan 
+menghasilkan peningkatan pada nilai eosinophil dan 
+basophil berdasarkan uji pada ayam petelur yang telah 
+diinfeksi S. pullorum (Hidayah et al. 2020). Selain itu, 
+terdapat penelitian lain yang menguji kunyit sebagai 
+imunostimulan pada ikan bawal. Hasil menunjukan 
+bahwa kunyit mempengaruhi jumlah leukosit pada ikan 
+bawal. Hal ini dikarenakan kandungan kurkumin yang 
+terdapat pada kunyit mampu meningkatkan jumlah 
+leukosit sehingga terjadi peningkatan daya tahan tubuh 
+(Manurung & Mose 2019). Kondisi ini akan mampu 
+melawan patogen dan fungsi jaringan tubuh dapat 
+kembali normal (Manurung & Mose 2019).   
+Kandungan utama kunyit ialah kurkumin, bahkan 
+40-60% pada kunyit merupakan kurkumin. Kurkumin 
+bahkan telah diuji secara klinis dan terbukti berpotensi 
+sebagai imunomodulator. Hubungannya dengan SARS-
+CoV-2, kurkumin mampu berikatan dengan domain 
+ 
+ 
+ 
+Gambar 1. 
+Jumlah Penggunaan Tumbuhan Obat Dalam Ramuan Peningkat Daya Tahan Tubuh  
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Kunyit
+Jahe
+Sereh
+Temulawak
+Kayu manis
+Jahe merah
+Jeruk nipis
+Kencur
+Meniran
+Pegagan
+Asam jawa
+Lengkuas
+lemon
+Beras
+Daun pandan
+Cengkeh
+Secang
+Daun kelor
+Bawang putih
+Rosela
+Pala
+Kapulaga
+Jumlah ramuan
+
+42 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+protease dan spike glikoprotein yang merupakan 
+reseptor SARS-CoV-2. Selain itu, kurkumin dapat 
+menghambat 
+sitokin 
+proinflamasi 
+interleukin-1, 
+interleukin-6, dan tumor necrosis factor-α yang dapat 
+menyebabkan peradangan di tubuh (Noena & Base, 
+2021). 
+2. Jahe (Zingiber officinale) Familia: Zingiberaceae 
+Jahe merupakan tanaman yang telah banyak 
+digunakan oleh masyarakat Indonesia (Dewi & 
+Riyandari 2020). Jahe sering sekali terdapat pada 
+ramuan jamu, termasuk dalam ramuan peningkat daya 
+tahan tubuh (Aryanta 2019). Jahe berpotensi sebagai 
+antioksidan sehingga bermanfaat dalam peningkatan 
+daya tahan tubuh (Suhesti et al. 2021). Kandungan 
+utama jahe adalah gingerol yang digunakan sebagai 
+agen imunomodulator dengan meregulasi badai sitokin 
+dan sebagai antioksidan sehingga dapat menangkal 
+radikal bebas yang menyebabkan rusaknya sel tubuh. 
+Kandungan lain yang terdapat dalam jahe adalah 
+kurkumin, asam kafeat, beta-caroten (Kusumo et al. 
+2020). 
+3. Temulawak (Curcuma xanthorrhiza Roxb.) Familia: 
+Zingiberaceae 
+Kandungan lain temulawak adalah saponin, avonoid, 
+pigmen biru, tanin, dan polifenol (A. M. Sari & Cikta 
+2016). Xanthorrhizol dapat mengurangi ekspresi dari 
+interleukin IL-1β, IL-6, TNF-α dan meningkatkan TGF-β, 
+sehingga xanthorrhizol bekerja dengan menekan 
+kekebalan 
+dengan 
+cara 
+menghambat 
+sitokin 
+proinflamasi dan meningkatkan produksi sitokin 
+antiinflamasi (Nugraha et al. 2020). Penelitian analisis 
+komponen aktif temulawak menggunakan metode TLC 
+menunjukan hasil bahwa temulawak megandung 
+kurkumin dan xanthorrhizol. Berdasarkan penelitian uji 
+fagositosis pada Escherichia coli dengan metode CFU 
+(colony forming unit) menghasilkan penurunan jumlah 
+Escherichia coli dengan adanya peningkatan dosis 
+temulawak (Lucy et al. 2017). Uji hemaglutinasi yang 
+bertujuan untuk mengetahui aktivitas sel limfosit 
+menyatakan bahwa pemberian temulawak berpotensi 
+sebagai proimflamasi, namun tidak memberikan 
+perubahan terhadap jumlah antibodi (Lucy et al. 2017). 
+Namun, pada penelitian lain, pemberian temulawak 
+pada pakan ayam pedaging menunjukan adanya 
+peningkatan titer antibodi seiring dengan peningkatan 
+dosis (Pratiwi et al. 2019). Hal tersebut dikarenakan 
+kurkumin yang mampu memodulasi sistem imun 
+dengan peningkatan poliferasi sel T (Pratiwi et al. 
+2019). 
+Dalam 100 gram rimpang kunyit atau temulawak, 
+kurang lebih akan menghasilkan 180-400 mg kurkumin 
+(Pawitan 2020). Keduanya diolah dengan cara direbus, 
+hal ini dikarenakan kurkumin memiliki sifat lipofilik atau 
+sulit larut dalam air (Pawitan 2020). Kurkumin 
+meningkatkan daya tahan tubuh dengan menghambat 
+senyawa yang dapat menyebabkan peradangan yaitu 
+interleukin-1, interleukin-6 dan tumor necrosis factor-α 
+(Sordillo & Helson 2015). 
+4. Serai (Andropogon nardus Linn) Familia: Poaceae 
+Terdapat penelitian secara in vitro dari kandungan 
+minyak atsiri serai terhadap poliferasi sel limfosit 
+mencit menggunakan metode MTT Assay. Pada minyak 
+atsiri serai mengandung alkaloid, flavonoid, saponin 
+dan steroid/triterpenoid (Ernis et al. 2021). Hasilnya 
+menunjukan bahwa pemberian minyak atsiri serai 
+dapat meningkatkan aktivitas poliferasi sel limfosit 
+(Ernis et al. 2021). 
+Kandungan 
+utama 
+serai 
+adalah 
+citral 
+yang 
+terkandung di dalamnya sebanyak 45%. Citral dapat 
+berpotensi sebagai 
+imunosupresan 
+dengan 
+cara 
+menghambat pelepasan IL-1β, IL-6 dan produksi IL-10, 
+menghambat produksi NF-κB (Noena & Base, 2021). 
+5. Kayu Manis (Cinnamomum burmanni) Familia: 
+Lauraceae 
+Kayu manis mengandung minyak atsiri eugenol, 
+safrole, sinamaldehide, tannin, kalsium oksalat, damar 
+yang berguna dalam berbagai keluhan termasuk untuk 
+meningkatkan daya tahan tubuh (Sudewi et al. 2021). 
+Terdapat penelitian uji pengaruh ekstrak kayu manis 
+terhadap aktivitas fagositosis pada tikus wistar yang 
+sebelumnya telah diinduksi Staphylococcus aureus. 
+Fagositosis merupakan suatu respon imun ketika 
+melawan benda asing seperti terjadinya infeksi. Hasil 
+menunjukan ketika pemberian kayu manis dengan 
+dosis rendah (200 mg/kgBB) terjadi peningkatan 
+aktivitas fagositosis (Faishal et al. 2017). Namun jika 
+pemberian dengan dosis tinggi (400 mg/kgBB) terjadi 
+penurunan aktivitas fagositosis. Hal ini menunjukan 
+bahwa kayu manis dapat meningkatkan daya tahan 
+tubuh, namun perlu diperhatikan dosisnya (Faishal et 
+al. 2017). 
+6. Jahe Merah (Zingiber officinale var. Rubrum) 
+Familia: Zingiberaceae 
+Jahe merah meningkatkan daya tahan tubuh karena 
+jahe merah dapat meningkatkan IgM dan mengurangi 
+sirkulasi dari sitokin proinflamasi  (Magzoub 2020). Uji 
+aktivitas imunomodulator dari ekstrak rimpang jahe 
+merah  terhadap mencit menggunakan metode Carbon 
+clearance menghasilkan peningkatan kerja makrofag 
+dalam memfagositosis partikel karbon dalam aliran 
+darah (Luhurningtyas et al. 2021). 
+ 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+43 
+ 
+ 
+ 
+7. Jeruk Nipis (Citrus antriifolia) Familia: Rutaceae 
+Pengujian secara in-vitro yang menguji pengaruh 
+ekstrak jeruk nipis terhadap aktivitas  fagositosis dan 
+ekspresi CD18/11a menggunakan flow cytometry 
+analysis, dihasilkan bahwa terjadi penghambatan 
+ekspresi leukosit dan CD18/11a (Harun et al. 2015). 
+Hasil pengujian juga menunjukan peningkatan aktivitas 
+fagositosis sehingga jeruk nipis berpotensi dalam 
+peningkatan daya tahan tubuh (Harun et al. 2015). 
+8. Kencur 
+(Kaempferia 
+galangal 
+L.) 
+Familia: 
+Zingiberaceae 
+Pengujian secara in-vitro pada sel yang diberi 
+ekstrak kencur menghasilkan adanya peningkatan 
+aktivitas poliferasi sel limfosit sehingga kencur 
+berpotensi sebagai imunomodulator (Sugiartanti & 
+Wiedosari 2021). Hal ini karena dalam kencur terdapat 
+senyawa flavonoid, asam fenolik, dan minyak atsiri (p-
+metoksisinamat) (Sugiartanti & Wiedosari 2021). p-
+metoksisinamat dapat meningkatkan makrofag yang 
+akan dapat menelan antigen (fagositosis) (Sugiartanti & 
+Wiedosari 2021). 
+9. Meniran 
+(Phyllanthus 
+niruri 
+L.) 
+Familia: 
+Euphorbiaceae 
+Meniran mengandung metabolit sekunder yaitu 
+flavonoid dan tanin yang digunakan untuk peningkat 
+daya tahan tubuh (Permata & Sayuti 2016). Selain itu, 
+meniran juga mengandung lignin, alkaloid dan saponin 
+(Permata & Sayuti 2016). Senyawa utama dalam 
+meniran 
+adalah 
+filantin, 
+senyawa 
+ini 
+dapat 
+menghambat ekspresi interleukin-6, interleukin-1β, 
+interleukin-4 (sitokin pro-inflamasi) dan menghambat 
+transkripsi inflamasi yaitu TNF (Noena & Base 2021). 
+Terdapat penelitian uji imunomodulator terhadap 
+mencit dari subfraksi meniran yang menunjukan 
+adanya 
+peningkatan 
+aktivitas 
+stimulant 
+mencit 
+menggunakan metode carbon clearance (mengukur 
+aktivitas sel fagosit). Hasil yang didapatkan bahwa 
+setelah pemberian subfraksi meniran dosis 100 
+mg/kgBB selama 6 hari pada mencit adalah adanya 
+peningkatan jumlah komponen sel leukosit yang 
+menunjukan peningkatan respon imun. Pada saat 
+pengukuran konsentrasi karbon pada darah mencit, 
+terjadi penurunan absorban yang menunjukan bahwa 
+karbon dalam darah mencit menurun (Aldi et al. 2014). 
+Hal ini menunjukan bahwa aktivitas fagositosis 
+meningkat yang artinya subfraksi meniran dapat 
+meningkatkan daya tahan tubuh terhadap ativitas 
+fagositosis (Aldi et al. 2014). 
+10. Pegagan (Centella asiatica L.) Familia: Apiaceae 
+Penelitian yang menguji efek peningkat imun dari 
+ekstrak pegagan terhadap tikus dengan parameter 
+yang dilihat adalah uji kapasitas dan aktivitas 
+fagositosis makrofag (S. Ningsih & Wibowo 2011). Hasil 
+setelah pemberian ekstrak dengan dosis 40 mg/200BB 
+selama 15 hari berturut-turut menunjukan terjadi 
+peningkatan kapasitas makrofag dibandingan dengan 
+kelompok kontrol yang artinya banyak bakteri yang 
+hancur atau tertelan oleh makrofag (S. Ningsih & 
+Wibowo 2011). 
+Penggunaan tumbuhan ini, karena produk alam 
+memang sangat berpotensi baik dalam memodulator 
+imun dalam hal pencegahan dan pengobatan dari 
+berbagai jenis penyakit (Wang et al. 2018). Kandungan 
+senyawa yang efektif berdasarkan tumbuhan yang 
+digunakan dalam ramuan ialah kurkumin, gingerol, 
+xanthorrhizol, 
+citral, 
+p-metoksisinamat, 
+filantin 
+(Kusumo et al. 2020; Noena & Base 2021; A. T. Nugraha 
+& Triastuti 2020; Sugiartanti & Wiedosari 2021). 
+Senyawa-senyawa ini terbukti dapat meningkatkan 
+daya 
+tahan 
+tubuh 
+dan 
+telah 
+diuji 
+sebagai 
+imunomodulator dan terbukti dapat menghambat 
+beberapa 
+sitokin 
+proinflamasi 
+interleukin-6, 
+interleukin-1β, 
+interleukin-1α 
+interleukin-4 
+dan 
+menghambat transkripsi inflamasi yaitu TNF  (Harun et 
+al. 2015; Noena & Base 2021). 
+Menurut Pathak et al. 2020, senyawa dari bahan 
+alam yang memiliki efek sebagai peningkat daya tahan 
+tubuh ialah polifenol, curcumin, trans-scirpusin A, 
+quercetin, piperine, dan antioksidan yang bagus dalam 
+meningkatkan daya tahan tubuh yaitu vitamin C, 
+astaxanthine, coenzyme Q 10 (Pathak et al. 2020). 
+Menurut B. Arifin & Ibrahim 2018, tanaman yang 
+mengandung metabolit sekunder flavonoid, fenol, 
+steroid 
+dan 
+kurkuminoid 
+berpotensi 
+sebagai 
+antioksidan sehingga mampu meningkatkan daya tahan 
+tubuh 
+(B. 
+Arifin 
+& 
+Ibrahim 
+2018). 
+Flavonoid 
+meningkatkan daya tahan tubuh sebagai antioksidan 
+dengan cara mendonorkan atom hidrogennya (Hayati 
+et al. 2016). Berdasarkan hal tersebut ternyata hasil 
+kajian sejalan dengan penelitian dari Pathak et al. 2020 
+dan B. Arifin & Ibrahim 2018, sehingga senyawa yang 
+direkomendasikan untuk meningkatkan daya tahan 
+tubuh adalah kurkumin, citral dan metabolit sekunder 
+yaitu flavonoid, fenol. 
+Dari banyaknya tumbuhan yang digunakan dalam 
+ramuan peningkatan daya tahan tubuh, rimpang dan 
+rempah menjadi bahan yang mudah ditemukan dan 
+dijadikan ramuan herbal (Septiana et al. 2017). 
+Rempah-rempah yang digunakan memiliki antioksidan 
+tinggi dalam peningkatan daya tahan tubuh, hal ini 
+menjadikan ramuan yang berbahan rempah dan 
+rimpang menjadi salah satu yang cocok digunakan pada 
+saat COVID-19 (Helmalia et al. 2019). Setiap ramuan 
+yang didalamnya terdapat berbagai jenis tumbuhan 
+
+44 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+akan memberikan efektivitas untuk sel dalam tubuh 
+(Santoso et al. 2021). Daya tahan tubuh dapat 
+meningkat ketika sel berfungsi dengan normal (Susanti 
+et al. 2020). 
+Pengolahan 
+tumbuhan 
+obat 
+untuk 
+menjadi 
+minuman berkhasiat adalah dengan menjadikannya 
+minuman herbal (Sudewi et al. 2021). Kebanyakan 
+pembuatan ramuan herbal menggunakan perebusan 
+(Pane 
+et 
+al. 
+2021). 
+Berdasarkan 
+wawancara, 
+masyarakat Indonesia banyak menggunakan herbal 
+dalam bentuk cairan yaitu hasil rebusan (Pane et al. 
+2021). Namun, dari hasil yang di dapatkan ternyata 
+masyarakat mengolah tumbuhan tersebut menjadi 
+ramuan herbal dengan proses pengolahan yang 
+berbeda-beda, ada yang merebusnya langsung, ada 
+yang terlebih dahulu diiris tipis kemudian seduh 
+dengan air hangat, dan ada yang hanya diperas (Rahayu 
+et al. 2020). 
+Selain ramuan herbal secara konvensional, teknologi 
+farmasi mengembangkan ramuan herbal berupa 
+sediaan farmasi dengan tujuan memudahkan dalam 
+penyimpanan, 
+memastikan 
+mutu 
+dengan 
+baik, 
+memudahkan 
+dalam 
+menyiapkan 
+dan 
+ketika 
+mengonsumsinya (Santoso et al. 2021). Sediaan yang 
+digunakan masyarakat adalah bentuk cair, serbuk 
+instan atau tablet (Sukmawati & Merina 2019). Hasil 
+tersebut dapat dilihat pada Tabel 2. 
+Ramuan yang dibuat menggunakan teknologi 
+farmasi, banyak menggunakan campuran tumbuhan. 
+Penggabungan tersebut bertujuan untuk mendapatkan 
+formula yang efektif dan saling menguatkan secara 
+khasiat dalam terapi (Santoso et al. 2021). Sediaan 
+yang dibuat berasal dari bahan tumbuhan dalam 
+bentuk ekstrak sebelum diformulasikan dengan bahan 
+tambahan (Farida et al. 2019). 
+Berdasarkan hasil bentuk sediaan yang didapat, 
+kebanyakan bahan dibuat dalam bentuk tablet 
+sehingga dapat direkomendasikan mejadi bentuk tablet 
+dan menggunakan metode granulasi basah (Lynatra et 
+al. 2018). Khususnya yaitu bentuk tablet effervescent, 
+karena harapan pembuatan sediaan dalam bentuk 
+tablet effervescent ialah dihasilkannya sediaan yang 
+praktis, dosis terukur, rasa yang enak (Santoso et al. 
+2021). Bentuk effervescent memiki kelebihan yaitu 
+praktis, cepat larut dalam air, rasa yang enak karena 
+dapat membentuk larutan dengan efek sparkle seperti 
+minuman bersoda (Santoso et al. 2021). Kelemahan 
+sediaan tablet effervescent kurang menutupi bau, sulit 
+stabil 
+secara 
+kimia, 
+kelembaban 
+udara 
+selama 
+pembuatan dapat memulai reaktifitas effervescent 
+(Purwati et al. 2016). 
+Granulasi basah merupakan proses pencampuran 
+antara zat aktif dan eksipien untuk menjadi granul 
+dengan 
+adanya 
+penambahan 
+cairan 
+pengikat 
+(Sharimina & Dolih 2018). Penggunaan metode granul 
+basah 
+karena 
+metode 
+ini 
+memiliki 
+kelebihan 
+dibandingkan dengan metode lain, yaitu laju alir yang 
+baik, 
+kompresibilitas 
+meningkat, 
+distribusi 
+keseragaman kandungan yang lebih baik, dan dapat 
+meningkatkan kecepatan disolusi (Sharimina & Dolih 
+2018). Evaluasi yang dilihat pada tablet yaitu uji visual 
+(warna, aroma, rasa), sifat alir granul, keseragaman 
+bobot, uji kekerasan tablet, friabilitas, waktu hancur, 
+dan uji disolusi (Lynatra et al. 2018; Rahman et al. 
+2014; Santoso et al. 2021). Uji immunomodulator dari 
+formula tablet memberikan efek imunostimulasi 
+(Rahman et al. 2014). 
+ 
+SIMPULAN 
+Didapatkan 37 ramuan herbal peningkat daya tahan 
+tubuh yang di dalamnya terdapat 22 spesies tumbuhan 
+dengan familia terbanyak adalah Zingiberaceae (31%). 
+Pembuatan ramuan herbal umumnya menggunakan 
+cara perebusan dengan bahan tambahan yaitu madu, 
+gula aren, dan gula merah sebagai pemanis. 10 Spesies 
+tumbuhan terbanyak yang ditemukan dalam ramuan 
+herbal peningkat daya tahan tubuh yaitu kunyit, jahe, 
+daun sereh/serai, temulawak, kayu manis, jahe merah, 
+jeruk nipis, kencur, meniran, dan pegagan. Ramuan 
+herbal yang telah menggunakan teknologi farmasi 
+banyak ditemukan dalam bentuk tablet. Golongan 
+metabolit 
+sekunder 
+yang 
+berpotensi 
+dalam 
+peningkatan daya tahan tubuh adalah minyak atsiri, 
+flavonoid, saponin, tanin, dan fenol. Sedangkan 
+senyawa yang beraktivitas dalam peningkatan imun 
+adalah kurkumin, gingerol, xanthorrhizol, citral, p-
+metoksisinamat, dan filantin. 
+ 
+UCAPAN TERIMA KASIH 
+Penulis 
+menyampaikan 
+terima 
+kasih 
+kepada 
+Direktorat 
+Riset 
+dan 
+Pengabdian 
+Masyarakat 
+Universitas Padjadjaran dan Dekan Fakultas Farmasi 
+Universitas 
+Padjadjaran 
+atas 
+penyediaan 
+sarana 
+prasarana selama penelitian. 
+ 
+DAFTAR PUSTAKA 
+Akbar M, Aprilia SN, Erviana, Nurainun, Nurmili, Ajir M, 
+Aldiansyah, Fitriani, Mu’min I, Wafiah A. 2021. 
+Pemanfaatan TOGA (Tanaman Obat Keluarga) dalam 
+Upaya Pencegahan Covid-19 Untuk Meningkatkan 
+Imunitas Tubuh. Communnity Development Journal. 
+2(3): 639–643. 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+45 
+ 
+ 
+ 
+Aldi 
+Y, 
+Ogiana 
+N, 
+Handayani 
+D. 
+2014. 
+Uji 
+Imunomodulator Beberapa Subfraksi Ekstrak Etil 
+Asetat Meniran (Phyllanthus niruri [L]) pada Mencit 
+Putih Jantan dengan Metode Carbon Clearance. B-
+Dent. 
+1(1): 
+70–82. 
+https://doi.org/10.33854/jbdjbd.55 
+Aldi Y, Rasyadi Y. 2014. Aktivitas Imunomodulator dari 
+Ekstrak Etanol Meniran ( Phyllanthus niruri Linn .) 
+terhadap Ayam Broiler. Jurnal Sains Farmasi & 
+Klinis. 01(01): 20–26. 
+Andian NP, Saputra PPS. 2021. Education for 
+Prevention of Corona Virus Transmission and 
+Community Empowerment To Produce Jamu of 
+Body Immune in Indro Village. Abdimas Galuh. 3(1): 
+155–162. 
+Arifin AS. 2019. Antioxidant Activity of Pigmented Rice 
+and Impact on Health. Jurnal Pangan. 28(1): 11–22. 
+https://doi.org/10.33964/jp.v28i1.416 
+Arifin B, Ibrahim S. 2018. Struktur, Bioaktivitas Dan 
+Antioksidan Flavonoid. Jurnal Zarah. 6(1): 21–29. 
+https://doi.org/10.31629/zarah.v6i1.313 
+Astriani NMDY, Purwantara IKGT, Maryam S. 2020. 
+Diversifikasi Produk Jamu Serbuk Instan Dari Herbal 
+Usadha Bali Pada Kelompok Sari Pertiwi Desa 
+Nyalian 
+Kecamatan 
+Banjarangkan. 
+Jurnal 
+Perempuan Dan Anak Indonesia. 2(2): 1–9. 
+Ayres JS, Schneider DS. 2012. Tolerance of infections. 
+Annual Review of Immunology. 30: 271–294. 
+https://doi.org/10.1146/annurev-immunol-020711-
+075030 
+Azizuddin I. 2021. Jamu Tradisional Peningkat Imunitas 
+Di Masa Pandemi. Journal of Research on 
+Community 
+Engagement. 
+2(2): 
+38–42. 
+https://doi.org/10.18860/jrce.v2i2.11962 
+Botahala L. 2021. Pembuatan Herbal Siap Saji di Masa 
+Pandemi COVID-19. Abdimas Unwahas. 6(1): 73–78. 
+https://doi.org/10.31942/abd.v6i1.4436 
+BPOM RI. 2015. Materi Edukasi tentang Peduli Obat 
+dan Pangan Aman. GNPOPA. 
+Britany MN, Sumarni L. 2020. Pembuatan Teh Herbal 
+Dari Daun Kelor Untuk Meningkatkan Daya Tahan 
+Tubuh Selama Pandemi Covid-19 Di Kecamatan 
+Limo. Prosiding Seminar Nasional Pengabdian 
+Masyarakat 
+LPPM 
+UMJ. 
+1–6. 
+http://jurnal.umj.ac.id/index.php/semnaskat 
+Lynatra C, Wardiyah W, Elisya Y. 2018. Formulation of 
+Effervescent Tablet of Temulawak Extract (Curcuma 
+xanthorrhiza Roxb.) with Variation of Stevia as 
+Sweetener. Sanitas: Jurnal Teknologi Dan Seni 
+Kesehatan. 09(02): 72–82. 
+Elfahmi, Woerdenbag HJ, Kayser O. 2014. Jamu: 
+Indonesian traditional herbal medicine towards 
+rational phytopharmacological use. Journal of 
+Herbal 
+Medicine. 
+4(2): 
+51–73. 
+https://doi.org/10.1016/j.hermed.2014.01.002 
+Emilda. 2018. Efek Senyawa Bioaktif Kayu Manis 
+Cinnamomum burmanii Nees EX.BL) Terhadap 
+Diabetes 
+Melitus : 
+Kajian 
+Pustaka. 
+Jurnal 
+Fitofarmaka Indonesia. 5(1): 246–252. 
+Ernis G, Notriawan D, Fitriani D, Yunita E, Cantika I. 
+2021. Uji In Vitro Aktivitas Imunomodulator Minyak 
+Atsiri Serai Dapur (Cymbopogon citratus) Terhadap 
+Poliferasi Sel Limfosit Mencit. BIOEDUSAINS: Jurnal 
+Pendidikan Biologi Dan Sains. 4(2): 129–135. 
+Faishal LF, Utomo AW, Retnoningrum D. 2017. 
+Pengaruh 
+Pemberian 
+Ekstrak 
+Kayu 
+Manis 
+(Cinnamomum Burmani) Terhadap Aktivitas Dan 
+Kapasitas Fagositosis Studi Eksperimental Pada Tikus 
+Wistar 
+Yang 
+Dipapar 
+Staphylococcus 
+Aureus. 
+Diponegoro Medical Journal (Jurnal Kedokteran 
+Diponegoro). 6(2): 772–781. 
+Faras AF, Wadkar SS, Ghosh JS. 2014. Effect of leaf 
+extract of pandanus amaryllifolius (Roxb.) on growth 
+of 
+Escherichia 
+coli 
+and 
+Micrococcus 
+(Staphylococcus) 
+aureus. 
+International 
+Food 
+Research Journal. 21(1): 421–423. 
+Farida S, Mana TA, Dewi TF. 2019. Quality Profiling of 
+Capsule Preparation for Physical Improvement 
+Herbs in Saintifikasi Jamu. Jurnal Tumbuhan Obat 
+Indonesia. 12(1): 25–32. 
+Faris M. 2020. Potensi Immunodulator Ekstrak Cengkeh 
+pada 
+Kadar 
+Limfosit 
+dan 
+Makrofag 
+sebagai 
+Mekanisme Pertahanan Tubuh. Khazanah: Jurnal 
+Mahasiswa. 
+12(1): 
+33–40. 
+https://doi.org/10.20885/khazanah.vol12.iss1.art8 
+Faznur LS, Santoso G, Hidayati N. 2020. Pemanfaatan 
+Rempah-Rempah pada Era New Normal untuk 
+Meningkatkan 
+Imunitas 
+Kekebalah 
+Tubuh 
+di 
+Lingkungan Warujaya. Seminar Nasional Pengabdian 
+Masyarakat 
+LPPM 
+UMJ. 
+http://jurnal.umj.ac.id/index.php/semnaskat 
+Fitriana R, Sutyarso, Susantiningsih T. 2013. Pengaruh 
+Pemberian Ekstrak Etanol Jahe Merah (Zingiber 
+Officinale Roxb var Rubrum) terhadap Motilitas dan 
+Morfologi 
+Spermatozoa 
+Tikus 
+Putih 
+(Rattus 
+norvegicus) Jantan Strain Sprague Dawley yang 
+Dipapar Asap Rokok Abstrak. Medicine Journal of 
+Lampung University. 154–163. 
+Ghasemzadeh A, Jaafar HZE, Rahmat A. 2011. Effects of 
+solvent type on phenolics and flavonoids content 
+and antioxidant activities in two varieties of young 
+ginger (Zingiber officinale Roscoe) extracts. Journal 
+of Medicinal Plants Research. 5(7): 1147–1154. 
+
+46 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+Hakim L. 2015. Rempah dan Herba (Diandra Creative 
+(ed.). 1st ed., Issue 164). 
+Harun 
+NH, 
+Septama 
+AW, 
+Jantan 
+I. 
+2015. 
+Immunomodulatory Effects of Selected Malaysian 
+Plants 
+on 
+the 
+CD18/11a 
+Expression 
+and 
+Phagocytosis Activities of Leukocytes. Asian Pacific 
+Journal of Tropical Biomedicine. 5(1): 48–53. 
+https://doi.org/10.1016/S2221-1691(15)30170-2 
+Hayati EK, Ningsih R, Latifah. 2016. Antioxidant Activity 
+of Flavonoid from Rhizome Kaemferia galanga L. 
+Extract. ALCHEMY: Journal of Chemistry. 4(2): hal 
+127-137. 
+https://doi.org/https://doi.org/10.18860/al.v4i2.32
+03 
+Helmalia AW, Putrid P, Dirpan A. 2019. Potensi 
+Rempah-Rempah 
+Tradisional 
+Sebagai 
+Sumber 
+Antioksidan Alami Untuk Bahan Baku Pangan 
+Fungsional). Canrea Journal: Food Technology, 
+Nutritions, and Culinary Journal. 2(1): 26–31. 
+https://doi.org/10.20956/canrea.v2i1.113 
+Hidayah N, Puspita R, Mujahidah M. 2020. Pengaruh 
+Ekstrak Kunyit (Curcuma domestica Val) Terhadap 
+Berat Badan, Jumlah Eosinofil dan Basofil Ayam 
+Petelur yang Diinfeksi Salmonella pullorum. Jurnal 
+Medik 
+Veteriner. 
+3(2): 
+230. 
+https://doi.org/10.20473/jmv.vol3.iss2.2020.230-
+235 
+Ingsih IS, Winaktu G, Wirateruna ES. 2020. Pembuatan 
+Jamu Tradisional Kunyit Asam Sebagai Minuman 
+Peningkat Daya Imunitas Tubuh Masa Pandemi 
+COVID-19. Prosiding Seminar Nasional Abdimas Ma 
+Chung. 328–339. 
+Jalil M. 2019. Pemanfaatan Curcuma longa dan 
+Kaempferia galanga Sebagai Bahan Pembuatan 
+Jamu “Beras Kencur”. Seminar Nasional Pendidikan 
+Biologi Dan Saintek. 167–173. 
+Kawiji, Otaviana PR, Atmaka W. 2011. Kajian Kadar 
+Kurkuminoid, Total Fenol dan Aktivitas Antioksidan 
+Ekstrak Temulawak (Curcuma xanthorrhiza Roxb) 
+pada Berbagai Teknik Pengeringan dan Proporsi 
+Pelarutan. Jurnal Teknologi Hasil Pertanian. IV(1): 
+32–40. 
+Kemenkes RI. 2017. Formularium Ramuan Obat 
+Tradisional Indonesia. Jakarta (ID): Kementrian 
+Kesehatan Republik Indonesia. 
+Kemenkes RI. 2019. Perkembangan Obat Tradisional di 
+Indonesia. 
+http%3A%2F%2Fsehatnegeriku.kemkes.go.id%2Fwp
+-content%2FUploads%2F2019%2F04%2FDit-
+Produksi-Distribusi-Farmasi-
+Kemkes_Perkembangan-Obat-Tradisional-di-
+Indonesia.pdf 
+Kemenkes RI. 2020. Pemanfaatan Obat Tradisional 
+untuk 
+Pemeliharaan 
+Kesehatan, 
+Pencegahan 
+Penyakit, dan Perawatan Kesehatan. 
+Kemenkes RI. 2017. Farmakope Herbal Indonesia. 
+Jakarta 
+(ID): 
+Kementrian 
+Kesehatan 
+RI. 
+https://doi.org/10.1201/b12934-13 
+Khailany RA, Safdar M, Ozaslan M. 2020. Genomic 
+characterization of a novel SARS-CoV-2. Gene 
+Reports. 
+19: 
+100682. 
+https://doi.org/10.1016/j.genrep.2020.100682 
+Khairiah, Caesarina HM. 2021. Ramuan Jamu dari 
+Rempahan Kunyit Untuk Melawan Virus Corona. 
+572–578. 
+Kurniawan DW, Ikhsanudin A. 2020. Potential of Jamu 
+in Nanotechnology Perspective as an Alternative 
+Treatment for Covid-19. Pharmaceutical Sciences 
+and 
+Research. 
+7(3): 
+123–131. 
+https://doi.org/10.7454/psr.v7i3.1082 
+Kusumo AR, Wiyoga FY, Perdana HP, Khairunnisa I, 
+Suhandi RI, Prastika SS. 2020. Jamu Tradisional 
+Indonesia: Tingkatkan Imunitas Tubuh Secara Alami 
+Selama Pandemi. Jurnal Layanan Masyarakat 
+(Journal 
+of 
+Public 
+Services). 
+4(2): 
+465. 
+https://doi.org/10.20473/jlm.v4i2.2020.465-471 
+Lindawati N, Nofitasari J. 2021. Efektivitas Sari Buah 
+Lemon (Citrus limon (L.) Burm. f. sebagai Khelating 
+Agent Logam Berat Tembaga. Jurnal Farmasi Dan 
+Ilmu Kefarmasian Indonesia.  8(1): 68. 
+Lucy J, Florencia L, Stefani D, Susanti AK. 2017. Efek 
+Pemberian Temulawak Terhadap Berat Badan Dan 
+Sistem Imun Mencit BALB/c. Jurnal Sains Dan 
+Teknologi. 1(1): 32–50. 
+Luhurningtyas FP, Susilo J, Yuswantina R, Widhihastuti 
+E, Ardiyansah FW. 2021. The Immunomodulatory 
+Activity and Phenolic Content of Red Ginger 
+Rhizome 
+Extract 
+(Zingiber 
+officinale 
+Rosc. 
+Var.Rubrum). Indonesian Journal of Pharmacy and 
+Natural Product. 4(1): 51–59. 
+Magzoub M. 2020. Life Style Guideline of Ginger 
+(Zingiber officinale) as Prophylaxis and Treatment 
+for Coronaviruses (SARS-CoV-2) Infection (COVID-
+19). Saudi Journal of Biomedical Research. 5(6): 
+125–127. 
+https://doi.org/10.36348/sjbr.2020.v05i06.006 
+Manurung UN, Mose NI. 2019. Pemanfaatan kunyit 
+(CUrcuma domestica Val) Sebagai Imunostimulan 
+pada 
+Ikan 
+Bawal 
+(Colossoma 
+macropomum). 
+Budidaya Perairan. 7(1): 21–25. 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+47 
+ 
+ 
+ 
+Mardiah, Nur’utami DA, Hastuti A. 2019. Pengaruh 
+Pemberian Serbuk Ekstrak Kelopak Bunga Rosela 
+(Hibiscus sabdariffa L.) Terhadap Sistem Imun Tikus 
+Sprague Dawley. Jurnal Agroindustri Halal. 5(1): 
+017–029. https://doi.org/10.30997/jah.v5i1.1676 
+Maruzy A, Budiarti M, Subositi D. 2020. Autentikasi 
+Centella 
+asiatica 
+(L.) 
+Urb. 
+(Pegagan) 
+dan 
+Adulterannya Berdasarkan Karakter Makroskopis, 
+Mikroskopis, dan Profil Kimia. Jurnal Kefarmasian 
+Indonesia. 10(1): 19–30. 
+Mulyani S, Harsojuwono BA, Puspawati GA. 2014. 
+Potensi Minuman Kunyit Asam (Curcuma domestica 
+Val. - Tamarindus indica L.) sebagai Minuman Kaya 
+Antioksidan. 
+Agritech. 
+34(01): 
+65–71. 
+https://doi.org/10.22146/agritech.9524 
+Nandini A. 2021. Minuman “ LESER ” Lemon Sereh 
+sebagai Minuman Kesehatan Penambah Imunitas 
+Pendahuluan. Madaniya. 2(4): 383–388. 
+Ningsih AW, Nisak A, Faniliyarani. 2020. Pengolahan 
+Minuman Teh Herbal Peningkat Imunitas dengan 
+Komposisi Jahe-Kunyit-Temulawak Di Desa Jembul 
+Kecamatan Jatirejo Kabupaten Mojokerto. Prosiding 
+Seminar Nasional Abdimas Ma Chung. 288–295. 
+Ningsih S, Wibowo AE. 2011. Immune-Enhancing Effect 
+of Ethanol Extract of Pegagan Herb (Centella 
+Asiatica Urban) on Rat. Jurnal Ilmu Kefarmasian 
+Indonesia. 
+9(2): 
+122–125. 
+http://jifi.farmasi.univpancasila.ac.id/index.php/jifi/
+article/view/299 
+Noena RA, Base NH. 2021. Inventarisasi Tanaman dan 
+Ramuan Tradisional Etnis Sulawesi Selatan Sebagai 
+Imunomodulator. 
+Jurnal 
+Kesehatan 
+Yamasi 
+Makasar. 5(2): 42–49. 
+Novianto F, Zulkarnain Z, Triyono A, Ardiyanto D, 
+Fitriani 
+U. 
+2020. 
+Pengaruh 
+Formula 
+Jamu 
+Temulawak, 
+Kunyit, 
+dan 
+Meniran 
+terhadap 
+Kebugaran Jasmani: Suatu Studi Klinik. Media 
+Penelitian Dan Pengembangan Kesehatan. 30(1): 
+37–44. https://doi.org/10.22435/mpk.v30i1.2082 
+Nugraha AT, Triastuti A. 2020. Buku Ajar Botani 
+Farmasi. Yogyakarta: Universitas Islam Indonesia. 
+Nugraha RV, Ridwansyah H, Ghozali M, Khairani AF, 
+Atik 
+N. 
+2020. 
+Traditional 
+Herbal 
+Medicine 
+Candidates as Complementary Treatments for 
+COVID-19: A Review of Their Mechanisms, Pros and 
+Cons. 
+Evidence-Based 
+Complementary 
+and 
+Alternative 
+Medicine. 
+2020: 
+1–12. 
+https://doi.org/10.1155/2020/2560645 
+Hayati SN, Apriyana W, Rosyida VT, Indrianingsih AW, 
+Nisa K, Ratih D, Indirayati N. 2019. Pre - Formulation 
+and Evaluation of Jamu Uyup - Uyup (an Indonesian 
+Herbal Galactogogue). IOP Conference Series: Earth 
+and 
+Environmental 
+Science. 
+251(1): 
+0–7. 
+https://doi.org/10.1088/1755-1315/251/1/012022 
+Nurdin SU, Nurdjanah S, Astuti S, Sukohar A, 
+Kustyawati ME. 2015.  Manfaat Herbal Indonesia. 
+Yogyakarta: ISBN. 
+Nurlila RU, La Fua J. 2020. Jahe Peningkat Sistem Imun 
+Tubuh di Era Pandemi Covid- 19 di Kelurahan Kadia 
+Kota 
+Kendari. 
+Jurnal 
+Mandala 
+Pengabdian 
+Masyarakat. 
+1(2): 
+54–61. 
+https://doi.org/10.35311/jmpm.v1i2.12 
+Pane MH, Rahman AO, Ayudia EI. 2021. Gambaran 
+Penggunaan 
+Obat 
+Herbal 
+Pada 
+Masyarakat 
+Indonesia 
+Dan 
+Interaksinya 
+Terhadap 
+Obat 
+Konvensional Tahun 2020. Journal of Medical 
+Studies. 1(1): 40–62. 
+Pathak S, Fithria RS, Hariyadi DM, Pathak Y. 2020. 
+Preventive 
+management 
+strategies 
+in 
+ageing 
+populations using natural products as immunity 
+boosters. Curr Trends Pharm Res. 7(1): 15–33. 
+https://doi.org/10.4324/9781315683416-46 
+Pawitan J. 2020. Curcumin as Adjuvant Therapy in 
+COVID-19. 
+International 
+Dental 
+and 
+Medical 
+Research. 13(2): 824–829. 
+Permata DA, Sayuti K. 2016. Pembuatan Minuman 
+Serbuk Instan dari Berbagai Bagian Tanaman 
+Meniran (Phyllanthus niruri). Pembuatan Minuman 
+Serbuk Instan Dari Berbagai Bagian Tanaman 
+Meniran (Phyllanthus Niruri). Jurnal Teknologi 
+Pertanian Andalas. 20(1): 44–49. 
+Prabawa I, Nadra K, Hamlan I. 2019. Kajian Bioaktivitas 
+dan Metabolit Sekunder dari Ekstrak Kayu Secang 
+(Caesalpinia sappan L.) untuk Sediaan Bahan Aktif. 
+Prosiding Seminar Nasional. 1–12. 
+Pratiwi NMDK, Ardana IBK, Suardana IBK. 2019. 
+Penambahan Tepung Temulawak dalam Pakan 
+Meningkatkan 
+Respon 
+Imun 
+Ayam 
+Pedaging 
+Pascavaksinasi Flu Burung. Indonesia Medicus 
+Veterinus. 
+8(1): 
+72–78. 
+https://doi.org/10.19087/imv.2019.8.1.72 
+Purwati I, Yuwanti S, Sari P. 2016. Karakterisasi Tablet 
+Effervescent Sarang Semut (Myrmecodia tuberosa) – 
+Rosella (Hibiscus sabdarisffa L.) Berbahan Pengisi 
+Maltodekstrin dan Dekstrin. Jurnal Agroteknologi. 
+10(01): 63-72. 
+Rahayu DA, Ambarwati R, Puspitawati RP, Isnawati, 
+Kuswanti N. 2020. Contribution of Housewives to 
+Increase the Immunity of Family Members During 
+Covid-19 Pandemic. International Joint Conference 
+on 
+Science 
+and 
+Engineering. 
+196: 168–171. 
+https://doi.org/10.2991/aer.k.201124.031 
+Rahman E, Kardono LB, Tamat SR. 2014. Formulasi 
+Tablet Mengandung Ekstrak Daun Sirsak, Ekstrak 
+
+48 
+ 
+Susilawati et al. 
+ 
+ 
+ 
+ 
+Kulit Buah Manggis dan Ekstrak Jamur Ling Zhi serta 
+Uji 
+Aktivitas 
+sebagai 
+Antioksidan 
+dan 
+Imunomodulator. 
+Ilmu 
+Kefarmasian 
+Indonesia. 
+12(1): 124–138. 
+Rahmawati N. 2018. Laporan Penelitian Studi Praklinik 
+Formula Jamu untuk Kebugaran. Jakarta: Badan 
+Litbang Kesehatan, Kementerian Kesehatan RI. 
+Rahmi A, Roebiakto E, Lutpiatina L. 2016. Potensi 
+Ekstrak Rimpang Kencur (Kaempferia galanga L.) 
+Menghambat 
+Pertumbuhan 
+Candida 
+albicans. 
+Medical Laboratory Technology Journal. 2(2): 70. 
+https://doi.org/10.31964/mltj.v2i2.94 
+Ria P, Aminin ALN. 2018. Antioxidant from Turmeric 
+Fermentation 
+Products 
+(Curcuma 
+longa) 
+by 
+Aspergillus Oryzae. Jurnal Kimia Sains Dan Aplikasi. 
+21(1): 13–18. 
+Ruriasri C, Yuniastuti A, Susanti R, Nugrahaningsih WH. 
+2021. Identifikasi Senyawa Bioaktif Moringa oleifera 
+Sebagai 
+Antiokasidan 
+Melalui 
+Lignan 
+PADA 
+Mammalian Target of Rapamycin (mTOR) Pathway 
+untuk Prediksi Pencegahan Stunting Secara In Silico. 
+Prosiding Semnas Biologi. 256–261. 
+Sajed AN, Amgain K. 2020. Corona Virus Disease 
+(COVID-19) 
+Outbreak 
+and 
+the 
+Strategy 
+for 
+Prevention. Europasian Journal of Medical Sciences. 
+2(1): 1–3. https://doi.org/10.46405/ejms.v2i1.38 
+Santoso 
+J, 
+Sholiha 
+I, 
+Listiyanawati 
+M. 
+2021. 
+Pengembangan Teknologi Formulasi Bahan Alam 
+menjadi Bentuk Sediaan Tablet Effervescent sebagai 
+Imunomodulator untuk Mencegah Covid-19. Jurnal 
+Farmasetis. 
+10(1): 
+29–36. 
+http://journal.stikeskendal.ac.id/index.php/far/artic
+le/view/1128 
+Sari AM, Cikta EV. 2016. Ekstraksi Flavonoid Dari Temu 
+Ireng (Curcuma Aeruginosa Roxb) Dan Aplikasinya 
+Pada Sabun Transparan (Alvika Meta Sari, Erba 
+Vidya Cikta). Konversi. 1(1): 15–22. 
+Sari AN. 2016. Berbagai Tanaman Rempah Sebagai 
+Sumber Antioksidan Alami. Journal of Islamic 
+Science 
+and 
+Technology. 
+2(2): 
+203–212. 
+https://doi.org/10.22373/ekw.v2i2.2695 
+Septiana E, Bustanussalam B, Rachman F, Hapsari Y, 
+Simanjuntak P. 2017. Potensi Ekstrak Kapang Endofit 
+Asal Rimpang Kunyit Sebagai Antimalaria dan 
+Antioksidan. Jurnal Kefarmasian Indonesia. 7(1): 1–
+9. https://doi.org/10.22435/jki.v7i1.5669.1-9 
+Septiana E, Simanjuntak P. 2015. Aktivitas Antimikroba 
+dan Antioksidan Ekstrak Beberapa Bagian Tanaman 
+Kunyit (Curcuma longa). Fitofarmaka. 5(1): 31–40. 
+http://ci.nii.ac.jp/naid/120005619654/ 
+Sharimina VG, Dolih G. 2018. Review Artikel: Formulasi 
+dan Evaluasi Sediaan Granul Effervescent dan 
+Sediaan Tablet dengan Metode Granulasi Basah. 
+Farmaka. 16(1): 117–123. 
+Sihombing C, Diana VE. 2016. Formulasi Sediaan Serbuk 
+Effervescent Sari Buah Jambu Biji (Psidium Guajava). 
+Jurnal 
+Dunia 
+Farmasi. 
+1(1): 
+7–14. 
+https://doi.org/10.33085/jdf.v1i1.4346 
+Siregar RS, Siregar AF. 2020. Analisis Hubungan Sikap 
+dan 
+Tingkat 
+Pengetahuan 
+terhadap 
+Perilaku 
+Masyarakat Kota Medan Mengonsumsi Jamu 
+Tradisional di Masa Pandemi Covid – 19 Seminar 
+Nasional 
+Ke-V 
+Fakultas 
+Pertanian 
+Universitas 
+Samudra. Seminar Nasional Ke-V Fakultas Pertanian 
+Universitas Samudra. 13–22. 
+Soleh, Megantara S. 2019. Karakteristik Morfologi 
+Tanaman Kencur (Kaempferia galanga L.) dan 
+Aktivitas Farmakologi. Farmaka. 17(2): 256–262. 
+https://doi.org/10.21082/bullittro.v19n2.2008.%p 
+Sordillo PP, Helson L. 2015. Curcumin suppression of 
+cytokine release and cytokine storm. A potential 
+therapy for patients with Ebola and other severe 
+viral infections. In Vivo. 29(1): 1–4. 
+Sudewi S, Sitio P, Barus BR, Purba BB. 2021. 
+Penyuluhan Tentang Pemanfaatan Obat Tradisional 
+(Jahe Merah , Kayu Manis Dan Gula Merah) 
+Terhadap Pada Siswa Kelas Xii Sekolah Kejuruan 
+Yayasan Perguruan Indonesia Mem Bangun (Yapim). 
+Jurnal Pengabdian Masyarakat Putri Hijau. 1(3): 15–
+18. 
+Sugiartanti DD, Wiedosari E. 2021. Immunomodulation 
+Effect of Kaempferia galanga Ethanolic Extract On In 
+Vitro 
+Lymphocyte 
+Cell 
+Proliferation. 
+Buletin 
+Penelitian Tanaman Rempah Dan Obat. 32(1): 31–
+39. 
+https://doi.org/10.21082/bullittro.v32n1.2021.31-
+39 
+Suhesti I, Kustini H, Antari ED. 2021. Penggunaan Teh 
+Serai Jahe Sebagai Penambah Daya Tahan Tubuh 
+Menggunakan Daun Stevia Sebagai Pemanis Alami. 
+Jurnal Pengabdian Kepada Masyarakat. 2(2): 325–
+330. 
+Sukmawati W, Merina M. 2019. Pelatihan Pembuatan 
+Mipelatihan Pembuatan Minuman Herbal Instan 
+Untuk Meningkatkan Ekonomi Warganuman Herbal 
+Instan Untuk Meningkatkan Ekonomi Warga. Jurnal 
+Pengabdian Kepada Masyarakat. 25(4): 210–215. 
+https://doi.org/10.24114/jpkm.v25i4.14874 
+Supomo S, RW DB, Sa'adah H. 2015. Formulasi Granul 
+Ekstrak Kulit Buah Manggis (Garcinia Mangostana. L) 
+Menggunakan Aerosil Dan Avicel Ph 101. Journal Of 
+
+Review : Ramuan Herbal Indonesia Sebagai Peningkat Daya Tahan Tubuh 
+ 
+49 
+ 
+ 
+ 
+Tropical Pharmacy And Chemistry. 3(2): 131–137. 
+https://doi.org/10.25026/jtpc.v3i2.99 
+Supriani A. 2019. Peranan Minuman Dari Ekstrak 
+Jahecang 
+Untuk 
+Meningkatkan 
+Kesehatan 
+Masyarakat. 
+Jurnal 
+SainHealth. 
+3(1): 
+30. 
+https://doi.org/10.51804/jsh.v3i1.370.30-39 
+Susanti, A., Trisusana, A., Pusparini, R., Kriniasih, E., 
+Kuswardani, R., & Abiddah, I. 2020. Menumbuhkan 
+Kesadaran Masyarakat di Era New Normal Dalam 
+Rangka Peningkatan Imunitas. Prosiding Seminar 
+Nasional LP3M. Vol ke-2. 5 Oktober 2020. 
+https://doi.org/10.15826/vestnik.2016.15.3.021 
+Susantiningsih T, Setyaningsih Y, Irmarahayu A, Zulfa F. 
+2021. Peningkatan Ketrampilan Membuat Minuman 
+Jasule Untuk Imunitas Dimasa Pandemi Covid-19 Di 
+Pangkalan Jati Cinere Depok. Jurnal Pemberdayaan 
+Masyarakat. 
+6(1): 
+554–560. 
+https://doi.org/10.21067/jpm.v6i1.5056 
+Thevarajan I, Nguyen TH, Koutsakos M, Druce J, Caly L, 
+van de Sandt CE, Jia X, Nicholson S, Catton M, Cowie 
+B, Tong SY. 2020. Breadth of concomitant immune 
+responses prior to patient recovery: a case report of 
+non-severe COVID-19. Nature Medicine. 26(4): 453–
+455. https://doi.org/10.1038/s41591-020-0819-2 
+Wang K, Conlon M, Ren W, Chen BB, Bączek T. 2018. 
+Natural products as targeted modulators of the 
+immune system. Journal of Immunology Research.  
+2018(2018): 
+1-2. 
+https://doi.org/10.1155/2018/7862782 
+Widyanata KAJ, Mayadewi NNA, Cahyaningrum PL, 
+Trarintya MAP, Muryani NMS, Daryaswanti PI, 
+Artawan IK, Pendet NMDP, Putra IGY. 2020. 
+PemanfaatanTanaman Obat Keluarga ( TOGA ) di 
+Masa Pandemi COVID-19 (N. M. S. Muryani (ed.)). 
+Denpasar (ID): Jayapangus Press. 
+Widyastuti I, Luthfah HZ, Hartono YI, Islamadina R, Can 
+AT, 
+Rohman 
+A. 
+2021. 
+Aktivitas 
+Antioksidan 
+Temulawak (Curcuma xanthorrhiza Roxb.) dan Profil 
+Pengelompokannya 
+dengan 
+Kemometrik 
+Antioxidant 
+Activity 
+of 
+Temulawak 
+(Curcuma 
+xanthorrhiza Roxb.) and its Classification with 
+Chemometrics. Indonesian Journal of Chemometrics 
+and Pharmaceutical Analysis. 2021(1): 29–42. 
+www.journal.ugm.ac.id/v3/IJCPA 
+Wijayanto A, Hadi MI, Syahruddin, Susiono R, Kristina 
+PC, Prahastara, Winarno ME, Mulyanto YY, Latar IM, 
+Sucipto A et al. 2020. Integrasi Ilmu Keolahragaan 
+dalam Preventif Pandemi Covid-19. Tulungagung 
+(ID): Akademia Pustaka. 
+Wulandari B, Rokhmawan T, Fitriya L, Whayuanah BS, 
+Zahro F,  Azizah KH. 2020. Pembuatan Wedang Jamu 
+dan Masker Kain Perca untuk Membentuk Perilaku 
+Tanggap terhadap Situasi Pandemi di Pasuruan. 
+Jurnal Pengabdian Dan Pemberdayaan Nusantara. 
+2(2): 
+179–186. 
+http://journal.unublitar.ac.id/jppnu/index.php/jppn
+u/article/view/34 
+Yan Z, Yang M, Lai CL. 2021. Covid-19 vaccines: A 
+review of the safety and efficacy of current clinical 
+trials. 
+Pharmaceuticals. 
+14(5): 
+1-28. 
+https://doi.org/10.3390/ph14050406 
+Yusuf AA, Lawal B, Abubakar AN, Berinyuy EB, Omonije 
+YO, Umar SI, Shebe MN, Alhaji YM. 2018. In-vitro 
+antioxidants, 
+antimicrobial 
+and 
+toxicological 
+evaluation of Nigerian Zingiber officinale. Clinical 
+Phytoscience. 
+4(1): 
+2–9. 
+https://doi.org/10.1186/s40816-018-0070-2  
+ 
+ 

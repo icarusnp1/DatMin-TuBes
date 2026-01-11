@@ -1,0 +1,460 @@
+JIFI (JURNAL ILMIAH FARMASI IMELDA) 
+Vol.5, No.1, September 2021, pp. 21-25 
+ISSN: 2597-7164 (Online),2655-3147 (Print) 
+ 
+https://jurnal.uimedan.ac.id/index.php/JURNALFARMASI 
+ 21 
+ 
+ 
+ 
+Journal homepage: https://jurnal.uimedan.ac.id/index.php/JURNALFARMASI 
+KAJIAN ETNOBOTANI DAN BIOAKTIFITAS TUMBUHAN OBAT 
+KABUPATEN TAPANULI UTARA 
+ 
+ 
+Alex Handani Sinaga1, Adelya I Manalu2 
+Universitas Imelda Medan 
+ 
+Article Info 
+ 
+ABSTRACT 
+Article history: 
+Received Aug 18, 2021 
+Revised Sep 20, 2021 
+Accepted Sep 28, 2021 
+ 
+ 
+Traditional medicinal plants have the potential for health 
+maintenance and alternative medicine as well as increasing the power 
+of the national economy because Indonesia is a country rich in 
+biodiversity. This research was conducted in March-June 2021 in 
+Tapanuli Regency, North Sumatra, 3 different villages that are part of 
+the Parmonangan sub-district, namely, Aekraja Village, Hutatinggi 
+Village, Sisordak Village. The purpose of this study was to determine 
+how to use medicinal plants. The research methods used include 
+selecting respondents for traditional healers, ethnobotanical surveys 
+including field surveys, interviews and sampling of medicinal plants 
+and preparation of herbarium specimens. The results obtained were 
+then analyzed descriptively by calculating the UV, RFC and RI index 
+values. From the results of UV analysis, the Zingiber Officinale value 
+has a value (the largest UV is 0.44). The results of the RFC analysis 
+showed that the Zingiber officinale value had a value (the largest 
+RFC was 0.44). The results of the RFC analysis showed that the 
+Zingiber Officinale value had a value (the largest RFC was 0.67). 
+Bioactivity Value; It can be seen that the use of Zingiber officinale 
+contains glucan and polygalacturonan chemicals with biactivity as 
+antitussive. These traditional utilities are attempted to view reports 
+from previous scientific studies published electronically such as 
+PubMed, Google Scholar, PubChem, and Science Direct. From the 
+results of UV analysis, the Zingiber Officinale value has a value (the 
+largest UV is 0.44). The results of the RFC analysis showed that the 
+Zingiber officinale value had a value (the largest RFC was 0.44). The 
+results of the RFC analysis showed that the Zingiber Offiicinale 
+value had a value (the largest RFC was 0.67). 
+Keywords: 
+Ethnobotany 
+Use Value (UVS) 
+Relative Frequency Of Citation 
+(RFC) 
+Relative Impotance (RI) 
+ 
+This is an open access article under the CC BY-SAlicense. 
+ 
+Corresponding Author: 
+Alex Handani Sinaga,  
+Program Studi S1 Farmasi,  
+Universitas Imelda Medan, 
+Jl. Bilal No. 52 Kelurahan Pulo Brayan Darat I Kecamatan Medan Timur, Medan - Sumatera Utara. 
+Email: alex.sinaga25@gmail.com 
+ 
+ 
+ 
+ 
+1. 
+INTRODUCTION 
+
+ 
+ 
+ 
+e-ISSN:2597-7164– p-ISSN: 2655-3147 
+JIFI (Jurnal Ilmiah Farmasi Imelda), Vol. 5, No. 1,September 2021:21-25 
+22
+Indonesia adalah negara kepulauan dengan berbagai keanekaragaman suku dan budaya 
+yang terbentang dari Sabang sampai Merauke dimana terdapat banyak flora dan fauna sekitar. Di 
+Indonesia sekitar 30.000 jenis tumbuhan, dimana 7.000 spesies diantaranya memiliki khasiat 
+sebagai obat (Prananingrum, 2007). Kekayaan alam berupa aneka jenis tumbuhan dengan adanya 
+pengetahuan lokal dari berbagai etnis tentang pemanfaatan tumbuhan sebagai obat menjadi sangat 
+bermanfaat untuk pemeliharaan kesehatan dan sebagai obat (Setiawan & Maryatul, 2014). 
+Tumbuhan obat sudah digunakan secara turun temurun  sebagai pengobatan tradisional, sebagian 
+besar pendayagunaan tumbuhan obat belum didasarkan pada pengujian klinis, melainkan lebih 
+berdasarkan pada pengalaman penggunaan (Maulidiah et al., 2020). Pengetahuan tentang hubungan 
+antara tumbuhan dan manusiaini disebut juga etnobotani. 
+Salah satu daerah di Indonesia yang masih menjaga pengetahuan lokal tradisi leluhur 
+mereka tentang pemanfaatan tumbuhan obat adalah masyarakat di Kabupaten Taput. Di daerah 
+Taput ini masih ditemukan banyak tumbuhan obat baik yang telah dibudidayakan atau yang masih 
+tumbuh liar di hutan atau sebagai gulma di kebun atau di sawah. Kabupaten Taput adalah salah satu 
+kabupaten di Sumatera Utara yang melimpah tanaman herbal baik di budidayakan maupun yang 
+tidak dibudidayakan. 
+Masyarakat Kabupaten Taput sudah lama dari nenek moyang menggunakan tumbuhan 
+(gulma) sebagai obat tradisional dan percaya khasiat dari tanaman tersebut dapat menyembuhkan 
+berbagai jenis penyakit. Pengetahuan tentang penggunaan tumbuhan obat tradisional untuk 
+penyembuhan suatu penyakit ini mereka dapatkan secara turun-temurun. Walaupun khasiat sebagai 
+obat belum tervalidasi secara saintifik, namun kearifan lokal tentang obat tradisional ini penting 
+untuk di lestarikan dan di jaga. 
+Beberapa penelitian terdahulu mengungkapkan, jenis tumbuhan yang memiliki khasiat obat 
+oleh suku Batak Toba antara lain (Anggraeni, 2016), menyatakan bahwa masyarakat Batak Toba 
+telah menggunakan berbagai jenis tumbuhan yang dapat digunakan sebagai obat, diantaranya, dari 
+famili Zingiberaceae; (Ibo dan Arimukti, 2019) di Desa Martoba menyebutkan 98 jenis tumbuhan 
+yang digunakan sebagai obat oleh suku Batak Toba, empat diantaranya dari famili Zingiberaceae; 
+dan Hutagalung (2016), menyatakan bahwa 108 jenis tumbuhan obat yang dimanfaatkan oleh 
+masyarakat Batak Toba di Desa Pagaran Lambung, dan paling banyak digunakan dari famili 
+Zingiberaceae. Menurut (Silalahi dkk, 2013) terdapat seratus lima puluh dua spesies dari 
+enampuluh empat spesies tumbuhan yang sudah dimanfaatkan oleh Batak Karo yang telah untuk 
+mengobati penyakit. Diantara spesies tumbuhan tersebut, Zingeberaceae merupakan famili yang 
+paling banyak digunakan daripada spesies lainnya, seperti Poaceae dan Lamiaceae. Tujuan 
+penelitian ini untuk mengidentifikasi tumbuhan dan cara pengolahan tumbuhan yang digunakan 
+dalam pengobatan tradisional oleh masyarakat di kabupaten Tapanuli utara. 
+ 
+2. 
+RESEARCH METHOD 
+Penelitian ini dilakukan di 3 desa diantaranya: Desa Aekraja, Desa Hutatinggi dan Desa 
+Sisordak yang merupakan bagian dari kecamatan Parmonangan selama 3 Bulan. Survey awal 
+dilakukan dengan mempelajari pengetahuan secara mendalam mengenai masyarakat lokal, 
+epidemiologi, pengobatan tradisional, budaya masyarakat dan ekologi lingkungan untuk melihat 
+lokasi penelitian dan mencari sejumlah data baikdata sekunder maupun data primer tentang 
+pemanfaatan tumbuhan obat yang digunakan pada masyarakat dengan tehnik wawancara. 
+Pertanyaan yang diajukan kepada responden meliputi: 
+1. Jenis tumbuhan/tanaman yang digunakan 
+2. Masalah/penyakit kesehatan yang diatasi 
+3. Bagian tumbuhan/tanaman yang digunakan 
+4. Cara penggunaan/pengolahan tanaman obat tradisional 
+ 
+Wawancara dilakukan terhadap 12 responden dipilih berdasarkan metode snow ball. 
+Wawancara dan metode statistik botani yang digunakan oleh peneliti kali ini terbagi menjadi 3 
+menurut (Tardío & Pardo De Santayana, 2008), yaitu:  
+a. Use Value (UV)  
+
+JIFI (Jurnal Ilmiah Farmasi Imelda) 
+ 
+ 
+ 
+Kajian Etnobotani Dan Bioaktifitas Tumbuhan Obat.... (Alex Handani Sinaga) 
+23 
+Menentukan tumbuhan yang paling banyak digunakan untuk menangani penyakit di daerah 
+tersebut. 
+b. Relative Frequency of Citation (RFC)  
+Jumlah total narasumber yang menunjukan kegunaan suatu jenis tumbuhan. 
+c. Relative Improtance (RI)  
+Menunjukan total penggunaan tumbuhan yang memiliki khasiat terbanyak. 
+ 
+3. 
+RESULTS AND ANALYSIS 
+Tabel 1. Karakteristik Responden 
+Karakteristik Responden 
+Jumlah Sampel (N: 12) 
+Persen 
+Jenis Kelamin 
+Laki-laki 
+10 
+88,9% 
+Perempuan 
+2 
+11,1% 
+Wawancara dilakukan terhadap 12 responden dipilih berdasarkan metode snow ball. Tabel 
+1 menunjukkan bahwa penduduk yang berjenis kelamin laki-laki lebih banyak dari pada penduduk 
+perempuan.yang terdiri laki-laki 10 orang dan perempuan sebanyak 2 orang. 
+ 
+Tabel 2. Nilai Use Value, Relative Frequency dan Relative Importance 
+Nama Ilmiah dan 
+Nama Lokal 
+Kegunaan 
+Bagian Yang Digunakan & Cara 
+Penggunaannya 
+Nilai 
+UV 
+RFC 
+RI 
+Ageratum conyzoides 
+ 
+Obat luka, Bisul 
+Herba segar secukupnya tumbuk 
+sampai halus. Oleskan dibagian 
+kulityang sakit, kemudian bungkus 
+dengan perban dan ganti perban 3-4 
+kali. 
+Lakukan 
+pengobatan 
+ini 
+sampai sembuh. 
+0,22 
+0,22 
+0.56 
+Aloe vera 
+Obat Kencing 
+Manis (DM) 
+1 
+potong 
+daun 
+lidah 
+buaya 
+dipotong-potong 
+lalu 
+direbus 
+dengan denga air hasil rebusan 
+dimunum, sehabis makan. 
+0,22 
+0,22 
+0,25 
+Alpinia galanga 
+Obat Reumatik 
+2 Rimpang sebesar ibu jari diparut 
+dan 
+diperas, 
+airnya 
+dicampur 
+dengan kuning telur ayam kampung, 
+diminum 1 kali sehari. 
+0,22 
+0,22 
+0,29 
+Carica papaya 
+Obat Asam Urat 
+(Rematik) 
+1 lembar daun segar dan 2 potong 
+akar 
+ditumbuk 
+sampai 
+halus, 
+direbus dengan 1 liter air kemudian 
+disaring, diminum 1x1 sehari cukup 
+1 gelas pada sore hari. 
+0,22 
+0,22 
+0,28 
+Citrus sp 
+Obat Sakit kulit 
+(gatal), 
+menyegarkan 
+badan lelah 
+Buah dipotong 2-4 bagian, lalu 
+digosokkan pada kulit yang sakit. 
+Untuk badan lelah, 2 genggam daun 
+yang segar direbus dengan 3 liter 
+air, tuangkan pada 1 ember air, 
+gunakan untuk mandi. 
+0,11 
+0,22 
+0,56 
+Clidemia hirta (L.) D. 
+Don 
+Obat luka, Sakit 
+perut (Diare) 
+Daun segar yang masih muda 
+sebanyak 
+1 
+genggam 
+direbus 
+dengan 3 gelas air sampai tersisa 1 
+gelas, setelah dingin, lalu disaring 
+kemudian 
+diminum 
+sekaligus, 
+ampasnya ditumbuk sampai halus 
+dioleskan pada kulit yang sakit. 
+0,2 
+0,1 
+0,22 
+Curcuma longa L 
+Obat sakit perut 
+(Mulas) 
+2 rimpang sebesar ibu jari diparut, 
+gambir dan kapur sirih secukupnya, 
+direbus dengan 2 gelas air, lalu 
+disaring, kemudian diminum dan 
+diulang sampai sembuh 
+ 
+0,22 
+0,11 
+0,25 
+
+ 
+ 
+ 
+e-ISSN:2597-7164– p-ISSN: 2655-3147 
+JIFI (Jurnal Ilmiah Farmasi Imelda), Vol. 5, No. 1,September 2021:21-25 
+24
+Nama Ilmiah dan 
+Nama Lokal 
+Kegunaan 
+Bagian Yang Digunakan & Cara 
+Penggunaannya 
+Nilai 
+UV 
+RFC 
+RI 
+Kaempferia galanga 
+Obat sakit perut 
+(Diare), Obat 
+batuk 
+1 rimpang sebesar ibu jari diparut, 
+lalu diperas dengan 1 gelas air 
+hangat 
+ditambahkan 
+garam 
+secukupnya kemudian diminum. 
+0,11 
+0,11 
+0,24 
+Kaempferia rotunda 
+L. 
+Obat sakit perut 
+(Maag) 
+1 rimpang sebesar ibu jari diparut, 
+lalu direbus dengan air secukupnya, 
+kemudian disaring, airnya kemudian 
+diminum 
+0,22 
+0,11 
+0,35 
+Piper betle L 
+Obat sakit gigi, 
+bau mulut 
+4 lembar daun segar direbus dengan 
+2 gelas air, setelah dingin dipakai 
+untuk kumur, diulang secara teratur 
+sampai sembuh. 
+0,11 
+0,22 
+0,52 
+Psidium guajava 
+Sakit perut 
+(Diare), Maag  
+5 lembar daun segar, 1 potong akar, 
+kulit batang, direbus dengan 1,5 
+liter air lalu disaring, kemudian 
+diminum 2x1 sehari. 
+0,22 
+0,11 
+0,29 
+Rhodomyrtus 
+tomentosa (Aiton) 
+Hassk. 
+Obat Kencing 
+manis (Diabetes 
+Melitus) 
+1 gengam daun segar direbus, lalu 
+disaring, diminum 1 kali sehari. 
+0,22 
+0,22 
+0,15 
+Scurrula ferruginea 
+Menghilangkan 
+luka habis 
+operasi  Caesar, 
+dan Obat kanker 
+payudara 
+Batang dan daun dikeringkan lalu 
+direbus dengan 3 gelas air kemudian 
+disaring, diminum 1 kali sehari ½ 
+gelas.  
+0,11 
+0,22 
+0,75 
+Zanthoxylum 
+acanthopodium DC 
+Obat epilepsi, 
+masuk angin 
+Buah 
+dimakan 
+langsung 
+atau 
+dicampur dengan bumbu masakan 
+0,22 
+0,22 
+0,62 
+Zingiber officinale 
+Roscoe 
+Obat batuk, 
+Obat pegal-
+pegal, masuk 
+angin 
+2-3 rimpang sebesar ibu jari, direbus 
+2 gelas air, diminum 2x1 sehari. 
+0,44 
+0,44 
+0,67 
+Zornia diphylla (L.) 
+Pers 
+Obat penyubur 
+kandungan 
+1 gengam daun segar direbus 
+dengan air secukupnya, diminum 1x 
+sehari. 
+0,22 
+0,22 
+0,52 
+Globba sp 
+Sakit kepala, 
+sakit mata 
+Umbinya direbus lalu di tetes ke 
+mata 
+0,13 
+0,26 
+0,41 
+Schima wallichii 
+(DC.) Korth. 
+Obat gatel, 
+diare, godogan 
+untuk ibu 
+melahirkan 
+Buah + daun di godog diminum 
+paska bersalin, daun muda (pucuk) 
+lalpan untu obat gatel dan diare 
+0,2 
+0,2 
+0,54 
+ 
+4. 
+CONCLUSION 
+Dari hasil analisa UV didapatkan nilai Zingiber Offiicinale memiliki nilai (UV terbesar 
+yaitu sebesar 0,44). Hasil analisa RFC didapatkan nilai Zingiber officinale memiliki nilai (RFC 
+terbesar yaitu sebesar 0,44). Hasil analisa RFC didapatkan nilai Zingiber Offiicinale memiliki nilai 
+(RFC terbesar yaitu sebesar 0,67). Hal ini membuktikan masyarakat etnis Batak Toba di tapanuli 
+utara memanfaatkan jenis tumbuhan dari suku Zingiberaceae yaitu Zingiber officinale (jahe) 
+sebagai obat batuk,obat pegal-pegal,masuk angin dengan cara 2-3 rimpang sebesar ibu jari, direbus 
+2 gelas air, diminum 2x1 sehari. Berdasarkan pemanfaatannya suku Zingiberaceae banyak 
+dimanfaatkan sebagai bahan pengobatan, perawatan dan kesehatan. 
+ 
+REFERENCES 
+Prananingrum. 2007. Etnobotani Tumbuhan Obat Tradisional di Kabupaten Malang Bagian Timur, 
+Fakultas Sains dan Teknologi, UIN Malang. 
+Setiawan, H., & Maryatul, Q. (2014). Kajian Etnobotani Masyarakat Adat Suku Moronene Di 
+Taman Nasional Rawa Aopa Watumohai. Jurnal Penelitian Kehutanan Wallacea, 3(2), 
+
+JIFI (Jurnal Ilmiah Farmasi Imelda) 
+ 
+ 
+ 
+Kajian Etnobotani Dan Bioaktifitas Tumbuhan Obat.... (Alex Handani Sinaga) 
+25 
+107.https://doi.org/10.18330/jwallacea.2014.vol3iss2pp107-117. 
+Maulidiah, M., Winandari, O. P., & Saputri, D. A. (2020). PEMANFAATAN ORGAN 
+TUMBUHAN SEBAGAI OBAT YANG DIOLAH SECARA TRADISIONAL DI 
+KECAMATAN KEBUN TEBU KABUPATEN LAMPUNG BARAT. Jurnal Ilmu 
+Kedokteran dan Kesehatan, 7(2), 443. https://doi.org/10.33024/JIKK.V7I2.2720. 
+Anggraeni R. 2016. Studi etnobotani masyarakat subetnis Batak Toba di Desa Peadungdung, 
+Sumatera Utara, Indonesia.Pro-Life. 3(2):129–142. 
+Hutagalung MR. 2016. Pemanfaatan tumbuhan obat pada masyarakat Suku Batak Toba di 
+Kampung Pagaran Lambung Kabupaten Tapanuli Utara, Sumatera Utara [skripsi]. Bogor: 
+Institut Pertanian Bogor. 
+Tardío, J., & Pardo De Santayana, M. (2008). Cultural importance indices: A comparative analysis 
+based on the useful wild plants of southern Cantabria (northern Spain). Economic Botany, 
+62(1), 24–39. https://doi.org/10.1007/s12231-007-9004-5. 
+Tchouya, G.R.F., Souza, A., Tchouankeu, J.C., Yala, J-F Boukandou d, M, Foundikou, H., Obiang, 
+G.D.Ng., Boyom, F.F., Mabika, R.M., Menkem, E.Z., Ndinteh, D.T., and Lebibi, J. 2015. 
+Ethnopharmacologycal surveys and pharmacological studies of plants used in traditional 
+medicine in the treatment of HIV/AIDS opportunistic diseases in Gabon. Journal of 
+Ethnopharmacology 162 (2015) 306-316. 
+Thomas, A.N.S,.2012. Tanaman Obat Tradisional. Penerbit Kanisius. Yogyakarta 
+Van Steeins, C.G.G.J., 2003, Flora, diterjemahkan oleh Surjowinoto, PT. Pradnya Paramita, 
+Jakarta. 

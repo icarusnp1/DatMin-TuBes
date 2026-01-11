@@ -1,0 +1,10 @@
+<!doctype html><html><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>{{ doc_id }} - Herbal IR</title><link rel="stylesheet" href="/static/site.css"/></head><body>
+<div class="container">
+  <div class="row">
+    <div><h1>{{ doc_id }}</h1>{% if q %}<p class="muted">Query: <strong>{{ q }}</strong></p>{% endif %}</div>
+    <div class="right"><a class="btn secondary" href="/">Home</a></div>
+  </div>
+  <div class="card"><p><strong>Ringkasan:</strong> <span class="snippet">{{ summary | safe }}</span></p></div>
+  <div class="card"><p class="muted">Cuplikan isi (maks. 4.000 karakter):</p><div class="content">{{ content | safe }}</div></div>
+</div></body></html>

@@ -1,0 +1,883 @@
+Program Studi S1 Farmasi Universitas Bengkulu 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 11 
+Artikel 
+Analisis Informasi Tanaman Herbal melalui Media 
+Sosial ditengah Masyarakat pada Pandemi Covid-19: 
+Sebuah Tinjauan Literatur 
+Meka Saima Perdani1 dan Anggi Khairina Hasibuan2,* 
+1 Program Studi Kimia, FakultasMatematika dan IlmuPengetahuanAlamMiliter, Universitas Pertahanan; 
+meka.perdani@idu.ac.id 
+2 Program Studi Kimia, FakultasMatematika dan IlmuPengetahuanAlamMiliter, Universitas Pertahanan; 
+anggi.hasibuan@idu.ac.id 
+*Korespondensi: anggi.hasibuan@idu.ac.id 
+Penuliskoresponden: AnggiKhairiniaHasibuan 
+ 
+Didaftarkan: 15 Oktober 2020; Direvisi: 27 Maret 2021; Terbit: 29 April 2021 
+Abstrak: Tanaman herbal sebagai bahan utama obat tradisional memiliki kandungan yang 
+berfungsi sebagai imunomodulator, mengurangi gejala dan mengatasi komorbid Covid-19.  
+Tanaman herbal sangat baik digunakan dalam kondisi pandemi saat ini. Meskipun memiliki 
+banyak fungsi, penggunaan tanaman herbal perlu pengolahan yang benar, kadar yang sesuai 
+kebutuhan tubuh serta perlu uji fitofarmaka. Kondisi yang tepat guna seperti ini, tidak 
+tersampaikan pada informasi melalui media sosial, sehingga pengguna tidak mengetahui efek 
+negatif penggunaan tanaman herbal berlebih seperti menyebabkan sariawan, alergi dan penyakit 
+lainnya. Selain itu penyebaran informasi yang salah menyebabkan resiko dari segi ekonomi seperti 
+terjadinya kenaikan harga dan kelangkaan bahan herbal yang dibutuhkan sehingga dapat 
+mempengaruhi sosial ekonomi masyarakat. Penulisan ini bertujuan menganalisiskajian mengenai 
+fungsi dan efek negatif tanaman herbal yang tersebar luas di masyarakat pada pandemi seperti 
+saat ini, pengaruh tanaman herbal untuk Covid-19 serta dampak pemberitaan melalui sosial media 
+dari segi sosial, ekonomi dan hukum yang berpengaruh. Hasil studi menunjukan adanya 
+pengaruh penyebaran informasi fungsi tanaman herbal melalui media sosial ditengah masyarakat 
+khususnya di Indonesia. Penyebaran informasi tersebut mempengaruhi segi sosial dimana 
+masyarakat lebih mempercayai jamu daripada obat. Selain itu, kenaikan harga bahan herbal 
+mempengaruhi perekonomian, hingga terjadi pemberian informasi yang salah sehingga memicu 
+penyalahgunaan hukum. 
+Kata Kunci: Covid-19, media sosial, tanamanherbal 
+ 
+ 
+1. Pendahuluan 
+Coronavirus Desease 2019(Covid-19) menjadi penyakit pandemik sejak diketahui 
+menyebabkan banyak kematian di Wuhan China pada akhir Desember 2019 lalu. Awal 
+kemunculan penyakit ini tercatat 66 % pasien terpapar di salah satu pasar seafood di 
+Wuhan, Tiongkok [1].  
+Tanda-tanda infeksi Covid-19 yang umum ditemui antara lain gangguan pernapasan 
+akut seperti demam tinggi, batuk dan sesak napas. Tanda-tanda klinis yang dilaporkan 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 12 
+ 
+pada banyak kasus adalah demam yang sebagian mengalami kesulitan bernapas. Dari hasil 
+rontgen kedua paru menunjukkan infiltrat pneumonia luas. Periode inkubasi rata-rata 5-6 
+hari namun dapat mencapai 14 hari. Pada kasus yang berat dapat menyebabkan 
+pneumonia, sindrom pernapasan akut, gagal ginjal, dan hingga kematian[2]. 
+Menurut data dari WHO telah tercatat lebih dari 35juta penduduk dunia terkonfirmasi 
+positif terserang virus ini, dan lebih dari satu juta meninggal dunia [3]. Beberapa negara 
+yang terkonfirmasi dengan kasus terbanyak antara lain: Amerika Serikat (tujuh juta jiwa); 
+Brazil (5 juta jiwa); Kolumbia, Peru dan Argentina (800 ribu jiwa). Indonesia menempati 
+urutan ke-16 di dunia.  
+Sejak masuknya penyakit ini ke Indonesiapada akhir bulan Maret 2020, sampai dengan 
+Oktober 2020 telah tercatat lebih dari 300 ribu jiwa terinfeksi virus Covid-19 dengan 11 ribu 
+pasien meninggal dunia [4].Berlandaskan data tersebutdisebutkanbahwa penyakit ini telah 
+menyebabkan banyak kematian pada anak-anak, orang tua dan pasien dengan penyakit 
+penyerta sebelumnya (seperti asma, diabetes, jantung, dan tekanan darah tinggi). Pada 
+orang dengan kondisi tersebut memiliki imunitas yang rendah sehingga rentan sekali 
+terserang infeksi virus Covid-19. 
+Sampai saat ini telah banyak upaya yang dilakukan oleh pemerintah dan tenaga medis 
+dalam menanggulangi penyakit ini, seperti pengadaan rapidtest dan swabtest gratis, 
+melakukan Pembatasan Sosial Berskala Besar (PSBB) hingga Lockdown di beberapa daerah 
+beresiko besar, mewajibkan masyarakat menggunakan masker serta anjuran dalam 
+meningkatkan imunitas tubuh. Salah satu upaya peningkatan imunitas yang menjadi trend 
+pada pandemik saat ini adalah olahraga dan anjuran penggunaan tanaman herbal.  
+Tanaman herbal sangat diminati masyarakat Indonesia bumbu masakan, obat 
+tradisional atau jamu. Menurut Fellow, 1992 keanekaragaman sumberdaya hayati 
+Indonesia diperkirakan menempati urutan kedua setelah Brasil. Terdapat sekitar 30.000 
+jenis tanaman di Indonesia dan 7000 diantaranya memiliki khasiat obat dengan sebutan 
+tanaman obat. Ditengah kondisi saat ini, tanaman obat banyak dimanfaatkan untuk 
+memerangi virus Covid-19[5]. 
+Pengetahuan mengenai pemanfaatan tumbuhan dalam pengobatan menjadi salah satu 
+warisan budaya bangsa Indonesia berdasarkan pengalaman, pengetahuan, dan 
+keterampilan 
+yang 
+secara 
+turun-temurun 
+diwariskan 
+kepada 
+generasi 
+berikutnya.Tanaman obat sebagai bahan utama obat tradisional memiliki kandungan yang 
+berfungsi sebagai imunomodulator, mengurangi gejala dan mengatasi komorbid Covid-19 
+namun belum diketahui sifatnya terhadap virus secara langsung.Beberapa tanaman obat 
+yang kaya manfaat adalah:temu mangga, temulawak, kunyit, meniran, bawang merah, 
+bawang putih, temulawak, buah jambu biji, daun kelor, kulit jeruk, rimpang kunyit, herba 
+pegagan, bawang putih, kembang lawing, jahe, herba keladi tikus, daun sirsak, teh hijau, 
+daun mimba, herba meniran (fitofarmaka), herba echinacea (suplemen kesehatan) dan herba 
+eucalyptus[6]. 
+Kondisi teknologi semakin canggih seperti saat ini penyebaran informasi langkah  
+preventif  serta pengobatan, sudah  dilakukan,  didukung oleh media sosial sebagai 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 13 
+ 
+edukasi masyarakat tentang Covid-19.Kenyataan ini membawa dampak positif dan negatif 
+bagi pengguna. Tidak dapat dipungkiri, penggunaan media sosialtelah membawa begitu 
+banyak kemudahan bagi penggunanya. Fasilitas lengkapmedia sosial tersebut dapat 
+memudahkan penggunanya untuk melakukan segala aktifitasnya. Beragam akses 
+informasi dan hiburan dari bebagai pelosok dunia dapat diakses melalui satu pintu saja[7]. 
+Pada kondisi pandemi saat ini penggunaan media sosial seperti instagram, whatsapp, 
+facebook, dan twitter meningkat. Menurut firma konsultan Kantar, selama pandemi 
+Covid-19 terjadi peningkatan penggunaan media sosial khususnya Whatsapp dan 
+Instagram hingga 40% dari sebelumnya sejak bulan Maret 2020.[8] Peningkatan baik 
+WhatsApp dan Instagram terjadi karena selama pandemi, banyak negara menerapkan 
+lockdown. Selama lockdown orang-orang memaksimalkan peran media sosial seperti 
+WhatsApp dan Instagram untuk terhubung dengan keluarga, teman, dan kolega,. 
+Penyebaran informasi mengenai tanaman herbal, tentu saja banyak dilakukan melalui 
+media sosial. Beberapa tanaman herbal banyak diinformasikan melalui media sosial 
+instagram dan whatsapp saat ini antara lain kunyit, jahe, bawang putih, kayu manis, sereh, 
+daun kelor, jambu biji, jeruk nipis, serta kayu putih.Pemberitaan di media sosial ini tentu 
+memiliki memiliki dampak terhadap beberapa sektor baik sosial, ekonomi dan hukum. 
+Sehingga perlu diadakan penelitian berupa kajian data terkait dampak pemberian 
+informasi tanaman herbal terhadap beberapa sektor-sektor yang ada. 
+Penulis merasa tertarik membuat kajian terhadap dampak-dampak pemberian 
+informasi tanaman obat pada kondisi Covid-19 terhadap sektor ekonomi, sosial dan ukum 
+yang berkaitan. Tentunya penulis memiliki keyakinan, bahwa ada pengaruh besar dari 
+pemberitaan mengenai Tanaman obat terhadap perekonomian, Sosial masyarakat dan 
+Hukum, baik pemberitaan mengenai penggunaan herbal tepat guna mauun pemberiataan 
+yang salah (HOAX). Dalam kajian ini tentu penulis berharap dapat menjadi referensi untuk 
+penelitian lebih lanjut secara nyata, baik fungsi herbal yang diberitakan hingga 
+kajian-kajian hukum terkait. 
+2. Material dan Metode 
+Metode penelitian yang digunakan adalah metode kualitatif berdasarkan data 
+sekunder dan referensi kepustakaan data dan informasi terkait penelitian. Interval waktu 
+kajian pada bulan Maret sampai Oktober 2020. Penelitian dibatasi pada sosial media 
+instagram dan whatsapp terhadap kondisi sosial, ekonomi dan keterkaitan terhadap 
+hukum terkait. Teknik pengumpulan data menggunakan teknik dokumentasi yakni 
+mengumpulkan data dari berbagai referensi. 
+Jenis  data  berupa data  sekunder baik  berupa data  kualitatif maupun  
+kuantitatif dari e-book, junal publikasi dan berita online.  Data sekunder mengacu pada 
+informasi yang dikumpulkan dari  sumber yang  telah  ada.  Sumber  data  sekunder 
+dari catatan  atau  dokumentasi perusahaan, dokumentasi pemerintah atau publikasi 
+pemerintah, analisis industri oleh media,  situs  web  dan  lainnya  [17]. 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 14 
+ 
+3. Hasil dan Pembahasan 
+3.1 Kandungan dan Manfaat Tanaman Herbal Covid-19 
+Tanaman  herbal telah lama terbukti dapat meningkatkan daya tahun tubuh terhadap 
+penyakit. Senyawa yang terkandung dalam herbal, seperti saikosaponin, likorin, 
+amentoflavon, mirisetin telah diketahui mampu menghambat pertumbuhan coronavirus, 
+walau bukan Covid-19, secara in vitro. Seperti Kurkumin pada kunyit dapat menghambat 
+pertumbuhan virus influenza PR8, H1N1, dan H6N1, serta menghambat uptake, replikasi 
+dan produksi partikel virus influenza A secara in vitro[18,19]. Uji lain menunjukan ekstrak 
+rimpang kunyit yang diberikan melalui pakan juga terbukti dapat meningkatkan angka 
+heterofil dan basofil, membuat unggas lebih tahan terhadap serangan avian 
+influenza.pemberian timokuinon (2,5 g/kg berat badan) dan kurkumin (5,0 g/kg berat 
+badan) pada kalkun, membuktikan bahwa kedua senyawa yang banyak ditemukan dalam 
+rempah 
+dan 
+bumbu 
+itu 
+memiliki 
+sifat 
+sinergis 
+dalam 
+menghambat 
+avian 
+influenza.Disebabkan oleh dosis yang demikian tinggi, hasil penelitian pada kalkun 
+tersebut sulit diterapkan pada manusia, karena tentu membutuhkan ekstrak rimpang 
+kunyit dan jintan hitam dalam kuantitas besar. Kurkumin banyak terkandung dalam 
+kunyit (Curcuma longa Linn.) dan timokuinon dalam jintan hitam (Nigellia sativa L.). Senyawa 
+lain yang juga terbukti mampu menghambat menghambat pertumbuhan virus influenza, yaitu 
+H1N1, adalah hesperidin, glikosida flavan hasil ekstraksi kulit jeruk (terutama yang belumdiolah) 
+setelahdilakukanpercobaandilakukan pada tikus. 
+Tabel 1. Manfaat dan Efek Samping Kandungan Tanaman Herbaluntuk Obat 
+Nama 
+Tanaman 
+Kandungan 
+Batas 
+Penggunaan 
+Per Hari 
+Fungsi 
+Efek samping 
+1 
+2 
+3 
+4 
+5 
+Kunyit 
+Kurkumin 
+20 g basah 
+3 g kering 
+ Pegal linu,  
+ 
+ 
+Mual 
+ 
+Alergi  
+ 
+Tidak untuk ibu 
+hamil 
+Jahe 
+Zingeberin 
+Kamfer 
+gingerol 
+4 g kering 
+ Pegal linu, 
+ Meredakan flu 
+ 
+ Mulas perus 
+ 
+Mual 
+ 
+Kembung 
+ 
+Tidak untuk 
+penderita ulkus, 
+hamil, dan 
+gangguan darah 
+Bawang 
+putih 
+allicin 
+6 siung 
+ Anti jamur 
+ Antivirus 
+ antiseptik 
+ 
+ 
+Mulas perut 
+ 
+Alergi (lepuh kulit) 
+ 
+Mual 
+ 
+Diare 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 15 
+ 
+Kayu 
+manis 
+Kumarin 
+cinnamaldehide 
+4-5 g 
+ Antoksidan 
+ Anti mikroba  
+ Mengendalikan gula 
+darah 
+ 
+Memperburuk 
+Gangguan fungsi 
+hati 
+ 
+Gangguan 
+pernapasan 
+ 
+Luka mulut 
+(sariawan) 
+ 
+Gula darah rendah 
+Sereh 
+Vitamin A 
+Vitamin C 
+Folat 
+Niacin 
+Belum ada uji 
+ Obat sakit kepala 
+ Obat nyeri otot 
+ Obat Hipertensi 
+ Obat Batuk 
+ Obat Reumatik 
+ Obat Demam 
+ Mengendalikan gula 
+darah 
+ 
+Iritasi kulit 
+ 
+Mengantuk 
+ 
+Mual 
+ 
+Buang air seni 
+berlebihan 
+Daun 
+kelor 
+Saponin 
+Flavonoid 
+Alkaloid 
+Tanin 
+Terpenoid 
+Vitamin A,C,E 
+Fosfor 
+ 
+2-6 g 
+ Meningatkan 
+produksi ASI 
+ Antioksidan  
+ Mengendlikan 
+Kolesterol 
+ Mengendalikan gula 
+darah 
+ 
+Diare 
+ 
+Hipoglikemia 
+ 
+Kerusakan organ 
+hati dan ginjal 
+Jambu biji 
+Vitamin A 
+Vitamin C 
+Niasin 
+Folat 
+Serat 
+2-4 buah 
+ Menurunkan 
+resiko 
+kanker 
+ Memelihari kesehatan 
+mulut dan gigi 
+ Meningkatkan fungsi 
+otot 
+ Pemeliharaan jantung 
+ 
+ 
+Sembelit 
+ 
+alergi 
+ 
+pendarahan mual 
+sakit perut 
+Jeruk  
+Vitamin C 
+Antioksidan 
+Flavonoid 
+ 
+28 biji 
+ mencegah stroke 
+ meningkatkan 
+kesehatan jantung 
+ melindungi 
+fungsi 
+otak 
+ 
+insomnia 
+ 
+memperberat kerja 
+ginjal 
+ 
+diare 
+ 
+muntah 
+ 
+pusing 
+ 
+mual 
+ 
+stress oksidatif 
+ 
+Kulit 
+Jeruk 
+Vitamin C 
+Flavonoid 
+Minyak 5-10 
+mL 
+ Pemutih gigi 
+ Mencegah penuaan 
+ Kanker kulit 
+ Batu ginjal 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 16 
+ 
+ 
+Tanaman herbal tradisional lain yang telah terbukti memiliki aktivitas antivirus adalah 
+jahe (Zingiber officinale). Penelitian untuk membuktikan hal tersebut dilakukan dengan 
+merendam 100 gram rimpang jahe yang telah dikupas dalam 1.000 mililiter air panas, 
+selama 1 jam. Air rendaman jahe tersebut dapat menghambat pertumbuhan human 
+respiratory syncytial virus (HRSV) pada kultur sel A549 dan Hep-2. Ekstrak bawang putih 
+(Allium sativum), terbukti pula dapat menghambat pertumbuhan infectious bronchitis virus 
+(IBV) dalam embrio ayam. 
+Dengan hasil penelitian in vitro maupun in vivo di atas, prakiran dosis yang tepat 
+untuk penggunaan herbal-herbal tersebut pada manusia masih sulit dilakukan. Kadar 
+tertentu yang telah dituliskan pada formularium bahan herbal dai Kementerian Kesehatan 
+menunjukan bila digunakan berlebih dapat menimbulkan efek samping pada manusia 
+sehingga 
+penggunaannya 
+pada 
+manusia 
+hanya 
+sebagai 
+penunjang 
+obat 
+atau 
+immunomodulator saja. Data tersebut dapat dilihat pada Tabel 1. 
+Di 
+China, 
+obat 
+tradisional 
+yang 
+di 
+dunia 
+internasional 
+dikenal 
+sebagai 
+TCM—Traditional Chinese Medicine—digunakan dalam pengobatan pasien Covid-19 di 
+rumah sakit. Kombinasi yang digunakan adalah berbagai herbal yang biasa digunakan 
+untuk mengatasi masalah paru, mulai dari pembersihan dan detoksifikasi sampai 
+mengeringkan dan merangsang organ pernapasan tersebut. Resep TCM yang digunakan 
+untuk terapi pasien di Wuhan, China, dengan berbagai kasus [dari ringan sampai berat] 
+dan manifestasi klinis diberikan berdasarkantinjauandari para ahli di China. 
+ 
+ 
+ 
+Limonoid 
+ Mempercantik kulit 
+ Menurunkan 
+kolesterol 
+ 
+ Stress oksidatif 
+Jeruk 
+Nipis 
+Antioksidan 
+Vitamin A 
+Vitamin C 
+Kaemferol 
+Poliferol 
+Limonene 
+Terpene  
+32 Buah  
+ Kesehatan pencernaan 
+ Turunkan Berat Badan 
+ Kelola Gula Darah 
+ Cegah Kanker 
+ Membantu Kesuburan 
+ 
+Asam Lambung 
+ 
+Kerusakan Gigi 
+ 
+Tukak Lambung 
+Kayu 
+putih 
+Eucalyptus 
+Cajuput oil 
+Sineol 
+Hanya untuk 
+kulit 
+ 
+Obat sakit kepala 
+ 
+Aromaterapi 
+ 
+Mengobati Sinusitis 
+non Bakteri 
+ 
+Menangani Scabies 
+ 
+Antivirus 
+ 
+Lemah otot 
+ 
+Sakit perut 
+ 
+Iritasi kulit 
+ 
+Rasa terbakar 
+ 
+Mual muntah 
+ 
+Diare 
+ 
+Asma  
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 17 
+ 
+3.2 Dampak Tanaman Herbal terhadap Pengidap Penyakit Covid-19 
+Respons Imun pengguna tanaman herbal untuk jamu dengan Covid-19  Respons 
+imun yang terjadi pada pasien dengan manifestasi COVID-19 yang ringan tergambar dari 
+sebuah laporan kasus di Australia. Pada pasien tersebut didapatkan peningkatan aktivasi 
+sel T yang berfungsi sebagai diantara hari ke 7-9. Selain itu didapatkan peningkatan 
+antibody secreting cells (ASCs) dan sel T helper folikuler di darah pada hari ke-7, tiga hari 
+sebelum resolusi gejala. Peningkatan IgM/IgG SARS-CoV-2 secara kuat juga ditemukan 
+dari hari ke-7 hingga hari ke-20.  
+Perubahan imunologi tersebut bertahan hingga 7 hari setelah gejala muncul. 
+Ditemukan pula penurunan monosit dibandingkan kontrol sehat. Sel natural killer (NK) 
+yang teraktivasi dan monocyte chemoattractant protein-1 juga ditemukan menurun, 
+namun kadarnya sama dengan kontrol sehat. Pada pasien dengan manifestasi Covid-19 
+yang ringan ini tidak ditemukan peningkatan kemokin dan sitokin proinflamasi, meskipun 
+pada saat bergejala. 
+Perbedaan profil imunologi antara kasus Covid-19 ringan dengan berat bisa dilihat 
+dari suatu penelitian di China. Penelitian tersebut mendapatkan hitung limfosit yang lebih 
+rendah, leukosit dan rasio neutrofil-limfosit yang lebih tinggi, serta persentase monosit, 
+eosinofil, dan basofil yang lebih rendah pada kasus Covid-19 yang berat. Sitokin 
+proinflamasi dan penanda infeksi seperti prokalsitonin, ferritin dan C-reactive protein juga 
+didapatkan lebih tinggi pada kasus dengan klinis berat. Sel T helper, T supresor, dan T 
+regulator ditemukan menurun pada pasien Covid-19 pada kasus berat, akibat dari T helper 
+dan T regulator yang lebih rendah [29]. 
+Kedua kasus dalam penelitian tersebut menunjukan bahwa jamu dari tanaman herbal 
+memberikan respon yang baik hanya kepada pasien yang mengalami gejala ringan. 
+Immunogobulin yang bertugas melawan benda asing seperti kuman dan virus meningkat, 
+yang menghasilkan respon baik untuk membantu memerangi virus Covid-19. Selain itu 
+terdapat antibodi lain yang teraktifasi seperti sel T kelompok sel darah putih yang mampu 
+memfagosit benda asing.  
+Konsumsi jamu dan obat tradisional dengan bahan tambahan (dipalskan) secara terus 
+menerus berpotensi menyebabkan konsumennya menjadi ketergantungan steroid. 
+Beberapa orang menganggap obat ini sebagai suplemen daripada obat dan sering 
+mengkonsumsinya bahkan ketika mereka tidak memiliki kondisi yang mendasarinya. 
+Asumsi dan kebiasaan tidak sehat tersebut telah lama dianut oleh individu di negara 
+berkembang, terutama yang tinggal di daerah terpencil. Selama pandemi Covid-19, 
+kekurangan produksi dan persediaan yang terbatas menyebabkan kelangkaan obat-obatan 
+ini dan kenaikan harga obat-obatan tersebut[12]. 
+Masalah ini diperparah dengan penutupan toko, warung, dan bisnis serta penerapan 
+lockdown oleh pemerintah. Pada individu yang tergantung steroid, penghentian mendadak 
+obat-obatan yang tidak diatur ini dapat menyebabkan insufisiensi adrenal dan akhirnya 
+krisis adrenal, suatu kondisi yang mengancam jiwa. Pasien dengan komorbiditas, 
+termasuk hipertensi, diabetes, penyakit kardiovaskular dan serebrovaskular, dan penyakit 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 18 
+ 
+paru obstruktif kronik, seringkali mengembangkan Covid-19 yang lebih parah dan ada 
+kemungkinan bahwa pasien ini juga dapat mengonsumsi obat tradisional yang tidak 
+diatur selain resep rutin mereka. Keadaan seperti itu dapat menyebabkan komplikasi dan 
+semakin memperburuk hasil dari pasien Covid-19 dengan komorbiditas yang 
+mendasarinya.  
+Glukokortikoid dapat menyebabkan limfopenia, yang berhubungan dengan hasil yang 
+buruk. Oleh karena itu, memperoleh riwayat yang komprehensif, termasuk konsumsi jamu 
+dan obat tradisional nonregulasi lainnya, sangat penting untuk identifikasi awal 
+ketergantungan steroid. Karena zat yang tidak diketahui mungkin ada dalam obat ini, 
+krisis adrenal yang akan datang memang merupakan kemungkinan yang membutuhkan 
+diagnosis yang cepat dan manajemen yang cermat. 
+3.3 Literasi Masyarakat terhadapPemberitaan 
+Sampai dengan hari ini, banyak di masyarakat beredar tentang kabar yang tidak jelas 
+mengenai penggunaan jamu dari tanaman herbal, seperti penggunaan jamu racikan 
+rimpang dapat embunuh Covid-19. Berita tersebut beredar di masyrakat melalui media 
+sosial, seperti: Facebook, Instagram danutamanya Whatsapp. 
+Peningkatan penggunaan media sosial saat ini lebih banyak menuju ke hiburan dan 
+bisnis. Hanya sedikit yang menggunakan media sosial sebagai tempat membaca sumber 
+dan referensi yang tepat. Sejalan dengan itu Finonchiaro mendefinisikan bahwa membaca 
+sebagai suatu usaha memetik dan memahami makna yang terkandung dalam bahasa 
+tertulis baik makna yang tersirat dengan cara memproses informasi, silabus, sintaksis dan 
+semantik [20].Kurangnya budaya membaca masyarakat inilah, dimanfaatkan oleh sebagian 
+oknum untukmemunculkan berita yang belum benar keberadaannya. Informasi-informasi 
+terkaitpenggunaanramuan herbal tersebut beredar luas di masyarakatMenurut Yayasan 
+Lembaga Konsumen Indonesia (YLKI) mengatakan masyarakat kurang mendapatkan 
+literasi obat tradisional atau jamu. Kondisi itu membuat masyarakat mudah dikelabui 
+untuk membeli obat yang diklaim mampu membunuh Covid-19[21]. 
+Membaca adalah kemampuan mendasar setiap manusia yang hidup di masa kini 
+apalagi masa mendatang. Kemampuan membaca saat ini tidak lagi terbatas pada sekedar 
+menyusun huruf menjadi kata, membaca kata-kata menjadi sebuah kalimat, membaca 
+kalimat per kalimat menjadi sebuah paragraf, dan membaca paragraf demi paragraf 
+menjadi sebuah wacana. Membaca harus memahami makna dibaliknya dan mengarahkan 
+perilaku si pembaca atas makna yang didapatkan dari bacaan yang telah 
+diselesaikannya.Seseorang dengan budaya membaca yang rendah akan mudah 
+terpengaruh dan menyampaikan berita yang tidak seuai kepada orang lain. Dalam kondisi 
+seperti saat ini masyarakat dengan budaya membaca yang rendah dapat secara langsung 
+mengaplikasikan informasi tanpa mencari tahu lebih dalam. 
+3.4 Pengaruh Media Sosial Terhadap Masyarakat 
+Kemampuan masyarakat dalam berliterasi yang rendah ini menyebabkan masyarakat 
+mudah dikelabui dengan pemberitaan kurang tepat di masa pandemi. Menurut berita 
+yang dilansir dari dari penelitian phsycology today adalah peserta dengan pendidikan 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 19 
+ 
+rendah atau sekolah menengah memiliki proporsi yang lebih rendah dalam mencari 
+informasi, daripada orang yang berpendidikan tinggi, dan 82% pengguna media sosial 
+lebih memilih mengekspose dirinya sendiri. Hal ini tentu menjelaskan bahwa nilai literasi 
+masyarakat sangat kurang. 
+Beberapa faktor yang menyebabkan informasi yang palsu di media sosial mudah 
+sekali diterima adalah: 
+a. Faktor pertama ialah jika informasi yang diterima dapat menyalurkan opini setiap 
+individu. 
+b. Faktor kedua yang menyebabkan seseorang mudah percaya pada hoax ialah 
+disebabkan terbatasnya pengetahuan[22] 
+Merebaknya berita tidak benar di media sosial dan rentannya ikatan kebinekaan 
+ditengarai sebagai akibat kurangnya pemahaman literasi, (khususnya literasi informasi 
+dan literasi kewargaan), rendahnya kompetensi pendidikan, dan rapuhnya karakter 
+masyarakat. Masyarakat mudah memberi dan/atau menerima berita bohong berpotensi 
+merusak sendi-sendi kehidupan bermasyarakat, berbangsa, dan bernegara. Dari penelitian 
+yang dilakukan di Pamekasan, efek media kepada masyarakat menunjukkan strong 
+effect bahkan mampu membentuk persepsi masyarakat Pamekasan tentang pencegahan 
+penularan Virus Corona kepada individu[20]. Berdasarkan hasil survei tersebut 
+menyiratkan betapa pentingnya bagi individu maupun instansi media membuat dan 
+menyebar berita/informasi yang benar dan valid. 
+Pada konteks media sosial, maraknya wabah Hoax di masyarakat dipengaruhi oleh 
+banyak faktor, diantaranya adalah faktor kebiasaan masyarakat yang selalu ingin cepat 
+berbagi informasi, tergesa-gesa untuk membagikan berita, suka bercerita tentang sebuah 
+informasi yang diterimanya tanpa melakukan pengecekan terlebih dahulu terhadap 
+kebenarannya, darimana datangnya berita informasi tersebut, atau siapa yang pertama kali 
+membuat berita tersebut. Kebiasaan tersebut terjadi secara berantai dari satu pengguna ke 
+pengguna lainnya dalam proses yang sama, tanpa validasi dan dilihat kebenarannya, 
+mudah sekali untuk menerima dan menyebarkannya, apalagi jika berita informasi tersebut 
+sudah dibumbui dengan praktek provokasi untuk kepentingan tertentu yang mampu 
+mempengaruhi emosi, perasaan, pikiran bahkan tindakan masyarakat, dan kemudian 
+menjadi viral ditengah-tengah masyarakat. 
+3.5 Pengaruh Pemberitaan Tanaman Herbal Terhadap Masyarakat Ditengah Pandemi 
+Peran media massa telah mengambil porsi penting pada masyarakat modern. Media 
+dipandang sebagai jendela yang memungkinkan masyarakat melihat situasi diluar sana 
+atau belajar sebuah peristiwa yang terjadi saat ini. Media massa baik cetak maupun 
+elektronik sangat memegang peranan mengenai penanganan Covid-19 baik pencegahan 
+maupun penanganan.Terdapat 4 alasan yang mendasari meningkatnya tren konsumsi 
+jamu saat pandemi Covid-19 yaitu: 
+a. Pengaruh pemberitaan media massa, 
+b. Pilihan yang rasional 
+c. Fungsional 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 20 
+ 
+d. Historis budaya minum jamu[23] 
+Sebuah penelitian secara kuantitatif dilakukan oleh Fanie Indri dalm Media Indonesia 
+terhadap 1.524 partisipan melalui whatsapp yang telah dianalisa didapatkan 
+kesimpulansebagaiberikut: 
+a. 79% responden mengonsumsi jamu untuk meningkatkan daya tahan tubuh selama 
+wabah Covid-19,  
+b. 55,7% responden jadi lebih sering minum jamu setelah terjadi wabah Covid-19 
+c. 78,5% responden menyarankan orang lain, yaitu keluarga dan temannya untuk 
+minum jamu guna mencegah Covid-19 
+TInjauanliteraturinitelahdilakukansurveiterhadap75 jenis tanaman jamu yang diyakini 
+mampu 
+meningkatkan 
+daya 
+tahan 
+tubuh, 
+responden 
+paling 
+banyak 
+mengonsumsitanamansebagaiberikut:  
+a. Jahe sebanyak 1.252 orang 
+b. Kunyit sebanyak 1.057 orang  
+c. Serai 969 orang  
+d. Temulawak 754 orang    
+e. Kayu manis 647 orang[24] 
+Berdasarkan penelitian tersebut dapat diketahui bahwa pemberitaan yang 
+dimunculkan oleh media sosial tentang bahan herbal, jamu hingga obat tradisional 
+menangkal. Covid-19 mempengaruhi perilaku masyarakat akhir akhir ini yang kembali 
+membudayakan penggunaannya. 
+3.6 Pengaruh Informasi terhadap Ekonomi Masyarakat  
+Ekonomi adalah salah satu faktor penting dalam kehidupan manusia. Dapat 
+dipastikan dalam keseharian kehidupan manusia selalu bersinggungan dengan kebutuhan 
+ekonomi. Adanya krisis ekonomi yang melanda Indonesia menyebabkan tingginya biaya 
+obat dari bahan kimia. Tingginya biaya obat kimia dikarenakan bahan baku obat kimia 
+perlu didatangkan dari luar negeri. Kondisi yang demikian mendorong masyarakat 
+Indonesia terutama masyarakat yang masih berada di pedesaan memanfaatkan tumbuhan 
+sebagai obat tradisional.. Penelitian yang dilakukan menunjukan penggunaan jamu 
+sebagai alternatif penggunaan obat modern pada masyarakat ekonomi rendah-menengah 
+dan atas secara umum tinggi (58%)[25]. 
+Media massa baik cetak maupun elektronik sangat memegang peranan mengenai 
+penanganan Covid-19 baik pencegahan maupun penanganan. Menurut informasi yang 
+dikutip dari portal berita mengatakan bahwa permintaan jamu tradisional mengalami 
+peningkatan selama pandemi Covid-19. Adanya perusahaan-perusahaan yang mencari 
+keuntungan dan minat masyarakat yang tinggal, menyebabkan stok di pasar berkurang. 
+Hal inilah yang menyebabkan harga bahan baku jamu seperti rempah jahe kunyit sereh 
+dan lainnya meningkat sejak Maret 2020. Dari informasi yang didapatkan dalam harian 
+kompas, konsumsi bahan jamu yang meningkat menyebabkan harga rempah di Bandar 
+Lampung meningkat. Harga rempah seperti jahe, sereh dan kunyit naik dari Rp 20.000 
+menjadi Rp.80.000 tiap kilogram [26]. 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 21 
+ 
+3.7 Pengaruh Informasi terhadap penyimpangan Hukum 
+Pengaruhinformasi yang ditawarkan media online dalam penggunaannya menjadikan 
+media ini menjadi wadah penyebaran informasi yang sangat berpengaruh pada 
+masyarakat. Media online tidak hanya mengubah penyampaian informasi tetapi juga 
+mengubah perilaku konsumsi masyarakat. Saat ini penyebaran informasi atau berita 
+melalui media online tidak hanya dilakukan oleh situs berita yang sudah dikenal oleh 
+masyarakat, namun oleh siapa saja pengguna internet dapat berperan dalam penyebaran 
+suatu informasi. Sayangnya banyak informasi atau berita yang disebarkan secara individu 
+atau berkelompok lebih banyak yang tidak dapat dipertanggungjawabkan ke- benarannya 
+atau teindikasi hoax [27]. 
+Hoax merupakan informasi atau berita yang berisi hal-hal yang belum pasti atau yang 
+benar-benar bukan merupakan fakta yang terjadi. Hoax berupa opini negatif berisi fitnah, 
+hate speech, dan lainnya, bisa berujung pada terjadi kegaduhan, adanya bentrokan, 
+munculnya rasa tidak aman, ketakutan, rusaknya reputasi dan kerugian materi.Kini 
+informasi atau berita yang dianggap benar tidak lagi mudah ditemukan. Seperti diketahui, 
+sejumlah kabar bohong alias hoax beredar di tengah penyebaran Covid-19 di Indonesia, 
+salah satunya adanya berita penutupan sejumlah gerbang tol menuju Jakarta karena 
+adanya lockdown, Tenaga Kerja Asing China masuk Kendari di tengah wabah Covid-19, 
+pasar ditutup imbas Covid-19, utamanya berita mengenai obat herbal. 
+Semenjak kemunculan kasus Covid-19 di Indonesia telah banyak pakar bahan herbal 
+yang berlomba-lomba untuk menguji khasiat bahan herbal terhadap virus tersebut. 
+Namun 
+beberapa 
+oknum 
+menyebarkan 
+informasi 
+yang 
+tidak 
+benar 
+dengan 
+mengatasnamakan pakar. Kemenkoinfo menemukan lebih dari 1000 kasus disinformasi 
+per Agustus 2020 termasuk berita obat tradisional.  
+ 
+ 
+Gambar 2. Berita Tidak Benar Mengenai Khasiat Bawang Putih (Kominfo,2020) 
+Info mengenai bawang putih seperti Gambar 2. yang diklaim sebagai antivirus 
+Covid-19 dengan penggunaan lebih dari 10 siung adalah tidak benar. Jika kita lihat pada 
+Tabel 1. Konsumsi maksimum bawang putih adalah enam. Berita tersebut telah dibantah 
+oleh Kominfo bahwa sampai saat ini belum ada obat yang dapat membunuh virus 
+Covid-19, belum didaptkan rujukan atau penelitian yang pasti mengenai memakan 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 22 
+ 
+bawang putih. Info lain menyebarkan hal yang belum tentu kebenarannya adalah 
+penggunaan minyak kayu putih sperti Gambar 3 dan Gambar 4. Penggunaan minyak kayu 
+putih dengan cara diminum tidak lazim dilakukan oleh masyarakat. Tentu saja berita 
+tersebut menimbulkan keraguan. Perlu adanya penelitian lebih lanjut sebelum 
+mengedarkan berita tersebut. 
+ 
+ 
+Gambar 3. Berita Tidak Benar Mengenai Minyak Kayu Putih melalui Whattsapp(Kominfo,2020) 
+ 
+Gambar 4. Berita Tidak Benar Mengenai Minyak Kayu Putih melalui Instagram 
+(Kominfo,2020) 
+Saat ini makin banyak beredar produk obat/jamu/herbal, atau produk lainnya, yang 
+mengklaim bisa menyembuhkan dan atau menangkal Covid-19. Fenomena ini tentu saja 
+meresahkan, membingungkan dan bahkan menyesatkan publik, dan melanggar aturan 
+perlindungan konsumen.Dalam catatan YLKI, ada sejumlah point penting sebagai sebab 
+utama yaitu: 
+a. Buruknya politik management penanganan wabah; 
+b. Aspek tekanan psikologi konsumen; 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 23 
+ 
+c. Lemahnya literasi konsumen terhadap produk obat-obatan; 
+d. Belum optimalnya penegakan hukum[28] 
+Terdapat pengaturan yang mengatur mengenai berita yang tidak benar yakni dapat 
+diancam Pasal 28 ayat 1 Undang-Undang Informasi dan Transaksi Elektronik atau 
+Undang-Undang ITE (UU ITE) yang menyatakan “Setiap orang dengan sengaja, dan tanpa 
+hak menyebarkan berita bohong dan menyesatkan yang mengakibatkan kerugian 
+konsumen dalam Transaksi Elektronik yang Dapat diancam pidana berdasarkan Pasal 45A 
+ayat (1) UU 19/2016, yaitu dipidana dengan pidana penjara paling lama 6 (enam) 
+tahun dan/atau denda paling banyak Rp 1 miliar. Sebetulnya hukum yang tertera dapat 
+memberi efek jera pada pelaku pemberi informasi ketika hukum berjalan dengan baik. 
+[22,29] 
+ 
+4. Kesimpulan 
+Penggunaan tanaman herbal pandemi  COVID-19 diperlukan sebagai meningkatkan 
+imunitas dan menyembuhkan penyakit penyerta. Penggunaan anaman herbal tidak dapat 
+digunakan pada kasus penyakit berat karena dapat meningkatkan reaksi alergi hingga 
+pembengkakan. Penulis menarik kesimpulan bahwa ada pengaruh pemberitaan terhadap 
+segi sosial, ekonomi dan pelanggaran hukum. Informasi melalui media sosial mampu 
+merubahan perilaku masyarakat yang kembali menggunakan minuman tradisional. Selain 
+itu informasi mampu mempengaruhi perekonomian dari segi kebutuhan harga yang 
+meningkat serta terbukanya peluang penjuaan minuman berbahan herbal. Hal ini juga 
+mempengaruhi oknum membentuk pemberitaan yang tidak benar sehingga menimbulkan 
+hoax. Hal ini tentu saja dapat menjerat pembuat informasi dengan beberapa pasal UUITE. 
+Daftar Pustaka 
+1. Huang, C., Wang, Y., etc. (2020). Clinical Features of Patient Infected with 2019 novel 
+coronavirus in Wuhan, China. The Lancet. 
+2. Direktorat Jenderal Pencegahan dan Pengendalian Penyakit. (2020).Pengendalian 
+Coronavirus 
+Desease 
+(Covid-19). 
+https://www.kemkes.go.id/resources/download/info-terkini/COVID-19%20dokumen
+%20resmi/2%20Pedoman%20Pencegahan%20dan%20Pengendalian%20Coronavirus
+%20Disease (diakses tanggal 1 Oktober 2020) 
+3. World Health Organization (2020). Covid-19. https://covid19.who.int/table (diakses 
+tanggal 6 Oktober 2020) 
+4. Satgas penanganan Covid-19 (2020). Data kasus terkonfirmasi di Indonesia. 
+https://covid.go.id/petasebaran (diakses tanggal 6 Oktober 2020) 
+5. Jumiarni, Wa Ode.(2020). Eksplorasi Jenis Dan Pemanfaatan Tumbuhan Obat Pada 
+Masyarakat Suku Muna di Permukiman Kota Wuna. Traditional Medicine Journal. 
+6. Burhanudin, Iqbal. 2020.Merajut Asa Ditengah Covid-19 ’Pandangan Akademisi 
+UNHAS”. Deepublish: Yogayakarta. 
+7. Roma, Doni F.2017. Perilaku Pengguna Media Sosial di Kalangan Remaja”. IJSE. 
+8. Ahmad, Fahmi. 2020. Penggunaan WhatsApp dan Instagram Melonjak 40% Selama 
+Pandemi 
+Corona, 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 24 
+ 
+https://katadata.co.id/febrinaiskana/digital/5e9a41f84eb85/penggunaan-whatsapp-da
+n-instagram-melonjak-40-selama-pandemi-corona (diakses tanggal 1 Oktober 2020)  
+9. Susilo, Adityo dkk. 2020. Coronavirus Disease 2019: Tinjauan Literatur Terkini. Jurnal 
+Penyakit Dalam Indonesia 
+10. Priyambodo, Bambang. 2020. Kajian Ilmiah Herbal dan Food Supplement untuk 
+Tangkal 
+COVID-19.https://www.jamudigital.com/berita?id=Kajian_Ilmiah_Herbal_dan_Food
+_Supplement_untuk_Tangkal_COVID-19 
+11. Harapan, Harapan. 2020. Coronavirus Disease 2019: A Literature Review.Journal of 
+Infection adn Public Health. Elsevier. 
+12. Ikatan Apoteker Indonesia. 2020. Paduan Praktis untuk Apoteker. Jakarta Barat 
+13. Komisi Kesehatan Nasional RRC. 2020. Panduan Menghadapi Penyakit Virus Corona 
+2019 Model RRC. 
+14. Cahyon, Budi. 2020. Wajib Tahu! 7 Aturan Penggunaan Masker yang Benar 
+https://www.ayojakarta.com/read/2020/07/21/21587/wajib-tahu-7-aturan-penggunaan
+-masker-yang-benar. (diakses tanggal 30 September 2020) 
+15. Wijayakusuma, H. (2000). Potensi tumbuhan obat asli Indonesia sebagai produk 
+kesehatan. Risalah Pertemuan Ilmiah dan Pengembangan Teknologi Isotop dan 
+Radiasi. 
+16. Media Indonesia 2020. Penelitian Jamu karena Covid-19. 
+https://mediaindonesia.com/read/detail/329999-peneliti-semakin-banyak-orang-minu
+m-jamu-karena-covid-19 
+17. Sekaran, Uma, 2006. Metodologi Penelitian. Jakarta : Salemba Empat. 
+18. Rondanelli M, Miccono A, Lamburghini S, et al. (2018). Self-Care for Common Colds: 
+The Pivotal Role of Vitamin D, Vitamin C, Zinc, and Echinacea in Three Main Immune 
+Interactive Clusters (Physical Barriers, Innate and Adaptive Immunity) Involved 
+during an Episode of Common Colds—Practical Advice on Dosages and on the Time 
+to Take These Nutrients/Botanicals in order to Prevent or Treat Common Colds. 
+https://doi.org/10.1155/2018/5813095 
+19. Umar S, Shah MAA, Munir MT, et al. (2016). Synergistic effects of thymoquinone and 
+curcumin on immune response and anti-viral activity against avian influenza virus 
+(H9N2) in turkeys. Poultry Science 95(7): 1513– 1520. doi:10.3382/ps/ pew069. PMID 
+26944958 
+20. Tarigan, H. (2008). Membaca sebagai Suatu Keterampilan Berbahasa. Bandung: 
+Angkasa.  
+21. Efek Pemberitaan Media Massa Terhadap Persepsi Masyarakat Tentang Virus Corona 
+(Studi Kasus; Masyarakat di Pamekasan) Heny Triyaningsih 
+https://mediaindonesia.com/read/detail/335412-masyarakat-kurang-pengetahuan-soal
+-obat-tradisional 
+22. Juditha Christiani.2018. Interaksi Komunikasi Hoax di Media Sosial serta 
+Antisipasinya Hoax. Jurnal Pekommas.  
+23. Sutana, IG. 2020.Perilaku Konsumsi Jamu Covid-19. COVID-19: Prespektif agama dan 
+kesehatan. E-book http://www. kitamenulis.id 
+24. Tania, Inggrid (2020). Pemanfaatan Obat Tradisional Untuk Penanganan Covid-19. 
+https://www.jamudigital.com/berita?id=Pemanfaatan_Obat_Tradisional__Untuk_Pen
+anganan_Covid-19 (diakses tanggal 29 September 2020) 
+
+ 
+Bencoolen Journal of Pharmacy 2021, 1 (1), 11-25 
+ 
+ 25 
+ 
+25. Andiyanti,Andriyanti. 2016. Tingkat penerimaan penggunaan jamu sebagai alternatif 
+penggunaan obat modern pada masyarakat ekonomi rendah-menengah dan atas. 
+DOI: 10.20473/mkp.V29I32016.133-145 
+26. Anonim, 2020. Dampak Virus Corona Harga Empon-empon  Mengalami Kenaikan 
+Harga. 
+https://www.kompas.tv/article/70768/dampak-virus-corona-harga-empon-empon-me
+ngalami-kenaikan-harga 
+27. Kominfo. 
+2020. 
+Laporan 
+Isu 
+Hoax. 
+https://aptika.kominfo.go.id/wp-content/uploads/2020/02/Laporan-Isu-Hoaks-Virus-
+Corona.pdf 
+28. Waseso, Ratih. Marak Klaim Obat Covid-19, YLKI Minta Tingkatkan Literasi Obat 
+dan Herbal.  
+https://nasional.kontan.co.id/news/marak-klaim-obat-covid-19-ylki-minta-pemerintah
+-tingkatkan-literasi-obat-dan-herbal 
+29. Hutomo Dimas.2020. Pasal untuk Menjerat Penyebar HOAX. 
+https://www.hukumonline.com/klinik/detail/ulasan/lt5b6bc8f2d737f/pasal-untuk-men
+jerat-penyebar-ihoax-i/ (akses 1 Oktober 2020) 
+Komisi Kesehatan Nasional RRC. 2020. Panduan Menghadapi Virus Corona 2019 
+Model 
+RRC. 
+China. 
+https://www.persi.or 
+.id/images/2020/data/ 
+panduan_covid19_modelrrc.pdf 

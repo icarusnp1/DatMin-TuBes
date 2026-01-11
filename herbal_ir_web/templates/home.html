@@ -1,0 +1,29 @@
+<!doctype html><html><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Herbal IR</title><link rel="stylesheet" href="/static/site.css"/></head><body>
+<div class="container"><h1>Herbal Information Retrieval</h1>
+<p class="muted">Cari dokumen tanaman herbal, khasiat, ramuan, dan fitoterapi.</p>
+{% if error %}<div class="alert">{{ error }}</div>{% endif %}
+{% if not has_index %}
+  <div class="card"><p><strong>Index belum dibangun.</strong></p>
+  <p>Upload dokumen di Admin lalu klik <em>Rebuild Index</em>.</p>
+  <a class="btn" href="/admin">Buka Admin</a></div>
+{% else %}
+  <div class="card">
+    <form method="post" action="/search">
+      <label>Query</label>
+      <input name="q" placeholder="contoh: temulawak sehat" required />
+      <div class="row">
+        <div style="min-width:160px">
+          <label>Top K</label>
+          <input name="top_k" type="number" value="10" min="1" max="50" />
+        </div>
+        <div class="right">
+          <button class="btn" type="submit">Cari</button>
+          <a class="btn secondary" href="/admin">Admin</a>
+        </div>
+      </div>
+    </form>
+    <p class="muted">Index aktif. Dokumen termuat: {{ doc_count }}</p>
+  </div>
+{% endif %}
+</div></body></html>

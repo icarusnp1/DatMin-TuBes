@@ -1,0 +1,6468 @@
+
+i 
+ 
+HERBAL MEDIK    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr. Agnes Batmomolin, S. Kep. Ns. M. Kes 
+Apt. Safrina, S.Farm., M. Si 
+Dr. Dra. Linda Augustien Makalew, M.Kes 
+Jeanne d’arc Zafera Adam, AmdKG, SPd, M.Kes 
+Renny Septiani Mokodongan, M.Si 
+apt. Sheila Meitania Utami, M.Si 
+Rilyn Novita Maramis, S.Pd, S.Si, M.Si, Apt 
+Selfie P.J. Ulaen, S.Pd., S.Si., M.Kes 
+Apt, Fathul Jannah, S.Si., SpFRS 
+Dr. apt. Indri Kusuma Dewi, M.Sc 
+Dra. Elisabeth Natalia Barung, M.Kes., Apt 
+ 
+Editor : 
+La Ode Alifariki, S.Kep., Ns., M.Kes 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+ 
+HERBAL MEDIK          
+ 
+Penulis:  
+Dr. Agnes Batmomolin, S. Kep. Ns. M. Kes 
+Apt. Safrina, S.Farm., M. Si 
+Dr. Dra. Linda Augustien Makalew, M.Kes 
+Jeanne d’arc Zafera Adam, AmdKG, SPd, M.Kes 
+Renny Septiani Mokodongan, M.Si 
+apt. Sheila Meitania Utami, M.Si 
+Rilyn Novita Maramis, S.Pd, S.Si, M.Si, Apt 
+Selfie P.J. Ulaen, S.Pd., S.Si., M.Kes 
+Apt, Fathul Jannah, S.Si., SpFRS 
+Dr. apt. Indri Kusuma Dewi, M.Sc 
+Dra. Elisabeth Natalia Barung, M.Kes., Apt 
+ 
+ 
+ISBN : 978-623-8669-96-7 
+ 
+Editor Buku: 
+La Ode Alifariki, S.Kep., Ns., M.Kes 
+ 
+Cetakan Pertama : 2024 
+Diterbitkan Oleh : 
+PT MEDIA PUSTAKA INDO 
+Jl. Merdeka RT4/RW2 Binangun, Kab. Cilacap, Jawa Tengah 
+Website: www.mediapustakaindo.com 
+E-mail: mediapustakaindo@gmail.com 
+Anggota IKAPI: 263/JTE/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hak Cipta dilindungi oleh undang-undang. Dilarang memperbanyak 
+sebagian karya tulis ini dalam bentuk apapun, baik secara elektronik 
+maupun mekanik, termasuk memfotokopi, merekam, atau dengan 
+menggunakan sistem penyimpanan lainnya, tanpa izin tertulis dari Penulis. 
+ 
+
+iii 
+ 
+KATA PENGANTAR 
+ 
+Alhamdulillah, Kami panjatkan kehadirat Tuhan Yang Maha 
+Esa yang telah memberikan rahmat dan hidayah-Nya kepada saya 
+sehingga buku ini dapat tersusun. Buku ini diperuntukkan bagi 
+Dosen, Praktisi, dan Mahasiswa Kesehatan sebagai bahan bacaan 
+dan tambahan referensi. 
+Buku ini berjudul Herbal Medik mencoba menyuguhkan 
+dan mengemas beberapa hal penting konsep Herbal Medik. Buku 
+ini berisi tentang segala hal yang berkaitan dengan konsep Herbal 
+Medik serta konsep lainnya yang disusun oleh beberapa Dosen 
+dari berbagai Perguruan Tinggi. 
+Buku ini dikemas secara praktis, tidak berbelit-belit dan 
+langsung tepat pada sasaran. Selamat membaca. 
+ 
+ 
+Kendari,     10 Oktober 2024 
+ 
+Penulis 
+ 
+ 
+ 
+ 
+ 
+DAFTAR ISI 
+
+iv 
+ 
+ 
+BAB 1 Pendahuluan dan Konteks Herbal Medik dalam Biomedik . 1 
+A. Pendahuluan ................................................................................. 1 
+B. Konteks Herbal Medik dalam Biomedik .................................. 2 
+BAB 2 Dasar-Dasar Botani dan Fitokimia .......................................... 12 
+A. Prinsip-Prinsip Dasar Botani .................................................... 12 
+B. Dasar-Dasar Fitokimia .............................................................. 16 
+BAB 3 Metodologi Penelitian Herbal .................................................. 25 
+A. Pendahuluan ............................................................................... 25 
+B. Tahapan Penelitian Obat Herbal.............................................. 26 
+BAB 4 Farmakokinetik dan Farmakodinamik Herbal ..................... 35 
+A. Farmakokinetik herbal .............................................................. 35 
+B. Farmakodinamik Herbal ........................................................... 36 
+C. Obat dan Efek Samping ............................................................ 39 
+D. Penelitian yang Berkaitan Farmakokinetik dan 
+Farmakodinamik Herbal ........................................................... 40 
+BAB 5 Mekanisme Aksi Fitokimia ...................................................... 48 
+A. Definisi ........................................................................................ 48 
+B. Mekanisme Aksi Fitokimia ....................................................... 49 
+BAB 6 Standarisasi dan Kualitas Herbal ............................................ 61 
+A. Standarisasi Herbal di Indonesia ............................................. 61 
+B. Kualitas Herbal di Indonesia .................................................... 68 
+BAB 7 Metode Ekstraksi dan Persiapan Herbal ................................ 77 
+A. Pendahuluan ............................................................................... 77 
+B. Metode Ekstraksi dan Persiapan Herbal ................................ 78 
+BAB 8 Herbal Untuk Gangguan Kardiovaskular ............................. 91 
+A. Pendahuluan ............................................................................... 91 
+B. Data Penyakit kardiovaskular (PKV) ...................................... 92 
+
+v 
+ 
+C. Produk Herbal dan Tumbuhan Sebagai Obat ........................ 92 
+D. Jenis Obat Jantung Alami dari Tumbuhan ............................. 94 
+E. Cara Mencegah Penyakit Jantung ........................................... 96 
+BAB 9 Efek Farmakologis dan Toksikologi Herbal ................. 101 
+A. Pendahuluan .......................................................................... 101 
+B. Obat Tradisional (Obat Herbal) ........................................ 102 
+C. Substansi Aktif Obat Herbal ................................................... 106 
+D. Uji toksisitas .............................................................................. 108 
+BAB 10 Pemanfaatan Teknologi Modern dalam Ekstraksi dan 
+Formulasi Herbal ................................................................................ 117 
+A. Metode Ekstraksi Modern Non-Konvensional .................... 117 
+B. Penggunaan Teknologi Nano pada Formulasi Obat  
+Herbal ........................................................................................ 121 
+BAB 11 Herbal dan Imunomodulasi ................................................ 128 
+A. Pendahuluan ............................................................................. 128 
+B. Konsep Herbal dan Imunomodulasi ..................................... 129 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+1 
+BAB 1   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Pendahuluan 
+Herbal medik telah menjadi bagian penting dari tradisi 
+pengobatan di seluruh dunia, terutama dalam konteks 
+budaya 
+yang 
+mengutamakan 
+pengobatan 
+alami. 
+Penggunaan tanaman obat sebagai terapi memiliki akar 
+yang 
+dalam, 
+dengan 
+banyak 
+komunitas 
+yang 
+mengandalkannya selama berabad-abad untuk mengatasi 
+berbagai penyakit. Di tengah kemajuan biomedik yang 
+pesat, minat terhadap herbal medik kembali meningkat, 
+sejalan dengan perubahan pola pikir masyarakat yang lebih 
+mencari pendekatan holistik dalam menjaga kesehatan. 
+Seiring dengan perkembangan ilmu pengetahuan, 
+penelitian tentang efek terapeutik tanaman obat telah 
+menjadi area yang semakin signifikan. Banyak senyawa 
+bioaktif yang ditemukan dalam tanaman menunjukkan 
+potensi untuk digunakan sebagai obat. Dalam konteks 
+biomedik, pemahaman ilmiah tentang mekanisme kerja 
+tanaman 
+obat 
+sangat 
+penting 
+untuk 
+mengevaluasi 
+efektivitas dan keamanannya, serta untuk mengembangkan 
+produk yang lebih efektif. Hal ini membuka peluang baru 
+untuk integrasi herbal medik ke dalam sistem kesehatan 
+modern. 
+Dalam dunia biomedik, pendekatan berbasis bukti 
+sangat 
+ditekankan. 
+Penelitian 
+yang 
+sistematis 
+dan 
+Pendahuluan dan Konteks 
+Herbal Medik dalam Biomedik 
+ 
+*Dr. Agnes Batmomolin, S. Kep. Ns. M. Kes* 
+ 
+
+ 
+2 
+terstruktur mengenai herbal medik dapat membantu 
+mengidentifikasi manfaat terapeutik serta potensi risiko 
+yang terkait. Uji klinis yang dilakukan untuk mengevaluasi 
+keefektivitasan herbal tidak hanya memberikan informasi 
+yang berguna bagi para profesional kesehatan tetapi juga 
+membangun 
+kepercayaan 
+masyarakat 
+terhadap 
+penggunaan herbal sebagai terapi tambahan atau alternatif. 
+Meskipun ada banyak peluang, integrasi herbal medik 
+dalam biomedik tidak tanpa tantangan. Banyak produk 
+herbal tidak terstandarisasi, dan ada risiko interaksi antara 
+obat 
+herbal 
+dan 
+obat 
+konvensional 
+yang 
+dapat 
+memengaruhi efektivitas pengobatan. Oleh karena itu, 
+penting 
+untuk 
+melakukan 
+penelitian 
+lanjutan 
+dan 
+menetapkan pedoman yang jelas mengenai penggunaan 
+herbal medik dalam praktik klinis. Edukasi yang tepat bagi 
+tenaga kesehatan dan pasien juga sangat diperlukan untuk 
+meminimalkan risiko ini. 
+Adanya potensi besar yang dimiliki oleh herbal medik, 
+kolaborasi antara peneliti, praktisi medis, dan ahli herbal 
+menjadi 
+sangat 
+penting. 
+Pengembangan 
+model 
+interdisipliner dalam penelitian dan praktik 
+dapat 
+mengoptimalkan manfaat dari kedua dunia ini, membawa 
+kita menuju era pengobatan yang lebih terintegrasi. Dengan 
+demikian, herbal medik tidak hanya akan melengkapi 
+pengobatan modern, tetapi juga memberikan pilihan yang 
+lebih beragam bagi pasien dalam upaya mereka mencapai 
+kesehatan yang optimal. 
+B. Konteks Herbal Medik dalam Biomedik 
+1. Pengertian 
+Herbal medik merujuk pada penggunaan tanaman dan 
+ekstrak 
+herbal 
+untuk 
+tujuan 
+pengobatan 
+dan 
+pencegahan penyakit. Dalam konteks biomedik, herbal 
+medik diintegrasikan dengan prinsip-prinsip ilmiah 
+untuk memahami mekanisme kerja, efektivitas, dan 
+keamanan penggunaan bahan herbal. Penelitian 
+
+ 
+3 
+biomedik bertujuan untuk mengeksplorasi komponen 
+aktif dalam tanaman obat dan interaksinya dengan 
+sistem biologi manusia, sehingga dapat digunakan 
+sebagai terapi alternatif atau pelengkap. 
+2. Sejarah Herbal Medik 
+Penggunaan tanaman obat memiliki sejarah yang 
+panjang, dimulai sejak ribuan tahun lalu. Banyak teks 
+kuno, seperti Ayurvedic di India dan pengobatan 
+tradisional Tiongkok, menggambarkan penggunaan 
+herbal untuk mengobati berbagai penyakit. Seiring 
+dengan perkembangan ilmu pengetahuan, khususnya 
+di abad ke-19 dan ke-20, pendekatan ilmiah mulai 
+diterapkan untuk mengeksplorasi dan memvalidasi 
+manfaat tanaman obat. Penemuan senyawa aktif, 
+seperti morfin dari opium dan salisin dari kulit willow, 
+menunjukkan potensi besar herbal dalam pengobatan. 
+Dalam beberapa dekade terakhir, ada peningkatan 
+minat dalam penelitian herbal, dengan banyak studi 
+yang mengeksplorasi efektivitas dan mekanisme 
+herbal dalam pengobatan modern. 
+Indonesia merupakan negara tropis dengan 
+jumlah 
+tanaman 
+yang 
+sangat 
+banyak. 
+Keanekaragaman hayati Indonesia merupakan nomor 
+dua setelah Brasilia. Sekitar 80% tanaman yang ada 
+didunia berada di Indonesia. Diperkirakan terdapat 
+25.000-30.000 
+spesies 
+tanaman 
+di 
+Indonesia. 
+Penggunaan obat tradisional oleh nenek moyang 
+bangsa Indonesia telah berlangsung lama. Beberapa 
+relief yang ada di candi Borobudur menjadi bukti hal 
+ini. Dugaan ini juga diperkuat dengan ditemukan 
+resep tanaman obat yang ditulis tahun 991-1016 pada 
+daun lontar di Bali. 
+3. Penggunaan Herbal Medik  
+Herbal medik digunakan dalam berbagai cara 
+dalam konteks biomedik, termasuk: 
+
+ 
+4 
+a. Terapi Alternatif dan Pelengkap: Banyak pasien 
+menggunakan herbal untuk melengkapi terapi 
+konvensional, terutama untuk penyakit kronis 
+seperti diabetes, hipertensi, dan penyakit jantung. 
+b. Pencegahan Penyakit: Beberapa herbal dikenal 
+memiliki sifat antioksidan, anti-inflamasi, dan 
+imunomodulator 
+yang 
+dapat 
+membantu 
+mencegah penyakit. 
+c. 
+Penelitian dan Pengembangan Obat: Herbal 
+medik 
+menjadi 
+sumber 
+inspirasi 
+untuk 
+pengembangan obat baru. Banyak obat modern 
+berasal dari senyawa yang diisolasi dari tanaman. 
+d. Peningkatan Kualitas Hidup: Beberapa herbal 
+digunakan untuk meningkatkan kesejahteraan 
+umum, seperti mengurangi stres, meningkatkan 
+tidur, dan meningkatkan energi. 
+e. Kustomisasi Pengobatan: Pendekatan herbal 
+memungkinkan personalisasi pengobatan sesuai 
+dengan 
+kebutuhan 
+dan 
+kondisi 
+individu, 
+mengingat keberagaman efek pada setiap orang. 
+4. Kelebihan Herbal Medik  
+a. Alami dan Berkelanjutan: Herbal medik biasanya 
+berasal 
+dari 
+sumber 
+alami, 
+mengurangi 
+ketergantungan pada bahan kimia sintetis. 
+b. Minim Efek Samping: Banyak tanaman obat 
+memiliki profil keamanan yang lebih baik 
+dibandingkan obat konvensional, meski tetap 
+perlu diwaspadai. 
+c. 
+Kompleksitas 
+Bioaktif: 
+Herbal 
+mengandung 
+berbagai senyawa yang dapat bekerja secara 
+sinergis, memberikan manfaat lebih luas. 
+d. Ketersediaan dan Aksesibilitas: Tanaman obat 
+seringkali lebih mudah diakses, terutama di 
+daerah pedesaan. 
+
+ 
+5 
+e. Pendekatan Holistik: Herbal sering digunakan 
+untuk 
+meningkatkan 
+kesejahteraan 
+secara 
+keseluruhan, bukan hanya meredakan gejala. 
+5. Kekurangan Herbal Medik  
+a. Kurangnya Standarisasi: Kualitas dan konsentrasi 
+senyawa aktif dalam herbal bisa bervariasi, 
+mempengaruhi efektivitasnya. 
+b. Interaksi Obat: Beberapa herbal dapat berinteraksi 
+dengan obat konvensional, berpotensi mengurangi 
+efektivitas atau menyebabkan efek samping. 
+c. 
+Keterbatasan 
+Penelitian: 
+Meskipun 
+penelitian 
+meningkat, masih banyak herbal yang kurang 
+dukungan ilmiah untuk validasi efektivitasnya. 
+d. Dosis yang Tidak Jelas: Tidak ada panduan dosis 
+yang konsisten, membuat penggunaan herbal 
+menjadi tidak tepat. 
+e. Pemahaman 
+yang 
+Kurang: 
+Kurangnya 
+pengetahuan di kalangan pengguna tentang 
+penggunaan dan potensi risiko herbal dapat 
+menyebabkan penyalahgunaan. 
+6. Determinan penggunaan herbal medik 
+Determinasi penggunaan herbal medik dalam 
+biomedik 
+melibatkan 
+berbagai 
+faktor 
+yang 
+mempengaruhi 
+keputusan 
+untuk 
+menggunakan 
+tanaman obat sebagai alternatif atau pelengkap terapi. 
+Berikut adalah beberapa determinan utama: 
+a. Pengetahuan dan Kesadaran 
+ 
+Pemahaman 
+tentang 
+Herbal: 
+Tingkat 
+pengetahuan 
+individu 
+atau 
+profesional 
+kesehatan tentang manfaat, cara penggunaan, 
+dan potensi risiko herbal. 
+ 
+Kesadaran Masyarakat: Peningkatan kesadaran 
+tentang pengobatan alami dan efek samping 
+obat konvensional. 
+ 
+
+ 
+6 
+b. Aksesibilitas 
+ 
+Ketersediaan Herbal: Ketersediaan tanaman 
+obat di pasar lokal atau kemampuan untuk 
+mendapatkan produk herbal berkualitas. 
+ 
+Biaya: Pertimbangan ekonomi dalam memilih 
+antara 
+terapi 
+herbal 
+dan 
+pengobatan 
+konvensional. 
+c. 
+Budaya dan Tradisi 
+ 
+Praktik Tradisional: Pengaruh budaya lokal 
+yang 
+mengedepankan 
+penggunaan 
+herbal 
+sebagai bagian dari pengobatan. 
+ 
+Kepercayaan Masyarakat: Keyakinan terhadap 
+efektivitas 
+herbal 
+dalam 
+pengobatan 
+berdasarkan pengalaman pribadi atau tradisi. 
+d. Bukti Ilmiah 
+ 
+Dukungan Penelitian: Keberadaan studi ilmiah 
+yang mendukung efektivitas dan keamanan 
+herbal tertentu. 
+ 
+Standarisasi: Adanya standar kualitas untuk 
+produk herbal, yang memberikan jaminan bagi 
+pengguna. 
+e. Rekomendasi Profesional Kesehatan 
+ 
+Saran dari Dokter atau Ahli Herbal: Pengaruh 
+rekomendasi dari profesional kesehatan yang 
+dapat memberikan panduan dalam penggunaan 
+herbal. 
+ 
+Integrasi dalam Pengobatan Konvensional: 
+Keterbukaan 
+tenaga 
+medis 
+untuk 
+menggabungkan pengobatan herbal dengan 
+terapi konvensional. 
+f. 
+Kondisi Kesehatan 
+ 
+Tipe Penyakit: Ketersediaan dan efektivitas 
+herbal untuk kondisi kesehatan tertentu, seperti 
+penyakit kronis atau gangguan ringan. 
+
+ 
+7 
+ 
+Respon Individu: Perbedaan respons setiap 
+individu 
+terhadap 
+herbal, 
+yang 
+dapat 
+mempengaruhi keputusan penggunaan. 
+g. Regulasi dan Kebijakan 
+ 
+Regulasi Pemerintah: Kebijakan yang mengatur 
+produksi, distribusi, dan pemasaran produk 
+herbal, yang dapat mempengaruhi ketersediaan 
+dan keamanan. 
+ 
+Pengawasan Kualitas: Adanya lembaga yang 
+memastikan bahwa produk herbal memenuhi 
+standar keamanan dan efektivitas. 
+7. Keterkaitan antara Herbal Medik dan Biomedik 
+Dalam dunia kesehatan, herbal medik dan 
+biomedik 
+sering 
+kali 
+dianggap 
+sebagai 
+dua 
+pendekatan yang berbeda, namun keduanya memiliki 
+keterkaitan yang erat dan saling melengkapi. Herbal 
+medik, 
+yang 
+berasal 
+dari 
+praktik 
+pengobatan 
+tradisional, menggunakan tanaman dan ekstrak herbal 
+untuk mengobati dan mencegah penyakit. Pendekatan 
+ini memiliki akar yang dalam dalam budaya dan 
+sejarah manusia, menawarkan solusi alami yang telah 
+digunakan selama ribuan tahun. Di sisi lain, biomedik 
+adalah disiplin ilmu yang menggabungkan prinsip-
+prinsip biologi dan kedokteran untuk memahami 
+penyakit dengan cara yang lebih ilmiah dan berbasis 
+bukti. 
+Kedua pendekatan ini memiliki tujuan yang 
+sama: meningkatkan kesehatan dan kualitas hidup 
+manusia. Baik herbal medik maupun biomedik 
+berfokus pada pengobatan dan pencegahan penyakit, 
+meskipun dengan cara yang berbeda. Herbal medik 
+tidak hanya berupaya meredakan gejala, tetapi juga 
+meningkatkan 
+kesejahteraan 
+secara 
+keseluruhan. 
+Sementara itu, biomedik mendorong pengembangan 
+metode diagnostik dan terapeutik yang didukung oleh 
+penelitian ilmiah. 
+Mekanisme kerja dari herbal medik sering kali 
+menjadi area yang dieksplorasi dalam penelitian 
+biomedik. Dengan pendekatan ilmiah, para peneliti 
+
+ 
+8 
+dapat 
+mengevaluasi 
+efektivitas 
+dan 
+keamanan 
+tanaman obat, serta mengidentifikasi komponen aktif 
+yang berkontribusi terhadap manfaat kesehatan. 
+Penelitian ini sering kali melibatkan uji klinis dan studi 
+laboratorium yang mendalam. Melalui proses ini, 
+banyak obat modern yang telah ditemukan berasal 
+dari senyawa yang diisolasi dari tanaman herbal, 
+menunjukkan betapa pentingnya pemahaman ilmiah 
+dalam pengembangan pengobatan. 
+Salah satu aspek menarik dari keterkaitan ini 
+adalah bagaimana senyawa aktif dalam herbal dapat 
+berinteraksi 
+dengan 
+reseptor 
+di 
+dalam 
+tubuh, 
+memengaruhi 
+jalur 
+biokimia 
+yang 
+kompleks. 
+Biomedik 
+memberikan 
+kerangka 
+kerja 
+untuk 
+memahami interaksi ini, membantu menjelaskan efek 
+sinergis yang sering kali terjadi ketika berbagai 
+senyawa dalam herbal bekerja bersama. 
+Namun, tantangan tetap ada dalam integrasi 
+herbal medik ke dalam praktik klinis. Standarisasi dan 
+regulasi produk herbal menjadi sangat penting untuk 
+memastikan kualitas dan keamanan bagi pasien. Di 
+sinilah peran biomedik sangat krusial; dengan 
+dukungan penelitian dan analisis yang kuat, kita dapat 
+mengembangkan pedoman yang lebih jelas untuk 
+penggunaan 
+herbal 
+dalam 
+konteks 
+pengobatan 
+modern. 
+Meningkatkan kesadaran dan edukasi tentang 
+manfaat serta risiko penggunaan herbal medik di 
+kalangan profesional kesehatan dan masyarakat 
+umum juga merupakan langkah penting. Dengan 
+pengetahuan yang tepat, kita dapat mengoptimalkan 
+manfaat herbal medik sambil meminimalkan risiko 
+yang 
+mungkin 
+timbul 
+dari 
+interaksi 
+dengan 
+pengobatan konvensional. 
+Keterkaitan antara herbal medik dan biomedik 
+bukan hanya tentang pengobatan, tetapi juga tentang 
+menciptakan pendekatan yang lebih holistik terhadap 
+kesehatan. 
+Dengan 
+menggabungkan 
+kearifan 
+tradisional dan pengetahuan ilmiah, kita membuka 
+pintu untuk inovasi baru dalam pengobatan dan 
+peningkatan kualitas hidup pasien. Dalam dunia 
+
+ 
+9 
+kesehatan yang terus berkembang, pemahaman yang 
+mendalam tentang hubungan ini akan menjadi kunci 
+untuk mencapai perawatan yang lebih efektif dan 
+berkelanjutan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+10 
+DAFTAR PUSTAKA 
+ 
+Bensoussan, A., & Myers, S. P. (2004). Evidence-based herbal medicine. 
+Medicine Today, 5(5), 28-34. Link 
+Cameron, M., & McMillan, V. (2003). The importance of standardization 
+of herbal medicines. Phytotherapy Research, 17(3), 259-263. 
+DOI: 10.1002/ptr.1105 
+Farnsworth, N. R. (1994). Ethnopharmacology and the role of traditional 
+medicine 
+in 
+modern 
+drug 
+discovery. 
+Journal 
+of 
+Ethnopharmacology, 43(2), 119-126. DOI: 10.1016/0378-
+8741(94)90159-4 
+Khalid, S., & Khan, M. N. (2017). Factors influencing the use of herbal 
+medicine in primary healthcare: A systematic review. BMC 
+Complementary and Alternative Medicine, 17(1), 300. DOI: 
+10.1186/s12906-017-1883-8 
+Kumar, V., & Kumar, A. (2011). The role of herbal medicine in the 
+modern healthcare system. International Journal of Pharmacy 
+and Pharmaceutical Sciences, 3(1), 4-10. Link 
+Pramono E. The commercial use of traditional knowledge and 
+medicinal plants in Indonesia. Submitt ed for multi-
+stakeholder dialoque on trade, intellectual property and 
+biological resources in Asia, 2002.  
+Pringgoutomo S. Riwayat perkembangan pengobatan dengan 
+tanaman obat di dunia timur dan barat. Buku ajar Kursus 
+Herbal Dasar untuk Dokter. Balai Penerbit FKUI, Jakarta: 
+2007:1-5 
+Verma, R., & Verma, A. (2010). Herbal medicines: A review on their 
+safety and efficacy. International Journal of Pharmaceutical 
+Sciences Review and Research, 1(1), 29-34. Link 
+World Health Organization (WHO). (2013). WHO Traditional 
+Medicine Strategy: 2014-2023. Link WHO 
+ 
+ 
+ 
+ 
+
+ 
+11 
+BIODATA PENULIS 
+ 
+ 
+ 
+Dr. Agnes Batmomolin, S. Kep. 
+Ns. 
+M. 
+Kes, 
+Dosen 
+tetap 
+Poltekkes Maluku. Pengalaman 
+menulis buku: Biomedik Dasar, 
+Kesehatan 
+Reproduksi 
+dan 
+Keluarga Berencana. Komunikasi 
+Kesehatan Sadar Budaya,  Bunga 
+Rampai Farmakologi Kebidanan, 
+Bunga 
+Rampai 
+Patofisiologi 
+Pernapasan, 
+manajemen 
+keselamatan pasien. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+12 
+BAB 2   
+ 
+ 
+ 
+ 
+ 
+ 
+Botani dan fitokimia memiliki peran krusial dalam 
+pengembangan ilmu kesehatan. Pengetahuan botani membantu 
+mengidentifikasi, 
+mengklasifikasikan, 
+dan 
+memahami 
+tumbuhan yang memiliki potensi medis, sementara fitokimia 
+mengungkap senyawa bioaktif yang dihasilkan oleh tumbuhan. 
+Senyawa-senyawa ini memiliki aktivitas farmakologis seperti 
+antioksidan, antiinflamasi, dan antimikroba, yang membuatnya 
+sangat penting dalam pembuatan obat-obatan herbal dan 
+farmasi konvensional. Kombinasi pengetahuan botani dan 
+fitokimia memfasilitasi penemuan obat baru yang lebih aman, 
+alami, dan efektif, serta membantu pengembangan strategi 
+pengobatan alternatif yang berkelanjutan (Elufioye and Badal, 
+2017; Sinha et al., 2023; Harvard University Herbaria & Libraries, 
+2024). 
+A. Prinsip-Prinsip Dasar Botani 
+1. Pendahuluan 
+Botani adalah ilmu yang mengkaji struktur, fungsi, 
+dan reproduksi tumbuhan, serta peran vitalnya dalam 
+ekosistem. Ilmu ini memiliki aplikasi luas, terutama dalam 
+farmasi, pertanian, dan konservasi lingkungan (Shipunov, 
+2021). Melalui pemahaman botani, keragaman tumbuhan 
+dan eksplorasi potensi dapat tergali untuk memenuhi 
+kebutuhan manusia. Botani mencakup berbagai kelompok 
+organisme fotosintetik, seperti ganggang, jamur, lumut, 
+Dasar-Dasar Botani dan 
+Fitokimia 
+ 
+* Apt. Safrina, S.Farm., M. Si * 
+ 
+
+ 
+13 
+hingga tumbuhan tingkat tinggi, menjadikannya landasan 
+penting bagi berbagai disiplin ilmu (Simpson, 2019). 
+Dalam farmakognosi, botani berperan kunci karena 
+memfasilitasi identifikasi dan klasifikasi tumbuhan obat, 
+sementara fitokimia berperan dalam mengungkap senyawa 
+bioaktif yang kemudian dikembangkan menjadi obat-obatan. 
+Farmakognosi adalah studi tentang produk obat yang berasal 
+dari lingkungan, terutama tumbuhan dan fungi. Obat botanis 
+didefinisikan sebagai produk yang berasal dari tumbuhan, 
+baik dalam bentuk bagian tumbuhan yang dikeringkan atau 
+sebagai ekstrak yang mengandung campuran senyawa 
+biogenik seperti minyak atsiri, gom, atau resin (Heinrich et al., 
+2018). 
+ Obat botanis umumnya diambil dari organ tumbuhan 
+tertentu seperti bagian aerial (herba), daun (folia), bunga 
+(flos), buah (fructus), kulit kayu (cortex), akar (radix), 
+rimpang (rhizoma), dan umbi lapis (bulbus). Sebagian besar 
+obat botanis saat ini diperoleh dari bagian aerial tumbuhan 
+atau daunnya, yang dikenal memiliki kandungan senyawa 
+aktif yang tinggi. 
+2. Taksonomi, Identifikasi dan Klasifikasi 
+Obat berbahan dasar tumbuhan  tidak hanya 
+ditentukan oleh spesies asalnya, tetapi juga bagian tumbuhan 
+yang digunakan. Prinsip utama dalam botani, yakni 
+sistematik dan klasifikasi, mengelompokkan tumbuhan 
+berdasarkan hubungan evolusi. Sistem binomial Carl 
+Linnaeus, yang terdiri dari bagian nama yang pertama 
+menunjukkan kelompok genus dan bagian yang kedua adalah 
+species, masih menjadi dasar klasifikasi modern. Taksonomi 
+adalah ilmu yang mempelajari tentang identifikasi, deskripsi, 
+tatanama, dan klasifikasi. Identifikasi adalah kegiatan 
+menentukan atau menetapkan identitas (jati diri) suatu 
+tumbuhan, menentukan namanya yang benar dan tempatnya 
+yang tepat dalam sistem klasifikasi. Kegiatan ini dapat 
+dilakukan dengan cara mencocokkan tumbuhan yang belum 
+
+ 
+14 
+dikenal dengan yang sudah dikenal yang terdapat pada 
+pustaka, herbarium, dan koleksi hidup, atau bertanya pada 
+ahli taksonomis. 
+Dalam farmakognosi, taksonomi memegang peran 
+penting 
+karena 
+membantu 
+memahami 
+hubungan 
+antarspesies dan potensi farmakologisnya. Tumbuhan 
+dikelompokkan ke dalam divisi utama seperti Alga 
+(Chlorophyta dan Rhodophyta), Lumut (Bryophyta), Paku-
+pakuan 
+(Pteridophyta), 
+dan 
+Tumbuhan 
+Berbiji 
+(Spermatophyta), masing-masing memiliki karakteristik unik 
+yang mempengaruhi nilai farmakologisnya. 
+Identifikasi tumbuhan adalah proses mengenali dan 
+membedakan jenis tanaman berdasarkan ciri-ciri morfologis 
+seperti bentuk daun, bunga, batang, dan habitat tumbuh. 
+Proses ini memanfaatkan kunci identifikasi (dichotomous 
+keys), yang membantu pengguna menjawab serangkaian 
+pertanyaan hingga menemukan spesies yang tepat (Simpson, 
+2019). Misalnya, untuk mengenali jahe (Zingiber officinale), 
+kita dapat mengamati daun memanjang, batang semu dari 
+pelepah daun, dan aroma khas rimpangnya. Selain itu, 
+metode modern seperti DNA barcoding memungkinkan 
+identifikasi yang lebih cepat dan akurat melalui analisis 
+molekuler (Ali, Gyulai and Al-Hemaid, 2016). 
+Klasifikasi tumbuhan melibatkan pengelompokan 
+berdasarkan 
+hubungan 
+evolusi 
+dan 
+ciri 
+morfologis, 
+mengikuti sistem filogenetik. Sebagai contoh, klasifikasi jahe 
+adalah sebagai berikut: 
+Kingdom 
+: Plantae 
+Divisi 
+: Angiospermae 
+Kelas 
+: Monocotyledonae 
+Ordo 
+: Zingiberales 
+Famili 
+: Zingiberaceae 
+Genus 
+: Zingiber 
+Spesies 
+: Zingiber officinale 
+
+ 
+15 
+Tanaman 
+herbal 
+juga 
+dapat 
+diklasifikasikan 
+berdasarkan 
+manfaat farmakologisnya, 
+seperti kunyit 
+(Curcuma longa) yang berfungsi sebagai antiinflamasi, lidah 
+buaya (Aloe vera) sebagai analgesik, serta sirih (Piper betle) 
+sebagai 
+antimikroba. 
+Pendekatan 
+ini 
+memperkaya 
+pemahaman akan beragam manfaat yang ditawarkan oleh 
+tanaman herbal. 
+3. Morfologi dan Anatomi Tumbuhan (Spermatophyta) 
+Morfologi dan anatomi 
+tumbuhan mempelajari 
+struktur luar dan dalam tumbuhan. Bagian-bagian seperti 
+akar, batang, daun, bunga, buah, dan biji memiliki fungsi 
+spesifik dalam menunjang kehidupan tumbuhan, dari 
+penyerapan air dan mineral, fotosintesis, hingga reproduksi. 
+Misalnya, 
+akar 
+menyerap 
+nutrisi, 
+daun 
+melakukan 
+fotosintesis, dan bunga berperan dalam reproduksi seksual 
+melalui penyerbukan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gambar 1.  (1) Morfologi dan anatomi tumbuhan, (2) Siklus 
+hidup tumbuhan berbiji, (3) Bagian-bagian dan jenis 
+bunga, (4) Bagian-bagian daun (5) Bagian-bagian 
+batang dan anatomi batang, (6) bagian-bagian akar, (7) 
+
+ 
+16 
+Bagian-bagian buah dan biji. Diadaptasi dari video 
+edukasi “Plant Anatomy and Morphology” oleh (Debusk, 
+2000). 
+Reproduksi tumbuhan dapat berlangsung secara 
+seksual maupun aseksual. Reproduksi seksual melalui 
+penyerbukan dan pembuahan menghasilkan biji, sementara 
+reproduksi aseksual memungkinkan tumbuhan berkembang 
+biak tanpa gamet, seperti melalui pembentukan tunas atau 
+stolon. Siklus hidup tumbuhan melibatkan fase sporofit dan 
+gametofit, yang menjamin variasi genetik dan kelangsungan 
+spesies. 
+Ekologi dan evolusi tumbuhan mempelajari interaksi 
+tumbuhan dengan lingkungan mereka dan bagaimana 
+tumbuhan berevolusi untuk beradaptasi dengan perubahan 
+lingkungan. Pengetahuan ini membantu memahami peran 
+tumbuhan dalam ekosistem, seperti dalam siklus karbon, 
+serta pentingnya keanekaragaman hayati dan konservasi. 
+B. Dasar-Dasar Fitokimia 
+Fitokimia adalah ilmu yang mempelajari senyawa kimia 
+yang diproduksi oleh tumbuhan. Secara sederhana, fitokimia 
+dapat diartikan sebagai “zat kimia dari tumbuhan” (phyto berarti 
+tumbuhan, chemistry berarti kimia). Sebagai makhluk hidup 
+autotrof, tumbuhan mampu menghasilkan berbagai macam 
+senyawa kimia melalui proses metabolisme (Elufioye and Badal, 
+2017; Pengelly and Bone, 2020).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gambar 2.  Senyawa obat dari sumber alami (Heinrich et 
+al., 2018) 
+Dalam dunia farmasi, berbagai senyawa kimia alami 
+seperti alkaloid, flavonoid, terpenoid, dan polifenol ditemukan 
+memiliki aktivitas biologis, termasuk antimikroba, antikanker, 
+dan anti-inflamasi. Studi fitokimia memiliki peran penting 
+dalam penemuan obat baru dan pengembangan produk 
+kesehatan berbasis tumbuhan. Secara historis, bahan alam telah 
+menjadi dasar pengobatan, dengan banyak senyawa penting 
+bagi farmasi dan kedokteran yang diperoleh dari alam dan kini, 
+dengan bantuan teknologi modern pemahaman berkembang ke 
+arah mekanisme kimiawi di balik manfaat tumbuhan tersebut. 
+Bahan alam mampu menghasilkan molekul berstruktur 
+kompleks dan beragam, dan sekitar 20-25% dari seluruh obat 
+berasal dari sumber bahan alam (Heinrich et al., 2018).    
+Bahan obat dapat berupa  bahan alam yang diisolasi 
+langsung dari organisme penghasil misalnya inhibitor β-
+laktamase, asam klavulanat yang diisolasi dari bakteri 
+streptomyces clavuligerus; bahan alam yang telah mengalami 
+sedikit modifikasi kimia (semisintetis) misalnya aspirin yang 
+diturunkan dari asam salisilat; atau senyawa yang secara 
+
+ 
+18 
+keseluruhan sintetis dari bahan alam tertentu yang memiliki 
+aktivitas biologis, misalnya petidin yang berasal dari morfin dari 
+opium poppy (Gambar 2).  
+Bahan alam masih menjadi sumber utama induk obat, 
+contoh bahan alam yang kini menjadi salah satu obat yang 
+paling laris adalah palitaksel yang dipasarkan dengan nama 
+Taksol. Palitaksel terdapat di kulit kayu yang mengandung 
+sejumlah besar senyawa yang secara terstruktur saling terkait 
+(taksan). Palitaksel memiliki banyak gugus fungsional dan pusat 
+kiral dan sifat-sifat ini memberikan andil dalam aktivitas 
+biologisnya yang menarik. 
+Investasi industri untuk penemuan obat alami sangat 
+dipengaruhi oleh tren dan selalu berulang akibat selalu 
+munculnya cara-cara alternatif untuk menemukan induk obat 
+baru.  Penemuan obat dari alam melewati proses yang rumit 
+seperti yang digambarkan pada Gambar 3. 
+Beberapa pendekatan yang dapat digunakan untuk 
+menemukan induk obat baru dari alam, yaitu: 
+- 
+Pendekatan 
+etnobotani: 
+pengetahuan 
+tentang 
+penggunaan tumbuhan tertentu oleh penduduk asli. 
+- 
+Pendekatan kemotaksonomik: pengetahuan bahwa suatu 
+kelompok tumbuhan khusus mengandung golongan 
+bahan 
+tertentu 
+dapat 
+dimanfaatkan 
+untuk 
+memperkirakan 
+bahwa 
+tumbuhan 
+sejenis 
+secara 
+taksonomi mungkin mengandung senyawa yang mirip 
+secara struktural. 
+- 
+Pendekatan 
+acak: 
+tanaman 
+dikumpulkan 
+tanpa 
+memperhatikan aktivitas kimia atau biologis yang telah 
+ada sebelumnya. 
+- 
+Pendekatan berbasis informasi: memanfaatkan kombinasi 
+pendekatan 
+etnobotani, 
+kemotaksonomi 
+dan 
+acak 
+bersama kumpulan data yang memiliki semua informasi 
+relevan mengenai spesies tumbuhan tertentu. Kumpulan 
+data digunakan untuk memprioritaskan tanaman yang 
+
+ 
+19 
+harus 
+diekstraksi 
+dan 
+diskrining 
+untuk 
+mencari 
+bioaktivitasnya (Heinrich et al., 2018). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gambar 3.  Berbagai tahap proses penemuan obat dari 
+bahan alam (1-Pengumpulan tanaman, 2-
+Ekstraksi, 3-Isolasi dan pemurnian, 4-
+Bioassay, 
+5-Karakterisasi 
+struktural, 
+6-
+Optimalisasi 
+timbal) 
+(Chaachouay 
+and 
+Zidane, 2024). 
+4. Metabolisme Sekunder pada Tumbuhan 
+Metabolisme sekunder pada tumbuhan mengacu pada 
+produksi senyawa kimia yang bukan bagian dari proses 
+metabolisme dasar atau primer, seperti respirasi dan 
+fotosintesis. 
+Senyawa 
+ini 
+biasanya 
+berfungsi 
+untuk 
+melindungi tumbuhan dari herbivora, patogen, dan stres 
+lingkungan, atau untuk menarik penyerbuk. Senyawa yang 
+bertanggung jawab terhadap efek terapeutik tanaman 
+disebut senyawa aktif (active constituents), sedangkan yang 
+lain disebut senyawa inert. Sering kali keberadaan senyawa 
+inert dapat mengubah ataupun mencegah absorptivitas atau 
+potensi dari senyawa aktif. Untuk meniadakan efek tak 
+diinginkan dari senyawa inert, dilakukan ekstraksi terhadap 
+senyawa aktif. Senyawa aktif farmakologis bertanggung 
+jawab terhadap efek terapeutik obat/ tumbuhan, dapat 
+berupa senyawa tunggal ataupun campuran dari senyawa 
+yang sering disebut metabolit sekunder tumbuhan. Metabolit 
+sekunder tumbuhan dipengaruhi oleh tiga hal pokok, yakni 
+komposisi 
+genetik 
+(heredity), 
+tahap 
+pengembangan 
+
+ 
+20 
+(ontogeny), dan lingkungan (environment) (Nugroho and 
+Hartini, 2020). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gambar 4. Fitokimia tumbuhan (Soltys et al., 2021) 
+ 
+Beberapa kelompok metabolit sekunder yang paling 
+umum dan berperan penting adalah (Heinrich et al., 2018) : 
+a. Alkaloid 
+Alkaloid adalah kelompok senyawa alam yang 
+sangat berperan dalam dunia obat-obatan dan farmasi, 
+dengan berbagai aktivitas biologis yang luas dan distribusi 
+yang meliputi tumbuhan, fungi, bakteri, amfibi, serangga, 
+hewan laut, dan manusia. Alkaloid umumnya bersifat basa 
+karena mengandung gugus amina primer, sekunder, atau 
+tersier, namun beberapa alkaloid dapat bersifat netral atau 
+asam. Secara biosintesis, alkaloid dihasilkan dari berbagai 
+asam amino, yang menghasilkan keragaman struktur dasar. 
+Alkaloid dikenal memiliki banyak aplikasi, termasuk 
+sebagai pereda nyeri, stimulan rekreasional, dan dalam 
+upacara keagamaan (Britannica, 2024). 
+b. Flavonoid: 
+Flavonoid merupakan senyawa yang berasal dari 
+unit C6-C3 (fenilpropana) yang sumbernya adalah asam 
+shikimat (melalui fenilalanin) dan unit C6 tambahan yang 
+
+ 
+21 
+berasal dari jalur poliketida. Fragment poliketida ini 
+dihasilkan oleh tiga molekul malonil-CoA yang bergabung 
+dengan unit C6-C3 untuk membentuk unit starter triketo. 
+Biosintesis flavonoid melibatkan enzim chalcone synthase 
+yang mengubah unit triketo menjadi kelompok chalcone, 
+yang kemudian mengalami siklisasi membentuk inti 
+flavanon. Flavonoid berperan penting dalam memberikan 
+warna pada tumbuhan dan memiliki aktivitas antioksidan 
+yang dapat menangkal radikal bebas, serta berpotensi 
+melindungi tubuh dari penyakit seperti kanker dan 
+penyakit jantung. 
+c. 
+Triterpenoid 
+Triterpenoid adalah senyawa turunan terpenoid C30 
+yang tersebar luas pada manusia, tumbuhan, fungi, bakteri, 
+karang lunak, dan amfibi. Beberapa jenis triterpenoid 
+penting mencakup steroid, sterol, dan triterpen pentasiklik 
+seperti asam glisirhetat pada licorice dan limonoid yang 
+bersifat pahit pada keluarga tanaman Citrus. Biosintesis 
+triterpen dimulai dari dua molekul farnesil pirofosfat yang 
+membentuk skualen, yang kemudian dikonversi menjadi 
+berbagai senyawa turunan seperti kolesterol dan fitosterol, 
+yang berperan penting dalam membran sel. Selain itu, 
+triterpenoid juga memiliki aktivitas antimikroba dan anti-
+inflamasi, serta digunakan dalam berbagai aplikasi farmasi. 
+d. Glikosida 
+Glikosida merupakan senyawa alam yang memiliki 
+keragaman struktural tinggi karena mengandung bagian 
+gula yang terikat secara kimiawi dengan aglikon, yaitu 
+bagian non-gula seperti terpen, flavonoid, atau kumarin. 
+Terdapat dua jenis utama glikosida, yaitu C-glikosida, di 
+mana gula terikat pada aglikon melalui ikatan karbon–
+karbon, dan O-glikosida, di mana ikatan terjadi melalui 
+ikatan oksigen–karbon. Pembentukan glikosida umumnya 
+meningkatkan 
+kelarutan 
+senyawa 
+dalam 
+air, 
+memungkinkan 
+organisme 
+penghasilnya 
+untuk 
+
+ 
+22 
+menyimpan dan mengangkut glikosida dengan lebih 
+efisien. 
+5. Pengembangan Pemanfaatan Bahan Alam 
+Senyawa alami yang berasal dari tumbuhan tetap 
+menjadi sumber penting dalam pengembangan obat-obatan 
+inovatif dan metode perawatan baru. Keanekaragaman 
+kimiawi yang luas pada tumbuhan menawarkan potensi besar 
+untuk aplikasi medis. Pengembangan obat berbasis tumbuhan 
+didorong oleh penemuan senyawa bioaktif baru serta 
+pemahaman yang lebih mendalam mengenai mekanisme 
+kerjanya. Perkembangan ini semakin pesat seiring dengan 
+kemajuan dalam bidang genomik dan metabolomik yang 
+memungkinkan peneliti untuk mengidentifikasi senyawa 
+potensial, memprediksi fungsinya, dan memodifikasi genom 
+tumbuhan 
+untuk 
+meningkatkan 
+produksi 
+metabolit 
+bermanfaat. Di masa depan, senyawa dari tumbuhan 
+berpotensi digunakan dalam pengobatan presisi yang 
+disesuaikan dengan profil genetik dan kesehatan individu, 
+meningkatkan efektivitas terapi sekaligus mengurangi efek 
+samping. Namun, tantangan seperti eksploitasi berlebihan, 
+kualitas yang tidak konsisten, dan regulasi yang kompleks 
+perlu ditangani dengan pendekatan multidisiplin untuk 
+memastikan manfaat maksimal tanpa merugikan lingkungan, 
+masyarakat, dan layanan kesehatan (Wainwright et al., 2022; 
+Chaachouay and Zidane, 2024). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+23 
+DAFTAR PUSTAKA 
+ 
+Ali, M.J., Gyulai, G. and Al-Hemaid, F. (2016) Plant DNA Barcoding 
+and Phylogenetics. Lambert Academic Publishing. 
+Britannica (2024) Alkaloid, Encyclopedia Britannica. 
+Chaachouay, N. and Zidane, L. (2024) ‘Plant-Derived Natural 
+Products: 
+A 
+Source 
+for 
+Drug 
+Discovery 
+and 
+Development’, Drugs and Drug Candidates, 3(1), pp. 184–
+207.  
+Elufioye, T.O. and Badal, S. (2017) Background to Pharmacognosy, 
+Pharmacognosy: Fundamentals, Applications and Strategy. 
+Elsevier Inc.  
+Harvard University Herbaria & Libraries (2024) Brief History of 
+Botany, Harvard University. 
+Heinrich, M. et al. (2018) Fundamentals of Pharmacognosy and 
+Phytotherapy. third. Elsevier Health Sciences. 
+Nugroho, L.H. and Hartini, Y.S. (2020) FARMAKOGNOSI 
+TUMBUHAN OBAT: Kajian Spesifik Genus Piper. Gadjah 
+Mada University Press. 
+Pengelly, A. and Bone, K. (2020) Phytochemistry: Fundamental, 
+Modern Techniques and Applications, The Constituents of 
+Medicinal Plants. Apple Academic Press & CRC Press. 
+Shipunov, A. (2021) Introduction to Botany. Minot State University 
+(North Dakota, USA).  
+Simpson, M.G. (2019) ‘Plant Systematic 3rd ed.’ London: Elsevier 
+Academic Press. 
+Sinha, D. et al. (2023) Phytochemistry, history, and progress in drug 
+discovery. Elsevier. 
+Soltys, L. et al. (2021) ‘Green synthesis of metal and metal oxide 
+nanoparticles: Principles of green chemistry and raw 
+materials’, Magnetochemistry, 7(11), pp. 1–34. 
+Wainwright, C.L. et al. (2022) ‘Future directions for the discovery of 
+natural product-derived immunomodulating drugs: an 
+IUPHAR positional review’, Pharmacological Research, 
+177(December 2021).  
+
+ 
+24 
+BIODATA PENULIS 
+ 
+Apt. Safrina, S.Farm., M. Si lahir di 
+Banda Aceh, 04 September 1990. 
+Menyelesaikan 
+pendidikan 
+S1 
+di 
+Fakultas 
+Farmasi 
+di 
+Universitas 
+Sumatera Utara dan S2 di Magister 
+Kimia Universitas Syiah Kuala. Sampai 
+saat ini penulis sebagai Dosen di 
+Jurusan Farmasi Politeknik Kesehatan 
+Aceh dan Akademi Farmasi dan 
+Makanan Banda Aceh.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+25 
+BAB 3 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Pendahuluan 
+Indonesia 
+merupakan 
+salah 
+satu 
+negara 
+dengan 
+keanekaragaman hayati yang cukup tinggi. Tidak kurang dari 
+30.000 spesies tumbuhan ada di hutan tropis Indonesia. Dari 
+jumlah tersebut sekitar 9.600 spesies yang diketahui memiliki 
+khasiat obat. 
+“Sayangnya belum semuanya dimanfaatkan untuk 
+pengobatan. Baru 200 spesies saja yang telah digunakan sebagai 
+bahan baku industri obat tradisional,” jelas Prof.Dr. Ratna 
+Asmah Susidarti, M.S., Spt., saat menyampaikan pidato 
+pengukuhan jabatan Guru Besar pada Fakultas Farmasi UGM, 
+Selasa (17/1) di Balai Senat UGM.  
+Obat tradisional adalah bahan atau ramuan bahan yang 
+berupa bahan tumbuhan, bahan hewan, bahan mineral, sediaan 
+sarian (galenik) atau campuran dari bahan tersebut, yang secara 
+turun-temurun 
+telah 
+digunakan 
+untuk 
+pengobatan 
+berdasarkan.  Jamu adalah salah satu bentuk obat tradisional. 
+Obat Herbal Terstandar atau biasa disingkat OHT adalah adalah 
+sediaan obat bahan alam atau obat tradisional yang sudah 
+terbukti keamanan dan juga khasiatnya secara ilmiah dengan uji 
+praklinik dan bahan baku yang digunakan telah di standarisasi  
+(UGM, 2020). 
+Penggunaan obat dengan bahan herbal, wajib melalui 
+suatu proses penelitian sehingga dapat masuk dalam daftar 
+Metodologi Penelitian 
+Herbal 
+ 
+Dr. Dra. Linda Augustien Makalew, M.Kes. 
+ 
+
+ 
+26 
+OHT. Data penelitian menunjukkan terdapat 122 senyawa yang 
+digunakan sebagai obat. Seluruh senyawa tersebut didapat dari 
+94 spesies tanaman yang sebagian besar yaitu sekitar 80 persen 
+diantaranya telah digunakan sebagai obat rakyat. Peluang untuk 
+menemukan berbagai senyawa aktif baru dari tumbuhan untuk 
+dimanfaatkan sebagai obat masih terbuka lebar. Menurutnya, 
+penggunaan sumber botani tanaman sebagai titik awal dalam 
+program pengembangan obat sangat bermanfaat. Salah satunya 
+karena sebagian besar pemilihan calon spesies tumbuhan untuk 
+penelitian didasarkan pada penggunaan jangka panjang oleh 
+manusia. Pendekatan ini didasarkan pada asumsi bahwa 
+senyawa aktif yang diisolasi dari tanaman tersebut cenderung 
+lebih aman dibandingkan yang berasal dari tanaman yang tidak 
+memiliki riwayat digunakan manusia. Riset terintegrasi, 
+komperehensif, dan berkesinambungan untuk penemuan dan 
+pengembangan obat baru juga harus terus digalakkan. 
+OHT harus memenuhi kriteria : 
+ 
+Aman sesuai dengan persyaratan yang ditetapkan. 
+ 
+Klaim khasiat dibuktikan secara ilmiah/ praklinik (pada 
+hewan percobaan). 
+ 
+Telah dilakukan standarisasi terhadap bahan baku yang 
+digunakan dalam produk jadi. 
+ 
+Memenuhi persyaratan mutu yang berlaku.    
+Keempat kriteria tersebut memerlukan proses dan 
+tahapan penelitian yang panjang. 
+B. Tahapan Penelitian Obat Herbal 
+a. Proses Penemuan Obat Baru 
+Penemuan dan pengembangan obat terus menerus 
+dilakukan untuk terus menghasilkan produk produk yang 
+bermanfaat di dunia kesehatan. 
+ 
+ 
+ 
+
+ 
+27 
+ 
+Gambar 1. Proses Penemuan Obat Baru di Amerika Serikat 
+(Bertram G.K, dkk, 2014) 
+ 
+Tahapan 
+yang 
+dilakukan 
+dalam 
+penemuan 
+dan 
+pengembangan obat yaitu penseleksian target kerja obat, 
+dilanjutkan dengan penentuan senyawa kemudian memprediksi 
+kinerja senyawa berdasarkan struktur kimia (in silico), lalu 
+dilanjutkan dengan pengujian pra klinis (in vitro dan in vivo) 
+dan uji klinis untuk melihat respon obat terhadap tubuh 
+manusia. Jika tahapan pengujian telah dilalui tahapan registrasi 
+merupakan tahapan akhir untuk mendapatkan ijin edar dari 
+pihak 
+yang 
+berwenang 
+demi 
+memperkuat 
+pernyataan 
+keamanan obat. 
+Penemuan dan pengembangan obat terus menerus 
+dilakukan untuk terus menghasilkan produk-produk yang 
+bermanfaat di dunia kesehatan. Target obat biasanya berupa sel, 
+protein, gen, ataupun biofarmasetik. Uji pra klinis dan uji klinis 
+merupakan tahapan yang penting dalam penemuan dan 
+pengembangan obat. Pengembangan obat baru di Indonesia 
+dilihat dari berbagai aspek seperti sumber bahan baku, target 
+obat, penelitian, dan biaya. 
+b. Penentuan target atau sasaran tempat kerja obat 
+Target obat biasanya berupa sel, protein, gen, ataupun 
+biofarmasetik. Suatu target obat yang baik adalah target yang 
+dapat menyeleksi beberapa kandidat molekul obat yang secara 
+aktif dapat berinteraksi dengan target sehingga dapat digunakan 
+sebagai obat yang efektif. Target obat untuk sediaan inhalasi 
+umumnya adalah sistem pernapasan. Asma, PPOK, dan infeksi 
+
+ 
+28 
+seperti tuberkulosis merupakan penyakit yang biasanya 
+diberikan obat dalam bentuk inhalasi. 
+Tuberkulosis (TB) adalah suatu penyakit infeksi yang 
+disebabkan oleh Mycobacterium tuberculosis sistemis di paru 
+paru 
+yang 
+biasanya 
+merupakan 
+lokasi 
+infeksi 
+primer 
+(Hairunnisa 2019). 
+c. Skrining senyawa obat 
+Skrining dilakukan untuk mengidentifikasi senyawa yang 
+akan bekerja di target yang akan diobati. Penentuan senyawa ini 
+dapat dilakukan dengan melakukan sintesis ataupun isolasi dari 
+senyawa yang dimaksud. Hasil dari prosedur skrining ini 
+disebut sebagai senyawa utama, yaitu merupakan kandidat 
+utama untuk obat baru. 
+d. Skrining senyawa obat 
+Skrining dilakukan untuk mengidentifikasi senyawa yang 
+akan bekerja di target yang akan diobati. Penentuan senyawa ini 
+dapat dilakukan dengan melakukan sintesis ataupun isolasi dari 
+senyawa yang dimaksud. Hasil dari prosedur skrining ini 
+disebut sebagai senyawa utama, yaitu merupakan kandidat 
+utama untuk obat baru. 
+e. Optimasi senyawa secara komputasi 
+Selanjutnya dilakukan pendekatan senyawa secara 
+komputasi (in silico). Salah satunya yaitu penambatan molekul 
+secara kimiawi. Pendekatan secara kimiawi komputasi dapat 
+digunakan untuk memprediksi aktivitas struktur, interaksi yang 
+terjadi antara struktur dengan molekul target atau antara sesama 
+molekul obat. 
+f. Formulasi senyawa obat 
+Setelah mendapatkan senyawa obat yang sesuai, dibuat 
+rancangan formula agar obat dapat dihantarkan dengan baik 
+pada target obat. Sediaan tablet merupakan sediaan yang paling 
+populer karena mudah dalam penanganannya dan cenderung 
+lebih ekonomis. Namun kini mulai bermunculan teknologi 
+penghantaran obat tertarget dalam bentuk inhalasi khususnya 
+untuk gangguan saluran pernapasan. Contohnya rifampin. Dari 
+
+ 
+29 
+awal ditemukan, rifampin diformulasikan menjadi tablet. 
+Kemudian seiring dengan 
+perkembangan 
+teknologi, 
+rifampin 
+kini 
+telah 
+mulai 
+diformulasikan menjadi bentuk inhalasi. Berdasarkan penelitian 
+Mizoe dkk bahwa sediaan rifampin-mannitol efektif dalam 
+menghantarkan obat ke paru-paru. 
+g. Uji pra klinis dan uji klinis 
+Uji pra klinis dan uji klinis merupakan tahapan yang 
+penting dalam penemuan dan pengembangan obat. Uji praklinik 
+merupakan persyaratan uji untuk kandidat obat, dari uji ini 
+diperoleh 
+informasi 
+tentang 
+efek 
+farmakologi, 
+profil 
+farmakokinetik dan toksisitas dari kandidat obat. Pada mulanya 
+yang dilakukan pada uji praklinik adalah pengujian ikatan obat 
+pada reseptor dengan kultur sel terisolasi atau organ terisolasi 
+(in vitro), selanjutnya pengujian praklinis dilakukan pada hewan 
+utuh (in vivo). Hewan yang biasa digunakan adalah hewan 
+dengan galur tertentu dari mencit, tikus, kelinci, marmot, 
+hamster, anjing, hewan-hewan ini sangat berjasa bagi 
+pengembangan obat. Hanya dengan menggunakan hewan utuh 
+dapat diketahui apakah obat menimbulkan efek toksik pada 
+dosis pengobatan atau obat tersebut aman digunakan. Untuk itu 
+pengujian secara in vitro dilakukan untuk menentukan khasiat 
+obat. Pada pengujian in vitro kita dapat memprediksi afinitas 
+dan selektifitas dari zat yang dimaksudkan untuk bekerja 
+dengan reseptor target, dapat juga terlihat mekanisme aksi dari 
+senyawa tersebut. Selanjutnya pengujian In vivo dilakukan 
+menggunakan hewan uji. 
+Tujuan utama dari eksperimen in vivo adalah untuk 
+mendapatkan pengetahuan tentang sistem biologis dilihat dari 
+perilaku hewan uji. Uji toksisitas juga dapat terlihat pada saat 
+pengujian menggunakan hewan uji, untuk melihat adanya 
+gambaran reaksi biokimia, fisiologik dan patologik pada 
+manusia terhadap suatu sediaan uji. 
+Hasil uji toksisitas tidak dapat digunakan secara mutlak 
+untuk membuktikan keamanan suatu bahan/ sediaan pada 
+
+ 
+30 
+manusia, namun dapat memberikan petunjuk adanya toksisitas 
+relatif dan membantu identifikasi efek toksik bila terjadi 
+pemaparan pada manusia. 
+Faktor-faktor yang menentukan hasil uji toksisitas secara 
+in vivo dapat dipercaya adalah pemilihan spesies hewan uji, 
+galur dan jumlah hewan, cara pemberian sediaan uji, pemilihan 
+dosis uji, efek samping sediaan uji, teknik dan prosedur 
+pengujian termasuk cara penanganan hewan selama percobaan.  
+Setelah 
+kandidat 
+obat 
+dinyatakan 
+mempunyai 
+kemanfaatan dan aman pada hewan percobaan maka 
+selanjutnya dilakukan uji klinik (diuji pada manusia). Uji pada 
+manusia harus diteliti dulu kelayakannya oleh komite etik. Uji 
+klinik terdiri dari 4 fase yaitu : 
+Fase I : 
+kandidat obat diuji pada sukarelawan sehat 25-50 
+orang untuk mengetahui apakah sifat yang diamati 
+pada hewan percobaan juga terlihat pada manusia. 
+Pada fase ini ditentukan hubungan dosis dengan efek 
+yang ditimbulkannya dan profil farmakokinetik obat 
+pada manusia. 
+Fase II : kandidat obat diuji pada pasien tertentu 100-200 orang, 
+diamati efikasi pada penyakit yang diobati. obat 
+memiliki efek yang potensial dengan efek samping 
+rendah atau tidak toksik. Pada fase ini mulai dilakukan 
+pengembangan dan uji stabilitas bentuk sediaan obat. 
+Fase III : melibatkan kelompok besar pasien sekitar ribuan 
+orang, di sini obat yang dikembangkan dibandingkan 
+efek dan keamanannya terhadap obat pembanding 
+yang sudah diketahui. Keputusan diberikan oleh 
+badan pengatur nasional, di Indonesia keputusan hasil 
+pengujian dikeluarkan oleh Badan Pengawas Obat dan 
+Makanan, dengam melampirkan data dokumen uji 
+praklinik dan klinik yang sesuai dengan indikasi yang 
+diajukan, efikasi dan keamanannya harus sudah 
+ditentukan dari bentuk produknya (tablet, kapsul dll.) 
+
+ 
+31 
+yang telah memenuhi persyaratan produk melalui 
+kontrol kualitas (Kemenkes RI, 2012). 
+Fase IV : setelah obat dipasarkan masih dilakukan studi pasca 
+pemasaran (post marketing surveillance) yang diamati 
+pada pasien dengan berbagai kondisi, berbagai usia 
+dan ras, studi ini dilakukan dalam jangka waktu lama 
+untuk melihat nilai terapeutik dan pengalaman jangka 
+panjang dalam menggunakan obat. Setelah hasil studi 
+fase IV dievaluasi masih memungkinkan obat ditarik 
+dari perdagangan jika membahayakan. 
+ 
+Sebagai gambaran, dari 10 ribu senyawa kandidat obat yang 
+diteliti, hanya 1 senyawa obat yang berhasil dipasarkan dan 
+sampai ke pasien. 
+ 
+Gambar 2. Dari 10 ribu kandidat obat, hanya 1 yang sukses 
+(Hairunnisa, 2019) 
+h. Izin edar obat baru 
+Obat yang akan diedarkan di wilayah Indonesia wajib 
+memiliki 
+Izin 
+Edar 
+(BPOM, 
+2021). 
+Setelah melakukan 
+serangkaian pengujian penemuan dan pengembangan obat. 
+Selanjutnya dilakukan registrasi demi mendukung keamanan 
+obat yang akan dikembangkan dengan mendapatkan nomor 
+registrasi sehingga keamanan konsumen lebih terjaga. Pasal 106 
+Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan 
+
+ 
+32 
+menyatakan bahwa Sediaan farmasi dan alat kesehatan hanya 
+dapat diedarkan setelah mendapat izin edar. 
+Penandaan dan informasi sediaan farmasi dan alat 
+kesehatan harus memenuhi persyaratan objektivitas dan 
+kelengkapan serta tidak menyesatkan. Industri farmasi sebagai 
+pelaku usaha dalam menjalankan usahanya harus mempunyai 
+kewajiban Memberikan informasi yang benar, jelas dan jujur 
+mengenai kondisi dan jaminan dari obat yang di produksi serta 
+memberi penjelasan penggunaan, Menjamin mutu obat yang 
+diproduksi dan diperdagangkan berdasarkan ketentuan standar 
+mutu yang berlaku. Nah semua proses ini semata mata demi 
+menjamin keamanan produk yang akan digunakan oleh 
+masyarakat (BPOM RI, 2024). 
+Dari sisi biaya, dengan proses yang panjang, menemukan 
+suatu obat baru sangatlah mahal dan perlu investasi jangka 
+panjang, tidak heran umumnya industri farmasi di Indonesia 
+jarang melakukan riset sampai ditemukan obat baru hingga 
+dipasarkan, tidak heran impor bahan baku farmasi masih diatas 
+angka 90%. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+33 
+DAFTAR PUSTAKA 
+ 
+BPOM 
+RI. 
+2024. 
+“Perka 
+BPOM 
+no 
+9937 
+Tahun 
+2011.” 
+doi:10.1016/j.ijtb.2023.12.009. 
+Hairunnisa, Hairunnisa. 2019. “Sulitnya Menemukan Obat Baru di 
+Indonesia.” 
+Farmasetika.com 
+(Online) 
+4(1): 
+16. 
+doi:10.24198/farmasetika.v4i1.22517. 
+Katzung, Bertram G. 2014. “Farmakologi Dasar & Klinik Vol 2 
+ED.13.” 
+Peraturan BPOM No 32 Tahun 2019 Tentang Persyaratan Keamanan 
+Dan Mutu Obat Tradisional. 2021. “Badan pengawas obat dan 
+makanan republik indonesia.” Bpom Ri 11: 1–16. 
+RI, Kementerian Kesehatan. 2012. “Permenkes RI no 006 Tahun 
+2012.” Экономика Региона: 32. 
+Universitas Gadjah Mada, Jurusan Farmasi. 2020. “Pentingnya 
+Mengenal Kembali Jenis Obat Tradisional pada Masa 
+Pandemik Covid-19 – Fakultas Farmasi UGM.” Farmasi.Ugm. 
+https://farmasi.ugm.ac.id/id/pentingnya-mengenal-
+kembali-jenis-obat-tradisional-pada-masa-pandemik-covid-
+19/. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+34 
+BIODATA PENULIS 
+ 
+Dr. Dra. Linda Augustien 
+Makalew, M.Kes., lahir di 
+Surabaya, pada 10 Agustus 
+1967. Ia tercatat sebagai tenaga 
+edukatif 
+di 
+Politeknik 
+Kesehatan 
+Kementerian 
+Kesehatan RI Manado sejak 
+1997. 
+Wanita 
+yang 
+kerap 
+disapa Linda ini adalah anak 
+dari 
+pasangan 
+Alm. 
+P.F. 
+Makalew (ayah) dan Almh J.J. 
+Rotty (ibu). Linda Makalew 
+pada 
+2018 
+lalu, 
+meraih 
+Doktoral bidang Biostatika di 
+Universitas 
+Airlangga 
+Surabaya Fakultas Kesehatan 
+Masyarakat dengan predikat 
+cum-laude. 
+ 
+ 
+ 
+
+ 
+35 
+Farmakokinetik dan 
+Farmakodinamik Herbal 
+ 
+*Jeanne d’arc Zafera Adam, AmdKG, SPd, M.Kes* 
+ 
+BAB 4   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Farmakokinetik herbal 
+Farmakokinetik adalah istilah yang menggambarkan empat 
+tahap penyerapan, distribusi, metabolisme, dan ekskresi obat. 
+Obat-obatan adalah obat atau zat lain yang memiliki efek 
+fisiologis ketika diperkenalkan ke tubuh. Ada empat tahap dasar 
+obat berjalan melalui dalam tubuh manusia: penyerapan, 
+distribusi, metabolisme, dan ekskresi. Seluruh proses ini 
+kadang-kadang disebut Absorption, Distribution, Metabolisme, 
+Excertion disingkat ADME. 
+ 
+Gambar 1. Tahap dasar perjalanan obat pada tubuh manusia 
+
+ 
+36 
+Penyerapan (Absorption) adalah tahap pertama farmakokinetik 
+dan terjadi setelah obat memasuki tubuh dan melakukan 
+perjalanan dari tempat pemberian ke dalam sirkulasi tubuh. 
+Distribusi (distribution) adalah tahap kedua farmakokinetik. 
+Proses ini merupakan proses dimana obat menyebar ke seluruh 
+tubuh. Metabolisme (metabolism) merupakan tahap ketiga 
+farmakokinetik dan melibatkan pemecahan molekul obat. 
+Ekskresi (excretion) merupakan tahap akhir farmakokinetik dan 
+mengacu pada proses di mana tubuh menghilangkan limbah.  
+Ilmuwan penelitian yang berspesialisasi dalam farmakokinetik 
+juga harus memperhatikan dimensi lain dari aksi obat di dalam 
+tubuh: waktu. Para ilmuwan tidak memiliki kemampuan untuk 
+memvisualisasikan ke mana obat akan pergi atau berapa lama 
+aktif. Untuk mengimbanginya, mereka menggunakan model 
+matematika dan pengukuran darah dan urin yang tepat untuk 
+menentukan ke mana obat pergi dan berapa banyak obat (atau 
+produk kerusakan) yang tersisa setelah tubuh memprosesnya. 
+Indikator lain, seperti kadar enzim hati dalam darah, dapat 
+membantu memprediksi berapa banyak obat yang akan diserap. 
+Prinsip 
+kimia 
+juga 
+diterapkan 
+saat 
+mempelajari 
+farmakokinetik karena interaksi antara obat dan molekul tubuh 
+mewakili serangkaian reaksi kimia. Memahami pertemuan 
+kimia antara obat dan lingkungan biologis, seperti aliran darah 
+dan permukaan sel berminyak, diperlukan untuk memprediksi 
+berapa banyak obat akan dimetabolisme oleh tubuh. 
+B. Farmakodinamik Herbal 
+Farmakodinamik mengacu pada efek obat dalam tubuh dan 
+mekanisme kerjanya. Sebagai obat perjalanan melalui aliran 
+darah, ia menunjukkan afinitas unik untuk situs obat-reseptor, 
+yang berarti seberapa kuat ia mengikat ke situs. Obat-obatan dan 
+situs reseptor membuat sistem kunci dan kunci yang 
+mempengaruhi bagaimana obat bekerja dan adanya obat dalam 
+aliran darah setelah diberikan. Konsep ini secara luas disebut 
+sebagai bioavailabilitas obat. 
+
+ 
+37 
+Bioavailabilitas obat adalah fitur penting yang perlu diingat 
+oleh ahli kimia dan ilmuwan farmasi ketika merancang dan 
+mengemas obat-obatan. Namun, tidak peduli seberapa efektif 
+obat bekerja dalam simulasi laboratorium, kinerja dalam tubuh 
+manusia tidak akan selalu menghasilkan hasil yang sama, dan 
+respons individual terhadap obat harus dipertimbangkan. 
+Meskipun banyak respons terhadap obat dapat diantisipasi, 
+susunan genetik unik seseorang dapat secara signifikan 
+memengaruhi 
+respons 
+mereka 
+terhadap 
+suatu 
+obat. 
+Farmakogenetik didefinisikan sebagai studi tentang bagaimana 
+gen orang mempengaruhi respons mereka terhadap obat-
+obatan. 
+Farmakodinamik (kadang-kadang digambarkan sebagai 
+apa yang dilakukan obat terhadap tubuh) adalah studi tentang 
+efek biokimia, fisiologis, dan molekuler obat pada tubuh dan 
+melibatkan pengikatan reseptor (termasuk sensitivitas reseptor), 
+efek postreseptor, dan interaksi kimia. Farmakodinamik, dengan 
+farmakokinetik (apa yang dilakukan tubuh terhadap obat, atau 
+nasib obat di dalam tubuh), membantu menjelaskan hubungan 
+antara dosis dan respons, yaitu, efek obat. Respon farmakologis 
+tergantung pada obat yang mengikat targetnya. Konsentrasi 
+obat di situs reseptor mempengaruhi efek obat. 
+
+ 
+38 
+ 
+Gambar 2. Proses Farmakokinetik dan Farmakodinamik 
+ 
+Gambar 2 menunjukkan tentang proses farmakokinetik dan 
+farmakodinamik yang mempengaruhi efikasi dan keamanan 
+obat pada subjek usia lanjut. Perubahan terkait usia di banyak 
+organ dan sistem dapat menghasilkan hasil klinis yang berbeda 
+dari yang diharapkan sebagai respons terhadap beberapa obat. 
+Farmakodinamik obat dapat dipengaruhi oleh perubahan 
+fisiologis yaitu: 
+1. Gangguan atau penyakit 
+2. Proses penuaan 
+3. Obat lain 
+Gangguan yang mempengaruhi respons farmakodinamik 
+termasuk mutasi genetik, tirotoksikosis, malnutrisi, myasthenia 
+gravis, penyakit Parkinson, dan beberapa bentuk diabetes 
+mellitus yang resistan terhadap insulin. Gangguan ini dapat 
+mengubah pengikatan reseptor, mengubah tingkat protein 
+pengikat, atau menurunkan sensitivitas reseptor. Penuaan 
+cenderung mempengaruhi respons farmakodinamik melalui 
+perubahan pengikatan reseptor atau sensitivitas respons 
+
+ 
+39 
+postreseptor. Interaksi obat-obat farmakodinamik menghasilkan 
+persaingan untuk situs pengikatan reseptor atau mengubah 
+respons postreseptor. 
+C. Obat dan Efek Samping 
+Obat merupakan bahan yang sangat berpotensi bila 
+digunakan dengan tepat karena obat dapat mencegah, 
+menyembuhkan penyakit atau mengatasi masalah kesehatan 
+anda. Namun sebaliknya, jika tidak digunakan dengan tepat, 
+obat bukan saja tidak berguna, bahkan bisa merugikan karena 
+obat merupakan bahan kimia yang selain memiliki efek terapi, 
+juga dapat menimbulkan efek yang tidak diinginkan. 
+Menggunakan obat dengan tepat bukanlah suatu hal yang 
+sulit untuk dilakukan konsumen. Cukup dengan mematuhi 
+semua informasi yang tertera pada kemasan obat atau aturan 
+pakai yang dituliskan oleh apotik. Jika masih merasa kurang 
+jelas, konsumen berhak untuk meminta informasi obat kepada 
+apotek atau kepada Pusat Informasi Obat yang memberikan 
+layanan informasi obat kepada masyarakat luas seperti PIO Nas 
+Badan POM (Pusat Informasi Obat Nasional Badan POM) 
+Sebelum disetujui beredar di Indonesia, semua obat harus 
+melewati proses evaluasi oleh Badan POM dengan kriteria 
+utama yang dinilai adalah efikasi / manfaat yg meyakinkan, 
+keamanan yang memadai, mutu yang terjamin dan penandaan 
+yang berisi informasi yang lengkap dan objektif yang dapat 
+menjamin penggunaan obat secara tepat, rasional dan aman. 
+Konsumen dapat memperoleh informasi obat sebagaimana 
+tersebut diatas dari etiket, bungkus luar, strip/blister, catch 
+cover/amplop atau brosur yang terdapat dalam kemasan obat.  
+Untuk mengatasi masalah atau gangguan kesehatan yang 
+ringan seperti batuk pilek, sakit kepala, diare, sembelit, perut 
+kembung, sakit maag, gatal-gatal, infeksi jamur pada kulit dan 
+sebagainya, konsumen bisa melakukan pengobatan sendiri 
+dengan menggunakan obat bebas atau obat bebas terbatas. 
+Dalam melakukan pengobatan sendiri, konsumen dapat 
+meminta konsultasi pada Apoteker di apotek. Namun, jika gejala 
+
+ 
+40 
+yang mengganggu itu tetap berlanjut atau bahkan makin parah, 
+konsumen harus segera memeriksakan penyakitnya ke dokter. 
+Kemudian, pada umumnya, dokter akan memberikan resep 
+yang berisi obat keras. Beberapa hal yang penting untuk diingat 
+yaitu: 
+1. Penggunaan obat-obatan dalam pelayanan kebidanan 
+harus selalu berdasarkan resep dan pengawasan dokter 
+atau bidan. 
+2. Setiap obat memiliki efek samping dan kontraindikasi yang 
+berbeda-beda. Oleh karena itu, penting untuk membaca 
+informasi obat dengan seksama sebelum menggunakannya. 
+3. Jika Anda memiliki pertanyaan tentang obat-obatan yang 
+Anda konsumsi, konsultasikan dengan dokter atau bidan 
+Anda. 
+D. Penelitian 
+yang 
+Berkaitan 
+Farmakokinetik 
+dan 
+Farmakodinamik Herbal 
+1. Daun sirih hijau mengandung minyak esensial yang terdiri 
+dari fenol dan turunannya, termasuk enzim betlephenol, 
+estragol, kavikol, eugenol, dan diasten. Infus daun sirih 
+mampu 
+menghambat 
+pertumbuhan 
+bakteri 
+yang 
+disebabkan 
+plak. 
+Penelitian 
+ini 
+bertujuan 
+untuk 
+mengetahui efektivitas merendam daun sirih pada indeks 
+plak pada anak usia 12-15 tahun di desa pesisir Kabupaten 
+Tenggara. Ini adalah penelitian pra-pasca tes satu 
+kelompok kuasi-eksperimental. Variabel yang diukur 
+adalah kebersihan gigi menggunakan indeks plak Patient 
+Hygiene Performance (PHP). Perlakuan yang diberikan 
+kepada subjek penelitian adalah memberikan air seduhan 
+dan kemudian berkumur selama 60 detik. Setelah itu, 
+indeks plak diukur. Data yang diperoleh ditabulasi dan 
+disajikan dalam bentuk tabel dan diuji menggunakan uji-t 
+berpasangan. Hasil penelitian menunjukkan bahwa indeks 
+plak sebelum berkumur rebusan daun sirih sebagian besar 
+berada dalam kriteria buruk (60%). Selanjutnya, setelah 
+rebusan daun sirih berkumur maka indeks plak terbanyak 
+
+ 
+41 
+berada pada kategori medium (64%). Hasil uji paired-t 
+memperoleh nilai p 0,000 (p <0,05). Nilai ini menunjukkan 
+bahwa terdapat perbedaan indeks plak sebelum dan 
+sesudah diberikan perawatan, yang berarti ada efek 
+pemberian infus daun sirih pada indeks plak. Dapat 
+disimpulkan bahwa infus daun sirih efektif dalam 
+meningkatkan indeks plak pada anak usia 12-15 tahun. 
+Adam, J. d’arc Z., Raule, J. H. ., Fiona, V. R. ., Maramis, J. L., 
+Ratuela, J. E., Tahulending, A., & Sumampouw, O. J. (2023). 
+Efektivitas Seduhan Daun Sirih terhadap Indeks Plak pada 
+Anak Usia 12-15 tahun di Desa Pesisir Kabupaten Minahasa 
+Tenggara. 
+Jurnal 
+Ners, 
+7(2), 
+1212–1217. 
+https://doi.org/10.31004/jn.v7i2.16745 
+2. Kulit 
+buah 
+manggis 
+(Garcinia 
+mangostana 
+Linn.) 
+mengandung sifat farmakologis yang lebih tinggi daripada 
+bagian lain dari buah manggis sebagai antibakteri, 
+antiinflamasi, antioksidan dan antikanker. Beberapa 
+penelitian menunjukkan bahwa rebusan kulit manggis 
+dapat menurunkan debris indeks. Tujuan penelitian ini 
+yaitu untuk mengetahui efektivitas berkumur air matang 
+kulit manggis dalam menurunkan debris indeks pada 
+remaja di Kota Manado. Ini adalah penelitian eksperimental 
+dengan pendekatan pretest-posttest satu kelompok. Studi 
+ini dilakukan di SMP Negeri 8 Manado pada April 2024 
+terhadap 80 responden. Instrumen penelitian ini adalah alat 
+diagnostik oral, bahan air matang kulit manggis dan format 
+penilaian indeks puing-puing. Hasil analisis melalui uji 
+statistik Wilcoxson. Hasil penelitian menunjukkan bahwa 
+peringkat positif atau perbedaan antara pretest dan postest 
+efektivitas berkumur air matang kulit manggis terhadap 
+penurunan debris indeks memperoleh nilai peringkat 
+negatif sebesar 62, artinya dari 80 responden terdapat 62 
+responden yang mengalami penurunan debris indeks 
+dengan rata-rata peringkat 31,50. Selain itu, diperoleh nilai 
+p = 0,000 (p <0,05) sehingga dinyatakan bahwa diperoleh 
+
+ 
+42 
+perbedaan signifikan nilai debris indeks pada pretest dan 
+posttest. Dapat disimpulkan bahwa berkumur dengan air 
+matang kulit manggis efektif mengurangi debris indeks 
+pada remaja di kota Manado. 
+Adam, J. d’Arc Z., Koch, N. M., Tahulending, A. A., 
+Karamoy, Y. ., & Sumampouw, O. J. (2024). Efektivitas 
+Berkumur 
+Air 
+Rebusan 
+Kulit 
+Manggis 
+(Garcinia 
+mangostana Linn) Dalam Menurunkan Debris Indeks Pada 
+Remaja. 
+Jurnal 
+Ners, 
+8(2), 
+1602–1606. 
+https://doi.org/10.31004/jn.v8i2.28337 
+3. Diabetes melitus yaitu gangguan metabolisme yang 
+ditandai dengan hiperglikemia. Metformin merupakan lini 
+pertama pengobatan DM tipe 2. Kombinasi obat sintetis 
+dengan herbal telah dilaporkan menjadi lebih unggul dan 
+populer dibandingkan pengobatan 
+monoterapi saja. 
+Penggunaan obat sintetis dengan herbal dapat memicu 
+interaksi 
+obat 
+yang 
+dapat 
+memberikan 
+efek 
+menguntungkan ataupun merugikan. Tulisan ini bertujuan 
+untuk mengetahui interaksi yang terjadi antara obat 
+antidiabetes metformin dengan herbal. Kombinasi obat 
+metformin dengan herbal seperti ginseng Korea (Panax 
+ginseng), kamperfuli (Lonicera japonica), amis-amisan 
+(Houttuynia cordata), murbei (Morus alba), pisang (Musa 
+sapientum), pare (Momordica charantia), kelapa (Cocos 
+nucifera), 
+dan 
+kopiah 
+Cina 
+(Scutellaria 
+baicalensis) 
+menunjukkan 
+interaksi 
+farmakokinetik 
+berupa 
+peningkatan penyerapan metformin dalam plasma yang 
+diduga dimediasi oleh penghambatan MATE1 dan 
+peningkatan OCT1, serta penghambatan hOCT2 yang 
+menyebabkan penurunan penyerapan metformin di ginjal. 
+Adapun interaksi farmakodinamiknya menunjukkan efek 
+yang searah baik aditif maupun sinergis dalam penurunan 
+kadar glukosa darah. Kesimpulan tulisan ini yaitu 
+konsumsi metformin dengan herbal menunjukkan adanya 
+
+ 
+43 
+potensi interaksi obat baik secara farmakokinetik ataupun 
+farmakodinamik. 
+Cicih, 
+A. 
+(2022). 
+Interaksi 
+farmakokinetik 
+dan 
+farmakodinamik 
+metformin-herbal. 
+Jurnal 
+Ilmiah 
+Farmasi, 18(1), 13-25.  
+4. Interaksi obat-obat didefinisikan sebagai modifikasi efek 
+obat sebagai akibat dari obat lain yang diberikan secara 
+bersamaan atau dengan interval atau ketika dua atau lebih 
+obat berinteraksi sehingga efektivitas atau toksisitas satu 
+atau lebih obat berubah. Interaksi farmakodinamik adalah 
+salah satu jenis interaksi yang perlu mendapat perhatian 
+khusus karena interaksi ini bekerja langsung pada sistem 
+fisiologis tubuh dan bersaing pada reseptor yang sama 
+sehingga dapat bersifat antagonis, aditif, atau sinergis. 
+Penggunaan tanaman obat menjadi alternatif karena selain 
+efek sampingnya yang relatif lebih aman, tanaman obat 
+yang terdiri dari senyawa aktif tepat dalam mengobati 
+penyakit metabolik degeneratif yang dipicu oleh mutasi 
+pada banyak gen. Seperti dalam kasus polifarmasi, 
+interaksi senyawa aktif pada tanaman obat juga dapat 
+menyebabkan interaksi phapharmodinamik. Oleh karena 
+itu, perlu juga untuk mengidentifikasi senyawa aktif 
+sehingga kemudian dapat diketahui apakah interaksi 
+senyawa tersebut akan bermanfaat atau merugikan. Pada 
+penelitian ini, identifikasi farmakodinamik diterapkan 
+pada senyawa tanaman obat Diabetes Mellitus Tipe 2 
+dengan menggunakan variabel independen Target Protein 
+Connectivityness (TPC), Side Effect Similarity (SES), dan 
+Chemical Similarities (CS) menggunakan metode klasifikasi 
+Random Forest. Dari pencarian berbagai database, 
+diperoleh 21 senyawa aktif dan kemudian hanya 100 
+interaksi senyawa yang dapat dihitung sebagai variabel 
+independen. Dengan nilai akurasi dan AUC 0,96, terdapat 
+93 
+pasang 
+senyawa 
+yang 
+berinteraksi 
+secara 
+farmakodinamik dan 7 sisanya tidak berinteraksi. 
+
+ 
+44 
+Askari, M. A., Afendi, F. M., Fitrianto, A., & Wijaya, S. H. 
+(2022). Identification Pharmacodynamic Interactions of 
+Active Compounds of Diabetes Mellitus Type 2 Herbal 
+Plants Using the Random Forest Method: Identifikasi 
+Interaksi Farmakodinamik Senyawa Aktif Tanaman Jamu 
+Diabetes Melitus Tipe 2 Menggunakan Metode Random 
+Forest. 
+Indonesian 
+Journal 
+of 
+Statistics 
+and 
+Its 
+Applications, 
+6(2), 
+245–260. 
+https://doi.org/10.29244/ijsa.v6i2p245-260 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+45 
+DAFTAR PUSTAKA 
+ 
+Adam, J. d’Arc Z., Koch, N. M., Tahulending, A. A., Karamoy, Y. ., 
+& Sumampouw, O. J. (2024). Efektivitas Berkumur Air 
+Rebusan Kulit Manggis (Garcinia mangostana Linn) 
+Dalam Menurunkan Debris Indeks Pada Remaja. Jurnal 
+Ners, 
+8(2), 
+1602–1606. 
+https://doi.org/10.31004/jn.v8i2.28337 
+Adam, J. d’arc Z., Raule, J. H. ., Fiona, V. R. ., Maramis, J. L., Ratuela, 
+J. E., Tahulending, A., & Sumampouw, O. J. (2023). 
+Efektivitas Seduhan Daun Sirih terhadap Indeks Plak 
+pada Anak Usia 12-15 tahun di Desa Pesisir Kabupaten 
+Minahasa Tenggara. Jurnal Ners, 7(2), 1212–1217. 
+https://doi.org/10.31004/jn.v7i2.16745 
+Askari, M. A., Afendi, F. M., Fitrianto, A., & Wijaya, S. H. (2022). 
+Identification Pharmacodynamic Interactions of Active 
+Compounds of Diabetes Mellitus Type 2 Herbal Plants 
+Using the Random Forest Method: Identifikasi Interaksi 
+Farmakodinamik Senyawa Aktif Tanaman Jamu Diabetes 
+Melitus Tipe 2 Menggunakan Metode Random Forest. 
+Indonesian Journal of Statistics and Its Applications, 6(2), 
+245–260. https://doi.org/10.29244/ijsa.v6i2p245-260 
+Cicih, A. (2022). Interaksi farmakokinetik dan farmakodinamik 
+metformin-herbal. Jurnal Ilmiah Farmasi, 18(1), 13-25.  
+Fernandez, E., Perez, R., Hernandez, A., Tejada, P., Arteta, M., & 
+Ramos, J. T. (2011). Factors and mechanisms for 
+pharmacokinetic 
+differences 
+between 
+pediatric 
+population and adults. Pharmaceutics, 3(1), 53–72.  
+↵10.3390/pharmaceutics3010053 
+Ganesh, G., Dhakad., Rohit, V., Patil., Dhiraj, S., Girase., Shraddha, 
+P., Amrutkar., Ritika, Jain. (2022). Review on Antibiotics. 
+International research journal of pharmacy,  doi: 
+10.52711/0974-4150.2022.00015 
+İlknur, Akkuş., Birgül, Kaçmaz. (2023). Antifungal drugs.   doi: 
+10.51271/jchor-0010 
+
+ 
+46 
+Klaus, Strobel. (2022). Antifungals.   doi: 10.1201/9781003016786-6 
+Mahmoud, A., Ghannoum., Louis, B., Rice. (1999). Antifungal 
+Agents: Mode of Action, Mechanisms of Resistance, and 
+Correlation 
+of 
+These 
+Mechanisms 
+with 
+Bacterial 
+Resistance. Clinical Microbiology Reviews, 12(4):501-517. 
+doi: 10.1128/CMR.12.4.501 
+Mrinal, K., Bhattacharjee. (2016). Introduction to Antibiotics.   doi: 
+10.1007/978-3-319-40746-3_1 
+Peter, Sass. (2017). Antibiotics: Precious Goods in Changing Times. 
+Methods of Molecular Biology.  DOI: 10.1007/978-1-4939-
+6634-9_1 
+Robert, L., Zimdahl. (2015). Chapter 9 – Antibiotics.   doi: 
+10.1016/B978-0-12-800561-3.00009-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+47 
+BIODATA PENULIS 
+ 
+ 
+ 
+Jeanne d’arc Zafera Adam, 
+AmdKG, SPd, M.Kes lahir di 
+Ratatotok, pada 20 Juli 1967. 
+Menyelesaikan pendidikan D3 
+di Poltekkes Kemenkes Manado, 
+S1 
+di 
+Fakultas 
+Kesehatan 
+Masyarakat Universitas Negeri 
+Manado dan S2 di Program 
+Pascasarjana Ilmu Kesehatan 
+Masyarakat 
+Universitas 
+Sam 
+Ratulangi. 
+Sampai 
+saat 
+ini 
+penulis 
+sebagai 
+Dosen 
+di 
+Jurusan 
+Kesehatan 
+Gigi 
+Poltekkes Kemenkes Manado.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+48 
+BAB 5  
+ 
+ 
+ 
+ 
+ 
+ 
+A. Definisi 
+Fitokimia adalah senyawa kimia yang ditemukan dalam 
+tumbuhan yang tidak diperlukan untuk fungsi normal tubuh 
+manusia, namun memiliki efek menguntungkan bagi kesehatan 
+atau berperan aktif dalam pencegahan penyakit. Senyawa 
+tersebut masuk ke dalam kategori metabolit sekunder yang 
+dihasilkan oleh tumbuhan. Mekanisme aksi fitokimia mengacu 
+pada cara senyawa kimia yang berasal dari tumbuhan 
+(fitokimia) bekerja di dalam tubuh untuk menghasilkan efek 
+biologis yang bermanfaat atau terapeutik (Fitriawati & 
+Indrayudha, 2023). Dalam konteks farmakologi, mekanisme aksi 
+biasanya 
+melibatkan 
+interaksi 
+biokimia 
+spesifik 
+yang 
+menghasilkan efek farmakologis. Ini bisa mencakup pengikatan 
+senyawa fitokimia pada target molekuler spesifik seperti enzim, 
+reseptor atau kanal ion (Spratto & Woods, 2010). 
+Fitokimia memainkan peran penting dalam kesehatan 
+manusia dengan memberikan efek perlindungan terhadap 
+berbagai penyakit. Senyawa-senyawa ini dapat bertindak 
+sebagai antioksidan, anti-inflamasi dan memiliki potensi untuk 
+mencegah penyakit kronis seperti kanker dan penyakit 
+kardiovaskular (Tjahyanto et al., 2022). Beberapa contoh 
+senyawa fitokimia yang dikenal luas adalah karotenoid dan 
+flavonoid. Senyawa-senyawa ini memiliki signifikansi biologis 
+meskipun tidak berfungsi sebagai nutrisi esensial. Dengan 
+memahami mekanisme aksi fitokimia, kita dapat memanfaatkan 
+Mekanisme Aksi Fitokimia 
+ 
+*Renny Septiani Mokodongan, M.Si.* 
+ 
+ 
+
+ 
+49 
+potensi 
+terapeutik 
+dari 
+senyawa-senyawa 
+ini 
+dalam 
+pengembangan obat dan suplemen kesehatan. 
+B. Mekanisme Aksi Fitokimia 
+Fitokimia adalah senyawa bioaktif yang terdapat dalam 
+tumbuhan dan berperan dalam memberikan manfaat kesehatan 
+melalui berbagai mekanisme biokimia (Widyaningsih et al., 
+2017). Salah satu mekanisme utamanya adalah aksi antioksidan, 
+di mana senyawa seperti flavonoid, polifenol, dan karotenoid 
+berfungsi menangkap radikal bebas dan mengurangi stres 
+oksidatif yang dapat merusak sel. Selain itu, fitokimia memiliki 
+efek anti-inflamasi, di mana senyawa seperti kurkumin dan 
+resveratrol mampu menekan produksi sitokin pro-inflamasi 
+serta enzim seperti COX-2, yang mengurangi peradangan 
+(Almodaifer et al., 2017). Fitokimia juga mempengaruhi jalur 
+pensinyalan sel, seperti jalur MAPK dan PI3K/Akt, yang 
+berperan dalam pengaturan proliferasi sel, apoptosis, dan 
+respon imun (Fransiska Silviani Derosari et al., 2024).  
+Beberapa fitokimia bertindak sebagai 
+antimikroba 
+dengan merusak membran mikroba atau menghambat sintesis 
+protein esensial mikroba (Grace et al., 2018). Selain itu, banyak 
+fitokimia berfungsi sebagai inhibitor enzim, seperti isoflavon 
+yang dapat menghambat aktivitas tirosin kinase, yang berperan 
+dalam pertumbuhan sel kanker (Nirwana, 2015). Modulasi 
+hormon juga merupakan mekanisme penting di mana fitokimia 
+seperti fitoestrogen dapat meniru atau menghalangi efek 
+hormon dalam tubuh, terutama terkait dengan kondisi seperti 
+kanker dan penyakit kardiovaskular (Lusiana, 2017). Kombinasi 
+dari mekanisme ini menjadikan fitokimia penting dalam 
+pencegahan berbagai penyakit kronis seperti kanker, diabetes, 
+dan penyakit jantung. 
+Fitokimia dapat mempengaruhi berbagai proses fisiologis 
+dan biokimia pada tubuh manusia dan hewan. Secara umum, 
+mekanisme aksi fitokimia melibatkan beberapa jalur dan target 
+di dalam sel. Berikut adalah beberapa mekanisme umum aksi 
+fitokimia: 
+
+ 
+50 
+ 
+1. Antioksidan 
+Fitokimia seperti polifenol, flavonoid dan vitamin C sering 
+bertindak sebagai antioksidan. Antioksidan ini melindungi 
+sel dari kerusakan yang disebabkan oleh radikal bebas 
+dengan menangkap dan menetralkan radikal bebas yang 
+merupakan senyawa reaktif yang dapat merusak sel, 
+protein dan DNA (Widayati, 2012). Radikal bebas dapat 
+menyebabkan peradangan, penuaan dini dan berkontribusi 
+pada perkembangan berbagai penyakit seperti kanker dan  
+penyakit 
+kardiovaskular. 
+Antioksidan 
+juga 
+dapat 
+menghambat 
+pembentukan 
+radikal 
+bebas 
+dan 
+mengaktifkan enzim antioksidan dalam tubuh.  
+Contoh: senyawa fitokimia dengan aktivitas antioksidan 
+adalah polifenol, flavonoid dan karotenoid. Senyawa-
+senyawa tersebut dapat melindungi sel dari stres oksidatif. 
+ 
+ 
+Gambar 1. Mekanisme pembentukan dan penangkalan 
+radikal bebas dalam tubuh (Mulato, 2024) 
+ 
+2. Modulasi Enzim 
+Modulasi enzim adalah proses di mana aktivitas enzim 
+dalam sel atau jaringan diatur atau diubah oleh berbagai 
+
+ 
+51 
+faktor untuk memastikan reaksi biokimia berjalan secara 
+efisien dan sesuai dengan kebutuhan metabolisme (Aryasa 
+et al., 2023). Enzim sebagai katalis biologis memainkan 
+peran penting dalam mengatur jalur metabolisme. Regulasi 
+ini bisa terjadi melalui berbagai mekanisme, termasuk 
+pengaruh molekul tertentu, modifikasi kimiawi enzim atau 
+perubahan kondisi lingkungan. 
+Fitokimia dapat berperan dalam menghambat atau 
+mengaktivasi enzim-enzim tertentu dalam tubuh. Misalnya 
+beberapa fitokimia menghambat enzim yang terlibat dalam 
+metabolisme zat penyebab kanker atau karsinogen, 
+sehingga mencegah terjadinya mutasi sel. Contoh: 
+Isotiocianat yang ditemukan dalam sayuran cruciferous 
+(seperti brokoli dan kubis) dapat menginduksi enzim fase II 
+detoksifikasi yang membantu mengeluarkan racun dan 
+karsinogen dari tubuh (Ide, 2011). Flavonoid dalam buah-
+buahan dapat menghambat enzim lipase pankreas yang 
+berperan dalam penyerapan lemak, sehingga dapat 
+membantu dalam pengelolaan berat badan. 
+ 
+ 
+Gambar 2. Sayuran cruciferous (Wulandari, 2023) 
+ 
+3. Modulasi Jalur Sinyal Sel 
+Modulasi jalur sinyal sel adalah proses pengaturan dan 
+pengendalian 
+jalur 
+komunikasi 
+antara 
+sel 
+dan 
+lingkungannya melalui berbagai mekanisme sinyal. Jalur 
+sinyal sel sangat penting dalam mengatur berbagai fungsi 
+seluler, seperti pertumbuhan, diferensiasi, metabolisme, 
+
+ 
+52 
+respon terhadap stres dan kematian sel (Fauziah et al., 
+2022). Modulasi ini memungkinkan sel untuk merespon 
+dengan tepat rangsangan internal atau eksternal seperti 
+hormon, faktor pertumbuhan, sitokin atau molekul stress. 
+Fitokimia dapat mempengaruhi jalur sinyal dalam sel yang 
+mengontrol pertumbuhan, diferensiasi dan kematian sel. 
+Contoh: Epigallocathechin gallate (EGCG) dalam teh hijau 
+dapat mempengaruhi jalur Mitogen-Activated Protein 
+Kinase (MAPK) yang merupakan jalur sinyal proses seluler 
+seperti proliferasi, diferensiasi, apoptosis, respon terhadap 
+stress dan inflamasi (Kusumastuty et al., 2013). EGCG dapat 
+menghambat proliferasi sel kanker melalui penekanan jalur 
+Extracellular signal-Regulated Kinase (ERK), menginduksi 
+apoptosis melalui aktivasi c-Jun N-terminal Kinase (JNK) dan 
+p38 MAPK, serta memberikan efek anti-inflamasi dan 
+antioksidan. Karena pengaruhnya terhadap jalur MAPK, 
+teh hijau dianggap memiliki potensi dalam pencegahan 
+kanker, pengobatan inflamasi dan perlindungan terhadap 
+penyakit akibat stress oksidatif. 
+ 
+ 
+Gambar 3. Ilustrasi teh hijau (Widyaningrum, 2020) 
+ 
+4. Efek Anti-inflamasi 
+Efek antiinflamasi adalah kemampuan suatu zat atau 
+senyawa untuk mengurangi peradangan di dalam tubuh. 
+Peradangan adalah respon imun alami terhadap infeksi, 
+cedera atau iritasi yang biasanya bertujuan melindungi 
+tubuh dan mempercepat proses penyembuhan. Namun, 
+
+ 
+53 
+jika peradangan berlangsung terlalu lama atau kronis, hal 
+ini 
+dapat 
+menyebabkan 
+kerusakan 
+jaringan 
+dan 
+berkontribusi pada perkembangan berbagai penyakit 
+kronis seperti arthritis, penyakit jantung dan diabetes. 
+Senyawa seperti kurkumin dalam kunyit dan gingerol 
+dalam jahe memiliki efek antiinflamasi. Kedua senyawa 
+tersebut menghambat jalur sinyal dalam tubuh yang 
+mengaktifkan respon inflamasi, sehingga dapat membantu 
+mengurangi peradangan (N. L. K. A. A. Dewi et al., 2022).  
+5. Modulasi Sistem Kekebalan Tubuh  
+Modulasi 
+sistem 
+kekeabalan 
+tubuh 
+adalah 
+proses 
+pengaturan atau pengendalian respon imun baik untuk 
+memperkuat atau menekan aktivitas sistem kekebalan 
+tubuh. Sistem kekebalan tubuh adalah mekanisme 
+pertahanan yang sangat kompleks, berfungsi 
+untk 
+melindungi tubuh dari patogen seperti bakteri, virus, 
+parasit serta mengeleminasi sel-sel abnormal. Modulasi ini 
+dapat terjadi secara alami melalui nutrisi, senyawa bioaktif 
+atau melalui intervensi dengan menggunakan obat-obatan 
+atau terapi biologis.  
+Banyak fitokimia yang ditemukan dalam makanan dan 
+tumbuhan memiliki efek modulasi sistem kekebalan tubuh. 
+Senyawa-senyawa 
+fitokimia 
+dapat 
+menyeimbangkan 
+respon imun, baik dengan mengstimulasi atau menekan 
+fungsi imun tergantung pada kebutuhan tubuh. Contoh: 
+beta glukan dari jamur dan gandum yang dapat 
+meningkatkan respon imun dengan merangsang aktivitas 
+makrofag (Wiguna, 2018). Selanjutnya senyawa kurkumin 
+menekan produksi sitokin proinflamasi yang dapat 
+menurunkan respon imun berlebihan pada kondisi 
+autoimun. 
+ 
+
+ 
+54 
+ 
+Gambar 5. Makanan yang kaya akan beta glukan (Bohin, 
+2020) 
+ 
+6. Pengaturan Metabolisme Lipid dan Glukosa 
+Pengaturan metabolisme lipid dan glukosa merupakan 
+proses yang sangat penting untuk menjaga keseimbangan 
+energi dan homeostasis dalam tubuh. Metabolisme ini 
+diatur oleh berbagai hormon enzim dan jalur sinyal seluler 
+yang berperan dalam mengontrol pemanfaatan penyipanan 
+dan mobilisasi energi dari lemak (lipid) dan gula (glukosa). 
+Ketidakseimbangan 
+dalam 
+pengaturan 
+ini 
+dapat 
+menyebabkan berbagai kondisi seperti obesitas, diabetes 
+tipe dua dan penyakit kardiovaskular.  
+Fitokimia dapat mempengaruhi metabolisme lipid dan 
+glukosa, membantu mencegah penyakit seperti diabetes 
+dan penyakit kardiovaskular. Contoh senyawa polifenol 
+dalam teh hijau dapat meningkatkan sensitivitas insulin 
+dan 
+menghambat 
+penyerapan 
+glukosa 
+sehingga 
+menurunkan kadar gula darah (Anoto et al., 2024). Selain 
+itu flavonoid dalam buah beri dapat mengurangi kadar 
+kolesterol darah dengan menghambat oksidasi LDL dan 
+meningkatkan HDL (Purwaningsih et al., 2023). 
+7. Efek Antimikroba dan Antiviral 
+Efek antimikroba dan antiviral merujuk pada kemampuan 
+suatu zat atau agen untuk melawan atau menghancurkan 
+mikroorganisme seperti bakteri, jamur, virus dan parasit 
+yang dapat menyebabkan infkesi pada tubuh. Efek 
+antimikroba mengacu pada kemampuan suatu senyawa 
+atau 
+obat 
+untuk 
+membunuh 
+atau 
+menghambat 
+pertumbuhan mikroorganisme seperti bakteri, jamur atau 
+
+ 
+55 
+protozoa. 
+Antimikroba 
+diklasifikasikan 
+berdasarkan 
+spektrum aktivitasnya yaitu antibakteri, antijamur dan 
+antiparasit. 
+Sedangkan 
+antiviral 
+berfokus 
+pada 
+kemampuan senyawa atau obat untuk melawan infeksi 
+virus. Virus berbeda dengan bakteri karena virus lebih 
+sederhana dan bergantung pada sel inang 
+untuk 
+bereproduksi.  
+Beberapa fitokimia memiliki sifat antimikroba dan antiviral, 
+bekerja 
+dengan 
+menghancurkan 
+atau 
+menghambat 
+pertumbuhan mikroorganisme patogen. Contoh: Allicin 
+dalam bawang putih memiliki efek antimikroba yang dapat 
+membunuh bakteri, jamur dan virus dengan merusak 
+membran sel mereka (Mokodongan et al., 2024). Selain itu 
+katekin dalam teh hijau juga diketahui memiliki sifat 
+antiviral termasuk terhadap virus influenza dan herpes (Y. 
+K. Dewi & Riyandari, 2020). 
+8. Efek Antikanker 
+Efek antikanker mengacu pada kemampuan suatu zat atau 
+intervensi 
+untuk 
+menghambat, 
+mencegah, 
+atau 
+menghancurkan sel-sel kanker. Banyak senyawa alami 
+maupun sintetis yang sedang dipelajari dan digunakan 
+untuk tujuan ini, baik dalam terapi konvensional seperti 
+kemoterapi dan radioterapi, maupun dalam pengobatan 
+alternatif. Beberapa senyawa fitokimia memiliki potensi 
+untuk mencegah atau memperlambat pertumbuhan sel 
+kanker melalui berbagai mekanisme yaitu: 
+a. Menghambat apoptosis atau kematian sel terprogram 
+pada sel kanker; 
+b. Menghambat 
+angiogenesis 
+yaitu 
+pembentukan 
+pembuluh 
+darah 
+baru 
+yang 
+diperlukan 
+untuk 
+pertumbuhan tumor; 
+c. Mengganggu siklus sel kanker, sehingga memperlambat 
+pembelahan sel abnormal. 
+Fitokimia yang diketahui memiliki potensi efek antikanker 
+antara lain kurkumin dari kunyit yang memiliki sifat anti 
+
+ 
+56 
+inflamasi 
+dan 
+antikanker 
+dengan 
+kemampuan 
+menghambat 
+pertumbuhan 
+berbagai 
+jenis 
+kanker. 
+Resveratrol dari anggur merah memiliki sifat antioksidan 
+dan antikanker yang diyakini menghambat perkembangan 
+beberapa jenis kanker (Tanaya, 2022). Sulforaphane dari 
+sayuran cruciferous yang dapat membantu mengurangi 
+risiko kanker dengan menghambat enzim tertentu yang 
+terkait dengan perkembangan kanker (Tilaar et al., 2022). 
+9. Detoksifikasi Zat Beracun 
+Detoksifikasi zat beracun adalah proses alami yang 
+dilakukan 
+oleh 
+tubuh 
+untuk 
+menghilangkan 
+atau 
+menetralisir racun (toksin) dari sistem tubuh. Racun dapat 
+berasal dari lingkungan, makanan, polutan, atau produk 
+metabolik yang dihasilkan tubuh. Detoksifikasi terutama 
+dilakukan oleh organ-organ utama seperti hati, ginjal, kulit, 
+dan paru-paru.  
+Fitokimia 
+dapat 
+mendetoksifikasi 
+tubuh 
+melalui 
+peningkatan 
+aktivitas 
+enzim 
+yang 
+terlibat 
+dalam 
+metabolisme dan eliminasi racun. Contoh senyawa 
+sulforafan dalam brokoli merangsang enzim fase II yang 
+berperan dalam mengeluarkan zat karsinogen dari dalam 
+tubuh (Ide, 2011). 
+Mekanisme aksi fitokimia sangat beragam dan tergantung pada 
+jenis senyawa serta konteks biologisnya. Mereka dapat bekerja 
+melalui 
+jalur 
+antioksidan, 
+antiinflamasi, 
+modulasi 
+enzim, 
+pengaturan metabolisme dan bahkan sebagai anti kanker. 
+Pemahaman lebih lanjut tentang mekanisme aksi fitokimia ini 
+sangat penting untuk mengembangkan intervensi nutrisi atau 
+terapeutik berbasis tanaman dalam pencegahan dan pengobatan 
+penyakit. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+57 
+DAFTAR PUSTAKA 
+ 
+Almodaifer, S., Alsibaie, N., Alhoumedan, G., Alammari, G., M S, 
+K., Al Turki, M., & Al Harthy, N. (2017). Role of 
+Phytochemicals in Health and Nutrition. BAOJ Nutrition, 3(1), 
+1–6. https://doi.org/10.24947/baojn/3/2/00128 
+Anoto, D. A., Basuki, S. P. H., & Setiyabudi, R. (2024). Efektifitas 
+Pemberian Konsumsi Teh Hijau Terhadap Penurunan Gula 
+Darah Diabetes Melitus Tipe 2 (Dmt2). Jurnal Ilmiah Permas: 
+Jurnal Ilmiah STIKES Kendal, 14(2), 479–488. 
+Aryasa, I. W. T., Indis, N. Al, Indis, N. Al, Fitriana, W. D., Fahmi, A., 
+Anurogo, D., & Mariadi, P. D. (2023). Kimia Kehidupan. 
+Bohin, 
+N. 
+(2020). 
+7 
+Benefits 
+of 
+Beta 
+Glucan. 
+https://sunwarrior.com/blogs/health-hub/benefits-of-beta-
+glucan 
+Dewi, N. L. K. A. A., Prameswari, P. N. D., Cahyaningsih, E., 
+Megawati, F., Agustini, N. P. D., & Juliadi, D. (2022). Review: 
+Pemanfaatan Tanaman sebagai Fitoterapi pada Diabetes 
+Mellitus. 
+Usadha, 
+2(1), 
+31–42. 
+https://doi.org/10.36733/usadha.v2i1.5562 
+Dewi, Y. K., & Riyandari, B. A. (2020). Potensi Tanaman Lokal 
+sebagai Tanaman Obat dalam Menghambat Penyebaran 
+COVID-19. 
+Jurnal 
+Pharmascience, 
+7(2), 
+112. 
+https://doi.org/10.20527/jps.v7i2.8793 
+Fauziah, P. N., Rohmah, M. K., Umar, F., Wahdi, F. H., 
+Wahyuningsih, E., Setiyabudi, L., Sihombing, M. A. E. M., & 
+Firmansyah. (2022). Biologi Molekuler. CV Tohar Media. 
+Fitriawati, A., & Indrayudha, P. (2023). Systematic Review : Efek 
+Antioksidan dan Antiinflamasi dari Spesies Tumbuhan 
+Suruhan (Peperomia Pellucida L.). Prosiding Seminar Informasi 
+Kesehatan Nasional (SIKEsNas), 299–315. 
+Fransiska Silviani Derosari, M., Rahmita Khairani, N., Tiara Fitri, S., 
+Hartini Nur Wakhid, M., Yovita Bria, E., Kasmin Belaon 
+Lebuan, M., Puji Astuti, A., Cholifah, M., Alfred Seran, A., 
+Charles SKlau, I., Wahyu Ningsih, A., & Anwar Medika, U. 
+
+ 
+58 
+(2024). Artikel Review: Studi Fitokimia Dan Farmakologi Morinda 
+Citrifolia Dalam Terapi Kanker. 2(1). 
+Grace, S., L. K., R., & B.E., K. (2018). Aktifitas Antioksidan dan 
+Antimikroba Rumput Laut. Seminar Nasional Sains Dan 
+Terapan, 275–284. 
+Ide, P. (2011). Health Secret of Brocoli. PT ELex Media Komputindo. 
+Kusumastuty, 
+I., 
+Aulanni’am, 
+& 
+Ratnawati, 
+R. 
+(2013). 
+Epigallocatechin Gallate Teh Hijau Klon GMB4 menghambat 
+Resistensi Insulin akibat Diet Tinggi Lemak pada Tikus 
+Epigallocatechin Gallate Green Tea GMB4 Clon Prevent Insulin 
+Resistance due to High Fat Diet in Rat. 26(2), 63–68. 
+Lusiana, N. (2017). PENGARUH FITOESTROGEN DAGING BUAH 
+KURMA RUTHAB (Phoenix dactylifera L.) TERHADAP 
+SINKRONISASI SIKLUS ESTRUS MENCIT (Mus musculus 
+L.) BETINA. KLOROFIL: Jurnal Ilmu Biologi Dan Terapan, 1(1), 
+24. https://doi.org/10.30821/kfl:jibt.v1i1.1238 
+Mokodongan, R. S., Fauziah, S. N., & Aeni, A. (2024). Pengaruh 
+Waktu Ekstraksi terhadap Kadar Allisin Ekstrak Bawang 
+Putih dengan Pengeringan dan Tanpa Pengeringan. Jurnal 
+Kesehatan 
+Genesis 
+Medicare, 
+1(1), 
+49–60. 
+https://doi.org/10.31857/s013116462104007x 
+Mulato, S. (2024). Asam Klorogenat dan Melanoidin Senyawa 
+Antioksidan 
+dalam 
+Seduhan 
+Kopi. 
+https://www.cctcid.com/2020/01/07/asam-khlorogenat-
+dan-melanoidin-senyawa-antioksidan-dalam-seduhan-kopi/ 
+Nirwana, A. P. (2015). Aktivitas Antiproliferasi Ekstrak Etanol Daun 
+Benalu Kersen (Dendrophtoe pentandra L. Miq.) Terhadap Kultur 
+Sel Kanker Nasofaring (Raji Cell Line). Universitas Sebelas Maret 
+Suakarta. 
+Purwaningsih, N. V., Widyastuti, R., Maulidiyanti, E. T. S., Saputro, 
+T. A., Rohmayani, V., & Ainutajriani, A. (2023). Potential of 
+Seed Powder (Tamarindus indica L.) on Cholesterol Levels. 
+Medicra (Journal of Medical Laboratory Science/Technology), 6(1), 
+15–18. https://doi.org/10.21070/medicra.v6i1.1713 
+Spratto, G. R., & Woods, A. L. (2010). Delmar Nurse’s Drug Handbook 
+
+ 
+59 
+2010 Edition. Cengage Learning. 
+Tanaya, B. T. K. (2022). Review: Kajian Penggunaan Rempah dan Sifat 
+Fungsional Herbal Wine. Universitas Katolik Soegijapranata 
+Semarang. 
+Tilaar, W., Mandang, J. P., & Pinaria, A. (2022). Analisis Kandungan 
+Sulforafan pada Beberapa Fase Pertumbuhan dari Beberapa 
+Jenis Brassicaceae. Eugenia, 28(1), 10–15. 
+Tjahyanto, T., Eldy, Felicia, C., Niaga, K. J. K., & Larissa, O. (2022). 
+Aktivitas Antivirus Polifenol sebagai Profilaksis dan Terapi 
+Potensial dalam Penanganan Covid-19. Jurnal Health Sains, 
+3(2), 311–330. https://doi.org/10.46799/jhs.v3i2.428 
+Widayati, E. (2012). Oksidasi Biologi, Radikal Bebas dan 
+Antioksidan. 
+Majalah 
+Ilmiah 
+Sultan 
+Agung, 
+1–17. 
+https://jurnal.unissula.ac.id/index.php/majalahilmiahsulta
+nagung/article/view/70/64 
+Widyaningrum, G. L. (2020). Turunkan Berat Badan Hingga Cegah 
+Kanker, 
+Ini 
+Manfaat 
+Teh 
+Hijau. 
+https://nationalgeographic.grid.id/read/132288273/turunk
+an-berat-badan-hingga-cegah-kanker-ini-manfaat-teh-
+hijau?page=all 
+Widyaningsih, T. D., Wijayanti, N., & Nugrahini, N. I. P. (2017). 
+Pangan Fungsional: Aspek Kesehatan, Evaluasi dan Regulasi. 
+Universitas Brawijaya Press. 
+Wiguna, I. (2018). Maitake Lebih dari Sekedar Jamur Antikanker. Trubus 
+Swadaya. 
+Wulandari, L. R. (2023). Apa Itu Sayuran Cruciferous? Kenali Potensi 
+Manfaatnya. 
+https://hellosehat.com/nutrisi/fakta-
+gizi/sayuran-cruciferous/ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+60 
+BIODATA PENULIS 
+ 
+ 
+Letakkan  
+FOT O 
+Renny Septiani Mokodongan lahir di 
+Jakarta, pada 30 September 1986. 
+Menyelesaikan 
+pendidikan 
+S1 
+di 
+Fakultas 
+Matematika 
+dan 
+Ilmu 
+Pengetahuan Alam Universitas Negeri 
+Jakarta jurusan Kimia dan S2 di 
+Fakultas 
+Matematika 
+dan 
+Ilmu 
+Pengetahuan 
+Alam 
+jurusan 
+Ilmu 
+Kimia 
+dengan 
+peminatan 
+Kimia 
+Hayati Universitas Indonesia. Sampai 
+saat ini penulis sebagai Dosen di 
+Program Studi Diploma III Farmasi 
+Poltekkes Genesis Medicare. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+61 
+BAB 6  
+ 
+ 
+ 
+ 
+ 
+ 
+A. Standarisasi Herbal di Indonesia 
+Indonesia 
+merupakan 
+salah 
+satu 
+negara 
+dengan 
+biodiversitas terbesar di dunia, yang kaya akan tanaman obat 
+yang 
+digunakan 
+dalam 
+pengobatan 
+tradisional. 
+Untuk 
+menjamin keamanan dan efektivitas produk herbal, Indonesia 
+telah menerapkan berbagai regulasi dan standar terkait 
+produksi dan distribusi obat herbal.  
+Badan Pengawas Obat dan Makanan (BPOM) merupakan 
+lembaga utama yang bertanggung jawab dalam pengawasan 
+obat herbal di Indonesia, yang juga berkolaborasi dengan 
+organisasi internasional untuk memastikan bahwa standar 
+herbal di Indonesia sesuai dengan standar global. 
+1. Regulasi Standarisasi Herbal di Indonesia 
+a.  Peran BPOM 
+BPOM 
+merupakan 
+lembaga 
+yang 
+memiliki 
+kewenangan untuk mengatur dan mengawasi obat 
+tradisional, termasuk produk herbal di Indonesia. BPOM 
+mewajibkan seluruh produk obat herbal yang beredar di 
+Indonesia untuk memenuhi persyaratan keamanan, mutu, 
+dan khasiat yang telah ditentukan dalam regulasi. 
+Salah satu kebijakan penting yang dikeluarkan oleh 
+BPOM 
+adalah 
+Pedoman 
+Cara 
+Pembuatan 
+Obat 
+Tradisional yang Baik (CPOTB) yang diadopsi dari Good 
+Manufacturing Practices (GMP) (BPOM, 2021). CPOTB 
+mencakup aturan yang harus diikuti oleh produsen herbal 
+Standarisasi dan Kualitas 
+Herbal 
+ 
+*apt. Sheila Meitania Utami, M.Si* 
+ 
+
+ 
+62 
+untuk memastikan bahwa produk mereka diproduksi 
+secara higienis, konsisten, dan memenuhi standar 
+keamanan. 
+b.  Standar Nasional Indonesia (SNI) 
+Standar Nasional Indonesia (SNI) juga berperan 
+dalam memastikan kualitas bahan baku herbal serta 
+produk jadi. SNI menyediakan pedoman yang meliputi 
+standar tanaman obat, ekstrak, dan produk herbal siap 
+pakai. Dalam beberapa tahun terakhir, SNI juga telah 
+memperbarui 
+standarnya 
+untuk 
+mengakomodasi 
+teknologi terbaru dalam produksi obat herbal serta 
+metode pengujian laboratorium untuk memastikan 
+bahwa produk bebas dari kontaminan seperti logam berat 
+dan pestisida (SNI, 2020). 
+c.  Sistem Izin Edar dan Sertifikasi 
+Setiap produk herbal yang diproduksi dan 
+diedarkan di Indonesia harus memiliki izin edar dari 
+BPOM. Sebelum izin diberikan, produk harus melalui 
+serangkaian uji klinis yang dilakukan untuk memastikan 
+keamanan dan efektivitasnya. BPOM juga mewajibkan 
+adanya sertifikasi untuk produk herbal, yang meliputi 
+pengujian mikrobiologis, uji toksikologi, dan uji stabilitas 
+(BPOM, 2021). Sertifikasi halal dari MUI juga sering kali 
+diperlukan, terutama untuk memenuhi permintaan 
+konsumen yang mayoritas beragama Islam. 
+2. Kualitas Produk Herbal 
+Kualitas produk herbal sangat dipengaruhi oleh 
+berbagai faktor, mulai dari pemilihan bahan baku hingga 
+proses produksinya. Beberapa langkah penting dalam 
+pengendalian kualitas meliputi (Li et al., 2021): 
+a. 
+Pemilihan Bahan Baku 
+Kualitas herbal sangat bergantung pada bahan 
+baku yang digunakan. Tanaman obat harus ditanam dan 
+dipanen sesuai dengan pedoman Good Agricultural and 
+Collection 
+Practices 
+(GACP) 
+untuk 
+memastikan 
+
+ 
+63 
+kandungan senyawa aktif yang tinggi dan bebas dari 
+kontaminan lingkungan. 
+b. Proses Produksi 
+Pengolahan bahan baku herbal menjadi produk jadi 
+harus dilakukan sesuai dengan standar GMP. Proses 
+seperti ekstraksi, pengeringan, dan pengemasan sangat 
+penting untuk menjaga kandungan bahan aktif dan 
+mencegah degradasi. 
+c. Pengujian Kualitas 
+Setiap 
+batch 
+produk 
+herbal 
+harus 
+melalui 
+serangkaian uji kualitas sebelum dipasarkan. Uji 
+laboratorium untuk mengidentifikasi kandungan bahan 
+aktif, mikroorganisme, logam berat, serta uji stabilitas 
+produk merupakan bagian penting dari kontrol kualitas. 
+3. Standar Internasional dalam Pengembangan Standarisasi 
+Herbal di Indonesia 
+Indonesia juga mengadopsi standar internasional 
+untuk memastikan bahwa produk herbal yang diproduksi 
+dapat bersaing di pasar global. WHO memberikan panduan 
+melalui pedoman Guidelines for the Assessment of Herbal 
+Medicines dan Good Agricultural and Collection Practices 
+(GACP) yang menjadi dasar bagi pengembangan standar 
+herbal di Indonesia (WHO, 2021). Pedoman ini mencakup 
+metode pengumpulan bahan baku tanaman obat dan 
+memastikan bahwa bahan herbal diproses secara etis dan 
+berkelanjutan. 
+4. Tantangan dan Masa Depan Standarisasi Herbal di Indonesia 
+Salah satu tantangan utama dalam standarisasi produk 
+herbal di Indonesia adalah kurangnya harmonisasi antara 
+standar lokal dan internasional. Selain itu, ada kesulitan 
+dalam memastikan konsistensi kualitas bahan baku herbal 
+karena faktor lingkungan, seperti iklim dan teknik budidaya, 
+yang memengaruhi kandungan bahan aktif dalam tanaman 
+(Utami et al., 2023). Perbedaan metode pengujian antara 
+
+ 
+64 
+laboratorium 
+juga 
+menambah 
+kompleksitas 
+dalam 
+standarisasi produk herbal. 
+Seiring dengan meningkatnya permintaan global akan 
+produk herbal, Indonesia terus memperbarui regulasinya 
+untuk memenuhi standar internasional. Kerjasama dengan 
+lembaga-lembaga internasional seperti WHO dan ASEAN 
+Herbal Product Standardization Working Group memberikan 
+peluang bagi Indonesia untuk memperbaiki standar dan 
+praktik produksi herbal (ASEAN, 2021).  
+5. Kesimpulan 
+Standarisasi dan pengendalian kualitas produk herbal 
+di Indonesia diawasi secara ketat oleh BPOM dan SNI, 
+dengan adopsi dari standar internasional seperti WHO dan 
+GMP. Meskipun tantangan seperti perbedaan standar dan 
+konsistensi bahan baku masih ada, pengembangan regulasi 
+yang terus diperbarui serta peningkatan pengawasan produk 
+herbal di Indonesia menjadi langkah penting dalam 
+memastikan kualitas dan keamanan produk yang dihasilkan. 
+Tabel 1. Aspek Standarisasi Herbal di Indonesia 
+Aspek 
+Standarisasi 
+Deskripsi 
+Referensi 
+Regulasi 
+dan 
+Pengawasan 
+Pengawasan oleh BPOM 
+mencakup 
+seluruh 
+proses 
+produksi 
+dari 
+bahan 
+baku 
+hingga 
+produk 
+jadi, 
+dengan 
+pedoman CPOTB yang 
+mengadopsi GMP. 
+BPOM (2021) 
+Izin Edar dan 
+Sertifikasi 
+Semua 
+produk 
+herbal 
+harus memiliki izin edar 
+dari BPOM. Uji klinis, 
+pengujian 
+toksikologi 
+dan 
+uji 
+stabilitas 
+diwajibkan 
+sebelum 
+dipasarkan. 
+BPOM (2021) 
+
+ 
+65 
+Sertifikasi 
+Halal 
+MUI 
+mewajibkan 
+sertifikasi halal untuk 
+memastikan 
+produk 
+herbal 
+sesuai 
+dengan 
+syariat 
+Islam, 
+yang 
+meliputi pengujian bebas 
+dari bahan haram 
+Majelis 
+Ulama 
+Indonesia 
+(2020) 
+Standar 
+Nasional 
+Indonesia 
+(SNI) 
+SNI mengatur kualitas 
+bahan 
+baku 
+herbal, 
+ekstraksi, serta produk 
+herbal siap pakai, dengan 
+pengujian logam berat, 
+pestisida, 
+dan 
+mikroorganisme. 
+SNI (2020) 
+Praktik 
+Budidaya 
+Tanaman 
+Mengikuti 
+pedoman 
+Good 
+Agricultural 
+and 
+Collection 
+Practices 
+(GACP) 
+untuk 
+memastikan 
+kualitas 
+bahan 
+baku 
+herbal 
+melalui 
+pengelolaan 
+pertanian yang baik. 
+World Health 
+Organization. 
+(2021) 
+Good 
+Manufacturing 
+Practice (GMP) 
+Diterapkan 
+untuk 
+memastikan 
+produk 
+herbal diproses secara 
+higienis dan konsisten di 
+fasilitas produksi sesuai 
+dengan 
+Standar 
+Internasional. 
+BPOM (2021),  
+WHO (2021) 
+Pengujian 
+Kualitas 
+Produk 
+Produk 
+diuji 
+untuk 
+memastikan kadar bahan 
+aktif, 
+kontaminasi 
+mikroba, logam berat, 
+dan 
+residu 
+pestisida 
+Li et al. (2021) 
+
+ 
+66 
+menggunakan 
+metode 
+analitik seperti HPLC. 
+Pengembangan 
+Standarisasi 
+Internasional 
+Indonesia bekerja sama 
+dengan 
+WHO 
+dan 
+ASEAN 
+untuk 
+menyelaraskan 
+standar 
+herbal 
+yang 
+dapat 
+diterima 
+pasar 
+Internasional. 
+ASEAN  
+(2021), 
+WHO (2021) 
+Tantangan 
+Standarisasi 
+Variasi kualitas bahan 
+baku 
+karena 
+faktor 
+lingkungan, 
+serta 
+kurangnya harmonisasi 
+Standar 
+Nasional 
+dan 
+Internasional. 
+Rizky  et al. 
+(2021),  
+Singh (2021) 
+
+ 
+67 
+Gambar 1. Diagram Standarisasi Herbal di Indonesia 
+ 
+Deskripsi gambar: 
+1. BPOM: Bertanggung jawab atas pengawasan produk 
+herbal, dari izin edar hingga pengawasan proses 
+produksi. 
+2. Sertifikasi Halal (MUI): Menjamin bahwa produk herbal 
+bebas dari bahan haram dan sesuai dengan syariat Islam. 
+3. Izin Edar dan Pengujian Kualitas: Semua produk herbal 
+harus diuji secara klinis dan memenuhi standar sebelum 
+mendapatkan izin edar. 
+
+ 
+68 
+4. SNI dan GMP: Standar Nasional Indonesia (SNI) dan 
+praktik manufaktur yang baik (GMP) digunakan untuk 
+mengontrol kualitas bahan baku dan produk akhir. 
+5. Pengujian Kontaminan: Produk diuji untuk memastikan 
+bebas dari logam berat, pestisida, dan mikroba. 
+6. Standarisasi 
+Internasional: 
+Indonesia 
+mengadopsi 
+standar internasional seperti WHO, GMP, dan GACP 
+untuk memastikan kualitas global. 
+Standarisasi herbal dikategorikan menjadi 3 (tiga) 
+yaitu (PDHMI, 2019): 
+1. Standardisasi bahan: sediaan (dapat berupa simplisia 
+maupun ekstrak terstandar/ senyawa aktif yang telah 
+diketahui kadarnya) 
+2. Standardisasi produk: kandungan bahan aktif yang stabil 
+atau konsisten. 
+3. Standardisasi proses: metode maupun proses serta 
+peralatan dalam produksi telah sesuai dengan yang 
+tertera pada Cara Pembuatan Obat Tradisional yang Baik 
+(CPOTB) 
+B. Kualitas Herbal di Indonesia 
+ 
+Indonesia 
+adalah 
+salah 
+satu 
+negara 
+dengan 
+keanekaragaman hayati tertinggi di dunia, yang menyediakan 
+sumber daya berlimpah untuk obat-obatan herbal. Herbal atau 
+obat tradisional di Indonesia telah lama menjadi bagian dari 
+pengobatan masyarakat, baik untuk perawatan kesehatan 
+sehari-hari maupun terapi penyakit tertentu (Utami et al., 2021).  
+ 
+Dengan meningkatnya permintaan akan produk herbal, 
+kualitas menjadi faktor kunci dalam memastikan keamanan dan 
+efektivitasnya. Pengawasan kualitas di Indonesia dilakukan oleh 
+Badan Pengawas Obat dan Makanan (BPOM), yang menetapkan 
+standar dan regulasi untuk memastikan bahwa produk herbal 
+memenuhi persyaratan yang ketat. 
+1. Pengaruh Bahan Baku terhadap Kualitas Herbal 
+Kualitas herbal di Indonesia sangat dipengaruhi oleh 
+kualitas bahan baku yang digunakan. Bahan baku herbal 
+
+ 
+69 
+dapat bervariasi tergantung pada spesies tanaman, teknik 
+budidaya, dan kondisi lingkungan. Tanaman yang tumbuh 
+di lokasi dengan iklim, tanah, dan kondisi pertanian yang 
+berbeda dapat memiliki kandungan senyawa aktif yang 
+bervariasi (Mahmoud et al., 2020).  
+Oleh karena itu, penting untuk menerapkan praktik 
+Good Agricultural and Collection Practices (GACP) dalam 
+pengumpulan 
+dan 
+budidaya 
+tanaman 
+obat 
+untuk 
+memastikan konsistensi kualitas bahan baku. 
+2. Standar Produksi Herbal di Indonesia 
+a. Peran BPOM dalam Pengawasan Kualitas 
+BPOM memiliki peran penting dalam mengawasi 
+produk herbal yang beredar di Indonesia. Setiap produk 
+herbal yang dipasarkan harus terdaftar dan mendapat izin 
+edar dari BPOM. Produk tersebut juga harus memenuhi 
+standar keamanan, mutu, dan efikasi yang telah 
+ditetapkan (BPOM, 2021). Pengawasan ini mencakup: 
+1) Uji Kualitas Bahan Baku 
+Sebelum diproduksi, bahan baku herbal diuji untuk 
+memastikan 
+bahwa 
+bahan 
+tersebut 
+tidak 
+terkontaminasi oleh mikroorganisme, logam berat, 
+atau residu pestisida. 
+2) Proses Produksi Sesuai GMP 
+BPOM menerapkan Good Manufacturing Practices 
+(GMP) dalam produksi herbal dalam hal ini yaitu Cara 
+Pembuatan Obat Tradisional yang Baik (CPOTB), yang 
+meliputi kontrol kualitas dari awal hingga akhir proses 
+produksi, termasuk pengemasan dan penyimpanan. 
+3) Uji Klinis dan Stabilitas Produk 
+Produk herbal juga harus diuji stabilitasnya untuk 
+memastikan bahwa khasiat dan keamanannya tetap 
+terjaga selama masa simpan produk. 
+b. Sertifikasi Halal 
+Sebagai negara dengan mayoritas penduduk 
+Muslim, sertifikasi halal juga penting dalam memastikan 
+
+ 
+70 
+bahwa produk herbal yang dipasarkan di Indonesia 
+sesuai dengan standar keagamaan. Sertifikasi halal 
+dikeluarkan oleh Majelis Ulama Indonesia (MUI) setelah 
+produk herbal diuji dan dipastikan bebas dari bahan yang 
+haram (MUI, 2020). 
+3. Tantangan dalam Menjaga Kualitas Produk Herbal 
+Meski Indonesia memiliki potensi besar dalam industri 
+herbal, terdapat beberapa tantangan dalam menjaga kualitas 
+produk herbal, antara lain: 
+a. Variasi Kualitas Bahan Baku 
+Kualitas bahan baku tanaman obat sering kali tidak 
+konsisten karena perbedaan kondisi pertanian, iklim, dan 
+metode pengolahan (Utami et al., 2022). 
+b. Kurangnya Teknologi dan Infrastruktur 
+Beberapa produsen kecil tidak memiliki akses ke 
+teknologi canggih untuk memastikan kontrol kualitas 
+yang baik, seperti teknologi analitik untuk pengujian 
+bahan aktif (Rizky et al., 2021). 
+c.    Kurangnya Penelitian Klinis 
+Masih terbatasnya penelitian klinis yang mendalam 
+mengenai banyak produk herbal di Indonesia, sehingga 
+sulit untuk mengukur khasiat dan keamanan produk 
+secara ilmiah (Li et al., 2021). 
+4. Standar Internasional dalam Produksi Herbal 
+Indonesia tidak hanya mengikuti standar lokal, tetapi 
+juga mengadopsi pedoman internasional untuk memastikan 
+bahwa produk herbal dapat bersaing di pasar global. WHO, 
+misalnya, menyediakan pedoman Good Agricultural and 
+Collection Practices (GACP) dan Good Manufacturing Practices 
+(GMP) yang diadopsi oleh banyak negara termasuk 
+Indonesia (WHO, 2021). Hal ini penting untuk memastikan 
+bahwa produk herbal Indonesia dapat diterima di pasar 
+ekspor dan memenuhi standar global. 
+ 
+ 
+
+ 
+71 
+5. Upaya Meningkatkan Kualitas Produk Herbal 
+Untuk 
+meningkatkan 
+kualitas 
+produk 
+herbal, 
+pemerintah Indonesia telah bekerja sama dengan berbagai 
+lembaga penelitian dan universitas untuk melakukan lebih 
+banyak penelitian terhadap tanaman obat asli Indonesia. 
+Selain itu, adanya peningkatan dalam teknologi produksi, 
+seperti 
+penggunaan 
+analisis 
+DNA 
+barcoding 
+untuk 
+identifikasi spesies tanaman, dapat membantu meningkatkan 
+kualitas bahan baku herbal (Singh, 2021). 
+6. Kesimpulan 
+Kualitas produk herbal di Indonesia dipengaruhi oleh 
+berbagai faktor, mulai dari kualitas bahan baku, proses 
+produksi, hingga uji klinis. BPOM sebagai lembaga 
+pengawas obat dan makanan memiliki peran penting dalam 
+memastikan bahwa produk herbal yang beredar di pasar 
+memenuhi standar keamanan dan mutu.  
+Dengan adanya tantangan dalam menjaga konsistensi 
+kualitas bahan baku dan pengembangan teknologi, upaya 
+kolaboratif antara pemerintah, lembaga penelitian, dan 
+industri diperlukan untuk terus meningkatkan kualitas 
+produk herbal di Indonesia. 
+Tabel 1. Aspek Kualitas Herbal di Indonesia 
+Aspek 
+Standarisasi 
+Deskripsi 
+Referensi 
+Bahan Baku 
+Herbal 
+Kualitas  bahan baku sangat 
+dipengaruhi 
+oleh 
+metode 
+budidaya, 
+lingkungan 
+pertanian, 
+dan 
+proses 
+pengumpulan. 
+Penggunaan 
+standar  GACP diperlukan. 
+WHO 
+(2021), 
+BPOM 
+(2021) 
+Variasi 
+Lingkungan 
+Kondisi lingkungan seperti 
+tanah, 
+iklim, 
+dan 
+metode 
+pertanian 
+mempengaruhhi 
+kandungan 
+senyawa 
+aktif 
+tanaman obat. 
+Li 
+et 
+al.(2021), 
+Mahmoud 
+et 
+al. 
+(2020) 
+
+ 
+72 
+Proses 
+Produksi 
+Mengikuti 
+Good 
+Manufacturing 
+Practices 
+(GMP) 
+untuk 
+menjaga 
+kebersihan 
+dan 
+konsistensi 
+produksi, 
+terutama 
+dalam 
+proses 
+ekstraksi 
+dan 
+pengemasan. 
+WHO 
+(2021), 
+BPOM 
+(2021) 
+Pengujian 
+Kandungan 
+Aktif 
+Pengujian 
+menggunakan 
+teknologi seperti HPLC untuk 
+memastikan kandungan bahan 
+aktif yang tepat. 
+Li 
+et 
+al.(2021), 
+Rizky 
+et 
+al. (2020) 
+Pengujian 
+Keamanan 
+Produk 
+diuji 
+untuk 
+kandungan 
+logam 
+berat, 
+mikroba, residu pestisida, dan 
+kontaminan 
+lainnya 
+untuk 
+memastikan keamanan 
+BPOM 
+(2021),  
+SNI (2020) 
+Uji 
+Klinis 
+dan 
+Stabilitas 
+Uji klinis dilakukan untuk 
+menilai 
+toksisitas 
+dan 
+efektivitas, 
+sementara 
+uji 
+stabilitas memastikan bahwa 
+produk tetap aman dan efektif 
+selama penyimpanan. 
+BPOM 
+(2021),  
+Singh 
+(2021) 
+Pengawasan 
+oleh BPOM 
+BPOM 
+mengawasi 
+seluruh 
+proses produksi, mulai dari 
+bahan baku hingga produk 
+jadi, dan memberikan izin edar 
+setelah uji kualitas yang ketat. 
+BPOM 
+(2021) 
+Sertifikasi 
+Halal 
+Produk 
+herbal 
+harus 
+mendapatkan sertifikasi halal 
+dari MUI, yang memastikan 
+produk sesuai syariat Islam. 
+MUI 
+(2020) 
+Standar 
+Nasional 
+Indonesia 
+(SNI) 
+SNI mengatur standar bahan 
+baku, proses produksi, dan 
+pengujian 
+kualitas 
+untuk 
+produk herbal di Indonesia. 
+SNI (2020) 
+
+ 
+73 
+Standarisasi 
+Internasional 
+Mengikuti pedoman WHO, 
+sseperti GACP dan GMP, yang 
+memastikan bahwa produk 
+herbal dapat bersaing di pasar 
+global. 
+WHO 
+(2021), 
+ASEAN 
+(2021) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+74 
+DAFTAR PUSTAKA 
+ 
+ASEAN. (2021). ASEAN Herbal Product Standardization Working 
+Group Report. Jakarta: ASEAN Secretariat. 
+Badan Pengawas Obat dan Makanan. (2021). Peraturan BPOM 
+tentang Obat Tradisional. Jakarta: BPOM. 
+Li, X., Yang, Y., & Henry, R. J. (2021). DNA barcoding for the 
+identification of herbal medicines: Methods and applications. 
+Plant Biotechnology Journal, 18(2), 763-774. 
+Majelis Ulama Indonesia. (2020). Pedoman Sertifikasi Halal untuk 
+Produk Herbal. Jakarta: MUI. 
+Mahmoud, A. A., Shaltout, K. H., & El-Gohary, M. (2020). 
+Environmental factors affecting the chemical composition of 
+medicinal plants. Journal of Applied Research on Medicinal 
+Plants, 8(1), 15-23. 
+PDHMI. 2019. Obat Herbal Juga Perlu Distandarisasi. Diakses pada 21 
+Juni 2024 dari https://www.guesehat.com/obat-herbal-
+juga-perlu-distandarisasi 
+Rizky, A., Yusuf, I., & Hidayat, S. (2021). Challenges and opportunities 
+in the development of Indonesian herbal medicine industry. 
+Journal of Herbal Pharmacology, 15(3), 234-241. 
+Singh, A. (2021). Herbal medicine: Current trends and future prospects. 
+Journal of Pharmacognosy and Phytochemistry, 9(2), 100-
+110. 
+Standar Nasional Indonesia. (2020). SNI Herbal Medicine. Jakarta: 
+Badan Standarisasi Nasional. 
+Utami, S. M., Aulia, G., Ratnaningtyas, T. O., Fahriati, A. R., Pratiwi, 
+R. D., Ismaya, N. A., ... & Hasanah, N. (2021). Edukasi 
+Tanaman Obat Peningkat Imunitas Tubuh Saat Pandemi 
+Covid-19. JAM: Jurnal Abdi Masyarakat, 2(2), 36-44. 
+Utami, S. M., Ismaya, N. A., Ratnaningtyas, T. O., & Yunarto, N. 
+(2022). Formulasi Sediaan Minuman Serbuk Fungsional 
+Kombinasi Biji Jagung (Zea mays L.) dan Madu. Jurnal 
+Kefarmasian Indonesia, 109-117. 
+
+ 
+75 
+Utami, S. M., Sari, D. P., Fatmawati, F. (2023). Standarisasi Ekstrak 
+Infusa Kulit Kayu Angsana (Pterocarpus indicus Willd.). 
+PROSIDING 
+SENANTIAS: 
+Seminar 
+Nasional 
+Hasil 
+Penelitian dan Pengabdian kepada Masyarakat, 4(1), pp. 876–
+885. 
+World Health Organization. (2021). Guidelines on Good Agricultural 
+and Collection Practices (GACP) for Medicinal Plants. 
+Geneva: WHO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+76 
+BIODATA PENULIS 
+ 
+ 
+apt. Sheila Meitania Utami 
+M.Si lahir di Jakarta, 30 Mei 
+1989. Ia tercatat sebagai lulusan 
+Magister 
+Herbal 
+Universitas 
+Indonesia. Sejak tahun 2015, ia 
+telah mengabdikan diri sebagai 
+dosen pengampu mata kuliah 
+berhubungan dengan teknologi 
+bahan alam di STIKes Widya 
+Dharma 
+Husada 
+Tangerang. 
+Pada tahun 2021 dan 2024, ia 
+berhasil meraih Hibah PDP 
+untuk formulasi nutraseutikal, 
+serta 
+dari 
+tahun 
+2022 
+ia 
+dipercaya sebagai tim dewan 
+redaksi 
+Jurnal 
+Kefarmasian 
+Indonesia. 
+Beberapa 
+artikel 
+ilmiah 
+Nasional 
+maupun 
+Internasional 
+beserta 
+buku 
+monograf dan referensi telah 
+diterbitkan 
+antara 
+lain 
+mengenai sediaan nutraseutikal, 
+herbal medicine, pemanfaatan 
+herbal, bahan alam berkhasiat 
+obat serta pengembangan obat 
+tradisional. 
+Penulis 
+dapat 
+dihubungi 
+melalui 
+e-mail: 
+sheila.meitania@gmail.com 
+ 
+ 
+ 
+ 
+
+ 
+77 
+BAB 7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Pendahuluan  
+Bahan alam memiliki jenis, bentuk dan komposisi yang 
+beragam. Dalam penggunaannya, bahan alam tersebut dapat 
+diambil keseluruhan zat atau hanya mengambil beberapa zat 
+yang dibutuhkan dari suatu bahan alam (Dewi et al., 2021). 
+Secara alamiah, bahan aktif selalu berada bersama-sama dengan 
+senyawa yang lain di dalam jaringan dan sel tanaman 
+(Kementerian Kesehatan Republik Indonesia, 2016). Cara untuk 
+mendapatkan atau memperoleh senyawa tersebut dilakukan 
+dengan berbagai proses, salah satunya dengan metode ekstraksi.  
+Ekstraksi adalah proses pemisahan suatu zat dari 
+campurannya dengan menggunakan pelarut, pelarut yang 
+digunakan harus dapat mengekstrak substansi yang diinginkan 
+tanpa melarutkan material lainnya atau suatu proses pemisahan 
+kandungan senyawa kimia dari jaringan tumbuhan ataupun 
+hewan dengan menggunakan penyari tertentu, atau juga 
+kegiatan penarikan kandungan kimia yang dapat larut sehingga 
+terpisah dari bahan yang tidak dapat larut dengan pelarut cair 
+(Hujjatusnaini et al., 2021), (Tiwari et al., 2011), (Departemen 
+Kesehatan Republik Indonesia, 2000).  
+Pemilihan metode ekstraksi tergantung pada bagian 
+tanaman yang akan diekstraksi dan bahan aktif yang diinginkan. 
+Oleh karena itu, sebelum ekstraksi dilakukan perlu diperhatikan 
+tujuan melakukan ekstraksi. Tujuan dari suatu proses ekstraksi 
+Metode Ekstraksi dan 
+Persiapan Herbal 
+ 
+*Rilyn Novita Maramis, S.Pd, S.Si, M.Si, Apt* 
+
+ 
+78 
+adalah untuk memperoleh suatu bahan aktif yang tidak 
+diketahui, memperoleh suatu bahan aktif yang sudah diketahui, 
+memperoleh sekelompok senyawa yang struktur sejenis, 
+memperoleh semua metabolit sekunder dari suatu bagian 
+tanaman dengan spesies tertentu, mengidentifikasi semua 
+metabolit sekunder yang terdapat dalam suatu makhluk hidup 
+sebagai penanda kimia atau kajian metabolisme (Kementerian 
+Kesehatan Republik Indonesia, 2016). 
+B. Metode Ekstraksi dan Persiapan Herbal 
+1. Metode Ekstraksi 
+a. Maserasi 
+Maserasi adalah proses pengekstrakkan simplisia 
+dengan menggunakan pelarut dengan beberapa kali 
+pengocokan 
+atau 
+pengadukan 
+pada 
+temperatur 
+ruangan (kamar). Secara teknologi termasuk ekstraksi 
+dengan prinsip metode pencapaian konsentrasi pada 
+keseimbangan. Maserasi kinetik berarti dilakukan 
+pengadukan yang kontinu (terus-menerus). Remaserasi 
+berarti dilakukan pengulangan penambahan pelarut 
+setelah dilakukan penyaringan maserat pertama, dan 
+seterusnya 
+(Departemen 
+Kesehatan 
+Republik 
+Indonesia, 2000). Metode ini paling cocok digunakan 
+untuk senyawa kimia tumbuhan yang tidak tahan 
+panas (termolabil) (Julianto, 2019).  
+ 
+ 
+Gambar 1. Proses Maserasi (Nugroho, 2017) 
+ 
+ 
+
+ 
+79 
+b. Perkolasi 
+Perkolasi adalah ekstraksi dengan pelarut yang selalu 
+baru sampai sempurna (exhaustive extraction) yang 
+umumnya dilakukan pada temperatur ruangan. Proses 
+terdiri dari tahapan pengembangan bahan, tahap 
+maserasi 
+antara, 
+tahap 
+perkolasi 
+sebenarnya 
+(penetesan/penampungan ekstrak), terus menerus 
+sampai diperoleh ekstrak (perkolat) yang jumlahnya 1- 
+5 kali bahan (Departemen Kesehatan Republik 
+Indonesia, 2000). 
+ 
+Gambar 2. Proses Perkolasi (Nugroho, 2017) 
+c. 
+Digesti 
+Digesti adalah maserasi kinetik (dengan pengadukan 
+kontinu) pada temperatur yang lebih tinggi dari 
+temperatur ruangan (kamar), yaitu secara umum 
+dilakukan pada temperatur 40 - 50°C (Departemen 
+Kesehatan Republik Indonesia, 2000). 
+d. Infusa 
+lnfusa adalah ekstraksi dengan pelarut air pada 
+temperatur penangas air (bejana infus tercelup dalam 
+penangas air mendidih, temperatur terukur 96-98°C) 
+selama waktu tertentu (15 - 20 menit) (Departemen 
+Kesehatan Republik Indonesia, 2000). 
+e. Dekokta 
+Dekok adalah infus pada waktu yang lebih lama 
+(~30°C) dan temperatur sampai titik didih air 
+(Departemen Kesehatan Republik Indonesia, 2000). 
+ 
+
+ 
+80 
+f. 
+Refluks 
+Refluks 
+adalah 
+ekstraksi 
+dengan 
+pelarut 
+pada 
+temperatur titik didihnya, selama waktu tertentu dan 
+jumlah pelarut terbatas yang relatif konstan dengan 
+adanya 
+pendingin 
+balik. 
+Umumnya 
+dilakukan 
+pengulangan proses pada residu pertama sampai 3-5 
+kali sehingga dapat termasuk proses ekstraksi 
+sempurna (Departemen Kesehatan Republik Indonesia, 
+2000). 
+ 
+Gambar 3. Proses Refluks (Nugroho, 2017) 
+g. Soxhlet  
+Soxhlet adalah ekstraksi menggunakan pelarut yang 
+selalu baru yang umumnya dilakukan dengan alat 
+khusus sehingga terjadi ekstraksi kontinu dengan 
+jumlah 
+pelarut 
+relatif 
+konstan 
+dengan 
+adanya 
+pendingin balik (Departemen Kesehatan Republik 
+Indonesia, 2000). Keuntungan dari sistem ini adalah 
+proses ekstraksi cukup dilakukan dalam satu wadah 
+dimana secara kontinyu pelarut yang terkondensasi 
+akan menetes dan merendam sampel tumbuhan dan 
+membawa senyawa terlarut ke labu penampung. 
+Metode ini tidak dapat digunakan untuk senyawa 
+termolabil karena pemanasan yang berkepanjangan 
+dapat menyebabkan degradasi senyawa (Julianto, 
+2019). Bahan alam, setelah diiris halus, dibungkus 
+dalam kertas saring atau selongsong dan dimasukkan 
+dalam Soklet. Pelarut dalam labu bulat dipanaskan, bila 
+mendidih, uap pelarut akan ke kondensor, dan karena 
+mendapat pendinginan pada alat pendingin, uap 
+
+ 
+81 
+mengembun dan turun ke soklet. Pelarut ini akhirnya 
+akan melarutkan senyawa organik yang terdapat 
+dalam 
+bahan 
+alam. 
+Bila 
+pelarut 
+yang 
+telah 
+mengandung senyawa yang akan diekstraksi telah 
+memenuhi pipa cabang alat soklet, larutan ini akan 
+mengalir ke bawah untuk masuk dalam labu bulat. 
+Demikian seterusnya, pelarut menguap, mengembun, 
+melarutkan senyawa dalam bahan alam dan larutan 
+turun ke labu bulat, berjalan secara kontinyu. Bila 
+dirasa telah cukup, diindikasikan dengan beningnya 
+larutan dalam pipa cabang, ekstraksi dihentikan 
+(Cahyono & Suzery, 2018). 
+ 
+Gambar 4. Proses Soxhlet (Nugroho, 2017) 
+h. Supercritical Fluid Extraction 
+Gas superkritis seperti karbon dioksida, nitrogen, 
+metana, etana, etilen, nitrogen oksida, sulfur dioksida, 
+propana, propilena, amonia dan sulfur heksafluorida 
+digunakan untuk mengekstrak senyawa aktif dalam 
+tumbuhan. Sampel tumbuhan disimpan dalam bejana 
+yang diisi dengan gas dalam kondisi yang terkendali 
+seperti suhu dan tekanan. Senyawa aktif yang larut 
+dalam gas terpisah ketika suhu dan tekanan lebih 
+rendah. Faktor penting dari teknik ini adalah transfer 
+massa zat terlarut dalam pelarut superkritis (Julianto, 
+2019). 
+
+ 
+82 
+ 
+Gambar 5. Supercritical Fluid Extraction (Julianto, 
+2019) 
+ 
+i. 
+Microwave-assisted extraction 
+Dalam 
+metode 
+ini 
+energi 
+gelombang 
+mikro 
+(microwave) membantu pemisahan senyawa aktif dari 
+sampel tumbuhan ke dalam pelarut. Gelombang mikro 
+memiliki medan listrik dan magnet yang tegak lurus 
+satu sama lain. Listrik yang dialirkan menghasilkan 
+panas melalui rotasi dipolar dan konduksi ionik. 
+Meningkatnya konstanta dielektrik pelarut, pemanasan 
+yang dihasilkan semakin cepat. Berbeda dengan 
+metode klasik, ekstraksi dengan bantuan microwave 
+memanaskan seluruh sampel secara bersamaan. 
+Selama ekstraksi, panas mengganggu ikatan hidrogen 
+yang lemah karena rotasi dipol molekul dan migrasi ion 
+terlarut meningkatkan penetrasi pelarut ke dalam 
+sampel atau matriks (Julianto, 2019). 
+ 
+Gambar 6. Reaktor Microwave-assisted extraction 
+(Julianto, 2019) 
+
+ 
+83 
+j. 
+Ultrasound-Assisted Extraction 
+Ultrasound-Assisted Extraction adalah teknik canggih 
+yang memiliki kemampuan mengekstraksi sejumlah 
+besar senyawa bioaktif dalam waktu ekstraksi yang 
+lebih pendek. Keuntungan utama dari teknik ini adalah 
+meningkatkan penetrasi pelarut ke dalam matriks 
+karena gangguan dinding sel yang dihasilkan oleh 
+kavitasi akustik. Dan juga ini mencapai pada suhu 
+rendah dan karenanya ini lebih cocok untuk ekstraksi 
+senyawa termal tidak stabil (Julianto, 2019). 
+ 
+Gambar 
+7. 
+Alat 
+Ultrasound-Assisted 
+Extraction 
+(Julianto, 2019) 
+ 
+k. Accelerated-assisted extraction 
+Dalam teknik ekstraksi pelarut dipercepat, pelarut 
+digunakan pada suhu tinggi dan tekanan untuk 
+menjaga pelarut dalam bentuk cair selama proses 
+ekstraksi. Karena suhu tinggi kapasitas pelarut untuk 
+melarutkan analit meningkat dan dengan demikian 
+tingkat difusi meningkat. Selanjutnya, suhu yang lebih 
+tinggi mengurangi viskositas dan pelarut dapat dengan 
+mudah 
+menembus 
+pori-pori 
+matriks. 
+Pelarut 
+bertekanan memungkinkan kontak lebih dekat dengan 
+analit dan pelarut. Namun, metode ini menggunakan 
+lebih sedikit waktu dan lebih sedikit jumlah pelarut 
+untuk ekstraksi bahan aktif. Keuntungan dari metode 
+ini adalah ekstraksi untuk ukuran sampel 1-100 g dalam 
+menit, pengurangan pelarut dramatis dan berbagai 
+
+ 
+84 
+aplikasi dan penanganan matriks asam dan basa 
+(Julianto, 2019). 
+ 
+ 
+Gambar 8. 
+Alat 
+Accelerated-Assisted Extraction 
+(Julianto, 2019) 
+ 
+l. 
+Enfleurasi 
+Enfleurasi adalah proses yang menggunakan lemak tak 
+berbau yang padat pada suhu kamar untuk menangkap 
+senyawa 
+yang 
+harum 
+yang 
+dikeluarkan 
+oleh 
+tumbuhan. Prosesnya bisa berupa enfleurasi dingin 
+atau enfleurasi panas (Julianto, 2019).  
+ 
+Gambar 9. Proses Enfleurasi (Julianto, 2019) 
+ 
+m. Distilasi 
+Penyulingan (distilasi) merupakan proses pemisahan 
+komponen dapat berupa cairan atau padatan yang 
+dibedakan berdasarkan titik didih dari masing-masing 
+zat tersebut. Dalam industri minyak atsiri dikenal tiga 
+macam metode penyulingan, yaitu:  
+
+ 
+85 
+a) Distilasi air (water distillation) 
+Pada metode ini, bahan yang akan disuling kontak 
+langsung 
+dengan 
+air 
+atau 
+terendam 
+secara 
+sempurna tergantung pada bobot jenis dan jumlah 
+bahan yang akan disuling. Ciri khas dari metode ini 
+adalah kontak langsung antara bahan yang akan 
+disuling dengan air mendidih (Julianto, 2019).   
+ 
+ 
+Gambar 10. Distilasi air (Julianto, 2019) 
+ 
+b) Distilasi uap air (steam and water distillation) 
+Pada metode penyulingan ini, material diletakkan di 
+atas rak – rak atau saringan berlubang. Ketel suling 
+diisi sampai dengan batas dibawah sarangan.  
+Prinsip dasarnya seperti mengukus nasi. Material 
+kontak dengan uap yang tidak terlalu panas namun 
+jenuh yang dihasilkan dari air yang mendidih di 
+bawah sarangan (Julianto, 2019). 
+ 
+ 
+ 
+Gambar 11. Distilasi uap air (Julianto, 2019) 
+ 
+
+ 
+86 
+ 
+c) Distilasi uap (steam distillation) 
+Pada metode penyulingan ini, unit penyulingan 
+terbagi atas 3 unit, ketel bahan baku, boiler, dan 
+kondensor. Uap dibentuk di dalam boiler dengan 
+cara memanaskan air hingga tekanan tertentu yang 
+ditunjukkan oleh manometer yang telah dipasang 
+dalam boiler. Setelah tekanan uap yang diinginkan 
+tercapai maka uap jenuh siap dialirkan ke dalam 
+ketel bahan baku. Lebih cocok untuk menyuling 
+bahan–bahan seperti dedaunan dan serpihan kayu 
+(Julianto, 2019). 
+ 
+ 
+Gambar 12. Distilasi uap (Julianto, 2019) 
+ 
+2. Persiapan 
+Herbal 
+(Departemen 
+Kesehatan 
+Republik 
+Indonesia, 2000) 
+a. Pengumpulan bahan baku 
+Kadar senyawa aktif dalam suatu simplisia berbeda-
+beda antara lain tergantung pada bagian tanaman yang 
+digunakan, umur tanaman atau bagian tanaman pada 
+saat panen, waktu panen dan lingkungan tempat 
+tumbuh.  
+b. Sortasi Basah 
+Sortasi basah dilakukan untuk memisahkan kotoran-
+kotoran atau bahan-bahan asing lainnya dari bahan 
+simplisia. Contoh pada simplisia yang dibuat dari akar 
+
+ 
+87 
+suatu tanaman obat, bahan-bahan asing seperti tanah, 
+kerikil, rumput, batang, daun, akar yang telah rusak, 
+serta pengotoran lainnya harus dibuang.  
+c. 
+Pencucian 
+Pencucian dilakukan untuk menghilangkan tanah dan 
+pengotoran 
+lainnya 
+yang 
+melekat 
+pada 
+bahan 
+simplisia. Pencucian dilakukan dengan air bersih, 
+misalnya air dari mata air, air sumur atau air PAM. 
+d. Perajangan 
+Beberapa jenis bahan simplisia perlu mengalami proses 
+perajangan. Perajangan bahan simplisia dilakukan 
+untuk memudahkan proses pengeringan, pengepakan 
+dan penggilingan. 
+e. Pengeringan 
+Tujuan pengeringan adalah untuk mendapatkan 
+simplisia yang tidak mudah rusak sehingga dapat 
+disimpan dalam waktu yang lebih lama. Dengan 
+mengurangi kadar air dan menghentikan reaksi 
+enzimatik akan dicegah penurunan mutu atau 
+perusakan simplisia.  Hal-ha1 yang perlu diperhatikan 
+selama proses pengeringan adalah suhu pengeringan, 
+kelembaban udara, aliran udara, waktu pengeringan 
+dan luas permukaan bahan. Pada pengeringan bahan 
+simplisia tidak dianjurkan menggunakan alat dari 
+plastik. 
+f. 
+Sortasi kering 
+Sortasi setelah pengeringan sebenarnya merupakan 
+tahap akhir pembuatan simplisia. Tujuan sortasi kering 
+untuk memisahkan benda-benda asing seperti bagian-
+bagian 
+tanaman 
+yang 
+tidak 
+diinginkan 
+dan 
+pengotoran-pengotoran lain yang masih ada dan 
+tertinggal pada simplisia kering. Proses ini dilakukan 
+sebelum 
+sirnplisia 
+dibungkus 
+untuk 
+kernudian 
+disimpan. 
+ 
+
+ 
+88 
+g. Pengepakan dan Penyimpanan 
+Selama 
+penyimpanan 
+ada 
+kemungkinan 
+terjadi 
+kerusakan pada simplisia. Perlu diperhatikan beberapa 
+hal yang dapat mengakibatkan kerusakan simplisia, 
+yaitu 
+cara 
+pengepakan, 
+pembungkusan 
+dan 
+pewadahan, persyaratan gudang simplisia, cara sortasi 
+dan pemeriksaan mutu, serta cara pengawetannya. 
+Penyebab kerusakan pada simplisia yang utama adalah 
+air dan kelembaban. 
+h. Pemeriksaan Mutu 
+Pemeriksaan mutu simplisia dilakukan dengan cara 
+organoleptik, makroskopik, cara mikroskopik dan atau 
+cara kimia. Beberapa jenis simplisia tertentu ada yang 
+perlu diperiksa dengan uji mutu secara biologi.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+89 
+DAFTAR PUSTAKA 
+ 
+Cahyono, B., & Suzery, M. (2018). Metode Pemisahan Bahan Alam 
+Aspek Teoritis dan Eksperimen. Kompas Ilmu. 
+Departemen Kesehatan Republik Indonesia. (2000). Parameter 
+Standar 
+Umum 
+Ekstrak 
+Tumbuhan 
+Obat. 
+Dirjen 
+Pengawasan Obat dan Makanan. 
+Dewi, B. A., Wardani, T. S., & Nurhayati, N. (2021). Fitokimia. 
+Pustaka Baru Press. 
+Hujjatusnaini, N., Ardiansyah, Indah, B., Afitri, E., & Widyastuti, R. 
+(2021). Ekstraksi (N. Lestariningsih, Ed.). Institut Agama 
+Islam Negeri Palangkaraya. 
+Julianto, T. S. (2019). Fitokimia Tinjauan Metabolit Sekunder dan 
+Skrining Fitokimia. Universitas Islam Indonesia. 
+Kementerian Kesehatan Republik Indonesia. (2016). Farmakognosi 
+dan Fitokimia. Pusdik SDM Kesehatan Badan PPSDM 
+Kesehatan. 
+Nugroho, A. (2017). Teknologi Bahan Alam. Lambung Mangkurat 
+Univeristy Press. 
+Tiwari, P., Kumar, B., Kaur, M., Kaur, G., & Kaur, H. (2011). 
+Phytochemical Screening and Extraction: A Review. 1(1), 98–
+106. http://www.ipharmsciencia.com 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+90 
+BIODATA PENULIS 
+ 
+ 
+ 
+Rilyn Novita Maramis, S.Pd, S.Si, 
+M.Si, Apt lahir di Manado, pada 08 
+November 
+1977. 
+Menyelesaikan 
+pendidikan 
+Sekolah 
+Menengah 
+Farmasi (SMF) di Manado, S1 di 
+Fakultas Ilmu Pendidikan Universitas 
+Negeri 
+Manado 
+dan 
+Fakultas 
+Matematika dan Ilmu Pengetahuan 
+Alam Universitas Kristen Indonesia 
+Tomohon. 
+Menyelesaikan 
+Profesi 
+Apoteker 
+di 
+Institut 
+Sains 
+dan 
+Teknologi 
+Nasional 
+Jakarta 
+dan 
+Pendidikan S2 pada Program Pasca 
+Sarjana Universitas Negeri Manado. 
+Sampai saat ini penulis sebagai Dosen 
+di 
+Jurusan 
+Farmasi 
+Poltekkes 
+Kemenkes Manado.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+91 
+BAB 8   
+ 
+ 
+ 
+ 
+ 
+ 
+A. Pendahuluan  
+Penyakit kardiovaskular adalah berbagai macam penyakit 
+termasuk penyakit pembuluh darah perifer, penyakit jantung 
+koroner (PJK), gagal jantung, serangan jantung (infark 
+miokard), stroke, kardiomiopati, dislipidemia, dan hipertensi. 
+Penyakit kardiovaskular sebagian besar berasal dari disfungsi 
+vaskular, yang kemudian menyebabkan kerusakan organ. 
+Misalnya, jantung dapat mengalami serangan jantung, atau 
+otak dapat mengalami stroke karena gangguan vaskular. 
+Penyebab utama gangguan vaskular meliputi aterosklerosis, 
+trombosis, dan tekanan darah tinggi (BP). Faktor risiko umum 
+untuk penyakit kardiovaskular meliputi merokok, pola makan 
+tidak sehat, diabetes melitus, hiperlipidemia, peningkatan 
+kadar kolesterol lipoprotein densitas rendah (LDL), penurunan 
+kadar kolesterol lipoprotein densitas tinggi (HDL), dan 
+hipertensi. 
+Penyakit kardiovaskular merupakan beban kesehatan yang 
+signifikan dengan prevalensi yang terus meningkat. Penyakit ini 
+tetap menjadi penyebab utama morbiditas dan mortalitas di 
+seluruh dunia. Penggunaan tanaman obat terus menjadi 
+pendekatan pengobatan alternatif untuk beberapa penyakit 
+termasuk  penyakit kardiovaskular. Saat ini ada dorongan untuk 
+penggunaan sediaan herbal dalam sistem pengobatan modern. 
+Dorongan ini didukung oleh beberapa aspek, yang utama di 
+antaranya 
+adalah 
+janji 
+terapeutik 
+yang 
+hemat 
+biaya 
+Herbal Untuk Gangguan 
+Kardiovaskular 
+ 
+* Selfie P.J. Ulaen, S.Pd., S.Si., M.Kes. * 
+
+ 
+92 
+dibandingkan dengan terapi modern standar dan keyakinan 
+umum bahwa sediaan herbal aman. Meskipun keamanan 
+sediaan herbal yang diklaim masih harus diuji dengan benar. 
+Kesadaran masyarakat harus ditingkatkan mengenai keamanan 
+tanaman obat, toksisitas, efek samping yang berpotensi 
+mengancam jiwa, dan kemungkinan interaksi tanaman obat 
+dengan obat. Selama bertahun-tahun, data laboratorium telah 
+menunjukkan bahwa tanaman obat mungkin memiliki nilai 
+terapeutik dalam penyakit kardiovaskular karena dapat 
+mengganggu beberapa faktor risiko penyakit kardiovaskular. 
+Oleh karena itu ada banyak upaya untuk menggunakan 
+tanaman obat secara efektif dalam pengobatan penyakit 
+kardiovaskular. 
+B. Data Penyakit kardiovaskular (PKV) 
+Penyakit kardiovaskular (PKV) adalah penyakit jantung 
+atau pembuluh darah. Penyakit kardiovaskular mencatat jumlah 
+kematian tahunan global lebih dari 17 juta. Akibatnya, Penyakit 
+kardiovaskular (PKV) tetap menjadi penyebab kematian paling 
+umum di dunia dan merupakan beban ekonomi dan kesehatan 
+yang besar, di seluruh dunia. Organisasi Kesehatan Dunia 
+(WHO) 
+melaporkan 
+bahwa 
+Penyakit 
+kardiovaskular 
+menyebabkan 31% kematian global tahunan ( Organisasi 
+Kesehatan Dunia, 2017 ). Di Eropa, Penyakit kardiovaskular 
+menyebabkan 45% dari semua kematian menurut  Statistik 
+Penyakit kardiovaskular Eropa 2017. Statistik terkini American 
+Heart Association memperkirakan bahwa sekitar setengah dari 
+populasi AS memiliki bentuk Penyakit kardiovaskular. 
+C. Produk Herbal dan Tumbuhan Sebagai Obat 
+Pengobatan tradisional dan etnomedisin yang didefinisikan 
+sebagai studi tentang pengobatan tradisional yang dipraktikkan 
+oleh 
+berbagai 
+kelompok 
+etnis, 
+setua 
+sejarah 
+manusia. 
+Pengobatan tradisional secara historis mengandalkan sumber 
+daya alam sebagai pengobatan. Secara historis herbal yang 
+secara umum didefinisikan sebagai segala bentuk tanaman atau 
+produk tanaman ( Tachjian et al., 2010 ), dan ekstrak tanaman 
+
+ 
+93 
+membentuk dasar obat pertama yang digunakan dalam sistem 
+pengobatan tradisional di banyak budaya dan peradaban. 
+Tanaman dan herbal selalu menjadi sumber pengobatan yang 
+umum, baik dalam bentuk ekstrak tradisional atau sebagai 
+senyawa aktif murni ( Fabricant dan Farnsworth, 2001 ). Jelas 
+alam 
+merupakan 
+sumber 
+yang 
+sangat 
+penting 
+untuk 
+menemukan obat baru yang mengarah pada pengobatan 
+penyakit. Obat-obatan terkenal dari sumber herbal dan tanaman 
+termasuk aspirin dari pohon Salix alba L., digoksin (glikosida 
+jantung) dari Digitalis purpurea , efedrin dari Ephedra sinica , 
+lovastatin dari Monascus purpureus L., taxol dari Taxus 
+brevifolia , reserpin dari Rauvolfia serpentina , dan banyak 
+lainnya ( Harvey, 2000 ; Frishman et al., 2009 ; Cragg dan 
+Newman, 2013 ). Reserpin masih merupakan pengobatan yang 
+efektif untuk hipertensi ( Weber et al., 2014 ).  
+Catatan paling awal tentang obat-obatan yang berasal dari alam, 
+ditemukan di Mesopotamia (sekitar 2600 SM), menggambarkan 
+penggunaan sekitar 1000 senyawa yang berasal dari tanaman. 
+Catatan terbaik tentang penggunaan ekstrak alami dalam terapi 
+adalah Papirus Ebers milik Mesir (dari 1500 SM), yang 
+mendokumentasikan lebih dari 700 obat alami, terutama yang 
+berasal dari tanaman. Catatan Materia Medica Tiongkok (1100 
+SM) menggambarkan 52 sediaan obat alami, dan catatan 
+Ayurveda India (1000 SM) menggambarkan lebih dari 800 
+ekstrak obat alami (Cragg dan Newman, 2013 ; Otvos et al., 2019 
+). Hippocrates juga menerapkan fitoterapi, atau penyembuhan 
+dengan herbal, dalam perawatannya (Otvos et al., 2019 ). Pada 
+tahun 1985 WHO memperkirakan bahwa sekitar 65% dari 
+populasi dunia sebagian besar bergantung pada obat-obatan 
+tradisional yang berasal dari tanaman (Farnsworth et al., 1985). 
+Orang-orang di berbagai negara telah menggunakan tanaman 
+atau sediaan herbal yang identik atau sebanding untuk 
+pencegahan dan/atau pengobatan penyakit fisik dan mental.  
+  
+ 
+
+ 
+94 
+D. Jenis Obat Jantung Alami dari Tumbuhan 
+Obat herbal adalah tumbuhan dengan kandungan senyawa 
+atau zat aktif yang berguna menjaga kesehatan tubuh.  
+Berikut terdapat obat jantung alami dari tumbuhan yang bisa di 
+konsumsi, yaitu: 
+1.   Bawang Putih 
+Bawang putih bermanfaat menurunkan kadar kolesterol 
+jahat, mengurangi pembengkakan, dan menurunkan tekanan 
+darah. Dengan konsumsi bawang putih dapat mengurangi 
+resiko serangan jantung, stroke, dan menjaga tekanan darah. 
+Selain mengobati penyakit jantung, konsumsi bawang putih 
+juga membantu membersihkan plak di bagian arteri. Ketika 
+arteri bersih dari plak, maka aliran darah tidak akan 
+terhambat menuju otot jantung yang bertugas memompa 
+darah. 
+2.   Teh Hijau 
+Teh hijau merupakan salah satu obat herbal alami yang 
+banyak percaya bisa mengobati berbagai penyakit, termasuk 
+penyakit jantung. Konsumsi teh hijau alami sebanyak 5-6 
+gelas per hari, diyakini dapat membantu menjaga kesehatan 
+jantung. Bahkan menurut penelitian Western University of 
+Health Sciences, bahwa konsumsi teh hijau 10 gelas sehari 
+bisa menurunkan kolesterol jahat penyebab sakit jantung.  
+3.  Jahe 
+Jahe merupakan tumbuhan yang memiliki khasiat dan 
+manfaat untuk menurunkan tekanan darah, mengurangi 
+kolesterol, dan mencegah pembekuan darah. Tumbuhan 
+herbal ini juga disebut memiliki kemampuan anti inflamasi 
+dan 
+antioksidan 
+yang 
+tinggi. 
+Berdasarkan 
+studi 
+menunjukkan, 
+konsumsi 
+jahe 
+dapat 
+menghentikan 
+pembekuan darah di pembuluh darah. Dengan demikian, 
+jahe dianggap potensial menjadi ramuan efektif untuk 
+mencegah dan mengobati gangguan kesehatan jantung. 
+ 
+ 
+
+ 
+95 
+4.   Kunyit 
+Kunyit merupakan jenis obat herbal alami untuk mengatasi 
+penyakit jantung. Tumbuhan ini diyakini ampuh untuk 
+melindungi otot jantung dan bisa mengurangi pembekuan 
+darah pada bagian arteri, selain telah dikenal sebagai bumbu 
+untuk masak. 
+Studi penelitian menunjukkan, bahwa kandungan polifenol 
+pada kunyit dapat membantu membuka penyumbatan arteri 
+penyebab serangan jantung dan stroke. Namun, konsumsi 
+kunyit berlebihan juga tidak baik untuk kesehatan tubuh. 
+5.   Kayu Manis 
+Tumbuhan alami yang baik di konsumsi untuk obat jantung 
+selanjutnya adalah kayu manis. Tanaman herbal ini memiliki 
+senyawa 
+antiinflamasi 
+yang 
+tinggi 
+membantu 
+menyeimbangkan tekanan darah dan kolesterol penyebab 
+penyakit jantung. Tidak hanya itu, kayu manis juga memiliki 
+manfaat dan khasiat lain seperti meredakan sendi akibat 
+rheumatoid arthritis, mengurangi keluhan infeksi saluran 
+kemih, mencegah demensia, dan menurunkan gula darah 
+bagi penderita diabetes. 
+6.   Ginseng 
+Ginseng digunakan sebagai obat tradisional selama ribuan 
+tahun yang memiliki manfaat besar bagi kesehatan. 
+Tumbuhan herbal ini sering digunakan untuk menurunkan 
+kolesterol dan tekanan darah tinggi, serta menjaga sistem 
+kekebalan tubuh. Meski memiliki banyak manfaat, sebaiknya 
+konsumsi ginseng tidak berlebihan. Konsultasikan terlebih 
+dahulu dengan dokter jika ingin konsumsi obat herbal alami 
+dari tumbuhan ini ketika sedang konsumsi obat sakit jantung 
+lainnya. 
+7.   Ketumbar 
+Ketumbar seringkali digunakan dalam masakan yang 
+bermanfaat untuk menjaga kesehatan jantung. Orang yang 
+memasukkan ketumbar dalam makanannya cenderung 
+memiliki tingkat risiko penyakit jantung yang rendah. 
+
+ 
+96 
+Ketumbar memiliki senyawa diuretik, zat yang berguna 
+mengeluarkan cairan dan natrium dari dalam tubuh. Hal ini 
+dapat membantu menurunkan tekanan darah dan kolesterol 
+jahat sehingga dapat mengurangi faktor risiko penyakit 
+jantung. 
+E. Cara Mencegah Penyakit Jantung 
+Selain konsumsi obat jantung alami dari tumbuhan, ada 
+cara 
+efektif 
+mencegah 
+penyakit 
+jantung. 
+Salah 
+satu 
+pencegahannya dengan menerapkan gaya hidup sehat, antara 
+lain: 
+1. Konsumsi Makanan Sehat 
+Diet jantung sehat dapat membantu melindungi jantung dari 
+berbagai faktor risiko penyakit jantung seperti kolesterol dan 
+tekanan darah tinggi. Adapun makanan sehat yang 
+sebaiknya dikonsumsi untuk kesehatan jantung sebagai 
+berikut: 
+a. Sayuran dan buah-buahan 
+b. Kacang-kacangan dan biji-bijian utuh 
+c. 
+Daging dan ikan tanpa lemak 
+d. Makanan rendah lemak atau bebas lemak 
+e. Lemak sehat seperti minyak zaitun 
+2. Aktivitas Fisik atau Olahraga 
+Melakukan aktivitas fisik atau olahraga rutin zetian hari 
+membantu menurunkan risiko penyakit jantung. Aktivitas 
+fisik dapat membantu mengontrol berat badan dan 
+mengurangi faktor risiko. Berikut aktivitas fisik yang bisa 
+dilakukan: 
+a. Berjalan dengan langkah cepat sekitar 150 menit 
+seminggu 
+b. Berlari atau latihan kekuatan selama 75 menit seminggu 
+c. 
+Aktivitas fisik lainnya yang membuat badan tetap 
+bergerak 
+3. Menjaga Kualitas Tidur 
+Orang yang kurang tidur biasanya memiliki resiko tekanan 
+darah tinggi, obesitas, dan tingkat stres lebih tinggi. Hal ini 
+
+ 
+97 
+menjadi faktor risiko penyakit jantung sehingga penting 
+menjaga kualitas tidur, setidaknya tidur tujuh jam setiap 
+malam. 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+
+ 
+98 
+DAFTAR PUSTAKA 
+ 
+Cragg G. M., Newman D. J. (2013). Natural products: a continuing 
+source of novel drug leads. Biochim. Biophys. Acta 
+1830 (6), 3670–3695.   10.1016/j.bbagen.2013.02.008 
+[PMC free article] [PubMed] [CrossRef] [Google 
+Scholar] 
+Dalimartha, S. (1999). Atlas Tumbuhan Obat Indonesia Jilid I, 
+Jakarta : Trubus Agriwidya 
+Fabricant D. S., Farnsworth N. R. (2001). The value of plants 
+used in traditional medicine for drug discovery. 
+Environ. Health Perspect. 109 (Suppl 1), 69–75.   
+10.1289/ehp.01109s169  
+Farnsworth N. R., Akerele O., Bingel A. S., Soejarto D. D., Guo 
+Z. (1985). Medicinal plants in therapy. Bull. World 
+Health Organ. 63 (6), 965–981.  
+Harvey A. (2000). Strategies for discovering drugs from 
+previously unexplored natural products. Drug 
+Discovery Today 5 (7), 294–300. 10.1016/S1359-
+6446(00)01511-7  
+Hartono.Budi 2022 “Pengaruh Budaya, Sosial dan Pribadi Terhadap 
+Kepustusan Pembelian Jamu Tradisional (studi pada 
+mahasiswa 
+Universita 
+Tidar)”,jurnal 
+Ecodemica 
+(Vol.21 No.4). 
+Hembing Wijayakusuma. (2000). Ensiklopedia milenium : 
+Tumbuhan Berkhasiat Obat Indonesia, Jakarta : Gema 
+Insani 
+Kartasapoetra, G. (1992). Budidaya Tanaman Berkhasit Obat. 
+Jakarta : Rineka Cipta 
+Muhammad Al Qamari, Dafni Mawar Tarigan, Alridiwirsah. 
+(2017). Budidaya Tanaman Obat dan Rempah. Medan: 
+UMSU Press 
+Prabawa, H. W., & Fitriani, A. D. (2020). Mempertahankan 
+Eksistensi Jamu Tradisional melalui Perubahan Desain 
+Pengemasan dan Pemasaran. DEDIKASI: Community 
+
+ 
+99 
+Service 
+Reports, 
+2(1), 
+35–46. 
+https://doi.org/10.20961/dedikasi.v2i1.35848 
+Supriyadi (2001). Tumbuhan Obat Indonesia Penggunaan dan 
+Khasiatnya, Jakarta : Pustaka. Populer 
+Tachjian A., Maria V., Jahangir A. (2010). Use of herbal products 
+and 
+potential 
+interactions 
+in 
+patients 
+with 
+cardiovascular diseases. J. Am. Coll. Cardiol. 55 (6), 
+515–525.   10.1016/j.jacc.2009.07.074  
+Tilaar,  M.,  2016. The  Tale  of  Jamu-The Green Gold of Indonesia. 
+Gramedia Pustaka Utama.  
+Weber M. A., Schiffrin E. L., White W. B., Mann S., Lindholm L. 
+H., Kenerson J. G., et al. (2014). Clinical practice 
+guidelines for the management of hypertension in the 
+community a statement by the American Society of 
+Hypertension and the International Society of 
+Hypertension. 
+J. 
+Hypertens. 
+32 
+(1), 
+3–15.   
+10.1097/hjh.0000000000000065  
+Wijayakusuma HMH, Dalimartha S dan Wirian AS. (1993). 
+Tanaman Berkhasiat Obat di. Indonesia. Jilid II, 
+Jakarta: Pustaka Kartini 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+100 
+BIODATA PENULIS 
+ 
+Selfie P.J. Ulaen, S.Pd.,S.Si., 
+M.Kes. lahir di Manado, pada 01 
+September 1973. Menyelesaikan 
+Pendidikan 
+S1 
+Administrasi 
+Pendidikan & Akta Mengajar IV 
+di FIP IKIP Manado, S1 Farmasi di 
+Universitas 
+Kristen 
+Indonesia 
+Tomohon dan S2 di Fakultas Ilmu 
+Kesehatan 
+Masyarakat 
+Universitas 
+Samratulangi 
+Manado. Sampai saat ini penulis 
+sebagai Dosen di Jurusan Farmasi 
+Poltekkes Kemenkes Manado.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+101 
+BAB 9   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Pendahuluan 
+Kekayaan ragam hayati Indonesia, salah satunya 
+tanaman obat, harus dimanfaatkan dalam peningkatan 
+kesehatan maupun ekonomi masyarakat. Sehingga kedepan 
+dapat menjadi salah satu sumber devisa negara (Bahar, 2011). 
+Tanaman obat merupakan salah satu alternatif dalam 
+penyembuhan dan telah digunakan secara turun temurun. 
+Tanaman obat dipercaya memiliki berbagai khasiat secara 
+empiris, namun demikian untuk dapat dijadikan suatu sediaan 
+obat harus dilakukan serangkaian pengujian (Reskianingsih, 
+2014). 
+Gerakan back to nature membuat penggunaan tanaman 
+sebagai obat tradisional menjadi meningkat seiring rekomendasi 
+organisasi kesehatan dunia World Health Organization (WHO) 
+bahwa obat tradisional dapat digunakan untuk memelihara 
+kesehatan masyarakat, mencegah dan mengobati penyakit 
+(Madihah et al., 2017). Masyarakat pada umumnya meyakini 
+bahwa obat tradisional aman dan tidak memiliki efek samping. 
+Meskipun sebenarnya, obat tradisional berbahan tanaman herbal 
+mengandung berbagai zat kimia yang kompleks dan berpotensi 
+terjadinya interaksi yang membahayakan serta menimbulkan 
+gejala toksik. Untuk memberikan efek, tanaman obat harus 
+dikonsumsi secara kontinyu dalam jangka waktu yang cukup 
+lama. Hal ini menyebabkan kemungkinan adanya toksisitas 
+Efek Farmakologis dan    
+Toksikologi Herbal 
+ 
+Apt, Fathul Jannah, S.Si., SpFRS 
+
+ 
+102 
+subkronik maupun kronis. Suatu produk herbal harus melalui 
+evaluasi keamanan berupa pengujian ketoksikan, untuk dapat 
+didistribusikan secara luas di masyarakat (BPOM RI, 2010).   
+B. Obat Tradisional (Obat Herbal) 
+Lingkungan memiliki peran penting bagi manusia untuk 
+memenuhi kebutuhan hidupnya, contohnya makanan, tempat 
+tinggal dan tentunya obat-obatan. Indonesia secara turun 
+temurun telah mengenal juga menggunakan tamanan yang 
+dimanfaatkan sebagai obat untuk menanggulangi  masalah 
+kesehatannya. Namun dalam penggunaan obat tradisional juga 
+memerlukan ketepatan dalam penggunaannya (Shofiah, 2017).  
+Bangsa Indonesia membuat obat tradisonal dengan 
+memanfaatkan bahan alam yang mana telah terbukti dangan 
+adanya naskah lama pada daun lontar Husodo (Jawa), dokumen 
+Serat Primbon Jampi, dan relief candi Borobudur yang 
+melukiskan orang sedang meracik obat (jamu) yang mana bahan 
+bakunya berasal dari tumbuhan.  
+Di seluruh penjuru dunia, obat herbal telah dipercaya 
+akan khasiatnya. Menurut WHO, negara negara latin banyak 
+memanfaatkan obat herbal sebagai pelengkap pengobatan 
+primer. Contohnya di Negara Afrika 80% masyarakatnya untuk 
+pengobatan primernya menggunakan obat herbal (WHO, 2003).  
+Penggunaan obat tradisional memiliki beragam kelebihan 
+dibandingkan dengan obat modern. Obat tradisional memiliki 
+efek samping yang lebih kecil dibandingkan obat modern 
+apabila digunakan secara tepat. Setidaknya, ada 6 aspek yang 
+harus diperhatikan, yakni: tepat dosis / takaran, tepat waktu 
+penggunaan, tepat cara penggunaan, tepat pemilihan bahan, 
+tepat telaah informasi, dan tepat indikasi (Katno, 2008). 
+Kandungan senyawa di dalam obat tradisional dapat 
+memberikan efek komplementer (saling melengkapi) atau efek 
+sinergisme (memiliki efek serupa/sama). Seperti yang kita 
+ketahui, satu tanaman obat mengandung lebih dari satu 
+senyawa kimia. Artinya, dalam suatu obat tradisional yang 
+umumnya terdiri dari berbagai jenis tanaman obat terkandung 
+
+ 
+103 
+beragam senyawa kimia yang dapat memberikan efek saling 
+mendukung untuk mencapai tujuan pengobatan (Katno, 2008). 
+Selain itu, penggunaan obat tradisional juga dapat dilakukan 
+dengan beragam cara yang disesuaikan dengan bahan obat yang 
+terkandung di dalamnya. Ada obat tradisional yang diseduh, 
+ada yang dapat dibuat menjadi teh, ada juga yang dapat 
+dicampurkan dengan makanan, dan sebagainya (Sam, 2019). 
+Disamping berbagai kelebihan, obat tradisional juga 
+memiliki kekurangan dibandingkan dengan obat modern. Obat 
+tradisional memiliki efek farmakologis yang lemah dan lambat. 
+Hal ini dikarenakan rendahnya kadar suatu senyawa dan juga 
+kompleksnya senyawa kimia yang terkandung di dalam 
+tanaman 
+obat 
+sebagai 
+bahan 
+dasar 
+obat 
+tradisional. 
+Keberagaman kandungan senyawa di dalamnya membuat obat 
+tradisional harus melewati proses standarisasi yang kompleks. 
+Penanganan pasca panen yang tepat dan benar juga diperlukan, 
+khususnya untuk bahan baku dengan sifat higroskopis dan 
+mudah terkontaminasi oleh mikroba (Katno, 2008). 
+Lambatnya efek farmakologi karena rendahnya kadar 
+senyawa di dalamnya membuat pengobatan dengan obat 
+tradisional ini kurang efektif apabila digunakan untuk penyakit 
+infeksi yang memerlukan penanganan secara cepat. Namun, 
+obat tradisional ini banyak digunakan untuk menanggulanggi 
+penyakit-penyakit yang memerlukan pemakaian obat jangka 
+panjang, 
+yakni 
+kelompok 
+penyakit 
+akibat 
+gangguan 
+metabolisme tubuh, seperti kencing manis, kolesterol tinggi, dll. 
+serta penyakit degenerative, seperti radang persendian. 
+Penggunaan obat tradisional dalam waktu lama dianggap lebih 
+aman karena efek sampingnya yang lebih kecil (dengan 
+penggunaan yang tepat) dibandingkan dengan obat modern 
+(Katno, 2008). 
+Biodiversitas tumbuhan 
+di Indonesia sedemikian 
+banyak, maka secara sistematis perlu dikelompokkan. 
+Pengelompokan obat herbal menjadi obat herbal tradisional 
+dan obat herbal nontradisional. Obat herbal tradisional 
+
+ 
+104 
+Indonesia yang dikenal sebagai obat tradisional atau jamu, 
+mengandung tumbuhan yang telah digunakan secara turun-
+temurun yang merupakan warisan budaya bangsa Indonesia. 
+Obat herbal nontradisional mengandung tumbuhan yang tidak 
+memiliki 
+riwayat 
+penggunaan 
+turun-temurun, 
+namun 
+berpotensi memiliki manfaat bagi kesehatan masyarakat. 
+Pengelompokan obat herbal tradisional di Indonesia 
+dapat berupa Jamu, Obat Herbal Terstandar (OHT) serta 
+Fitofarmaka, yang mana untuk masing-masing kelompok 
+memerlukan bukti dukung yang berbeda (empiris, nonklinik 
+dan/atau 
+klinik). 
+Ketiga 
+kelompok 
+tersebut 
+tidak 
+diperbolehkan mengandung bahan kimia. 
+ 
+ 
+Sumber: Peraturan Kepala Badan Pengawas Obat dan 
+Makanan RI Nomor: 13 Tahun 2014 
+Gambar 
+1. 
+Bagan 
+pengelompokan 
+herbal 
+dan 
+pengembangannya 
+Batasan herbal dalam Farmakope Herbal Indonesia Edisi 
+II tahun 2017 adalah bahan alam yang diolah ataupun tidak 
+diolah digunakan untuk tujuan Kesehatan dapat berasal dari 
+tumbuhan, hewan atau mineral, mencakup simplisia dan bahan 
+olahannya, seperti simplisia, yang dikeringkan dibawah suhu 
+
+ 
+105 
+60 0C tetapi belum diolah, Jenis simplisia adalah simplisia segar 
+(belum dikeringkan) tumbuhan utuh, eksudatnya, serbuk 
+simplisia nabati dengan ukuran sangat kasar, agak kasar, kasar, 
+halus, agak halus, sangat halus serta bebas dari tanah, telur 
+cacing, serta ekstrak. Yang dimaksud ekstrak adalah sediaan 
+kering, kental atau cair dibuat dengan menyari simplisia nabati 
+menurut cara yang cocok diluar pengaruh cahaya matahari 
+langsung. Selain akurasi penimbangan, sarat simplisia lainnya 
+adalah organoleptik. Istilah organoleptik adalah adalah suatu 
+pernyaatan tidak berbau, bauk khas lemah, bauk khas dan 
+lainnya sebagai hasil pengamatan setelah terkena udara selama 
+15 menit dari suatu wadah yang berisi tidak lebih dari 25 g 
+dengan bau bersifat deskriptif dan tidak dapat dianggap 
+sebagai standar kemurnian. 
+Jamu disebut juga herba atau herbal dibuat dari dari 
+bahan-bahan alami, berupa bagian dari tumbuh-tumbuhan 
+seperti rimpang (akar-akaran), daun-daunan, kulit batang, dan 
+buah. Selain itu ada juga menggunakan bahan dari tubuh 
+hewan, seperti empedu kambing, empedu ular, atau tangkur 
+buaya. 
+Seringkali 
+kuning 
+telur 
+ayam 
+kampung 
+juga 
+dipergunakan untuk tambahan campuran pada jamu gendong. 
+Jamu tradisional adalah jamu yang diracik dan terbuat dari 
+bahan-bahan alami. Seperti dari tumbuh-tumbuhan yang 
+diracik menjadi serbuk jamu dan minuman jamu. Tujuannya 
+untuk memperoleh khasiat kesehatan dan kehangatan tubuh. 
+Jamu (herbal medicine) sebagai salah satu bentuk pengobatan 
+tradisional, memegang peranan penting dalam pengobatan 
+penduduk di negara berkembang. Diduga sekitar 70-80% 
+populasi di negara berkembang memiliki ketergantungan pada 
+obat tradisional. Secara umum jamu tidak beracun tidak 
+beracun dan tidak menimbulkan efek samping. Khasiat jamu 
+telah teruji oleh waktu, zaman dan sejarah, serta bukti empiris 
+langsung pada manusia selama ratusan tahun. Jamu dijual 
+ditempat tertentu, digendong (jamu gendong) atau berkeliling 
+bersepeda dll. Umumnya jamu gendong berupa jamu beras 
+
+ 
+106 
+kencur untuk menyegarkan badan dan menghilangkan pegal 
+linu terbuat dari ramuan beras, kencur dengan variasi 
+tambahan biji kedawung, kapulogo, sedikit madu dll. serta 
+harganya terjangkau oleh masyarakat luas. 
+Fitofarmaka adalah obat herbal tradisional dari bahan 
+alami yang pembuatannya terstandarkan dan memenuhi kriteria 
+ilmiah. 
+Pengembangan 
+fitofarmaka 
+didasarkan 
+atas 
+ketersediaan bahan baku alam yang banyak diversitasnya di 
+Indonesia. Fitofarmaka tergolong ke dalam obat tradisional 
+seperti halnya jamu dan obat herbal terstandar. Keamanan dan 
+khasiat fitofarmaka dibuktikan secara ilmiah melalui uji 
+praklinik dan uji klinik, bahan baku dan produknya telah 
+distandardisasi. Proses pembuatannya kompleks butuh banyak 
+pemangku kepentingan yang saling bersinergi antara petani 
+penyedia bahan alam, peneliti di perguruan tinggi maupun 
+penjual serta konsumen yang luas dari berbagai kalangan. 
+Fitofarmaka yang sudah diproduksi di Indonesia antara lain 
+immunomodulator, yakni obat yang dapat memodifikasi respons 
+imun, menstimulasi mekanisme pertahanan alamiah dan adaptif, 
+dan dapat berfungsi baik sebagai imunosupresan maupun 
+imunostimulan. Produk fotofarmaka lainnya seperti obat tukak 
+lambung, antidiabetes (contohnya metformin), antihipertensi, 
+obat untuk melancarkan sirkulasi darah, dan obat untuk 
+meningkatkan kadar albumin. Obat metformin dulunya adalah 
+obat yang berasal dari daun yang kemudian diprdoduksi 
+sebagai fitofarmaka di Prancis. Lebih dari 50 tahun penggunaan 
+metformin dan saat ini obat tersebut sudah ditemukan serta 
+diekstrak unsur kimiawinya secara spesifik (Biro Komunikasi 
+dan Pelayanan Masyarakat, Kementerian Kesehatan RI). 
+C. Substansi Aktif Obat Herbal 
+Secara umum kandungan zat aktif obat herbal adalah 
+1. Alkaloid. Adalah unsur utama nitrogen yang efektif untuk 
+pengobatan berbagai kondisi patologis yang mendasari 
+efek farmakologinya. Contohnya kafein, morfin, nikotin, 
+meskalin. Pengambilan alkaloid harus hati-hati guna 
+
+ 
+107 
+mencegah intteraksi dengan obat lain. Tumbuhan yang 
+kaya mengandung alkaloid adalah teh, kopi, tembakau, 
+keluarga ranuncolaceae, solanaceae, papaveraceae. 
+2. Polifenol. Zat ini merupakan antiksidan alam kuat yang 
+mampu menetralisir radikal bebas penyebab proses 
+penuaan. Keluarga senyawa polihidroksifenol dieskstrak 
+dari kulit, akar, batang, daun dan berefek sebagai 
+astringen sehingga penting utk pengobatan luka guna 
+mempercepat penyembhan jaringan. Cocok utu kasus 
+wasir,, diare, enteritis, dan kondisi inflammasi mukosa 
+lambung dan usus. antimikroba, antioksidan, laksansia, 
+antiinflamasi, 
+penenang, 
+pemurnian, 
+hipoglikemi, 
+ekspektoran dan sedative. 
+3. Flavonoid/biflavonoid. Sifatnya mirip dengan polifenol 
+sebagai antioksidan dan fungsi pewarnaan. Beberapa 
+diantarnya menghasilkan glikosida yang berperan sebagai 
+penyimpan gula seperti ginseng, ekinase, likorise rubarb. 
+4. Terpen kosmetik. Karena baunya beraroma bunga dan 
+tumbuhan seperti limonen, kamfer dan mentol 
+5. Tepung. Ditransformasi dari gula, diubah menjadi produk 
+diet lain 
+6. Glikosida, Senyawa gabungan dengan grup gula dengan 
+bukan gula disebut aglikon (aglycone) senyawa yg 
+dibututuhkan oelh manusia. Senyawa penting ini berperan 
+sebagai Cardiotonic, anti- inflammasi, analgesic, diuretika, 
+rematik, laksatif, vasodilator, antispasmodk, antiseptic 
+dan fungsi keringat. Jumlah glikosida berlebihan berifat 
+racun serta menimbulkan henti jantung. 
+7. Musilag (Mucilage), zat ini sebagai hasil dari proses 
+vegetatif. Bila dilarutkan dalam air akan mengembang dan 
+kenyal. Efeknya pada pengobatan inflammasi pernapasan, 
+iritasi lambung, dan mukosa 
+usus 
+cukup 
+efektif. 
+mucilage of mallow and marshmallow, and of psyllium 
+seeds sangat ampuh untuk pengobatan faringitis, 
+laryngitis sangat ampuh karena kaya zat aktif tersebut. 
+
+ 
+108 
+8. Essential oils (minyak esensial) sangat baik untuk 
+kosmetika berasal dari fitokosmetik dan fitoterapi. 
+Umumnya minyak esensial bersifat pemicu kulit, lapisan 
+lender sebagai ekspektoransia dan pelembab saluran 
+pernapasan (seperti pada tumbuhan mint, sage keluarga 
+pinaceae (mountain pine) and umbelliferous (anise, fennel). 
+D. Uji toksisitas 
+Keamanan adalah syarat terpenting yang harus 
+dimiliki oleh suatu obat herbal. Obat herbal dikatagorikan 
+aman 
+apabila 
+telah 
+melalui 
+uji 
+toksisitas 
+dengan 
+menggunakan hewan coba dan telah terbukti aman secara 
+klinis untuk dikonsummsi. Uji toksisitas penting ada 
+perkembangan obat baru sebelum dapat digunakan pada 
+manusia. Uji toksisitas dilakukan untuk menentukan bahaya 
+atau resiko dari suatu subtansi (Dewoto, 2007). Toksisitas 
+adalah suatu keadaan yang menandakan adanya efek 
+toksik/racun yang terdapat pada bahan sebagai sediaan 
+single dose atau campuran (Donatus, 2005). Beberapa 
+tahapan pengembangan obat tradisional untuk menjadi 
+fitofarmaka yaitu: seleksi; uji preklinik, terdiri atas uji 
+toksisitas dan uji farmakodinamik; standardisasi sederhana, 
+penentuan identitas dan pembuatan sediaan terstandar; dan 
+uji klinik (Dewoto, 2007). 
+Pengujian 
+toksisitas 
+penting 
+dilakukan 
+untuk 
+memperkirakan derajat kerusakan yang diakibatkan suatu 
+senyawa terhadap material biologik maupun nonbiologik. 
+Pengujian lazim dilakukan pada suatu calon produk untuk 
+memenuhi persyaratan edar dan perijinan dari suatu wilayah 
+atau negara. Skrining toksikologi sangat penting dalam 
+perkembangan obat baru serta untuk mengetahui potensi terapi 
+yang dimiliki oleh suatu molekul obat. Pengujian toksisitas 
+secara umum ditujukan untuk mengetahu efek yang tidak 
+dikehendaki oleh suatu obat terutama terhadap kejadian 
+kanker, gangguan jantung dan iritasi kulit atau mata 
+(Parasuraman, 2011). 
+United States of Food and Drug 
+
+ 
+109 
+Administration (FDA) menyatakan bahwa skrining dilakukan 
+terhadap senyawa yang berpotensi obat atau toksik pada 
+hewan. 
+Toksisitas akut adalah efek berbahaya yang  terjadi 
+segera setelah terpapar dosis tunggal atau berulang dalam 
+waktu 24 jam (Priyanto, 2009). Pengujian toksisitas akut 
+dilakukan untuk menentukan efek dari pemberian dosis 
+tunggal 
+suatu 
+senyawa 
+pada 
+hewan. 
+Umumnya 
+direkomendasikan pengujian ini dilakukan terhadap dua 
+jenis hewan (rodensia dan non rodensia). Produk yang diuji 
+diberikan pada hewan coba dengan dosis yang berbeda, 
+kemudian dilakukan pengamatan selama 14 hari. Kematian 
+yang terjadi selama masa pengujian diamati, diuji secara 
+morfologi, biokimia, patologi dan histopatologi dicatat dan 
+diamati. Pengujian akut menghasilkan nilai Lethal dose 
+(LD50). LD50 bahan obat harus ditentukan karena nilai ini 
+digunakan dalam penilaian resiko manfaat dan daya racun 
+yang dinyatakan sebagai indeks terapi obat. Dimana makin 
+besar indeks  terapi, maka makin aman obat tersebut 
+digunakan (Soemardji et al, 2002). Tujuan dilakukannya uji 
+toksisitas akut  sebenarnya bukan hanya untuk menentukan 
+dosis letal 50%, mengetahui mekanisme kerja dan target 
+organ dari toksik yang diuji, tetapi juga untuk (Priyanto, 
+2009). 
+Lethal Dose 50 ditetapkan dan diturunkan secara 
+statistik, guna untuk menyatakan dosis tunggal suatu 
+senyawa yang diperkirakan dapat menyebabkan kematian 
+atau menimbulkan efek toksik yang berarti pada 50% hewan 
+percobaan setelah perlakuan. Biasanya, makin kecil nilai LD50 
+maka semakin toksik senyawa tersebut. Demikian juga 
+sebaliknya, semakin besar nilai LD50 maka semakin rendah 
+toksisitasnya (Priyanto, 2009).Pada umumnya penentuan lethal 
+dose memerlukan jumlah hewan dalam jumlah besar, yang 
+merupakan hambatan dalam melakukan uji toksisitas. 
+ 
+
+ 
+110 
+Uji toksisitas subakut/subkronis merupakan uji yang 
+tujuannya untuk mengevaluasi efek senyawa yang diberikan 
+pada hewan coba secara berulang (Hendriani, 2007). Prinsip 
+dari uji toksisitas oral subkronis, yaitu sedian uji dalam 
+beberapa tingkat dosis diberikan pada beberapa kelompok 
+hewan uji dengan satu dosis per kelompok kemudian diamati 
+efek toksik yang berujung pada kematian hewan coba (Lu, 
+1995). 
+1. Faktor Utama yang Mempengaruhi Toksisitas  
+Jalur masuk ke dalam tubuh suatu polutan yang 
+toksik, umumnya melalui saluran pencernaan makanan, 
+saluran pernafasan, kulit, dan 19 jalur lainnya. Jalur lain 
+tersebut diantaranya adalah intra muskuler, intra dermal, 
+dan sub kutan. Jalan masuk yang berbeda ini akan 
+mempengaruhi toksisitas bahan polutan. Bahan paparan 
+yang berasal dari industri biasanya masuk ke dalam tubuh 
+melalui 
+kulit 
+dan 
+terhirup, 
+sedangkan 
+kejadian 
+“keracunan” biasanya melalui proses tertelan. 
+Jangka waktu dan frekuensi paparan (Priyanto, 2009).  
+a. Akut : pemaparan bahan kimia selama kurang dari 24 
+jam  
+b. Sub akut : pemaparan berulang terhadap suatu bahan 
+kimia untuk jangka waktu 1 bulan atau kurang  
+c. 
+Subkronik : pemaparan berulang terhadap suatu 
+bahan kimia untuk jangka waktu 3 bulan  
+d. Kronik : pemaparan berulang terhadap bahan kimia 
+untuk jangka waktu lebih dari 3 bulan  
+2. Mekanisme Efek Toksik  
+Efek toksik yang ditimbulkan oleh suatu zat sangat 
+bervariasi, tergantung dari zat, target organ, mekanisme 
+aksi, dan besarnya dosis. Semua efek toksik yang terjadi 
+dimulai adanya interaksi biokimiawi antara zat toksik atau 
+metabolit aktifnya dengan bagian tertentu (enzim, asam 
+nukleat, 
+membran 
+sel) 
+dari 
+mahluk 
+hidup 
+atau 
+reseptornya. Perubahan yang terjadi pada reseptor 
+merupakan stimulus yang dapat berupa positif atau negatif 
+
+ 
+111 
+(Priyanto, 2009). Zat kimia yang masuk kedalam tubuh 
+dapat menimbulkan efek toksik melalui 2 cara, yakni: 
+berinteraksi secara langsung (toksik 20 intraseluler) dan 
+secara tidak lansung (toksik ekstraseluler). Toksik 
+intraseluler adalah toksisitas yang diawali dengan interaksi 
+langsung antara zat kimia atau metabolit dengan 
+reseptornya. Sedangkan toksisitas ekstra seluler terjadi 
+secara tidak langsung dengan mempengaruhi lingkungan 
+sel sasaran tetapi dapat berpengaruh pada sel sasaran 
+(Priyanto, 2009). 
+Untuk obat, obat tradisional bahan lainnya (Generally 
+Recognized 
+As 
+Safe/GRAS) 
+seperti 
+bahan 
+pangan, 
+penentuan 
+kategori 
+toksisitas 
+akut 
+digunakan 
+penggolongan klasifikasi seperti pada Tabel 1. 
+ 
+Tabel 1. Kriteria toksisitas akut : Tingkat Toksisitas LD50 
+oral (pada tikus) (Hodge dan Sterner, 1995) 
+3. Prinsip Toksisitas  
+ 
+Prinsip toksisitas akut yaitu pemberian secara oral suatu 
+zat dalam beberapa tingkatan dosis kepada beberapa kelompok 
+hewan uji. Penilaian toksisitas akut ditentukan dari kematian 
+hewan uji sebagai parameter akhir. Hewan yang mati selama 
+percobaan dan yang hidup sampai akhir percobaan diotopsi 
+untuk dievaluasi adanya gejala-gejala toksisitas dan selanjutnya 
+dilakukan pengamatan secara makropatologi pada setiap organ. 
+Uji toksisitas akut ini dirancang untuk menentukan efek yang 
+terjadi dalam periode waktu yang singkat setelah pemberian 
+dosis uji (Timbrell, 2002). 
+4. Uji Toksisitas Subakut/Subkronis Oral  
+Uji toksisitas subkronis oral adalah suatu pengujian 
+untuk mendeteksi efek toksik yang muncul setelah pemberian 
+
+ 
+112 
+sediaan uji dengan dosis berulang yang diberikan secara oral 
+pada hewan uji (tikus, kelinci, marmot, anjing) selama sebagian 
+umur hewan, tetapi tidak lebih dari 10% seluruh umur hewan. 
+Prinsip dari uji toksisitas subkronis oral adalah sediaan uji 
+dalam beberapa tingkat dosis diberikan setiap hari pada 
+beberapa kelompok hewan uji dengan satu dosis per kelompok 
+selama 14 hari (Pacific BioLabs) 28 hari atau 90 hari, bila 
+diperlukan ditambahkan kelompok satelit untuk melihat 
+adanya efek tertunda atau efek yang bersifat reversibel. Selama 
+waktu pemberian sediaan uji, hewan harus diamati setiap hari 
+untuk menentukan adanya toksisitas. Hewan yang mati selama 
+periode pemberian sediaan uji, bila belum melewati periode 
+rigor mortis (kaku) segera diotopsi,dan organ serta jaringan 
+diamati secara makropatologi dan histopatologi. Pada akhir 
+periode pemberian sediaan uji, semua hewan yang masih hidup 
+diotopsi 
+selanjutnya 
+dilakukan 
+pengamatan 
+secara 
+makropatologi pada setiap organ dan jaringan. Selain itu juga 
+dilakukan pemeriksaan hematologi, biokimia klinis dan 
+histopatologi. Tujuan uji toksisitas subkronis oral adalah untuk 
+memperoleh informasi adanya efek toksik zat yang tidak 
+terdeteksi pada uji toksisitas akut; informasi kemungkinan 
+adanya efek toksik setelah pemaparan sediaan uji secara 
+berulang dalam jangka waktu tertentu; informasi dosis yang 
+tidak menimbulkan efek toksik (No Observed Adverse Effect Level 
+NOAEL); dan mempelajari adanya efek kumulatif dan efek 
+reversibilitas zat tersebut (BPOM, 2014), 
+5. Tahapan Uji Toksisitas 
+Perlu 
+diperhatikan 
+dalam 
+uji 
+toksisitas 
+untuk 
+mendeteksi efek toksik suatu zat pada sistem biologi dan untuk 
+memperoleh data pada dosis tertentu yang khas dari zat uji 
+adalah 
+a. Pemilihan spesies, galur dan jumlah hewan  uji. 
+b. Cara pemberian zat uji. 
+c. Pemilihan dosis uji. 
+d. Sifat fisika dan kimia zat uji. 
+
+ 
+113 
+e. Efek samping zat uji dan kespesifikan organ  tertentu. 
+f. Teknik dan prosedur pengujian Uji (BPOM. 2014). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+114 
+DAFTAR PUSTAKA 
+ 
+Bahar, N. W. (2011). Pengaruh Pemberian Ekstrak dan Fraksi Daun 
+Katuk (Sauropus androgynus (l) Merr) terhadap Gambaran 
+Hematologi pada Tikus Putih Laktasi (Skripsi). Institut 
+Pertanian 
+Bogor, 
+Bogor. 
+Retrieved 
+from 
+http://repository.ipb.ac.id/handle/123456789/52332 
+BPOM_RI. (2010). Acuan Sediaan Herbal. Jakarta Direktorat Obat Asli 
+Indonesia 
+BPOM, R. (2014). Peraturan kepala badan pengawas obat dan 
+makanan republik Indonesia nomor 7 tahun 2014 tentang 
+pedoman uji toksisitas nonklinik secara In Vivo. BPOM RI, 
+Jakarta 
+Dewoto, H.R., 2007, Pengembangan Obat Tradisional Indonesia 
+menjadi Fitofarmaka, Majalah kedokteran Indonesia, 57(7): 
+205-211 
+Donatus, I.A., 2005, Toksikologi Dasar, Edisi II, Bagian Farmakologi 
+dan Farmasi Klinik, Fakultas Farmasi UGM, Yogyakarta 
+Farmakope herbal Indonesia II, Kepmenkes RI 2017 
+Hendriani, R. 2007. Uji Toksisitas Subkronis Kombinasi Ekstrak Etanol 
+Buah Mengkudu (Morinda citrifolia linn.) dan Rimpang Jahe 
+Gajah (Zingiber Officinale rosc.) Pada Tikus Wistar. Karya 
+Ilmiah yang Tidak Dipublikasikan. Fakultas Farmasi 
+Universitas Padjadjaran 
+Katno. (2008). Tingkat Manfaat, Keamanan, dan Efektivitas Tanaman Obat 
+dan Obat Tradisional. Karanganyar: Balai Besar Penelitian 
+dan Pengembangan Tanaman Obat dan Obat Tradisional 
+Balitbangkes Depkes RI 
+Lu, F.C. 1995. Toksikologi Dasar, Azas, Organ Sasaran dan Penilaian 
+ResikoEdisi 
+II. 
+Penerjemah: 
+E. 
+Nugroho. 
+Jakarta: 
+Universitas Indonesia Press 
+Madihah, M., Ratningsih, N., Malini, D. M., Faiza, A. H., & 
+Iskandar, J. (2017). Uji Toksisitas Akut Ekstrak Etanol 
+Kulit Buah Jengkol ( Archidendrom pauciflorum) 
+terhadap tikus Witar Betina 
+
+ 
+115 
+Parasuraman P. (2011)Toxicological sreening. J. Pharmacol 
+Pharmacother. Apr-Jun;2(2):74- 79 
+Permenkes RI no 6 tahun 2016 tentang Formularium Herbal Asli 
+Indonesia 
+Priyanto, 2009, Farmakoterapi dan Terminologi Medis, hal 143-155 
+Leskonfi, Depok 
+Reskianingsih, A. (2014). Uji Toksisitas Akut Ekstrak Metanol Buah 
+Phaleria Macrocarpa (Scheff) Boerl terhadap Larva Artemia 
+Salina Leach dengan Metode Brine Shrimp Lethality Test 
+(BSLT). (Skripsi). Universitas Islam Negeri Syarif 
+Hidayatullah, Jakarta 
+Sam, 
+S. 
+(2019). 
+Importance 
+and 
+effectiveness 
+of 
+herbal 
+medicines. Journal of Pharmacognosy and Phytochemistry. 
+8(2): 354-357 
+Soemardji, A. A., 2002, “Toksisitas Akut dan Penentuan LD50 Oral 
+dan Ekstrak Air Daun Gandarusa (Justicia gendarussa 
+Burm. F) pada mencit Swiis Webster”, Jurnal Matematika 
+dan Sains. Vol 7(2), 57-62 
+Summayah, Shofiah. 2017. Obat Tradisional: Antara Khasiat dan 
+Efek Sampingnya. Sumedang: Majalah Farmasetika. 2(5): 
+1-4. e-ISSN: 2528-0031 
+Timbrell, J., 2002, Introduction to Toxicology, Third Edition, 57-71, 
+163-182, Taylor & Francis Inc., New York 
+"Toxicity Endpoints & Tests". AltTox.org. Retrieved 25 February 2012 
+WHO, 
+2003, 
+Traditional 
+medicine, 
+http://www.who.int/mediacentre/ 
+factsheets/fs134/en/ [diakses 25 Maret 2018] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+116 
+  BIODATA PENULIS 
+ 
+Apt. Fathul Jannah, S.Si, SpFRS. 
+lahir di Medan, pada 9 Desember 
+1974. Menyelesaikan pendidikan 
+S1 dan profesi Apoteker di FMIPA 
+Universitas Sumatera Utara dan 
+Spesialis Farmasi Rumah Sakit  
+(SpFRS) 
+di 
+Fakultas 
+Farmasi  
+Universitas Airlangga, Surabaya. 
+Sampai saat ini penulis sebagai 
+Dosen di Prodi Farmasi, Fakultas 
+Ilmu Kesehatan, Universitas Sains 
+Cut Nyak Dien, Langsa, Aceh.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+117 
+BAB 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Metode Ekstraksi Modern Non-Konvensional  
+Tanaman mengandung banyak senyawa aktif seperti 
+alkaloid, steroid, tanin, glikosida, minyak atsiri, resin, fenol, dan 
+flavonoid yang tersimpan di bagian-bagian tertentu seperti 
+daun, bunga, kulit kayu, biji, buah, akar, dan lainnya. 
+Kandungan senyawa tersebut disebut dengan metabolit 
+sekunder yang dapat memberikan khasiat untuk pengobatan. 
+Penarikan senyawa aktif dari bagian tanaman dilakukan dengan 
+cara ekstraksi. 
+Ekstraksi merupakan langkah krusial pertama dalam 
+penyiapan formulasi tanaman. Para peneliti telah berupaya 
+keras untuk menemukan metode ekstraksi yang efisien guna 
+memperoleh efisiensi dan khasiat yang tinggi. Efisiensi mengacu 
+pada hasil ekstraksi, sedangkan khasiat mengacu pada besarnya 
+bioaktivitas untuk menghasilkan efek. Selain metode ekstraksi 
+konvensional, ada metode ekstraksi modern yang lebih efisien 
+terhadap waktu, mendukung hasil rendemen lebih tinggi, aman 
+terhadap lingkungan dan sedikit menggunakan bahan palarut. 
+1. Microwave assisted extraction (MAE) 
+ 
+Microwave assisted extraction (MAE) merupakan teknik 
+untuk mengekstraksi bahan-bahan terlarut di dalam bahan 
+tanaman 
+dengan 
+bantuan 
+energi 
+gelombang 
+mikro. 
+Teknologi tersebut cocok bagi pengambilan senyawa yang 
+bersifat thermolabil karena memiliki kontrol terhadap 
+temperatur yang lebih baik dibandingkan proses pemanasan 
+Pemanfaatan Teknologi 
+Modern dalam Ekstraksi dan 
+Formulasi Herbal 
+ 
+*Dr. apt. Indri Kusuma Dewi, M.Sc.* 
+
+ 
+118 
+konvensional. Selain kontrol suhu yang lebih baik, MAE juga 
+memiliki beberapa kelebihan lain, diantaranya adalah waktu 
+ekstraksi yang lebih singkat, konsumsi energi dan solvent 
+yang lebih sedikit, yield yang lebih tinggi, akurasi dan presisi 
+yang lebih tinggi, adanya proses pengadukan sehingga 
+meningkatkan phenomena transfer massa. 
+ 
+Ekstraksi pada MAE merupakan peristiwa perpindahan 
+massa yang meliputi: penetrasi pelarut ke dalam padatan, 
+solubilisasi-desorpsi zat terlarut dari matriks padat dan atau 
+hidrolisis, difusi ke permukaan biomassa, dan transfer 
+eksternal ke larutan massal. Pemanasan selektif dengan 
+gelombang mikro menginduksi gradien suhu antara sel dan 
+fase pelarut dalam sistem pelarut biomassa. Jika komponen 
+intraseluler dipanaskan secara selektif di atas pelarut, potensi 
+kimiawi dari komponen intraseluler ini berkurang, dan hal 
+ini menyebabkan pergerakan pelarut ke dalam sel, 
+menginduksi tekanan sel yang lebih tinggi. Jika cairan 
+mengalir ke dalam sel, akan ada peningkatan tekanan 
+berikutnya karena resistensi terhadap ekspansi yang 
+disediakan oleh dinding sel. 
+ 
+Sebagai contoh dalam ekstraksi bunga dadap merah 
+dengan bantuan gelombang mikro yang memanfaatkan 
+energi panas yang ditimbulkan gelombang mikro dari 
+Microwave berfungsi untuk proses penghancuran sel bunga 
+dadap merah. Pemanfaatan gelombang mikro meningkatkan 
+laju perpindahan massa antosianin dari bunga dadap merah 
+sehingga mempercepat waktu ekstraksi. Tanpa adanya 
+gelombang mikro tersebut perpindahan massa dalam suhu 
+ruang maka waktu kontak antara padatan dan pelarut harus 
+dalam waktu yang cukup lama.  
+2. Ultrasonication Assisted Extraction (UAE) 
+ 
+Ultrasonic-assisted extraction (UAE) adalah salah satu 
+metode ekstraksi berbasis gelombang ultrasonik yang mulai 
+banyak diminati dalam perkembangan teknologi ekstraksi. 
+Penggunaan gelombang ultrasonik memiliki sifat proses non-
+
+ 
+119 
+destructive dan non-invasive sehingga dapat dengan mudah 
+diadaptasikan ke berbagai aplikasi. Energi Listrik dirubah 
+menjadi energi mekanik dalam bentuk osilasi dan dirubah 
+lagi menjadi energi akustik dalam bentuk gelombang 
+ultrasonik sehingga menembus media menyebabkan osilasi. 
+Selanjutnya, perubahan energi ini akan menyebabkan 
+terjadinya laju perubahan suhu. Analisis energi selama 
+perlakuan “high-power ultrasonic” diikuti oleh fenomena 
+konduksi menyebabkan adanya perpindahan panas. Efek 
+kavitasi menyebarkan energi secara merata di dalam media 
+dan keseragaman suhu tercapai setelah gelembung pecah.  
+Kenaikan suhu dipengaruhi oleh beberapa faktor seperti, 
+kavitasi akustik, pembentukan gelembung dan sedikit 
+disipasi panas selama proses sonikasi sehingga tercapai tahap 
+suhu kesetimbangan antara pembuangan panas media dan 
+daya serap. Cara ekstraksi ini biasanya lebih cepat dan lebih 
+efisien dibandingkan dengan cara-cara ekstraksi terdahulu. 
+ 
+Contoh ekstraksi bawang putih dengan ultrasonik 
+dilakukan dengan memasukkan air sebanyak 7000 ml ke 
+dalam ultrasonic cleaning bath pada frekuensi 37 kHz. Labu 
+ukur yang berisi campuran bawang putih dan pelarut etanol 
+di celupkan ke dalam air tersebut. Proses ekstraksi dimulai 
+dengan menghidupkan ekstraktor Elmasonic S 300 H dengan 
+mengatur lama ekstraksi sesuai perlakuan waktu ekstraksi 
+yaitu 20 menit, 30 menit, dan 45 menit. Hasil ekstrak bawang 
+putih yang terdiri atas padatan dan pelarut (etanol dan 
+minyak bawang putih) disaring dengan menggunakan kasa 
+penyaring untuk memisahkan larutan ekstrak dari padatan 
+kasar bawang putih. Larutan ekstrak kasar bawang putih 
+dimurnikan dengan cara penguapan menggunakan rotary 
+vacum evaporator pada tekanan 175 mBar, 50 rpm dan 
+temperatur 50 C selama 60 menit. 
+3. Supercritical Fluid Extraction (SFE) 
+ 
+Supercritical Fluid Extraction (SFE) adalah metode 
+ekstraksi sampel yang menggunakan fluida superkritis 
+
+ 
+120 
+sebagai pelarut. Ketika kombinasi temperatur dan tekanan 
+suatu zat berada dalam kesetimbangan termodinamika 
+antara gas, cairan dan padatan maka disebut titik tripel suatu 
+zat. Daerah di atas tekanan dan temperatur kritis disebut 
+fluida superkritis. Karakteristik seperti gas dan melarutkan 
+sesuatu seperti cairan membuat fluida superkritis ini menjadi 
+unik. Secara umum diffusivitas dan viskositas fluida 
+superkritis 
+mendekati 
+gas, 
+akan 
+tetapi 
+densitasnya 
+mendekati cairan, sehingga hal tersebut sangat bermanfaat 
+untuk transfer massa. 
+ 
+Beberapa fluida superkritis (SF) dapat digunakan sebagai 
+pelarut ekstraksi dalam SFE, salah satu fluida superkritis 
+yang 
+banyak 
+digunakan 
+dalam 
+ekstraksi 
+adalah 
+karbondioksida (CO2) karena toksisitasnya yang rendah, 
+suhu dan tekanan kritis yang rendah (Tc dari 31°C dan Pc 
+dari 72 bar) dan penerapan yang luas. 
+ 
+SC-CO2 menarik sebagai media ekstraksi karena 
+difusivitas tinggi dikombinasikan dengan kekuatan pelarut 
+yang tinggi dan mudah dirancang.  Keuntungan lain dari SC- 
+CO2 adalah berbentuk gas pada suhu kamar dan tekanan 
+ruang, yang membuat pemulihan produk atau analit cukup 
+sederhana.  Terlebih lagi, CO2 dapat dengan mudah didaur 
+ulang karena zat terlarut dalam SC- CO2 akan mengendap 
+pada saat depressurisasi. 
+ 
+SFE dilakukan dengan memompa SF melalui bejana yang 
+diisi dengan sampel, dan selanjutnya mengurangi tekanan SF 
+untuk pengumpulan komponen yang diekstraksi.  Oleh 
+karena itu, instrumen SF terdiri dari satu atau dua pompa 
+tekanan tinggi untuk pengiriman SF dan diperlukan juga 
+kosolvent polar seperti etanol, bejana bertekanan tinggi 
+untuk menampung sampel, pembatas dan perangkat 
+pengumpul (misalnya wadah kosong atau tabung gelas yang 
+mengandung 
+pelarut 
+pengumpul). 
+ 
+Wadah 
+sampel 
+ditempatkan dalam oven untuk mengontrol suhu ekstraksi. 
+
+ 
+121 
+ 
+Pengembangan 
+metode 
+dalam 
+SFE 
+tidak 
+begitu 
+sederhana karena beberapa parameter harus dioptimalkan, 
+termasuk suhu dan tekanan SF, waktu ekstraksi, laju aliran, 
+penambahan kosolvent (jenis pelarut dan jumlah) dan mode 
+pengumpulan (misalnya dalam pelarut, dalam bejana kosong 
+atau pada perangkap fase padat).  Lebih lanjut, metode-
+metode ini pada umumnya bergantung pada matriks, yaitu 
+metode yang dikembangkan hanya untuk molekul target 
+tertentu yang tidak dapat langsung diterapkan ke molekul 
+sampel jenis lainnya. 
+ 
+Dalam hal aplikasi penelitian, SFE telah digunakan untuk 
+ekstraksi sampel makanan, pertanian dan tanaman. SFE juga 
+telah sukses digunakan untuk preparasi dalam analisis 
+sampel lingkungan, bahkan telah diintegrasikan dengan 
+instrumentasi lain untuk melakukan analisis simultan. 
+B. Penggunaan Teknologi Nano pada Formulasi Obat Herbal 
+Kendala yang sering dialami dalam pemanfaatan 
+tanaman obat adalah zat aktif pada tanaman sulit menembus 
+membran lipid dari sel tubuh dikarenakan ukuran molekul yang 
+besar dan kelarutan dalam air yang rendah sehingga 
+menyebabkan absorbsi dan bioavailabilitas buruk. Hal itu 
+membuat banyak tanaman yang memiliki zat aktif potensial 
+tidak dapat digunakan secara invivo meskipun pada uji invito 
+memiliki hasil yang baik 
+Nanopartikel merupakan suatu teknologi yang bertujuan 
+untuk mengembangkan ukuran dari bentuk sediaan pada 
+rentang ukuran 10 nm – 1000 nm. Nanoteknologi mampu 
+menghasilkan suatu sediaan obat herbal pada skala atom dan 
+molekuler sehingga menyebabkan perubahan sifat kimia, 
+biologi dan aktivitas katalitik. 
+Teknologi nano memiliki beberapa keuntungan yaitu 
+dapat memodifikasi karateristik permukaan dan ukuran partikel 
+sehingga obat herbal dapat ditargetkan untuk suatu organ 
+seperti otak, paru-paru, ginjal dan saluran pencernaan dengan 
+selektivitas dan efektivitas dan kemanan yang tinggi. Selain itu 
+
+ 
+122 
+pelepasan 
+senyawa 
+aktif 
+dapat 
+dikontrol 
+sehingga 
+meminimalisir efek samping dan obat herbal dengan ukuran 
+nano dapat diberikan dalam konsentrasi tinggi dikarenakan 
+ukuran yang kecil dan kapasitas pemuatan yang tinggi. 
+Persyaratan nanopartikel yang ideal yaitu partikel tersebut 
+harus dapat masuk ke dalam aliran darah dan mencapai ke 
+dalam sel dan jaringan target. 
+Teknologi nano direkomendasikan untuk obat herbal 
+karena berbagai alasan seperti adanya efek samping pada 
+formula 
+yang 
+dipasarkan 
+saat 
+ini, 
+terdapat 
+faktor 
+ketidakpatuhan pasien karena pada formulasi yang tersedia 
+menggunakan dosis besar dan kurang efektif, formulasi yang 
+ada tidak memiliki spesifitas target untuk berbagai penyakit 
+kronis dengan adanya teknologi nano bioavailabilitas dan 
+absorbsi 
+bahan 
+aktif 
+dapat 
+meningkat 
+karena 
+adanya 
+peningkatan luas permukaan partikel dan kelarutan, selain itu 
+dalam ukuran nano partikel memiliki waktu tinggal yang lebih 
+lama karena dijerap oleh mukosa usus. Metode Preparasi 
+Teknologi Nano meliputi: 
+1. Metode Tekanan Tinggi Homogenisasi 
+Pada metode tekanan tinggi homogenisasi, lipid diberi 
+tekanan tinggi (100-2000 bar) yang akan menghasilkan 
+partikel submikrometer atau di kisaran nanometer. Metode 
+ini cocok digunakan untuk skala besar pada obat yang 
+konjugasi dengan lipid dan emulsi parenteral dan biasanya 
+digunakan dalam solid lipid nanopartikel. Pada metode 
+homogenisasi panas, obat dimasukkan ke dalam lipid cair 
+lalu fase lipid-obat akan terdispersi ke dalam larutan panas 
+yang berisi surfaktan. Pengadukan dilakukan terus 
+menerus untuk membentuk emulsi m/a. kemudian 
+dihomogenisasi pada suhu diatas titik lebur lipid 
+menggunakan 
+supogenizer 
+bertekanan 
+tinggi 
+lalu 
+didinginkan pada suhu kamar sampai memadat dan 
+terbentuk nanopartikel padat. 
+ 
+
+ 
+123 
+2. Metode Koaservasi Kompleks 
+Metode ini merupakan proses pemisahan dua fase cair pada 
+sistem koloid yang dihasilkan oleh interaksi antara dua 
+muatan 
+yang 
+dicampurkan 
+dalam 
+air. 
+koaservasi 
+merupakan metode pemisahan fase cair menjadi fase yang 
+banyak mengandung polimer dan fase yang sedikit 
+mengandung polimer. Pemisahan kedua polimer terjadi 
+jika terdapat gaya elektrostatik di air. Metode koaservasi 
+kompleks adalah metode emulsifikasi untuk membuat 
+emulsi m/a dengan cara melapisi permukaan tetesan 
+minyak dengan mengatur pH larutan. 
+3. Metode Ko-presipitasi 
+Metode ini merupakan modifikasi dari metode koaservasi 
+kompleks, biasanya berukuran 30-100 nm diperoleh dari 
+reaksi garam Fe (II) dan ion nitrat. Fase dan ukuran partikel 
+bergantung pada konsentrasi kation dan pH. Biasa 
+digunakan pada magnetik nanopartikel. Keuntungan 
+metode ini adalah peningkatan dispersi pada obat-obatan 
+yag sukar larut dalam air. 
+4. Metode Salting-out 
+Metode ini merupakan modifikasi dari emulsifikasi pelarut-
+difusi. Polimer dan zat aktif awalnya dilarutkan ke dalam 
+pelarut seperti aseton lalu diemulsi ke dalam gel yang 
+mengandung salting out agent (MgCl, CaCl, MgCOOH dan 
+sukrosa) dan stabilizer koloid (polivinilpirolidon atau 
+hidroksietilselulosa), lalu emulsi m/a diencerkan untuk 
+meningkatkan difusi aseton ke dalam fasa air sehingga 
+menginduksi pembentukan nanosphere. Salting out agent 
+memiliki peran penting dalam enkapsulasi. Kemudian 
+pelarut dan salting out agent dieliminasi dengan cross-flow 
+filtration. Metode ini biasa digunakan untuk polimer 
+nanopartikel. 
+Keuntungannya 
+adalah 
+meminimalkan 
+tekanan saat proses enkapsulasi dan bisa digunakan untuk 
+zat yang sensitif terhadap panas. 
+ 
+
+ 
+124 
+5. Metode Nanopresipitasi 
+Metode ini didasarkan pada deposisi polimer setelah 
+pemindahan pelarut semipolar dengan air pada larutan 
+lipofilik sehingga tegangan antar muka antar dua fase 
+menurun dan luas permukaan meningkat dengan adanya 
+tetesan kecil tanpa pengadukan. Metode ini melibatkan 
+presipitasi polimer dari larutan anorganik dan difusi 
+pelarut organik pada fase cair tanpa surfaktan. Polimer 
+dilarutkan ke dalam pelarut dengan polaritas menengah 
+lalu dimasukkan ke dalam larutan yang mengandung 
+stabilizer sebagai surfaktan lalu akan dihasilkan suspensi 
+koloid. Teknik ini terbatas untuk pelarut yang larut dalam 
+air dan biasa digunakan pada polimer nanopartikel. 
+6. Metode Difusi-Emulsifikasi Pelarut 
+Metode ini didasarkan pada kelarutan suatu partikel dalam 
+pelarut organik sebagai fase m/a. Proses diawali dengan 
+mencampurkan zat dengan surfaktan lipofilik lalu 
+dilarutkan ke dalam pelarut air, ditambahkan dengan 
+surfaktan hidrofilik lalu diaduk dengan tekanan tinggi 
+sehingga pelarut akan berdifusi ke dalam dua fase yang 
+lama kelamaan akan membentuk suatu partikel yang kecil 
+(nanopartikel). Metode ini cocok untuk zat yang hidrofobik 
+maupun hidrofilik. Kelemahan dari metode ini adalah 
+adanya penggunaan pelarut organik dan gaya geser yang 
+tinggi selama proses pembuatan nanopartikel. 
+7. Metode Cairan Superkritik 
+Cairan superkritik merupakan metode preparasi dari 
+polimer nanopartikel yang menggunakan pelarut ramah 
+lingkungan. Hasil yang didapat berupa ekstrak dengan 
+kemurnian tinggi tanpa penggunaan pelarut organic. 
+Terdapat dua jenis metode cairan superkritik, yaitu 
+Ekspansi Cepat Larutan Superkritis (RESS) dan Ekspansi 
+Cepat Larutan Superkritis Menjadi Pelarut Cair (RESOLV). 
+ 
+ 
+
+ 
+125 
+8. Metode Self-assembly 
+Self-Assembly 
+merupakan 
+suatu 
+proses 
+fisik 
+yang 
+melibatkan komponen atom dan molekul yang digabung 
+menjadi suatu struktur nano dengan reaksi fisik atau kimia 
+tanpa ada pengaruh dari lingkungan luar 
+9. Dialisis 
+Pada metode ini polimer dilarutkan ke dalam pelarut 
+organik dan ditempatkan pada tabung dialisis dengan berat 
+molekul yang sudah diketahui. Pelarut yang digunakan 
+dapat mempengaruhi morfologi dan distribusi ukuran 
+partikel. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+126 
+DAFTAR PUSTAKA 
+ 
+Badan Pengawas Obat dan Makanan. (2023). Pedoman Penyiapan 
+Bahan Baku Obat Bahan Alam Berbasis Ekstrak atau 
+Fraksi. Jakarta: Badan POM RI. 
+Chakraborty, et al. (2016). Nanotechnology in herbal medicines. 
+International Journal Of Herbal Medicine, 4 (3), 21-27. 
+Chan, C.-H., Yeoh, H.K., Yusoff, R., Ngoh, G.C. (2016). A First-
+Principles Model for Plant Cell Rupture in Microwave-Assisted 
+Extraction of Bioactive Compounds. J. Food Eng. 188, 98– 107. 
+Damayanti, A., Buchori, L., Sulardjaka. (2019). Ekstraksi Antosianin 
+Bunga Dadap Merah Menggunakan Metode MAE 
+(Microwave Assisted Extractor). Indonesian Journal of Halal, 
+100-105. 
+Gupta, A., Naraniwal, M., Kothari, V. (2012). Modern Extraction 
+Methods for Preparation of Bioactive Plant Extracts. 
+International Journal of Applied and Natural Sciences (IJANS) 
+1 (1), 8-26. 
+Hanutami, B., Budiman, A. (2017). Penggunaan Teknologi Nano 
+pada Formulasi Obat Herbal. Jurnal Farmaka, 15 (2), 29-41. 
+Purwanto, H., Hartati, I., Kurniasari, L. (2010). Pengembangan 
+Microwave Assisted Extractor (MAE) pada Produksi 
+Minyak Jahe dengan Kadar Zingiberene Tinggi. Jurnal 
+Momentum, 6 (2), 9-16. 
+Rinawati, Pangesti, G, G., Juliasih, N, L, G, R. (2020). Green Analytical 
+Chemistry: Pemanfaatan Supercritical Fluid Extraction (SFE) 
+dan Microwave-Assisted Extraction (MAE) sebagai Metode 
+Ekstraksi Senyawa Diterpena pada Minyak Biji Kopi 
+Shangrai. Jurnal Analit: Analytical and Environmental 
+Chemistry, 5 (1), 24-33. 
+Sari, B, L., Triastinurmiatiningsih, Haryani, T, S. (2020). Optimasi 
+Metode Microwave Assisted Extraction (MAE) untuk 
+Menentukan Kadar Flavonoid Total Alga Coklat Padina 
+australis. Alchemi Jurnal Penelitian Kimia, 16 (1), 38-49. 
+Yuniarto, K., Muvianto, C, M, O., Ernia. (2021). Aplikasi Ultrasound 
+Assisted Extraction untuk Produksi Minyak Bawang Putih 
+Varietas Lokal. Jurnal Teknologi Pertanian, 22 (3), 177-186. 
+
+ 
+127 
+BIODATA PENULIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr. apt. Indri Kusuma Dewi, M.Sc. 
+Lahir di Karanganyar pada tanggal 22 
+Desember 1984. Mulai tahun 2009 
+sebagai pendidik di Fakultas Farmasi 
+Unwahas Semarang, kemudian di Prodi 
+S1 Farmasi Unissula Semarang dan 
+tahun 2013 diterima CPNS Kementerian 
+Kesehatan sebagai pendidik di Jurusan 
+Jamu Poltekkes Kemenkes Surakarta. 
+Menyelesaikan pendidikan S1 Farmasi 
+di UGM, Apoteker di UGM, S2 serta S3 
+juga di UGM. Aktif diundang menjadi 
+narasumber 
+tentang 
+herbal 
+dan 
+kesehatan tradisional. Sejak 2020 aktif 
+sebagai editor in chief Jurnal Jamu 
+Kusuma aktif menjadi reviewer di 
+beberapa jurnal ilmiah nasional dan 
+jurnal ilmiah nasional terakreditasi 
+DIKTI. Aktif sebagai asesor BKD sejak 
+tahun 
+2022. 
+Terpilih 
+menjadi 
+tim 
+champion Kementerian Kesehatan. Sejak 
+2018 dipercaya sebagai Sekretaris PUI 
+Pujakesuma (Pusat Unggulan Ipteks 
+Pemanfaatan Jamu untuk Peningkatan 
+Kesehatan 
+Masyarakat) 
+Poltekkes 
+Kemenkes Surakarta. Sejak tahun 2015 
+mendapat amanah sebagai Sekretaris 
+Jurusan 
+Jamu 
+Poltekkes 
+Kemenkes 
+Surakarta dan tahun 2022 dipercaya 
+mendapat 
+amanah 
+sebagai 
+Ketua 
+Jurusan 
+Jamu 
+Poltekkes 
+Kemenkes 
+Surakarta.  
+ 
+ 
+
+ 
+128 
+BAB 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Pendahuluan  
+Manusia dalam kehidupan keseharian selalu terpapar 
+dengan pathogen berbahaya dan polutan lingkungan yang 
+dapat mempengaruhi status kesehatan dan homeostatis 
+jaringan. System imun merupakan sistem terpadu yang 
+kompleks dari sel, jaringan, organ, dan mediator sebagai bentuk 
+pertahanan organisme terhadap benda asing yang mengancam 
+integritasnya. 
+Ketidakseimbangan 
+respon 
+imun 
+dapat 
+menyebabkan timbulnya berbagai penyakit, seperti alergi, 
+penyakit autoimun, imunosupresi, dan AIDS (Catanzaro et al., 
+2018). Faktor-faktor seperti usia, gaya hidup dan pola makan 
+juga dapat mempengaruhi sistem imun (Kim et al., 2022). 
+ Kandungan metabolit sekunder atau senyawa fitokimia 
+dalam tumbuhan memiliki peranan dalam peningkatan 
+kesehatan manusia dengan mencegah atau menyembuhkan 
+penyakit. Banyak obat yang telah disintesis yang dapat 
+meningkatkan system imun, tetapi sebagian besar masyarakat 
+memilih bahan alam untuk memelihara system imunnya. Di 
+samping itu, penggunaan obat-obatan sintesis jangka panjang 
+dapat mengurangi efektifitasnya dan meningkatkan efek 
+negatifnya. Berbagai system pengobatan tradisional seperti 
+Ayurveda 
+atau 
+pengobatan 
+tradisional 
+Tiongkok 
+telah 
+mempergunakan tumbuhan untuk meningkatkan system imun. 
+Banyak tanaman telah dan sementara diteliti untuk mengetahui 
+potensi imunomodulasinya (Hooda et al., 2024).  
+Herbal dan 
+Imunomodulasi 
+ 
+*Dra. Elisabeth Natalia Barung, M.Kes., Apt.* 
+ 
+
+ 
+129 
+B. Konsep Herbal dan Imunomodulasi 
+1. Imunomodulasi 
+Imunomudulasi dapat diartikan sebagai suatu proses 
+modifikasi system imun tubuh terhadap benda asing. 
+Senyawa yang dapat memodulasi system imun dikenal 
+dengan istilah imunomodulator. 
+2. Imunomodulator 
+Imunomodulator adalah senyawa yang dapat memodulasi 
+system imun. Imunomodulator didefinisikan sebagai 
+senyawa biologis maupun sintesis dengan aktivitas 
+merangsang, menghambat atau memodifikasi salah satu 
+komponen 
+system 
+imun 
+(Dasgupta 
+et 
+al., 
+2023). 
+Imunomodulator dapat bersumber dari makanan, obat 
+sintesis, tumbuhan atau plant-derived bioactive, microbe-
+derived, produk biologi seperti vaksin dan antibody 
+(Bascones-Martinez et al., 2014; Zebeaman et al., 2023). 
+(Gambar 1). 
+ 
+Gambar 1. Sumber dan klasifikasi imunomodulator (Zebeaman et 
+al., 2023) 
+
+ 
+130 
+Imunomodulator 
+dapat 
+mengendalikan 
+kondisi 
+patofisiologi dan mengembalikan keadaan homeostatis 
+(Hooda et al., 2024). Penggunaan klinik imunomodulator 
+dapat 
+sebagai 
+imunostimulan, 
+imunosupresan 
+dan 
+imunoadjuvan (Bascones-Martinez et al., 2014; Hooda et al., 
+2024). (Gambar 1).  
+a.  Imunostimulan 
+ 
+Imunostimulan 
+adalah 
+senyawa 
+yang 
+dapat 
+meningkatkan 
+system 
+imun 
+endogen, 
+sehingga 
+memungkinan 
+pemulihan 
+kondisi 
+atau 
+mempertahankan homeostatis tubuh. Imunostimulan 
+dapat dimanfaatlan sebagai imunoterapi pada individu 
+dengan 
+imunodefisiensi 
+atau 
+profilaksis 
+untuk 
+pencegahan penyakit (Bascones-Martinez et al., 2014; 
+Di Sotto et al., 2020). 
+b. Imunosupresan 
+ 
+Imunosupresan 
+adalah 
+senyawa 
+yang 
+dapat 
+menghambat atau menurunkan aktivasi system imun 
+atau komponennya, sehingga mengembalikan ke 
+keadaan normal. Imunosupresan digunakan pada 
+kondisi seperti transplantasi organ atau penyakit 
+autoimun (Bascones-Martinez et al., 2014; Di Sotto et al., 
+2020). 
+c. 
+Imunoadjuvan 
+ 
+Imunoadjuvan adalah senyawa yang meningkatkan 
+dan memodulasi respon system imun terhadap antigen. 
+Umumnya 
+adjuvant 
+ditambahkan 
+untuk 
+meningkatkan ketahanan, besar dan luasnya respon 
+vaksin (Di Sotto et al., 2020; Garçon et al., 2011; Kumar 
+et al., 2022). 
+
+ 
+131 
+  
+ 
+Gambar 2. Diagram skema potensi efek tanaman sebagai 
+imunoadjuvan (Kumar et al., 2022)  
+ 
+ 
+4. Tanaman dengan Efek Imunomodulator 
+Berbagai penelitian telah dilakukan untuk mengetahui 
+potensi 
+imunomodulator 
+tanaman 
+dalam 
+perannya 
+terutama untuk mencegah penyakit menular. Istilah herbal 
+medicine atau fitoterapi mengacu pada aplikasi terapeutik 
+tanaman atau plants or plant-derived compounds. Komponen 
+ini termasuk seluruh bagian tanaman atau bagian tanaman 
+seperti buah, batang, daun, kulit, kayu dan lain sebagainya 
+(Catanzaro et al., 2018; Monica et al., 2022). 
+Kandungan 
+metabolit 
+dalam 
+tanaman 
+telah 
+diidentifikasikan memiliki potensi terapeutik yang luas 
+dalam pencegahan dan pengobatan penyakit seperti 
+sebagai 
+antivirus, 
+antitumor, 
+antiprotozoal, 
+dan 
+anthelmentik serta imunomodulator. Konstituen tanaman 
+seperti polisakarida, flavonoid, alkaloid telah diteliti dan 
+menunjukan aktivitas imunomodulatornya (Catanzaro et 
+al., 2018; Di Sotto et al., 2020; Hooda et al., 2024). Beberapa 
+
+ 
+132 
+contoh tanaman dengan efek imunomodulator dapat dilihat 
+pada Tabel 1. 
+ 
+Tabel 1. Tanaman dengan senyawa aktif dengan efek 
+imunomodulator (diadaptasi dari Di Sotto et al., 2020)  
+No 
+Tanaman 
+Kandungan 
+Fitokimia 
+Tipe 
+Imunomodulator 
+1 
+Acacia catechu 
+Willd 
+Flavonoid, asam 
+fenolat, katekin 
+Imunoadjuvan 
+2 
+Aloe vera (L.) 
+Burm 
+Acemannan, 
+didihrokumarin 
+Imunostimulan 
+3 
+Andrographis 
+paniculata 
+(Burm.f.) Nees 
+Lakton 
+diterpene 
+Imunosupresor 
+4 
+Artocarpus 
+tonkinensis A. 
+Chev. Ex Gagnep 
+Glikosida 
+auronol 
+Imunosupresor 
+5 
+Astragalus 
+membranaceous 
+(Fisch.) Bge 
+Polisakharida 
+Imunostimulan 
+6 
+Boswellia serrata 
+Roxb. Ex Colebr 
+Asam Boswellic 
+Imunosupresor 
+7 
+Camellia sinensis 
+(L.) Kuntze 
+Polisakharida 
+Imunostimulan 
+8 
+Centella asiatica 
+(L.) Urban 
+Madecassoside 
+Imunosupresor 
+9 
+Curcuma longa L. 
+Kurkuminoid 
+Imunosupresor 
+10 
+Echinacea purpurea 
+(L.) Moench 
+Alkyamides, 
+glikoprotein, 
+polisakarida 
+Imunostimulan 
+11 
+Glycyrrhiza glabra 
+L. 
+Glisirizin 
+Imunostimulan 
+12 
+Hypoxis rooperi T. 
+Moore 
+Hipokside 
+Imunoadjuvan 
+
+ 
+133 
+13 
+Ocimum sanctum 
+L. 
+Eugenol, 
+metileugenol, β-
+caryophyllene 
+Imunostimulan 
+14 
+Panax ginseng 
+C.A. Meyer 
+Ginsenosides 
+Imunostimulan 
+15 
+Syzigium 
+aromaticum (L.) 
+Merr. and L.M. 
+Perry 
+Eugenol, β-
+caryophyllene 
+Imunostimulan 
+16 
+Tinospora cordifolia 
+(Thunb.) Miers 
+Arabinogalaktan 
+Imunostimulan 
+17 
+Withania somnifera 
+(L.) Dunal 
+Withaferin A 
+Imunostimulan 
+18 
+Zingiber oﬃcianalis 
+Roscoe 
+Gingerol 
+Imunostimulan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+134 
+DAFTAR PUSTAKA 
+Bascones-Martinez, A., Mattila, R., Gomez-Font, R., & Meurman, J. 
+H. (2014). Immunomodulatory Drugs: Oral and Systemic 
+Adverse Effects. Medicina Oral, Patologia Oral y Cirugia Bucal, 
+19(1). https://doi.org/10.4317/medoral.19087 
+Catanzaro, M., Corsini, E., Rosini, M., Racchi, M., & Lanni, C. (2018). 
+Immunomodulators Inspired by Nature: A Review on 
+Curcumin 
+and 
+Echinacea. 
+Molecules, 
+23(11), 
+1–17. 
+https://doi.org/10.3390/molecules23112778 
+Dasgupta, R. K., Dey, S., Roy, S., Samanta, A., & Chakraborty, J. 
+(2023). The Potential Role of Traditionally Used Plants as 
+Immunomodulators. World Journal of Advanced Research and 
+Reviews, 
+19(1), 
+1273–1278. 
+https://doi.org/10.30574/wjarr.2023.19.1.1434 
+Di Sotto, A., Vitalone, A., & Di Giacomo, S. (2020). Plant-Derived 
+Nutraceuticals 
+and 
+Immune 
+System 
+Modulation: 
+An 
+Evidence-Based 
+Overview. 
+Vaccines, 
+8(3), 
+1–34. 
+https://doi.org/10.3390/vaccines8030468 
+Garçon, N., Leroux-Roels, G., & Cheng, W. F. (2011). Vaccine 
+Adjuvants. 
+Perspectives 
+in 
+Vaccinology, 
+1(1), 
+89–113. 
+https://doi.org/10.1016/j.pervac.2011.05.004 
+Hooda, P., Malik, R., Bhatia, S., Al-Harrasi, A., Najmi, A., Zoghebi, 
+K., Halawi, M. A., Makeen, H. A., & Mohan, S. (2024). 
+Phytoimmunomodulators: A Review of Natural Modulators 
+for Complex Immune System. Heliyon, 10(1), e23790. 
+https://doi.org/10.1016/j.heliyon.2023.e23790 
+Kim, J. H., Kim, D. H., Jo, S., Cho, M. J., Cho, Y. R., Lee, Y. J., & Byun, 
+S. (2022). Immunomodulatory Functional Foods and Their 
+Molecular Mechanisms. Experimental and Molecular Medicine, 
+54(1), 1–11. https://doi.org/10.1038/s12276-022-00724-0 
+Kumar, A., Sharma, A., Tirpude, N. V., Padwad, Y., Hallan, V., & 
+Kumar, S. (2022). Plant-Derived Immuno-Adjuvants in 
+Vaccines Formulation: a Promising Avenue for Improving 
+Vaccines Efficacy Against SARS-CoV-2 Virus. Pharmacological 
+Reports, 74(6), 1238–1254. https://doi.org/10.1007/s43440-
+022-00418-4 
+Monica, V. E., Nimbkar, S., Elumalai, A., Moses, J. A., & 
+Anandharamakrishnan, C. (2022). Potential Role of Herbs and 
+Spices on the Immune System. In R. K. Kesharwani, R. K. 
+Keservani, & A. K. Sharma (Eds.), Immunomodulators and 
+
+ 
+135 
+Human 
+Health 
+(pp. 
+39–70). 
+Springer. 
+https://doi.org/https://doi.org/10.1007/978-981-16-6379-6 
+Zebeaman, M., Tadesse, M. G., Bachheti, R. K., Bachheti, A., 
+Gebeyhu, R., & Chaubey, K. K. (2023). Plants and Plant-
+Derived Molecules as Natural Immunomodulators. BioMed 
+Research 
+International, 
+2023. 
+https://doi.org/10.1155/2023/7711297 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+136 
+BIODATA PENULIS 
+ 
+ 
+Dra. Elisabeth Natalia Barung, 
+M.Kes., Apt lahir di Tana Toraja. 
+25 
+Desember 
+1967. 
+Penulis 
+menyelesaikan 
+pendidikan 
+Sarjana 
+Farmasi 
+(Dra) 
+dan 
+Apoteker pada Jurusan Farmasi-
+FMIPA Universitas Hasanuddin 
+serta Program Magister Ilmu 
+Kedokteran Dasar peminatan 
+Farmakologi 
+(M.Kes) 
+di 
+Universitas 
+Gadjah 
+Mada 
+Yogyakarta. 
+Penulis 
+aktif 
+mengajar 
+pada 
+Politeknik 
+Kesehatan Kemenkes Manado. 
+Mata kuliah yang diampu yaitu 
+Farmakologi 
+Dasar, 
+Farmakologi I dan Farmakologi 
+II pada Prodi DIII Farmasi.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
