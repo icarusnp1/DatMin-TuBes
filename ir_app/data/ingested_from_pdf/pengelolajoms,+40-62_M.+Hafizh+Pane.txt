@@ -1,0 +1,2536 @@
+GAMBARAN PENGGUNAAN OBAT HERBAL PADA MASYARAKAT 
+INDONESIA DAN INTERAKSINYA TERHADAP OBAT 
+KONVENSIONAL TAHUN 2020 
+ 
+Muhammad Hafizh Pane1, Ave Olivia Rahman2, Esa Indah Ayudia2 
+1Mahasiswa Program Studi Kedokteran, Fakultas Kedokteran dan Ilmu Kesehatan Universitas Jambi 
+2Dosen Program Studi Kedokteran, Fakultas Kedokteran dan Ilmu Kesehatan Universitas Jambi 
+e-mail: hfzhpane@gmail.com 
+ 
+ABSTRACT 
+The percentage of Indonesia's population using traditional medicines in 2014 was 20.99%. There has 
+been an increase in the use of herbal medicines, so there is the possibility of interactions. The data on 
+the use of herbal medicines and their interactions with conventional medicines is still limited. This type 
+of research is a descriptive study using a google form questionnaire. Univariate analysis was carried 
+out to determine the characteristics of herbal medicine users and interactions of herbal medicine 
+combinations with conventional drugs through a search on the available literature. The results of the 
+study of 281 respondents were mostly aged 18-45 years (75.4%), women (54.4%), lived in urban areas 
+(67.3%), graduated from high school (55,5%), and high income by the month (42%). The most widely 
+used herbal medicine is ginger (29,2%). There are several types of herbal medicines that are used 
+differently for each type of disease symptom / the same complaint. The most widely used herbal 
+medicinal preparations were chopped (55.2%), and most of the respondents argued that the use of 
+herbal medicines was due to relatively small side effects (35.6%). The majority of respondents felt 
+efficacy (97.2%), and the others did not experience side effects (99.6%). There were also combinations 
+of herbal medicines with conventional drugs (13.2%) with some having beneficial interactions (13.5%), 
+adverse interactions (18.9%), and no interactions (67.6 %%). There are variations in the use of herbal 
+remedies for the same complaints in each region. Some respondents combine it with conventional 
+drugs. There are beneficial interactions, adverse interactions, and no interactions from these 
+combinations. 
+Keywords: Herbal Medicine, Indonesia, Herb-Drug Interactions, Surveys and Questionnaires 
+ 
+ABSTRAK 
+Persentase penduduk Indonesia yang menggunakan obat tradisional pada tahun 2014 yaitu 20,99%. 
+Terjadi peningkatan penggunaan obat herbal, sehingga ada kemungkinan dapat terjadi interaksi. 
+Adapun data tentang penggunaan obat herbal dan interaksinya dengan obat konvensional masih 
+terbatas. Jenis penelitian ini adalah penelitian deskriptif yang menggunakan kuesioner berupa google 
+form. Dilakukan analisis univariat untuk mengetahui karakteristik pengguna obat herbal dan interaksi 
+dari kombinasi obat herbal dengan obat konvensional melalui pencarian pada literatur yang sudah 
+tersedia. Hasil penelitian dari 281 responden sebagian besar berusia 18-45 tahun (75,4%), perempuan 
+(54,4%), tinggal di perkotaan (67,3%), tamat SMA (55,5%), dan berpendapatan tinggi perbulannya 
+(42%). Obat herbal yang paling banyak digunakan yaitu jahe (29,2%). Didapatkan beberapa jenis obat 
+herbal yang digunakan berbeda-beda pada tiap jenis gejala penyakit/keluhan yang sama. Sediaan obat 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+41 
+ 
+herbal yang paling banyak digunakan berupa rajangan (55,2%), dan sebagian besar responden 
+beralasan dalam penggunaan obat herbal dikarenakan efek samping yang relatif kecil (35,6%). 
+Mayoritas responden merasakan khasiat (97,2%), dan yang lainnya tidak merasakan efek samping 
+(99,6%). Didapatkan juga kombinasi obat herbal dengan obat konvensional (13,2%) dengan beberapa 
+memiliki interaksi yang menguntungkan (13,5%), interaksi merugikan (18,9%), dan tidak ada interaksi 
+(67,6%%). Terdapat variasi dalam penggunaan obat herbal untuk keluhan yang sama pada tiap daerah. 
+Beberapa responden mengkombinasikannya dengan obat konvensional. Didapatkan interaksi 
+menguntungan, interaksi merugikan, dan tidak ada interaksi dari kombinasi tersebut. 
+Kata kunci: Obat Herbal, Indonesia, Interaksi Obat Herbal, Survei dan Kuesioner 
+_________________________________________________________________________________ 
+ 
+PENDAHULUAN 
+Obat Tradisional adalah bahan atau 
+ramuan bahan yang berupa bahan tumbuhan, 
+bahan hewan, bahan mineral, sediaan sarian 
+(galenik) atau campuran dari bahan tersebut 
+yang secara turun temurun telah digunakan 
+untuk pengobatan berdasarkan pengalaman.1 
+Perkembangan selanjutnya obat tradisional 
+kebanyakan berupa campuran yang berasal 
+dari 
+tumbuh-tumbuhan 
+sehingga 
+dikenal 
+dengan obat herbal.2 
+Obat herbal adalah obat yang berasal dari 
+tumbuhan 
+yang 
+diproses 
+atau 
+diekstrak 
+sedemikian rupa sehingga menjadi serbuk, pil 
+atau cairan yang dalam prosesnya tidak 
+menggunakan zat kimia. Seperti yang di 
+ketahui obat herbal dapat menyembuhkan 
+penyakit dengan efek samping yang minim 
+karena dibuat dari bahan-bahan yang alami, 
+tidak seperti obat-obat sintetis yang dapat 
+memberikan 
+efek 
+samping 
+baik 
+secara 
+langsung maupun setelah waktu yang lama.3 
+Obat-obatan herbal adalah campuran dari 
+banyak bahan aktif.4 Jenis obat herbal ada 3, 
+yaitu:  Jamu, obat herbal terstandarisasi dan 
+fitofarmaka.2 
+Menurut WHO, sekitar 80% masyarakat di 
+negara-negara 
+anggota 
+WHO 
+di 
+Afrika 
+menggunakan obat tradisional untuk keperluan 
+Kesehatan. Demikian pula penggunaan obat 
+tradisional di Asia, di RRC penggunaan obat 
+tradisional mencapai 90%, di Jepang 60-70% 
+dokter meresepkan obat tradisional untuk 
+pasien mereka, obat tradisional melayu, TCM 
+dan obat tradisional India digunakan secara 
+luas di Malaysia. WHO di wilayah Amerika 
+melaporkan 71% penduduk Chile dan 40% 
+penduduk 
+Kolombia 
+menggunakan 
+obat 
+tradisional. Beberapa sumber menyebutkan 
+penggunaan obat tradisional oleh penduduk di 
+Perancis mencapai 49%, Kanada 70%, Inggris 
+40% dan Amerika Serikat 42%.5 Menurut 
+Survei Sosial Ekonomi Nasional (susenas) dari 
+Badan 
+Pusat 
+Statistik 
+(BPS) 
+Republik 
+Indonesia tahun 2014, persentase penduduk 
+yang 
+menggunakan 
+obat 
+tradisional 
+berdasarkan jenis kelamin yaitu sebesar 
+20,48% 
+untuk 
+laki-laki, 
+21,51% 
+untuk 
+perempuan dan 20,99% untuk laki-laki dan 
+perempuan. Sedangkan persentase di provinsi 
+Jambi sebesar 25,56% untuk laki-laki, 24,59% 
+untuk perempuan, dan 25,09% untuk laki-laki 
+dan perempuan.6 
+Laju percepatan kemajuan medis adalah 
+pendorong 
+tambahan 
+untuk 
+minat 
+yang 
+semakin besar pada obat herbal, karena 
+perawatan 
+konvensional 
+sering 
+gagal 
+memberikan perawatan holistik, berfokus pada 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+42 
+ 
+pasien yang didambakan banyak orang. 
+Karena itu mereka beralih ke masa lalu dan 
+mencari obat tradisional, sikap ini semakin 
+diperkuat karena obat-obatan modern mungkin 
+memiliki efek samping yang kuat dan tidak 
+menyenangkan, 
+sehingga 
+penyembuhan 
+terasa lebih buruk daripada keadaan penyakit 
+itu sendiri.7 
+Selama 
+beberapa 
+tahun 
+terakhir, 
+penggunaan obat-obatan herbal di kalangan 
+masyarakat umum telah meningkat secara 
+dramatis. Banyak laporan menunjukkan bahwa 
+obat-obatan herbal sering diambil bersamaan 
+dengan terapi konvensional. Meskipun obat-
+obatan herbal umumnya dianggap aman bila 
+digunakan tunggal pada dosis dan waktu yang 
+dianjurkan, ada peningkatan bukti interaksi 
+obat dengan herbal yang dapat menyebabkan 
+efek samping yang serius atau kegagalan 
+terapi dengan obat-obatan konvensional, dari 
+hasil penelitian terdapat efek samping negative 
+dari penggunaan obat herbal bersamaan 
+dengan 
+obat 
+konvensional 
+seperti 
+kecenderungan perdarahan yang disebabkan 
+oleh ginkgo dan interaksi aspirin.8 
+Dari hasil penelitian lain, penggunaan 
+tanaman obat herbal St. John Wort bersamaan 
+dengan 
+bupropion 
+dan 
+SSRI 
+dapat 
+mengakibatkan 
+sindrom 
+serotonin, 
+penggunaan bawang putih dengan antiplatelet 
+seperti 
+warfarin 
+dapat 
+menyebabkan 
+pendarahan, dan juga pendarahan dapat 
+terjadi akibat dari penggunaan ginkgo biloba 
+dengan aspirin, dan masih banyak interaksi 
+lainnya.9 Pemakaian obat herbal jangka 
+panjang dan dosis tinggi dapat menyebabkan 
+kerusakan organ tubuh.10 
+Dalam interaksi obat dengan herbal, tidak 
+semuanya memiliki efek yang merugikan. 
+Beberapa 
+herbal 
+dilaporkan 
+berinteraksi 
+dengan obat dan hasilnya menguntungkan, 
+seperti mengurangi toksisitas atau mengurangi 
+efek samping lain yang mungkin dialami. 
+Beberapa herbal juga meningkatkan atau 
+menurunkan 
+metabolisme 
+obat 
+sehingga 
+mempengaruhi ketersediaan obat.8 
+Selama ini masih sedikit informasi tentang 
+interaksi antara obat herbal dan obat sintetik.11 
+Maka dari itu, peneliti tertarik melakukan 
+penelitian tentang analisis penggunaan obat 
+herbal dan studi literatur interaksinya terhadap 
+obat konvensional di Indonesia tahun 2020.  
+ 
+METODE PENELITIAN 
+Jenis penelitian yang digunakan adalah 
+penelitian deskriptif dengan menggunakan data 
+primer yaitu kuesioner berupa google form. 
+Penelitian dibagi menjadi dua tahapan yaitu, 
+survei data penggunaan macam obat herbal 
+secara kuantitatif dan interaksi kombinasi obat 
+herbal 
+dengan 
+obat 
+konvensional 
+dari 
+pencarian pada hasil literatur secara kualitatif 
+berdasarkan hasil tahap pertama. Teknik 
+pengambilan sampel dalam penelitian ini 
+adalah consecutive sampling. Pengambilan 
+seluruh subjek yang diamati dan memenuhi 
+kriteria penelitian dalam kurun waktu tertentu 
+sampai 
+besar 
+sampel 
+yang 
+diperlukan 
+terpenuhi. Kriteria inklusi yaitu masyarakat 
+Indonesia yang berumur 18 tahun keatas dan 
+memliki gejala penyakit/keluhan sebagai dasar 
+penggunaan obat herbal. Sedangkan kriteria 
+eksklusi yaitu masyarakat Indonesia yang 
+menggunakan obat herbal polifarmasi dan 
+mengisi kuesioner tidak lengkap 
+ 
+HASIL DAN PEMBAHASAN 
+Penelitian ini dilaksanakan di beberapa 
+wilayah Indonesia dengan menggunakan data 
+yang diperoleh dari hasil pengisian kuesioner 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+43 
+ 
+yang telah dibuat oleh peneliti dan disesuaikan 
+dengan tujuan penelitian yang mengacu pada 
+kerangka konsep dan teori yang telah dibuat. 
+Dari 407 response rate didapatkan 281 sampel 
+yang memenuhi kriteria inklusi dan tidak 
+memiliki kriteria eksklusi. Dimana terdapat 
+sampel yang memiliki kriteria eksklusi berupa 
+penggunaan obat herbal polifarmasi sebesar 
+0,7% dan mengisi kuesioner tidak lengkap 
+sebesar 2,5%. Data 281 sampel akan disajikan 
+dalam bentuk analisis univariat. 
+ 
+ 
+Tabel 1. Jumlah Responden per Wilayah Tempat Tinggal 
+Wilayah Tempat Tinggal 
+Jumlah Responden 
+Aceh 
+9 
+Sumatera Utara 
+14 
+Sumatera Barat 
+13 
+Riau 
+10 
+Kepulauan Riau 
+12 
+Jambi 
+41 
+Sumatera Selatan 
+11 
+Bangka Belitung 
+8 
+Banten 
+15 
+Jawa Barat 
+30 
+DKI Jakarta 
+21 
+Jawa Tengah 
+12 
+DI Yogyakarta 
+10 
+Jawa Timur 
+13 
+Bali 
+9 
+Nusa Tenggara Barat 
+10 
+Kalimantan Barat 
+9 
+Kalimantan Timur 
+11 
+Sulawesi Selatan 
+11 
+Papua 
+12 
+Total 
+281 
+ 
+Tabel 2. Karakteristik Responden 
+Variabel 
+Frekuensi (n) 
+Persentase (%) 
+Kelompok Usia 
+ 
+ 
+18-45 
+212 
+75.4 
+46-65  
+65 
+23.1 
+>65  
+4 
+1.4 
+Total 
+281 
+100 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+44 
+ 
+Variabel 
+Frekuensi (n) 
+Persentase (%) 
+ 
+ 
+ 
+Jenis Kelamin 
+ 
+ 
+Laki-laki 
+128 
+45.6 
+Perempuan 
+153 
+54.4 
+Total 
+281 
+100 
+ 
+ 
+ 
+Wilayah Tempat Tinggal 
+ 
+ 
+Desa 
+92 
+32.7 
+Kota 
+189 
+67.3 
+Total 
+281 
+100 
+ 
+ 
+ 
+Tingkat Pendidikan 
+ 
+ 
+Tidak Sekolah/Tidak Tamat SD 
+0 
+0 
+Tamat SD 
+1 
+0.4 
+Tamat SMP/Sederajat 
+3 
+1.1 
+Tamat SMA/Sederajat 
+156 
+55.5 
+Tamat Diploma/Akademi 
+8 
+2.8 
+Tamat Sarjana 
+113 
+40.2 
+Total 
+281 
+100 
+ 
+ 
+ 
+Tingkat Pendapatan 
+ 
+ 
+Tinggi (>Rp 2.500.000 per bulan) 
+118 
+42.0 
+Sedang (Rp 1.500.000-2.500.000 per 
+bulan) 
+47 
+16.7 
+Rendah (<Rp 1.500.000 per bulan) 
+116 
+41.3 
+Total 
+281 
+100 
+Berdasarkan Tabel 2, didapatkan hasil 
+uji univariat karakteristik sampel sebagai 
+berikut: 
+1. Berdasarkan hasil analisis data 
+kelompok usia, didapatkan kelompok 
+usia 18 sampai 45 tahun sebayak 
+212 orang (75.4%), 46 sampai 65 
+tahun sebanyak 65 orang (23.1%) 
+dan lebih dari 65 tahun sebanyak 4 
+orang (1.4%). Hal ini sejalan dengan 
+penelitian yang dilakukan Ratna 
+(2019), didapatkan usia responden 
+yang menggunakan obat tradisional 
+yaitu dengan kategori dewasa awal 
+(18-40 tahun) sebanyak 79%.90 Hal 
+yang sama juga didapatkan dari 
+penelitian yang dilakukan Rasni, dkk 
+(2018), karakter usia menunjukkan 
+bahwa mayoritas responden berada 
+pada usia produktif yaitu 18-40 tahun 
+sebanyak 
+64 
+orang 
+(62.7%). 
+Mayoritas 
+usia 
+responden 
+yang 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+45 
+ 
+produktif membuat daya tangkap dan 
+pola 
+pikir 
+seseorang 
+semakin 
+berkembang 
+sehingga 
+semakin 
+mudah untuk menggali informasi 
+tentang obat tradisional. Hal tersebut 
+dapat 
+menjadi 
+alasan 
+mengapa 
+banyak responden yang didominasi 
+umur 
+tersebut.91 
+Namun 
+dari 
+penelitian 
+yang 
+dilakukan 
+oleh 
+Sudibyo 
+(2007), 
+didapatkan 
+pengguna obat herbal paling banyak 
+didominasi kelompok lanjut usia (56 
+tahun ke atas). Hal ini mungkin 
+disebabkan karena orang tua lebih 
+menyukai 
+penggunaan 
+obat 
+tradisional karena lebih mudah dan 
+praktis.92 
+2.  Berdasarkan hasil analisis data jenis 
+kelamin, didapatkan responden yang 
+berjenis kelamin laki-laki sebanyak 
+128 orang (45.6%) dan perempuan 
+sebanyak 153 orang (54.4%). Hal ini 
+sejalan 
+dengan 
+penelitian 
+yang 
+dilakukan 
+Sudibyo 
+(2007), 
+didapatkan 
+hasil 
+proporsi 
+penggunaan 
+obat 
+herbal 
+lebih 
+banyak pada responden perempuan 
+yaitu 28.5% dan laki-laki 27.8%.92 
+Dan juga pada penelitian mengenai 
+obat tradisional yang dilakukan oleh 
+Rasmi 
+(2018) 
+didapatkan 
+hasil 
+mayoritas 
+responden 
+berjenis 
+kelamin perempuan yaitu sebanyak 
+71 orang (69,6%).91 
+3. Berdasarkan hasil analisis wilayah 
+tempat tinggal, didapatkan responden 
+yang bertempat tinggal di desa 
+sebanyak 92 orang (32.7%) dan di 
+kota sebanyak 189 orang (67.3%). Hal 
+ini sejalan dengan penelitian yang 
+dilakukan 
+Astri, 
+dkk 
+(2016), 
+berdasarkan 
+karakteristik 
+tempat 
+tinggal, proporsi rumah tangga yang 
+pernah 
+menggunakan 
+pelayanan 
+Kesehatan 
+tradisional, 
+daerah 
+perkotaan 
+sebesar 
+36.9% 
+dan 
+pedesaan 26.3%. Penggunaan obat 
+tradisional juga banyak digunakan 
+oleh masyarakat yang berada di kota 
+besar meskipun sebenarnya banyak 
+tersedia 
+fasilitas 
+Kesehatan 
+dan 
+mudahnya 
+memperoleh 
+obat 
+konvensional.93 Namun dari penelitian 
+Sudibyo (2007), didapatkan proporsi 
+pengguna obat herbal yang bertempat 
+tinggal di pedesaan lebih tinggi 
+dibandingkan yang bertempat tinggal 
+di perkotaan. Dikarenakan mudahnya 
+memperoleh tanaman obat herbal di 
+wilayah pedesaan.92 
+4. Berdasarkan hasil analisis tingkat 
+Pendidikan, didapatkan mayoritas 
+responden 
+tamat 
+SMA/sederajat 
+sebanyak 156 orang (55.5%) dan 
+tamat sarjana sebanyak 113 orang 
+(40.2%). Hal ini sejalan dengan 
+penelitian 
+Ratna 
+(2019) 
+dimana 
+mayoritas pengguna obat herbal 
+memiliki tingkat pendidikan tamat 
+SMA.90 
+Hal 
+ini 
+didukung 
+oleh 
+penelitian 
+Sulfiyana, 
+didapatkan 
+mayoritas responden terbanyak yaitu 
+tamat SMA sebanyak 36 orang 
+(69,2%).94 Namun dari penelitian 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+46 
+ 
+Sudibyo (2007), mayoritas pengguna 
+obat herbal tidak sekolah sebesar 
+40,5%.92 Hal ini sejalan dengan studi 
+Wardana (2008) menemukan bahwa 
+tingkat Pendidikan tidak berpengaruh 
+secara signifikan terhadap minat 
+individu dalam menggunakan obat 
+tradisional, disebabkan adanya faktor 
+lain yang lebih kuat memberikan 
+pengaruh 
+seperti 
+tradisi 
+nenek 
+moyang, kebiasaan keluarga dan 
+informasi nasehat dari tetangga atau 
+teman 
+kerabat 
+atau 
+penjual 
+jamu/obat 
+tradisional 
+secara 
+langsung.95 Purnamaningrum (2010), 
+menyatakan bahwa Pendidikan tidak 
+memiliki pengaruh terhadap perilaku 
+mengobati. 
+Kondisi 
+ini 
+dapat 
+disebabkan 
+karena 
+probabilitas 
+masyarakat memilih obat tradisional 
+tergantung 
+dengan 
+tingkat 
+pengetahuan 
+dan 
+pemahaman 
+indvidu 
+mengenai 
+pengobatan 
+tradisional 
+yang 
+biasanya 
+telah 
+didapat 
+dari 
+pengalaman 
+yang 
+diberikan 
+oleh 
+orang 
+tua 
+dan 
+kebiasaan 
+masyarakat 
+sehingga 
+penggunaan obat tradisional sudah 
+menjadi sugesti akan sembuh jika 
+individu 
+mengkonsumsi 
+obat 
+tradisional 
+untuk 
+menyembuhkan 
+penyakitnya.96 
+5. Berdasarkan hasil analisis tingkat 
+pendapatan, didapatkan responden 
+berpendapatan tinggi (>Rp 2.500.000 
+per bulan) sebanyak 118 orang 
+(42%), 
+sedang 
+(Rp 
+1.500.000-
+2.500.000 per bulan) sebanyak 47 
+orang (16.7%) dan rendah (<Rp 
+1.500.000 per bulan) sebanyak 116 
+orang (41.3%). Hal ini sesuai dari 
+hasil penelitian Herti (2016) dimana 
+mayoritas pengguna obat herbal 
+berpenghasilan 
+lebih 
+dari 
+Rp 
+3.000.000 
+per 
+bulan 
+(63,3%).97 
+Namun pada penelitian Ismail (2015), 
+didapatkan mayoritas pengguna obat 
+herbal memiliki pendapatan rendah 
+(kurang dari Rp 1.500.000 per bulan) 
+sebanyak 28 orang (82,4%).98 Hal 
+yang sama didapatkan dari penelitin 
+Tiara (2019) dimana sebagian besar 
+responden berpendapatan kurang 
+dari 2 juta.99 Menurut Herika (2015), 
+pendapatan tidak memiliki hubungan 
+yang signifikan terhadap probabilitas 
+individu untuk memilih pengobatan 
+tradisional.100 Hal ini sejalan dengan 
+studi Purnamaningrum (2010) yang 
+menyatakan bahwa pendapatan tidak 
+memiliki pengaruh yang signifikan 
+terhadap perilaku mengobati baik 
+dengan menggunaan obat modern 
+ataupun pengobatan tradisional.96 
+Pernyataan ini juga didukung oleh 
+studi 
+Muwahid 
+(2006) 
+yang 
+menyatakan 
+bahwa 
+besarnya 
+penghasilan 
+tidak 
+berpengaruh 
+terhadap 
+probabilitas 
+dalam 
+pemilihan dan penggunaan obat 
+tradisional karena Sebagian besar 
+konsumen 
+lebih 
+memprioritaskan 
+khasiat.101 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+47 
+ 
+Tabel 3. Jenis Obat Herbal Yang Digunakan 
+Jenis Obat Herbal 
+Frekuensi (n) 
+Persentase (%) 
+Jahe 
+82 
+29.2 
+Kunyit 
+31 
+11.0 
+Jeruk Nipis 
+14 
+5.0 
+Jambu Biji 
+9 
+3.2 
+Kencur 
+8 
+2.8 
+Sirih 
+8 
+2.8 
+Bawang Putih 
+7 
+2.5 
+Kayu Manis 
+7 
+2.5 
+Sirsak 
+7 
+2.5 
+Madu 
+6 
+2.1 
+Salam 
+5 
+1.8 
+Lidah Buaya 
+5 
+1.8 
+Sereh 
+5 
+1.8 
+Lemon 
+4 
+1.4 
+Jintan Hitam 
+4 
+1.4 
+Kumis Kucing 
+4 
+1.4 
+Mengkudu 
+3 
+1.1 
+Pegagan 
+3 
+1.1 
+Binahong 
+3 
+1.1 
+Pepaya 
+3 
+1.1 
+Pinang 
+3 
+1.1 
+Belimbing Wuluh 
+2 
+0.7 
+Cengkeh 
+2 
+0.7 
+Kembang Sepatu 
+2 
+0.7 
+Sambiloto 
+2 
+0.7 
+Ketumbar 
+2 
+0.7 
+Teh Jati 
+2 
+0.7 
+Jarak 
+2 
+0.7 
+Pare 
+2 
+0.7 
+Temulawak 
+2 
+0.7 
+Alpukat 
+2 
+0.7 
+Kelor 
+2 
+0.7 
+Manggis 
+2 
+0.7 
+Jeruk Purut 
+1 
+0.4 
+Pala 
+1 
+0.4 
+Tomat 
+1 
+0.4 
+Kayu Bajaka 
+1 
+0.4 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+48 
+ 
+Alang-alang 
+1 
+0.4 
+Sena 
+1 
+0.4 
+Rimbang 
+1 
+0.4 
+Cacing Tanah 
+1 
+0.4 
+Kapulaga 
+1 
+0.4 
+Mahkota Dewa 
+1 
+0.4 
+Black Garlic 
+1 
+0.4 
+Labu Parang 
+1 
+0.4 
+Kayu Putih 
+1 
+0.4 
+Kelapa 
+1 
+0.4 
+Lengkuas 
+1 
+0.4 
+Tapak Dara 
+1 
+0.4 
+Selasih 
+1 
+0.4 
+Seledri 
+1 
+0.4 
+Pisang 
+1 
+0.4 
+Katuk 
+1 
+0.4 
+Bedak Gula 
+1 
+0.4 
+Klorofil 
+1 
+0.4 
+Kayu Susu 
+1 
+0.4 
+Daun Merah 
+1 
+0.4 
+Kecubung 
+1 
+0.4 
+Rosela 
+1 
+0.4 
+Kitolod 
+1 
+0.4 
+Delima 
+1 
+0.4 
+Jagung 
+1 
+0.4 
+Propolis 
+1 
+0.4 
+Teh Pahit 
+1 
+0.4 
+Secang 
+1 
+0.4 
+Teratai 
+1 
+0.4 
+Kopi 
+1 
+0.4 
+Kina 
+1 
+0.4 
+Minyak Sanhong 
+1 
+0.4 
+Total 
+281 
+100 
+Berdasarkan Tabel 3, didapatkan bahwa 
+jahe merupakan obat herbal yang paling 
+banyak dikonsumsi yaitu sebanyak 82 orang 
+(29.2%). Lalu diikuti oleh kunyit yaitu sebanyak 
+31 orang (11%) dan jeruk nipis yaitu sebanyak 
+14 orang (5%). Hal ini sejalan dengan FOHAI 
+(2017), 
+dimana 
+persentase 
+penggunaan 
+tanaman obat di Indonesia paling besar adalah 
+jahe (50.36%).89 Dari hasil penelitian Ratna 
+(2019), obat herbal yang banyak digunakan 
+yaitu jamu (52,38%).90 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+49 
+ 
+ 
+Tabel 4. Jenis Gejala Penyakit/Keluhan Yang Diobati Dengan Obat Herbal 
+Jenis Gejala 
+Penyakit/Keluhan 
+Frekuensi 
+(n) 
+Persentase 
+(%) 
+Obat Herbal 
+Yang Digunakan 
+Wilayah Tempat Tinggal 
+Sakit Tenggorokan 
+45 
+16.0 
+Jahe 
+ 
+Jeruk nipis  
+Riau, Jambi, Sumatera 
+Selatan, DKI Jakarta 
+Sumatera Utara, Banten, 
+Jawa Barat, Jawa Timur  
+Batuk 
+34 
+12.1 
+Jahe  
+Pegagan  
+Kencur  
+Jeruk nipis 
+Madu 
+Serai  
+Pinang  
+Sumatera Utara  
+Sumatera Barat  
+Riau, Kepulauan Riau 
+Banten, Jawa Barat  
+Jawa Tengah, Jawa Timur 
+Bali  
+Nusa Tenggara Barat           
+Nyeri Lambung 
+16 
+5.7 
+Manggis 
+Kunyit 
+Kayu manis 
+Mengkudu 
+Temulawak 
+Aceh, Riau  
+Sumatera Selatan  
+Jambi  
+Jawa Barat  
+DI Yogyakarta, Bali 
+Melancarkan 
+Menstruasi 
+16 
+5.7 
+Kunyit 
+Kencur 
+Jahe 
+Binahong 
+Aceh, Nusa Tenggara 
+Barat 
+Kepulauan Riau, Jambi 
+Banten, Jawa Barat  
+Jawa Timur 
+Kolesterol Tinggi 
+13 
+4.6 
+Bawang putih 
+Jagung 
+Belimbing wuluh  
+Pinang  
+Alpukat  
+Kelor  
+Pare  
+Ketumbar 
+Sirsak   
+Riau  
+Jambi  
+Sumatera Selatan  
+DKI Jakarta  
+Jawa Tengah  
+DI Yogyakarta  
+Nusa Tenggara Barat 
+Sulawesi Selatan 
+DKI Jakarta  
+Diabetes 
+12 
+4.3 
+Salam  
+Kelor  
+Bedak gula 
+Mengkudu  
+Kayu manis  
+Sumatera Utara 
+Nusa Tenggara Barat  
+Sulawesi Selatan 
+Kalimantan Barat 
+Sumatera Barat 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+50 
+ 
+Pare  
+Ketumbar 
+Banten 
+Bali 
+Hipertensi 
+11 
+3.9 
+Sirih  
+Alpukat  
+Sirsak 
+Bawang Putih 
+Binahong  
+Kayu bajaka 
+Rimbang  
+Jarak 
+Mengkudu 
+Sumatera Utara 
+Riau 
+Jambi  
+Jawa Barat  
+Jawa Tengah  
+DI Yogyakarta  
+Sulawesi Selatan 
+Kalimantan Timur 
+Sumatera Utara 
+Diare 
+10 
+3.6 
+Jambu biji  
+Teh pahit  
+Bangka Belitung 
+Jawa Timur 
+Meningkatkan Imun 
+Tubuh 
+9 
+3.2 
+Jahe  
+Jintan hitam 
+Serai  
+Spirulina 
+Lemon 
+Madu  
+Kepulauan Riau, Jambi 
+Sumatera Selatan  
+Jawa Barat  
+DKI Jakarta 
+Jawa Timur  
+Kalimantan Timur 
+Demam 
+8 
+2.8 
+Jahe  
+Kembang sepatu 
+Sambiloto  
+Tapak dara 
+Lengkuas  
+Sumatera Utara, Jambi 
+Bangka Belitung, Papua 
+Banten, Jawa Timur 
+Kalimantan Barat  
+Nusa Tenggara Barat  
+Masuk Angin 
+8 
+2.8 
+Jahe  
+Jambi, Sumatera Selatan, 
+Banten, Jawa Barat, DKI 
+Jakarta, Jawa Timur 
+Kesehatan Kulit 
+7 
+2.5 
+Propolis 
+Pisang 
+Lidah buaya 
+Kopi 
+Serai 
+Jambu biji 
+Melinjo 
+Jambi  
+Jawa Barat  
+Bali 
+Kalimantan Barat 
+Kalimantan Barat 
+Jambi 
+Jawa Barat  
+Sakit Kepala 
+7 
+2.5 
+Jahe  
+Jintan hitam 
+Kayu putih 
+Kencur  
+Pinang   
+Aceh, Kepulauan Riau 
+Banten 
+DI Yogyakarta  
+Nusa Tenggara Barat 
+Kalimantan Timur 
+Pegal 
+6 
+2.1 
+Cengkeh  
+Aceh  
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+51 
+ 
+Kayu secang 
+Sambiloto 
+Minyak sanhong 
+Serai   
+Riau  
+Kepulauan Riau  
+Jambi  
+DI Yogyakarta 
+Sembelit 
+6 
+2.1 
+Teh jati 
+Pepaya 
+Lemon 
+Sena 
+Jambi, Sumatera Selatan  
+Bangka Belitung 
+Jawa Barat, DKI Jakarta 
+Kepulauan Riau  
+Penghangat Badan 
+4 
+1.4 
+Jahe  
+Jeruk purut  
+Aceh 
+DKI Jakarta 
+Memar di Tubuh 
+4 
+1.4 
+Pala  
+Jahe  
+Kencur  
+Sumatera Utara  
+Kepulauan Riau  
+Sumatera Selatan, Papua 
+Flu 
+4 
+1.4 
+Madu 
+Lemon 
+Sumatera Utara  
+Sumatera Barat, DKI 
+Jakarta, Jawa Timur 
+Sariawan 
+4 
+1.4 
+Sirih 
+Jeruk nipis 
+Sumatera Barat 
+DKI Jakarta 
+Perut Kembung 
+4 
+1.4 
+Jahe 
+Salam 
+Kencur  
+Riau, Jambi 
+Jawa Tengah  
+Bali 
+Melancarkan Peredaran 
+Darah 
+4 
+1.4 
+Kayu manis 
+Jahe 
+Kapulaga  
+Jambi  
+Banten  
+Nusa Tenggara Barat 
+Rematik 
+3 
+1.1 
+Alang-alang  
+Jarak  
+Seledri 
+Kepulauan Riau 
+Kalimantan Timur  
+Papua 
+Asam Urat 
+3 
+1.1 
+Salam  
+Sumatera Barat, 
+Kepulauan Riau, Sulawesi 
+Selatan 
+Menyembuhkan Luka 
+3 
+1.1 
+Sirih  
+Binahong 
+Lidah buaya  
+Jambi  
+Jawa Timur  
+Kalimantan Timur 
+Kesehatan Rambut 
+3 
+1.1 
+Lidah buaya  
+Jambi, Bali, Kalimantan 
+Barat 
+Meningkatkan Stamina 
+3 
+1.1 
+Madu 
+Jintan hitam 
+Rosela   
+DKI Jakarta  
+Jawa Timur  
+Papua 
+Malaria 
+3 
+1.1 
+Kunyit 
+Kina 
+Jawa Barat 
+Papua 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+52 
+ 
+Kayu susu 
+Papua 
+Kista 
+2 
+0.7 
+Sirsak 
+Kunyit 
+Jambi  
+Banten 
+Menghilangkan Bau 
+Badan 
+2 
+0.7 
+Sirih 
+Selasih 
+Jawa Barat  
+Kalimantan Barat 
+Sakit Ginjal 
+2 
+0.7 
+Kumis kucing 
+Jambi, Jawa Tengah 
+Sakit Mata 
+2 
+0.7 
+Kitolod 
+Sirih 
+Jambi  
+Nusa Tenggara Barat 
+Sesak Napas 
+1 
+0.4 
+Jeruk nipis 
+Sumatera Utara 
+Luka Bakar 
+1 
+0.4 
+Tomat  
+Sumatera Utara 
+Susah Tidur 
+1 
+0.4 
+Sirsak 
+Sumatera Barat 
+Tifus 
+1 
+0.4 
+Cacing tanah  
+Jambi 
+Meningkatkan Nafsu 
+Makan 
+1 
+0.4 
+Kunyit 
+Jawa Barat 
+Infeksi Saluran Kemih 
+1 
+0.4 
+Sirih 
+Sumatera Selatan 
+Mimisan 
+1 
+0.4 
+Teratai 
+Sumatera Utara 
+Kanker 
+1 
+0.4 
+Sirsak 
+Jawa Barat 
+Hepatitis A 
+1 
+0.4 
+Temulawak 
+Jawa Tengah 
+Memperkuat Otot dan 
+Saraf 
+1 
+0.4 
+Pegagan 
+DI Yogyakarta 
+Demam Berdarah 
+1 
+0.4 
+Kunyit 
+Jawa Timur 
+Netralisir Racun 
+1 
+0.4 
+Kelapa Muda  
+Bali 
+Amandel 
+1 
+0.4 
+Mahkota dewa  
+Bali 
+Sakit Gigi 
+1 
+0.4 
+Kumis kucing  
+Jambi 
+Anemia 
+1 
+0.4 
+Pepaya  
+Kalimantan Barat 
+Kencing Batu 
+1 
+0.4 
+Kumis kucing 
+Kalimantan Timur 
+Pelancar ASI 
+1 
+0.4 
+Katuk  
+Sulawesi Selatan 
+Keputihan 
+1 
+0.4 
+Sirih 
+Sulawesi Selatan 
+Usus Buntu 
+1 
+0.4 
+Madu  
+Jambi 
+Tumor 
+1 
+0.4 
+Sirsak 
+Jambi 
+Endometriosis 
+1 
+0.4 
+Jintan hitam 
+Jambi 
+Sakit Jantung 
+1 
+0.4 
+Bawang putih  
+Jawa Barat 
+Sakit Pada Prostat 
+1 
+0.4 
+Labu parang 
+DKI Jakarta 
+Total 
+281 
+100 
+ 
+ 
+ 
+Berdasarkan Tabel 4, didapatkan jenis 
+gejala 
+penyakit/keluhan 
+yang 
+banyak 
+mendasari penggunaan obat herbal yaitu sakit 
+tenggorokan sebanyak 45 orang (16%). Lalu 
+diikuti dengan batuk sebanyak 34 orang 
+(12.1%) dan untuk melancarkan menstruasi 
+sebanyak 16 orang (5.7%). Hal ini sejalan 
+dengan penelitian Ismiyana (2013) yang juga 
+mendapatkan responden yang menggunakan 
+obat tradisional umumnya mengalami batuk, 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+53 
+ 
+flu, 
+masuk 
+angin, 
+pusing, 
+gangguan 
+pencernaan dan lain-lain.102 Pada penelitian 
+Sudibyo 
+(2007), 
+pengguna 
+obat 
+herbal 
+didominasi oleh diare sebagai keluhan yang 
+mendasari penggunaan obat herbal.92 
+ 
+Tabel 5. Bentuk Sediaan Obat Herbal 
+Bentuk Sediaan 
+Obat Herbal 
+Frekuensi 
+(n) 
+Persentase 
+(%) 
+Rajangan 
+155 
+55.2 
+Ekstrak 
+37 
+13.2 
+Efervesen 
+27 
+9.6 
+Cairan 
+26 
+9.3 
+Simplisia 
+22 
+7.8 
+Kapsul 
+4 
+1.4 
+Serbuk 
+4 
+1.4 
+Plester 
+4 
+1.4 
+Pil 
+2 
+0.7 
+Tablet 
+0 
+0 
+Granul 
+0 
+0 
+Pastiles 
+0 
+0 
+Dodol 
+0 
+0 
+Salep 
+0 
+0 
+Krim 
+0 
+0 
+Gel 
+0 
+0 
+Total 
+281 
+100 
+ 
+Berdasarkan Tabel 5, didapatkan bentuk 
+sediaan obat herbal yang paling banyak 
+digunakan oleh responden adalah rajangan 
+sebanyak 155 orang (55.2%), efervesen 
+sebanyak 
+27 
+orang 
+(9.6%) 
+dan 
+cairan 
+sebanyak 26 orang (9.3%). Hal ini sejalan 
+dengan penelitian yang dilakukan Merdekawati 
+(2016) bahwa masyarakat menggunakan obat 
+tradisional untuk menyembuhkan penyakit 
+ringan yang dideritanya dan persentase paling 
+tinggi menunjukkan bentuk sediaan yang 
+banyak digunakan adalah rebusan tanaman 
+obat (65%).103 Penelitian yang dilakukan oleh 
+Ratna (2019) juga menyatakan bahwa sediaan 
+yang paling banyak digunakan masyarakat 
+ialah sediaan cair (92.86%). Hal ini dikarenakan 
+obat tradisional bentuk cairan merupakan 
+bentuk yang paling lama ada di Indonesia dan 
+bentuk 
+cairan 
+lebih 
+praktis 
+dalam 
+penggunaannya.104 
+Tabel 6. Alasan Penggunaan Obat Herbal 
+Alasan 
+Penggunaan 
+Obat Herbal 
+Frekuensi 
+(n) 
+Persentase 
+(%) 
+Efek Samping 
+Yang Relatif 
+Kecil 
+100 
+35.6 
+Sudah 
+Digunakan 
+Secara Turun-
+Temurun 
+83 
+29.5 
+Dapat Diperoleh 
+Dengan Mudah 
+83 
+29.5 
+Harga Yang 
+Lebih 
+Terjangkau 
+15 
+5.3 
+Intervensi 
+Pemerintah 
+0 
+0 
+Total 
+281 
+100 
+ 
+Berdasarkan Tabel 6, didapatkan alasan 
+penggunaan obat herbal paling banyak yaitu 
+karena 
+efek 
+samping 
+yang 
+relatif 
+kecil 
+sebanyak 100 orang (35.6%). Lalu diikuti oleh 
+dapat diperoleh dengan mudah sebanyak 83 
+orang (29.5%), sudah digunakan secara turun-
+temurun sebanyak 83 orang (29.5%), dan 
+harga yang lebih terjangkau sebanyak 15 orang 
+(5.3%). Hal ini sejalan dengan penelitian Ratna 
+(2019), 
+didapatkan 
+alasan 
+masyarakat 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+54 
+ 
+menggunakan obat tradisional karena terbuat 
+dari bahan alami (37,50%) yang memiliki efek 
+samping 
+yang 
+relative 
+lebih 
+kecil.104 
+Triratnawati 
+(2010), 
+menyatakan 
+bahwa 
+pengobatan tradisional 
+diterapkan karena 
+alasan yang mudah, murah dan manjur serta 
+sesuai dengan kerangka berpikir individu 
+dalam rumah tangga.105 Menurut penelitian 
+Ratna (2019), juga didapatkan obat tradisional 
+digunakan 
+secara 
+turun-temurun 
+sebesar 
+82,7% dan diketahui sisanya yaitu 17.3% 
+memilih yang lain.90 
+Tabel 7. Persepsi Pengguna Obat Herbal 
+Terhadap Khasiat Yang Diperoleh 
+ 
+Persepsi 
+Terhadap 
+Khasiat 
+Frekuensi 
+(n) 
+Persentase 
+(%) 
+Ada 
+273 
+97.2 
+Tidak Ada 
+8 
+2.8 
+Total 
+281 
+100 
+ 
+Berdasarkan 
+Tabel 
+7, 
+didapatkan 
+responden yang merasakan khasiat dari 
+penggunaan obat herbal sebanyak 273 orang 
+(97.2%) dan yang tidak merasakan khasiat 
+sebanyak 8 orang (2.8%). Hal ini sejalan 
+dengan penelitian Ratna (2019), menyatakan 
+bahwa persepsi yang banyak timbul di 
+masyarakat 
+mengenai 
+penggunaan 
+obat 
+tradisional adalah percaya akan khasiat obat 
+tradisional. Dari penelitian tersebut dapat 
+diketahui masih banyak masyarakat meyakini 
+bahwa persepsi mereka mengenai khasiat obat 
+tradisional yang lebih aman karena terbuat dari 
+bahan yang alami dan apabila dikonsumsi 
+dalam jangka waktu yang panjang tidak 
+menimbulkan efek samping.90 Namun pada 
+penelitian 
+yang 
+dilakukan 
+Tiara 
+(2019), 
+didapatkan sebagian besar tidak merasakan 
+khasiat 
+dari 
+penggunaan 
+obat 
+herbal. 
+Ketidaktahuan masyarakat tentang khasiat 
+obat herbal yang tidak timbul secara instan 
+seperti halnya obat kimia.99 
+Tabel 8. Persepsi Pengguna Obat Herbal 
+Terhadap Efek Samping Yang Diperoleh 
+ 
+Persepsi 
+Terhadap Efek 
+Samping 
+Frekuensi 
+(n) 
+Persentase 
+(%) 
+Tidak Ada 
+280 
+99.6 
+Ada 
+1 
+0.4 
+Total 
+281 
+100 
+ 
+Berdasarkan 
+Tabel 
+8, 
+didapatkan 
+responden yang merasakan efek samping dari 
+penggunaan obat herbal sebanyak 1 orang 
+(0.4%) dan tidak merasakan efek samping 
+sebanyak 280 orang (99.6%). Hal ini sejalan 
+dengan penelitian Ratna (2019), dari penelitian 
+tersebut 
+dapat 
+diketahui 
+masih 
+banyak 
+masyarakat meyakini bahwa persepsi mereka 
+mengenai khasiat obat tradisional yang lebih 
+aman karena terbuat dari bahan yang alami 
+dan apabila dikonsumsi dalam jangka waktu 
+yang 
+panjang 
+tidak 
+menimbulkan 
+efek 
+samping.90 Namun pada penelitian yang 
+dilakukan Tiara (2019), didapatkan Sebagian 
+besar responden merasakan efek samping dari 
+penggunaan obat herbal. Efek samping yang 
+timbul 
+diakibatkan 
+oleh 
+ketidaktahuan 
+masyarakat tentang aturan dan cara pakai obat 
+herbal yang baik, seperti takaran dosis dan 
+interaksinya terhadap obat kimia.99 
+Tabel 9. Kombinasi Obat Herbal Dengan 
+Obat Konvensional 
+ 
+Kombinasi Obat 
+Frekuensi 
+(n) 
+Persentase 
+(%) 
+Tidak Ada 
+244 
+86.8 
+Ada 
+37 
+13.2 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+55 
+ 
+Total 
+281 
+100 
+ 
+Berdasarkan 
+Tabel 
+9, 
+didapatkan 
+responden yang menggunakan obat herbal 
+dan obat konvensional secara bersamaan 
+sebanyak 37 orang (13.2%) dan yang tidak 
+sebanyak 244 orang (86.8%). Hal ini sejalan 
+dengan penelitian Sefni (2012), mayoritas 
+pengguna obat herbal tidak menggunakan 
+obat konvensional secara bersamaan. Sefni 
+menyatakan bahwa tidak ada perbedaan yang 
+bermakna dari kelompok terapi kombinasi 
+konvensional-bahan alam dengan kelompok 
+terapi konvensional. Berdasarkan juga dari 
+beberapa jurnal yang telah dibaca oleh 
+peneliti, khasiat kandungan dari obat herbal 
+dalam menyembuhkan suatu penyakit dapat 
+menyaingi khasiat dari terapi konvensional 
+dan dalam beberapa kasus ditemukan bahwa 
+kombinasi obat herbal dengan konvensional 
+dapat menimbulkan interaksi negatif.106 
+ 
+ 
+ 
+Tabel 10. Jenis Obat Konvensional Yang Digunakan Bersamaan Dengan Obat Herbal Beserta 
+Interaksinya 
+ 
+Kombinasi Obat Herbal-Konvensional 
+Obat Konvensional 
+Obat Herbal 
+Interaksi 
+Metformin 
+Jahe 
+Interaksi Positif 107, 108 
+Metformin 
+Bawang putih 
+Interaksi Positif 109, 110 
+Paracetamol 
+Jahe 
+Interaksi Positif 111, 112 
+Paracetamol 
+Madu 
+Interaksi Positif 113 
+Metformin 
+Kelor 
+Interaksi Positif 114, 115 
+Metronidazol 
+Jahe 
+Interaksi Negatif 116, 117 
+propanolol 
+Bawang putih 
+Interaksi Negatif 118, 119 
+Simvastatin 
+Kayu manis 
+Interaksi Negatif 89, 120 
+Glimepirid, Metformin 
+Mengkudu 
+Interaksi Negatif 89, 121 
+Captopril 
+Mengkudu 
+Interaksi Negatif 122, 123 
+Omeprazole 
+Kunyit 
+Tidak ada Interaksi 89, 124 
+Flutamol, Eltazon 
+Jahe 
+Tidak ada Interaksi 
+Metformin 
+Salam 
+Tidak ada Interaksi 
+Letrozole 
+Sirsak 
+Tidak ada Interaksi 
+Ambroxol 
+Labu parang 
+Tidak ada Interaksi 
+Actifed 
+Jeruk nipis 
+Tidak ada Interaksi 
+Asam Fenamat 
+Jahe 
+Tidak ada Interaksi 
+Dexa, Grantusif, OBH 
+Jahe 
+Tidak ada Interaksi 
+Komix 
+Jahe 
+Tidak ada Interaksi 
+Feminax 
+Kunyit 
+Tidak ada Interaksi 
+Metformin 
+Sirih 
+Tidak ada Interaksi 
+Amoxilin 
+Sirih 
+Tidak ada Interaksi 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+56 
+ 
+Ambroxol 
+Temulawak 
+Tidak ada Interaksi 
+OBH 
+Jahe 
+Tidak ada Interaksi 
+Neurobion, Sangobion 
+Kunyit 
+Tidak ada Interaksi 
+Amoxilin 
+Jahe 
+Tidak ada Interaksi 
+Intunal 
+Jahe 
+Tidak ada Interaksi 
+Harnal 
+Labu parang 
+Tidak ada Interaksi 
+Promaag 
+Kunyit 
+Tidak ada Interaksi 
+Gabadepin 
+Jahe 
+Tidak ada Interaksi 
+Laserin 
+Jahe 
+Tidak ada Interaksi 
+Doprizol, Lansoprazol 
+Kunyit 
+Tidak ada Interaksi 
+Amlodipin 
+Rimbang 
+Tidak ada Interaksi 
+Antibiotik 
+Cacing tanah 
+Tidak ada Interaksi 
+Antibiotik 
+Kencur 
+Tidak ada Interaksi 
+Lexacrol 
+Kunyit 
+Tidak ada Interaksi 
+          Keterangan: Nomor yang tercantum pada kolom interaksi adalah rujukan yang didapatkan. 
+ 
+             
+Berdasarkan Tabel 10, dari pencarian 
+pada hasil literatur yang ada didapatkan hasil 
+adanya interaksi positif antar kombinasi obat 
+herbal-konvensional 
+sebanyak 
+7 
+orang 
+(13.5%), interaksi negatif sebanyak 5 orang 
+(18.9%), dan tidak ada interaksi ataupun belum 
+diketahui interaksinya sebanyak 25 orang 
+(67.6%). Interaksi yang terjadi tidak ditanyakan 
+dikuesioner, dikarenakan setiap orang memiliki 
+persepsi yang berbeda sehingga interaksi yang 
+terjadi tidak bisa dibuktikan hanya dengan 
+pertanyaan pada kuesioner. 
+Interaksi 
+Obat 
+Herbal 
+Dengan 
+Obat 
+Konvensional 
+Interaksi Positif 
+ 
+1. Jahe-Metformin 
+Dikutip dari jurnal Interactions between 
+antidiabetic drugs and herbs: an overview of 
+mechanisms of action and clinical implications, 
+didapatkan 
+adanya 
+interaksi 
+positif 
+dari 
+penggunaan 
+kombinasi 
+jahe 
+dengan 
+metformin. Dari penelitian yang dilakukan, 
+didapatkan Jahe mengurangi hiperglikemia dan 
+memperbaiki 
+disfungsi 
+ginjal 
+pada 
+tikus 
+diabetes 
+dengan 
+dosis 
+metformin 
+yang 
+dikurangi. Kombinasi metformin dan jus jahe 
+memperbaiki nefrotoksisitas gentamisin. jahe 
+telah terbukti memiliki efek perlindungan ginjal 
+bila digunakan dengan metformin.107 
+Hal ini sejalan dengan penelitian yang 
+dilakukan oleh Mahmoud (2013) dimana jahe 
+memili 
+efek 
+perlindungan 
+ginjal 
+apabila 
+dikombinasikan dengan metformin.108 
+ 
+2. Bawang Putih-Metformin 
+Dikutip dari jurnal Interactions between 
+antidiabetic drugs and herbs: an overview of 
+mechanisms of action and clinical implications, 
+didapatkan 
+adanya 
+interaksi 
+positif 
+dari 
+penggunaan kombinasi bawang putih dengan 
+metformin. Ditemukan bahwa bawang putih 
+meningkatkan Cmx (kadar maksimum yang 
+dapat dicapai obat pada plasma) dan Area 
+under curve (menunjukkan jumlah obat didlm 
+plasma) metformin. terapi kombinasi lebih 
+efektif dalam menurunkan kadar glukosa 
+darah, menyoroti bahwa ekstrak bawang putih 
+mempotensiasi efek hipoglikemik metformin.109 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+57 
+ 
+Hal ini sesuai dengan penelitian yang 
+dilakukan Shika (2011), didapatkan terapi 
+kombinasi eksperimental antara jahe dengan 
+metformin memiliki efek pengurangan yang 
+lebih baik pada kadar glukosa darah.110 
+ 
+3. Jahe-Paracetamol 
+Dikutip 
+dari 
+jurnal 
+Ginger 
+(Zingiber 
+officinale) potentiate paracetamol induced 
+chronic hepatotoxicity in Rats, didapatkan 
+adanya interaksi positif dari penggunaan jahe 
+dengan 
+paracetamol. 
+Paracetamol 
+dapat 
+menyebabkan 
+toksisitas 
+hati 
+sebagai 
+ditunjukkan 
+dengan 
+peningkatan 
+aktivitas 
+enzimatik hati serum, penurunan albumin dan 
+peningkatan fraksi globulin, induksi stres 
+oksidatif dan penipisan antioksidan. Dari hasil 
+penelitian yang pernah dilakukan, jahe dapat 
+menurunkan efek toksik paracetamol pada hati 
+menunjukkan adanya interaksi antara mereka. 
+Studi eksperimental lebih lanjut diperlukan 
+untuk jelaskan interaksi tersebut.111 
+Dari penelitian Abdel-Azeem (2013) telah 
+melaporkan 
+bahwa 
+jahe 
+efektif 
+dalam 
+mengurangi hepatotoksisitas yang diinduksi 
+oleh paracetamol. Pemeriksaan histopatologi 
+menunjukkan bahwa jika dibandingkan dengan 
+kelompok pemberian paracetamol saja, hewan 
+yang 
+diobati 
+dengan 
+jahe 
+mengalami 
+penurunan tingkat nekrosis dan vakuolisasi sel 
+yang menunjukkan efek menguntungkan.11e 
+ 
+4. Madu-Paracetamol 
+Dikutip dari jurnal Potential Protective 
+Effect of Honey Against Paracetamol-induced 
+Hepatotoxicity, didapatkan adanya interaksi 
+positif dari penggunaan kombinasi madu-
+paracetamol. Dikutip dari hasil penelitian yang 
+pernah dilakukan, perawatan awal dengan 
+madu dan silymarin sebelum pemberian 
+parasetamol 
+secara 
+signifikan 
+mencegah 
+peningkatan kadar serum penanda enzim hati, 
+dan mengurangi stres oksidatif dan sitokin 
+inflamasi. Evaluasi histopatologi hati juga 
+mengungkapkan bahwa madu mengurangi 
+kejadian lesi hati akibat parasetamol. Madu 
+dapat digunakan sebagai agen hepatoprotektif 
+yang efektif melawan kerusakan hati akibat 
+paracetamol. Hal ini sesuai dengan penelitin Ali 
+(2010) dimana penggunaan madu dapat 
+meminimalkan efek toksik di hati yang dapat 
+disebabkan oleh paracetamol.113 
+ 
+5. Daun Kelor-Metformin 
+Dikutip dari pada jurnal Effect of moringa 
+oleifera with and without metformin on an 
+experimental model of metabolic syndrome in 
+rats, didapatkan adanya interaksi positif dari 
+penggunaan kombinasi daun kelor dengan 
+metformin. dalam penelitian yang pernah 
+dilakukan, menunjukkan bahwa penambahan 
+daun 
+kelor 
+ke 
+metformin 
+menghasilkan 
+peningkatan yang signifikan pada parameter 
+sindroma metabolik. Namun, penelitian lebih 
+lanjut diperlukan untuk menyelidiki bahan aktif 
+zat herbal ini yang bertanggung jawab atas efek 
+menguntungkannya 
+dan 
+kemungkinan 
+mekanisme yang mendasari efek ini. Selain itu, 
+dapat disarankan agar daun kelor dapat 
+digunakan sebagai suplemen herbal selain 
+metformin 
+pada 
+subjek 
+dengan 
+sindrom 
+metabolik, 
+dengan 
+mempertimbangkan 
+kekurangan terapi yang secara langsung 
+mengatasi epidemi sindrom metabolik yang 
+berkembang.114 
+Pada penelitian lain yang dilakukan Lisa 
+(2020), ekstrak metformin dan moringa oleifera 
+(daun 
+kelor) 
+menunjukkan 
+penurunan 
+ketebalan yang signifikan pada sel teka pada 
+pasien polycystic ovary syndrome (PCOS).115 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+58 
+ 
+ 
+Interaksi Negatif 
+1. Jahe-Metronidazole 
+Dikutip dari jurnal Herb-Drug Interaction: A 
+Case Study of Effect of Ginger on the 
+Pharmacokinetic of Metronidazole in Rabbit, 
+didapatkan adanya interaksi negatif dari 
+penggunaan 
+kombinasi 
+jahe 
+dengan 
+metronidazole. Dari hasil penelitian, jahe dapat 
+menyebabkan peningkatan bioavailabilitas dan 
+waktu paruh, dan penurunan konstanta laju 
+pembersihan dan eliminasi metronidazol per 
+oral. Hal ini dapat menimbulkan implikasi 
+negatif dalam praktek klinis karena toksisitas 
+metronidazol dapat dengan mudah dicapai 
+terutama selama pemberian dosis ganda 
+karena kemungkinan akumulasi obat.116 
+Jahe dikenal dapat meningkatkan sirkulasi 
+darah 
+dan 
+bioavailabilitas. 
+Dalam 
+suatu 
+penelitian jika jahe diformulasikan bersamaan 
+dengan metronidazole akan memiliki efek 
+spasmolitik dan menyebab relaksasi otot polos. 
+Sehingga terjadi penurunan pengosongan 
+lambung, 
+motilitas 
+gastrointestinal 
+dan 
+peningkatan 
+sirkulasi 
+darah 
+ke 
+saluran 
+gastrointestinal.117 
+ 
+2. Bawang putih-Propanolol 
+Dikutip dari jurnal Pharmacodynamic and 
+Pharmacokinetic Interactions of Propranolol 
+with Garlic in Rats, didapatkan adanya interaksi 
+positif dan negatif dari penggunaan kombinasi 
+bawang 
+dengan 
+propranolol. 
+Hasil 
+dari 
+penelitian mengungkapkan bahwa bawang 
+putih dapat meningkatkan bioavailabilitas dan 
+waktu paruh seiring dengan penurunan klirens 
+dan konstanta laju eliminasi propanolol bila 
+dikonsumsi 
+secara 
+oral. 
+Hal 
+ini 
+dapat 
+menimbulkan implikasi negatif dalam praktek 
+klinis karena toksisitas propanolol dapat 
+dengan mudah dicapai terutama selama 
+pemberian dosis ganda karena kemungkinan 
+akumulasi obat. Namun, penambahan bawang 
+putih secara hati-hati dalam dosis sedang 
+dapat menghasilkan efek menguntungkan 
+selama pengobatan hipertensi pada hewan 
+dengan stres miokard. Oleh karena itu, 
+penelitian lebih lanjut harus dilakukan untuk 
+menentukan pengaruh konstituen aktif tertentu 
+dari bawang bila dikombinasikan dengan 
+propanolol pada hewan yang mengalami 
+hipertensi dan kerusakan miokard.118 
+Pada penelitian lain yang dilakukan oleh 
+Asdaq (2010) didapatkan efek sinergis dari 
+kombinasi bawang putih dengan propranolol 
+dengan pemberian dosis yang rendah.119 
+ 
+3. Kayu Manis-Simvastatin 
+Didapatkan adanya interaksi negatif dari 
+penggunaan kombinasi kayu manis dengan 
+simvastatin. Mengkonsumsi kayu manis dalam 
+dosis yang sangat besar dapat membahayakan 
+hati, terutama pada penderita penyakit hati. 
+Mengkonsumsi kayu manis dalam jumlah besar 
+bersama dengan obat-obatan yang mungkin 
+juga membahayakan hati dapat meningkatkan 
+risiko 
+kerusakan 
+hati.120 
+Dikutip 
+dari 
+formularium obat herbal asli Indonesia (2017), 
+didapatkan 
+bahwa 
+kayu 
+manis 
+memiliki 
+kandungan 
+coumarin 
+yang 
+dapat 
+membahayakan 
+hati.89 
+Sehingga 
+jika 
+dikombinasikan 
+dengan 
+obat 
+seperti 
+simvastatin 
+dapat 
+meningkatkan 
+risiko 
+kerusakan hati. 
+ 
+4. Mengkudu-Glimepirid, Metformin, Captopril 
+Dikutip dari Formularium Ramuan Obat 
+Tradisional Indonesia tahun 2017 didapatkan 
+adanya interaksi negatif dari penggunaan 
+kombinasi mengkudu dengan obat antidiabetes 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+59 
+ 
+(glimepiride dan metformin) dan captopril. 
+Interaksi negatif pada kombinasi mengkudu 
+dengan obat antidiabetes, dimana hal ini dapat 
+menyebabkan hipoglikemia dan hipotensi. 
+Dikarenakan 
+terapi 
+kombinasi 
+ini 
+dapat 
+menurunkan kadar glukosa darah dan kalium 
+darah. Dapat juga menyebabkan warna urin 
+menjadi 
+merah 
+muda 
+sampai 
+merah 
+kecoklatan.89 Pada penelitian Kumar (2007), 
+jus mengkudu yang difermentasi digunakan 
+untuk menyelidiki aktivitas hipoglikemik pada 
+tikus yang diinduksi diabetes. Didapatkan 
+penurunan glukosa puasa yang sifnifikan. 
+Sehingga pemberian bersamaan dengan obat 
+antidiabetes 
+dapat 
+menyebabkan 
+hipoglikemia.121 
+Dari 
+kombinasi 
+mengkudu 
+dengan 
+captopril. Dikutip dari penelitian Kumar, dkk 
+(2010), 
+menyatakan 
+bahwa 
+senyawa 
+skopoletin dalam mengkudu merupakan zat 
+aktif yang bersifat antioksidan dan dapat 
+membantu menurunkan tekanan darah melalui 
+efek vasodilatasi sama halnya seperti obat 
+golongan ACE inhibitor (captopril).122 Beberapa 
+obat untuk tekanan darah tinggi seperti 
+captopril dapat meningkatkan kadar kalium 
+dalam darah. Mengkonsumsi jus mengkudu 
+dengan captopril dapat menyebabkan terlalu 
+banyak kalium dalam darah.1 
+ 
+Tidak Ada Interaksi 
+1. Kunyit-Omeprazole 
+Dikutip dari jurnal Combination of Curcuma 
+Longa and Omeprazole in the Treatment of 
+Peptic-Ulcer Disease and H. pylori Eradication 
+in Comparison to the Triple Therapy: A 
+Controlled Clinical Trial, didapatkan tidak 
+adanya interaksi dari penggunaan kombinasi 
+kunyit 
+dengan 
+omeprazole. 
+Dari 
+suatu 
+penelitian didapatkan Kombinasi Curcuma 
+longa 
+andomeprazole 
+tidak 
+menunjukkan 
+perbedaan efek penyembuhan ulkus peptikum 
+dibandingkan dengan terapi standar.124 Dikutip 
+dari formularium obat herbal asli Indonesia, 
+tidak ada interaksi antara kombinasi pemberian 
+kunyit dengan omeprazole.89 
+Untuk kombinasi obat herbal dengan 
+konvensional lainnya tidak didapatkan interaksi 
+ataupun interaksi belum diketahui. Oleh karena 
+itu dibutuhkan penelitian lebih lanjut untuk 
+menyelidiki apakah bahan aktif zat herbal 
+tertentu 
+dapat 
+menimbulkan 
+efek 
+menguntungkan/merugikan 
+atau 
+tidak 
+menimbulkan 
+efek 
+sama 
+sekali 
+setelah 
+dikombinasikan dengan obat konvensional. 
+ 
+KESIMPULAN 
+Berdasarkan dari hasil penelitian dan 
+pembahasan pada penelitian ini mengenai 
+Analisis Penggunaan Obat Herbal dan Studi 
+Literatur 
+Interaksinya 
+Terhadap 
+Obat 
+Konvensional Di Indonesia Tahun 2020, dapat 
+disimpulkan sebagai berikut: 
+1. Jenis obat herbal yang banyak digunakan 
+yaitu jahe. 
+2. Karakteristik responden sebagian besar 
+berusia 18-45 tahun, perempuan, tinggal di 
+perkotaan, tamat SMA, berpendapatan 
+tinggi (lebih dari Rp 2.500.000 per bulan), 
+jenis gejala penyakit atau keluhan yang 
+mendasari penggunaan obat herbal yaitu 
+sakit tenggorokan, sediaan obat herbal yang 
+banyak digunakan yaitu rajangan, dan 
+alasan penggunaan obat herbal paling 
+banyak yaitu karena efek samping yang 
+relatif kecil. 
+3. Mayoritas responden merasakan khasiat dan 
+tidak 
+merasakan 
+efek 
+samping 
+dari 
+penggunaan obat herbal. 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+60 
+ 
+4. Mayoritas pengguna obat herbal tidak 
+mengkombinasikannya 
+dengan 
+obat 
+konvensional.  
+5. Pencarian pada beberapa hasil literatur, 
+mayoritas pengguna kombinasi obat herbal 
+dengan obat konvensional didapatkan tidak 
+ada interaksi yang terjadi. 
+ 
+ 
+REFERENSI 
+1. 
+BPOM. Peraturan Kepala Badan Pengawas Obat dan Makanan Republik Indonesia Nomor 12 Tahun 2014: 
+Persyaratan Mutu Obat Tradisional. Bpom; 2014. 
+2. 
+Parwata IM. Bahan Ajar: Diktat Obat Tradisional. Bali: Fakultas Matematika dan Ilmu Pengetahuan Alam. 
+Universitas Udayana; 2016. 
+3. 
+Wulandari Z, Ugiarto M, Hairah U. Sistem informasi obat-obatan herbal. Inf Manag Educ Prof. 2017. 
+4. 
+Ernst E. Herbal remedies for depression and anxiety. Advances in Psychiatric Treatment. Cambridge 
+University Press; 2007. 13(4): 312-6. 
+5. 
+RA. Marlena, Sugiart M. Obat Herbal Tradisional. War Ekspor. 2014. 
+6. 
+BPS RI. Persentase Penduduk Yang Mempunyai Keluhan Kesehatan dan Penggunaan Obat Menurut Provinsi 
+dan Jenis Kelamin [internet]. Badan Pusat Statistik; 2009 [cited 4 April 2020]. Available from: 
+https://www.bps.go.id/statictable/2012/05/02/1619/persentase-penduduk-yang-mempunyai-keluhan-
+kesehatan-dan-penggunaan-obat-menurut-provinsi-dan-jenis-kelamin-2009-2014.html 
+7. 
+Ghodse H. Herbal medicines. International Psychiatry. Cambridge University Press; 2019. 93(5): 529-32. 
+8. 
+Putri YK, Rusdiana T. Perbandingan Berbagai Interaksi Obat Dengan Herbal: Article Review. Farmaka. 2016. 
+9. 
+Williamson, Eliazabeth., Driver, Samuel., Baxter, Karen. Stockley’s: Herbal Medicines Interactiones. 
+Pharmaceutical Press; London. 2009. 
+10. Rahman A. O. Herlambang H. Simanjuntak C. A. Dewi H. Syauqy A. Lipinwati L. The High Dose Toxicity Of 
+Betel Nut (Areca catechu L.) On Reproduction Organ Of Rats [Internet]. JMJ; 2019. 7(1): 41-9 [cited 27 April 
+2020]. Available from: https://online-journal.unja.ac.id/kedokteran/article/view/7059 
+11. Gohil KJ, Patel JA. Herb-drug interactions: A review and study based on assessment of clinical case reports 
+in literature. Indian Journal of Pharmacology; 2007. 39(3): 129-139. 
+12. Kementrian Kesehatan RI. Permenkes RI Nomor 6 Tahun 2016 Tentang Formularium Obat Herbal Asli 
+Indonesia. IOSR Journal of Economics and Finance. 2016. 
+13. Dewi RS, Aryani F, Pratiwi E, Agustini TT. Persepsi Masyarakat Mengenai Obat Tradisional di Kecamatan 
+Tampan Kota Pekanbaru. Penelit Farmasi Indonesia. 2019. 
+14. Oktarlina RZ, Tarigan A, Carolia N, Utami ER. Hubungan Pengetahuan Keluarga dengan Penggunaan Obat 
+Tradisional di Desa Nunggalrejo Kecamatan Punggur Kabupaten Lampung Tengah. JK Unila. 2018. 
+15. Supardi S, Susyanty A. Penggunaan Obat Tradisional Dalam Upaya Pengobatan Sendiri Di Indonesia. Pus 
+Penelitian, Pengemb Sist dan Kebijak Kesehat Jakarta. 2010. 
+16. Widiarti A, Bachri AA, Husaini H. Analisis Pengaruh Faktor Perilaku Terhadap Pemanfaatan Kearifan Lokal 
+Sebagai Obat Tradisional Oleh Masyarakat di Kota Palangka Raya. J Berk Kesehat. 2016; 
+17. Sulfiyana H. Ambo Lau; Herman; Rahmat M.; Studi Perbandingan Tingkat Pengetahuan Masyarakat Tentang 
+Obat Herbal Dan Obat Sintetik Di Campagayya Kelurahan Panaikang Kota Makassar. J Farm Sandi Karsa. 
+2019; Wardana. Penggunaan obat tradisional sebagai alternatif pengobatan pada masyarakat di kabupaten 
+Sleman. Skripsi, Fakultas Farmasi, Universitas Ahmad Dahlan, Yogyakarta. 2008. 
+18. Purnamaningrum. Faktor-faktor yang berhubungan dengan perilaku masyarakat untuk mendapatkan 
+pelayanan Kesehatan mata. Skripsi, Universitas Diponegoro. 2010. 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+61 
+ 
+19. Maryani H, Kristiana L, Lestari W. Faktor Dalam Pengambilan Keputusan Pembelian Jamu Saintifik. Bul 
+Penelit Sist Kesehat. 2017. 
+20. Ismail I. Faktor Yang Mempengaruhi Keputusan Masyarakat Memilih Obat  Tradisional Di Gampong Lam 
+Ujong. Idea Nurs J. 2015. 
+21. Kusuma TM, Wulandari E, Widiyanto T, Kartika D. Hubungan Tingkat Pengetahuan dan Sikap terhadap 
+Kebiasaan Konsumsi Jamu pada Mayarakat Magelang Tahun 2019. Pharmacon J Farm Indones. 2020. 
+22. Jennifer H, Saptutyningsih E. Preferensi Individu Terhadap Pengobatan Tradisional di Indonesia. J Ekon dan 
+Stud Pembang. 2015; 
+23. Muwahid. Pola pemilihan dan penggunaan jamu kemasan di kalangan pekerja seks komersial di lokalisasi 
+Dolly, Surabaya. Fakultas Farmasi, Universitas UBAYA. 2006. 
+24. Ismiyana, F. Gambaran Penggunaan obat Tradisional Untuk pengobatan sendiripada masyarakat di desa 
+jimus polanharjo klaten. Skripsi. Fakultas farmasi Universitas Muhammadiyah Surakarta. 2013. 
+25. Merdekawati. Gambaran dan tingkat pengetahuan penggunaan obat tradisional sebagai alternatif pengobatan 
+pada masyarakat RW 005 Desa sindurjan, Kecamatan purworejo. Naskah Publikasi skripsi. Universitas 
+Muhammadiyah, Yogyakarta. 2016. 
+26. Sari Dewi R, Wahyuni N, Pratiwi E, Muharni S. Penggunaan Obat Tradisional Oleh Masyarakat Di Kelurahan 
+Tuah Karya Kota Pekanbaru. J Penelitian Farmasi Indonesia 8(1), Sept 2019. 2019. 
+27. Triratnawati A. Pengobatan Tradisional, Upaya Meminimalkan Biaya Kesehatan Masyarakat Desa di Jawa. J 
+Manaj Pelayanan Kesehat. 2010; 
+28. Gusmira S. Evaluasi Penggunaan Antihipertensi Konvensional dan Kombinasi Konvensional-Bahan Alam 
+Pada Pasien Hipertensi Di Puskesmas Wilayah Depok. Makara, Kesehatan, Vol. 16, NO 2, Desember 201277-
+83. 2012. 
+29. Gupta RC, Chang D, Nammi S, Bensoussan A, Bilinski K, Roufogalis BD. Interactions between antidiabetic 
+drugs and herbs: An overview of mechanisms of action and clinical implications. Diabetology and Metabolic 
+Syndrome. 2017. 
+30. Rafieian-Kopaei M, Nasri H. Ginger and diabetic nephropathy. Journal of Renal Injury Preventions. 2013. 
+31. Lebda MA, Taha NM, Korshom MA, Mandour AEWA, Goda RI. Ginger (Zingiber Officinale) Potentiate 
+paracetamol induced chronic hepatotoxicity in rats. Int J Toxicol Pharmacol Res. 2013. 
+32. Chourey S, Narsinghani T, Soni LK. Effect of Allium sativum on the pharmacokinetic of Metformin in rat plasma: 
+A herb-drug interaction study. Der Pharma Chem. 2011. 
+33. Galal RM, Zaki HF, El-Nasr MMS, Agha AM. Potential protective effect of honey against paracetamol-induced 
+hepatotoxicity. Arch Iran Med. 2012. 
+34. Abdel-Azeem AS, Hegazy AM, Ibrahim KS, Farrag ARH, El-Sayed EM. Hepatoprotective, antioxidant, and 
+ameliorative effects of ginger (zingiber officinale roscoe) and vitamin e in acetaminophen treated rats. J Diet 
+Suppl. 2013. 
+35. Okonta J, Uboh M, Obonga W. Herb-drug interaction: A case study of effect of ginger on the pharmacokinetic 
+of metronidazole in rabbit. Indian J Pharm Sci. 2008. 
+36. Shati AA, Alamri SA. Role of saffron (Crocus sativus L.) and honey syrup on aluminum-induced hepatotoxicity. 
+Saudi Med J. 2010. 
+37. Daba M-H, Elmasry A, El-Karef AA. Effect of moringa oleifera with and without metformin on an experimental 
+model of metabolic syndrome in rats. Int J Adv Res. 2015. 
+38. Wulandari, L. P. Hapsari, A. The effect of moringa oleifera leaf extract on theca cell in polycystic ovary 
+syndrome model with insulin resistance. 2020. 
+39. Okonta J, Uboh M, Obonga W. Herb-drug interaction: A case study of effect of ginger on the pharmacokinetic 
+of metronidazole in rabbit. Indian J Pharm Sci. 2008. 
+
+JOMS, Volume 1, Nomor 1, 2021  
+Muhammad Hafizh Pane, dkk. Gambaran Penggunaan… 
+62 
+ 
+40. Asdaq SMB, Inamdar MN. Pharmacodynamic and pharmacokinetic interactions of propranolol with garlic 
+(Allium sativum) in rats. Evidence-based Complement Altern Med. 2011. 
+41. Webmd.com. Cassia Cinnamon: Uses, Side Effects, Interactions, Dosage, and Warning [Internet]. Diakses 
+dari: https://www.webmd.com/vitamins/ai/ingredientmono-1002/cassia-cinnamon 
+42. Asdaq SM, Inamdar MN, Asad M. Pharmacodynamic interaction of garlic with propranolol in ischemia-
+reperfusion induced myocardial damage. Pak J Pharm Sci. 2010; 23:42-47. 
+43. Webmd.com. Cassia Cinnamon: Uses, Side Effects, Interactions, Dosage, and Warning [Internet]. Diakses 
+dari: https://www.webmd.com/vitamins/ai/ingredientmono-1002/cassia-cinnamon 
+44. Kumar GS. The effect of Noni (Morinda citrifolia L.) in type 2 diabetes mellitus in inadequately controlled 
+patients. Noni Cli Res J. 1(1-2):20-4. 2007. 
+45. Kumar, N., Misra, P., Dube, A., Bhattacharya, S., Dikshit, M., and Ranade, S. Piper Betel Linn. A Maligned 
+Pan-Asiatic Plant with an Array of Pharmacological Activities and Prospects for Drug Discovery. Current 
+Science 99(7):922-932. 2010. 
+46. Palu AK, Santiago RA, West BJ, Kaluhiokalani N, Jensen J. The effects of Morinda citrifolia L. Noni on high 
+blood pressure: A mechanistic investigation and case study. In: ACS Symposium Series. 2008. 
+47. Phisitt Vejakama, Piyathida Thongrong, Chuleekorn Larvongkerd, Theerayuth Juntharaj, et. al. Combination 
+of Curcuma Longa and Omeprazole in the Treatment of Peptic-Ulcer Disease and H. pylori Eradication in 
+Comparison to the Triple Therapy: A Controlled Clinical Trial. Bundarik Hosipital, Bundarik district, 
+Ubonrajathanee province. 2008. 
