@@ -1,92 +1,79 @@
-"""CLI app: build index, run query, show ranking + summaries."""
-
 from __future__ import annotations
+import argparse, os, json
 
-import argparse
-import os
-import json
-
+from .loaders import load_txt_dir
 from .preprocessing import preprocess
-from .indexing import build_inverted_index, save_index, load_index, compute_idf
+from .feature_selection import select_features_df
+from .indexing import build_inverted_index, compute_idf, save_index, load_index
 from .retrieval import TfidfModel, build_doc_vectors, build_query_vector, retrieve
 from .summarization import summarize_extractive
 
-def load_documents(data_dir: str) -> dict:
-    docs = {}
-    for fn in sorted(os.listdir(data_dir)):
-        if not fn.lower().endswith(".txt"):
-            continue
-        doc_id = fn
-        with open(os.path.join(data_dir, fn), "r", encoding="utf-8") as f:
-            docs[doc_id] = f.read()
-    return docs
+ART_DIR = "artifacts"
+INDEX_PATH = os.path.join(ART_DIR, "index.json")
+IDF_PATH = os.path.join(ART_DIR, "idf.json")
+FEATURES_PATH = os.path.join(ART_DIR, "selected_features.json")
 
-def cmd_build(args: argparse.Namespace) -> None:
-    docs = load_documents(args.data_dir)
-    if not docs:
-        raise SystemExit(f"No .txt files found in {args.data_dir}")
-
+def cmd_build(args):
+    os.makedirs(ART_DIR, exist_ok=True)
+    docs = load_txt_dir(args.data_dir)
     doc_tokens = {doc_id: preprocess(text) for doc_id, text in docs.items()}
-    index = build_inverted_index(doc_tokens)
-    save_index(index, args.index_path)
+
+    selected_terms, fs_report = select_features_df(doc_tokens, min_df=2, max_df_ratio=0.85, top_n=8000)
+    with open(FEATURES_PATH, "w", encoding="utf-8") as f:
+        json.dump({"selected_terms": sorted(selected_terms), "report": fs_report}, f, ensure_ascii=False)
+
+    index = build_inverted_index(doc_tokens, allowed_terms=selected_terms)
+    save_index(index, INDEX_PATH)
 
     idf = compute_idf(index, smooth=True)
-    with open(args.idf_path, "w", encoding="utf-8") as f:
+    with open(IDF_PATH, "w", encoding="utf-8") as f:
         json.dump(idf, f, ensure_ascii=False)
 
-    print(f"Built index for N={index.N} documents") 
-    print(f"Saved index: {args.index_path}")
-    print(f"Saved idf:   {args.idf_path}")
+    print(f"Built index for N={len(docs)} documents")
+    print(f"Selected features: {fs_report.get('selected')} (from vocab {fs_report.get('vocab')})")
+    print(f"Saved: {INDEX_PATH}, {IDF_PATH}, {FEATURES_PATH}")
 
-def cmd_query(args: argparse.Namespace) -> None:
-    docs = load_documents(args.data_dir)
-    index = load_index(args.index_path)
-    with open(args.idf_path, "r", encoding="utf-8") as f:
+def cmd_query(args):
+    with open(IDF_PATH, "r", encoding="utf-8") as f:
         idf = {k: float(v) for k, v in json.load(f).items()}
-
+    index = load_index(INDEX_PATH)
     model = TfidfModel(idf=idf)
-    # Build doc vectors once for querying session
-    doc_tokens = {doc_id: preprocess(text) for doc_id, text in docs.items()}
     doc_vecs = build_doc_vectors(index, model)
 
     q_terms = preprocess(args.query)
     q_vec = build_query_vector(q_terms, model)
     ranked = retrieve(q_vec, index, doc_vecs, top_k=args.top_k)
 
-    if not ranked:
-        print("No results.")
-        return
-
     print(f"Query: {args.query}")
-    print("\nResults:")
-    for rank, (doc_id, score) in enumerate(ranked, start=1):
-        summary = summarize_extractive(docs[doc_id], idf=idf, num_sentences=args.summary_sentences)
-        print(f"{rank:>2}) {doc_id}   score={score:.4f}")
-        if summary:
-            # print(f"    summary: {summary}")
-            print("")
+    for i, (doc_id, score) in enumerate(ranked, 1):
+        print(f"{i:2d}) {doc_id}  score={score:.4f}")
+        if args.summary:
+            # summary needs raw text; load doc text (txt only for CLI)
+            path = os.path.join(args.data_dir, doc_id)
+            try:
+                with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                    text = f.read()
+                summ = summarize_extractive(text, idf=idf, num_sentences=2, max_chars=280)
+                print(f"    summary: {summ}")
+            except Exception:
+                pass
 
 def main():
-    p = argparse.ArgumentParser(description="Simple Indonesian IR System (TF-IDF + cosine) with Porter(ID) stemming.")
+    p = argparse.ArgumentParser()
     sub = p.add_subparsers(dest="cmd", required=True)
 
-    p_build = sub.add_parser("build", help="Build inverted index + idf")
-    p_build.add_argument("--data-dir", default="data/raw_txt", help="Directory with .txt documents")
-    p_build.add_argument("--index-path", default="artifacts/index.json", help="Path to save index JSON")
-    p_build.add_argument("--idf-path", default="artifacts/idf.json", help="Path to save idf JSON")
-    p_build.set_defaults(func=cmd_build)
+    b = sub.add_parser("build")
+    b.add_argument("--data-dir", required=True)
+    b.set_defaults(func=cmd_build)
 
-    p_query = sub.add_parser("query", help="Run a query and print ranking + summaries")
-    p_query.add_argument("--data-dir", default="data/raw_txt", help="Directory with .txt documents")
-    p_query.add_argument("--index-path", default="artifacts/index.json", help="Path to index JSON")
-    p_query.add_argument("--idf-path", default="artifacts/idf.json", help="Path to idf JSON")
-    p_query.add_argument("--query", required=True, help="Query string")
-    p_query.add_argument("--top-k", type=int, default=10)
-    p_query.add_argument("--summary-sentences", type=int, default=2)
-    p_query.set_defaults(func=cmd_query)
+    q = sub.add_parser("query")
+    q.add_argument("--data-dir", required=True)
+    q.add_argument("--query", required=True)
+    q.add_argument("--top-k", type=int, default=10)
+    q.add_argument("--summary", action="store_true")
+    q.set_defaults(func=cmd_query)
 
     args = p.parse_args()
-    os.makedirs("artifacts", exist_ok=True)
     args.func(args)
 
 if __name__ == "__main__":

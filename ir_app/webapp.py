@@ -1,6 +1,7 @@
 from __future__ import annotations
 import os, json, re
 from typing import Dict, List
+
 from fastapi import FastAPI, Request, Form, UploadFile, File
 from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
@@ -8,6 +9,7 @@ from fastapi.templating import Jinja2Templates
 
 from src.loaders import load_corpus
 from src.preprocessing import preprocess
+from src.feature_selection import select_features_df
 from src.indexing import build_inverted_index, compute_idf, save_index, load_index
 from src.retrieval import TfidfModel, build_doc_vectors, build_query_vector, retrieve
 from src.summarization import summarize_extractive
@@ -20,6 +22,11 @@ INGESTED_TXT_DIR = os.path.join(DATA_DIR, "ingested_from_pdf")
 ART_DIR = os.path.join(BASE_DIR, "artifacts")
 INDEX_PATH = os.path.join(ART_DIR, "index.json")
 IDF_PATH = os.path.join(ART_DIR, "idf.json")
+FEATURES_PATH = os.path.join(ART_DIR, "selected_features.json")
+
+SELECT_MIN_DF = 2
+SELECT_MAX_DF_RATIO = 0.85
+SELECT_TOP_N = 8000
 
 os.makedirs(ART_DIR, exist_ok=True)
 os.makedirs(TXT_DIR, exist_ok=True)
@@ -35,9 +42,10 @@ INDEX = None
 IDF: Dict[str, float] = {}
 MODEL = None
 DOC_VECS = None
+FS_REPORT = None
 
 def _load_artifacts_if_exist() -> bool:
-    global DOCS, INDEX, IDF, MODEL, DOC_VECS
+    global DOCS, INDEX, IDF, MODEL, DOC_VECS, FS_REPORT
     if not os.path.exists(INDEX_PATH) or not os.path.exists(IDF_PATH):
         return False
     DOCS = load_corpus(txt_dir=TXT_DIR, pdf_dir=PDF_DIR, ingested_txt_dir=INGESTED_TXT_DIR)
@@ -46,30 +54,45 @@ def _load_artifacts_if_exist() -> bool:
         IDF = {k: float(v) for k, v in json.load(f).items()}
     MODEL = TfidfModel(idf=IDF)
     DOC_VECS = build_doc_vectors(INDEX, MODEL)
+    if os.path.exists(FEATURES_PATH):
+        try:
+            with open(FEATURES_PATH, "r", encoding="utf-8") as f:
+                FS_REPORT = json.load(f).get("report")
+        except Exception:
+            FS_REPORT = None
     return True
 
 def _rebuild_index() -> None:
-    global DOCS, INDEX, IDF, MODEL, DOC_VECS
+    global DOCS, INDEX, IDF, MODEL, DOC_VECS, FS_REPORT
     DOCS = load_corpus(txt_dir=TXT_DIR, pdf_dir=PDF_DIR, ingested_txt_dir=INGESTED_TXT_DIR)
     doc_tokens = {doc_id: preprocess(text) for doc_id, text in DOCS.items()}
-    INDEX = build_inverted_index(doc_tokens)
+
+    selected_terms, FS_REPORT = select_features_df(
+        doc_tokens, min_df=SELECT_MIN_DF, max_df_ratio=SELECT_MAX_DF_RATIO, top_n=SELECT_TOP_N
+    )
+    with open(FEATURES_PATH, "w", encoding="utf-8") as f:
+        json.dump({"selected_terms": sorted(selected_terms), "report": FS_REPORT}, f, ensure_ascii=False)
+
+    INDEX = build_inverted_index(doc_tokens, allowed_terms=selected_terms)
     save_index(INDEX, INDEX_PATH)
+
     IDF = compute_idf(INDEX, smooth=True)
     with open(IDF_PATH, "w", encoding="utf-8") as f:
         json.dump(IDF, f, ensure_ascii=False)
+
     MODEL = TfidfModel(idf=IDF)
     DOC_VECS = build_doc_vectors(INDEX, MODEL)
 
 def _make_snippet(text: str, q_terms_raw: List[str], window: int = 260) -> str:
     if not text:
         return ""
-    low = text.lower()
+    text_one = re.sub(r"\s+", " ", text).strip()
+    low = text_one.lower()
     positions = []
     for t in set(q_terms_raw):
         pos = low.find(t.lower())
         if pos != -1:
             positions.append(pos)
-    text_one = re.sub(r"\s+", " ", text).strip()
     if not positions:
         return text_one[:window] + ("..." if len(text_one) > window else "")
     start = max(0, min(positions) - window // 3)
@@ -140,7 +163,14 @@ def doc_detail(request: Request, doc_id: str, q: str = ""):
 @app.get("/admin", response_class=HTMLResponse)
 def admin(request: Request):
     has_index = os.path.exists(INDEX_PATH) and os.path.exists(IDF_PATH)
-    return templates.TemplateResponse("admin.html", {"request": request, "has_index": has_index, "doc_count": len(DOCS) if has_index else 0})
+    fs = None
+    if os.path.exists(FEATURES_PATH):
+        try:
+            with open(FEATURES_PATH, "r", encoding="utf-8") as f:
+                fs = json.load(f).get("report")
+        except Exception:
+            fs = None
+    return templates.TemplateResponse("admin.html", {"request": request, "has_index": has_index, "doc_count": len(DOCS) if has_index else 0, "fs": fs})
 
 @app.post("/admin/rebuild")
 def admin_rebuild():

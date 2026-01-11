@@ -1,4 +1,3 @@
-"""Document loaders for mixed formats (TXT, PDF)."""
 from __future__ import annotations
 import os
 from typing import Dict
@@ -8,19 +7,16 @@ def load_txt_dir(txt_dir: str) -> Dict[str, str]:
     if not os.path.isdir(txt_dir):
         return docs
     for fn in sorted(os.listdir(txt_dir)):
-        if not fn.lower().endswith(".txt"):
-            continue
-        path = os.path.join(txt_dir, fn)
-        with open(path, "r", encoding="utf-8", errors="ignore") as f:
-            docs[fn] = f.read()
+        if fn.lower().endswith(".txt"):
+            path = os.path.join(txt_dir, fn)
+            with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                docs[fn] = f.read()
     return docs
 
 def extract_text_from_pdf(pdf_path: str) -> str:
     import fitz  # PyMuPDF
     doc = fitz.open(pdf_path)
-    parts = []
-    for page in doc:
-        parts.append(page.get_text())
+    parts = [page.get_text() for page in doc]
     return "\n".join(parts)
 
 def ingest_pdf_dir(pdf_dir: str, out_txt_dir: str) -> Dict[str, str]:
