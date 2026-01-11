@@ -1,0 +1,2616 @@
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+Studi Literatur: Potensi Tanaman Herbal Indonesia sebagai 
+Imunostimulan dan Anti-stress untuk Pencegahan Covid-19 Berbasis 
+Evidence-based Analysis 
+
+Meithavia Suciady, Meiliana, Dea N. Hendryanti* 
+Program Studi Teknologi Pangan, Universitas Katolik Soegijapranata  
+*e-mail korespondensi: deanathania@unika.ac.id 
+
+Abstrak 
+
+World  Health  Organization  telah  mendeklarasikan  COVID-19  sebagai  pandemi  global.  Strategi 
+peningkatan  sistem  imunitas  guna  mencegah  infeksi  virus  SARS-CoV-2  perlu  mempertimbangkan 
+aspek fisiologi serta kesehatan mental. Di samping itu, berbagai komponen aktif  polar pada tanaman 
+herbal Indonesia memiliki potensi sebagai imunostimulan maupun anti-stress yang dapat dimanfaatkan 
+sebagai  pangan  fungsional.  Studi  literatur  ini  bertujuan  untuk  menganalisis  kekuatan  bukti  ilmiah 
+terkait pengaruh senyawa bioaktif pada berbagai tanaman herbal Indonesia terhadap sistem imunitas, 
+aktivitas  sitokin  dan  hormon  kortisol  untuk  menurunkan  resiko  penyakit  COVID-19.  Metode  yang 
+digunakan  adalah  review  sistematik  (PRISMA)  dan  evidence-based  analysis.  Penelitian  ini 
+menemukan  7  jenis  tanaman  herbal  Indonesia  yang  berpotensi  dalam  meningkatkan  sel  imunitas 
+(limfosit sel T CD4+, CD8+, CD25+, CD68+, limfosit sel B, NK cell), aktivitas imunoglobulin ((IL-2, 
+IL-4,  IL-6,  IL-10,  IL-12,  IL-13,  IL-1β,  TNF-α,  IFN-γ),  membantu  mengendalikan  stress  dengan 
+menekan produksi hormon kortisol  yang berlebihan  serta  memiliki fungsi sebagai anti-inflamasi dan 
+antioksidan.  
+
+Kata  kunci:  COVID-19,  senyawa  bioaktif,  sistem  imunitas,  stres  psikologis,  tanaman  herbal 
+Indonesia 
+
+Abstract 
+
+World Health Organization has declared COVID-19 as the global pandemic. Strategies to improve the 
+immune system to prevent infection  of SARS-CoV-2 virus need to consider physiological and mental 
+health aspects. Many researches have been discovered that various active components in Indonesian 
+herbal  plants  may  have  the  potential  as  immunostimulants  and  anti-stress  which  can  be  used  as 
+functional foods. This literature study aims to analyze the strength of scientific evidence related to the 
+effect  of  polar  bioactive  compounds  in  various  Indonesian  herbal  plants  on  the  immune  system, 
+cytokines activity and the cortisol hormone to decrease the COVID-19 disease risk. The method used 
+was  a  systematic  review  (PRISMA)  with  evidence-based  analysis.  This  study  found  7  types  of 
+Indonesian  herbal  plants  which  have  potential  to  increase  the  immune  system  (CD4+  T  cell 
+lymphocytes,  CD8+,  CD25+,  CD68+,  B  cell  lymphocytes,  NK  cells)  and  immunoglobulin  activity 
+(IgA, IgG, IgE, IgM), lower the activity of proinflammatory cytokines (IL-2, IL-4, IL-6, IL-10, IL-12, 
+IL-13, IL-1β, TNF-α, IFN-γ), help manage stress by suppressing the excessive secretion of cortisol and 
+has anti-inflammatory as well as antioxidant properties.  
+
+Keywords: bioactive compound, COVID-19, immune system, Indonesian herbal plants, phsycological 
+stress 
+
+90 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+PENDAHULUAN 
+
+Latar Belakang 
+
+Sejak  11  Maret  2020,  World  Health 
+Organization  menyatakan  bahwa  penyakit 
+(COVID-19) 
+Coronavirus  Disease-2019 
+yang  disebabkan  oleh  virus  SARS-CoV-2 
+yang tergolong dalam  β-coronavirus sebagai 
+pandemi.  Virus  tersebut  mulai  menyebar 
+sejak  akhir  2019  dan  hingga  Agustus  2021 
+telah  menginfeksi  lebih  dari  200  juta  jiwa 
+dengan  total  kematian  lebih  dari  4,2  juta 
+global.  COVID-19  merupakan 
+secara 
+penyakit  akut  yang  menginfeksi  saluran 
+pernapasan  manusia  dan  disebabkan  oleh 
+virus  baru  bernama  SARS-CoV-2  (Jiang  et 
+al.,  2020;  Sohrabi  et  al.,  2020),  di  mana 
+manusia  belum  memiliki  sistem  kekebalan 
+alami  untuk  menyerang  patogen  tersebut. 
+Virus  SARS-CoV-2  akan  menggunakan 
+reseptor  angiotensin-converting  enzyme  2 
+(ACE2)  untuk  menginfeksi  sel  manusia  dan 
+menyebabkan  gangguan  sistem  pernapasan, 
+kardiovaskular,  dan  organ  penting  lainnya 
+(Xiang et al., 2020). 
+
+sisi 
+
+dapat 
+
+upaya 
+
+hormon 
+
+memicu 
+
+penyebaran 
+pemutusan 
+Dalam 
+Indonesia 
+pemerintah 
+COVID-19, 
+menerapkan 
+Pemberlakuan 
+sistem 
+Pembatasan  Kegiatan  Masyarakat  berupa 
+work  form  home  maupun  school  from  home 
+dalam  jangka  waktu  tertentu,  di  mana  pada 
+satu  sisi  memberikan  dampak  positif,  tetapi 
+di 
+terjadinya 
+lain  dapat  memicu 
+gangguan  kesehatan  mental.  Keberadaan 
+peningkatan 
+stres 
+produktivitas 
+yang 
+kemudian  mampu  menyebabkan  penurunan 
+sistem  imunitas  (De  Bellis  &  Zisk,  2014; 
+Astutik  &  Kuswati,  2014).  Kortisol 
+merupakan 
+golongan 
+glukokortikoid  dan  menjadi  produk  utama 
+dari  sumbu  Hypothalamic  Pituitary  Adrenal 
+(HPA)  (Adam  et  al.,  2017).  Selain  itu, 
+produksi  dari  hormon  kortisol  akan  diatur 
+pengeluaran 
+oleh 
+(ACTH) 
+Adrenocorticotropic  Hormone 
+(Setiyono,  Prasetyo,  &  Maramis,  2015). 
+terjadi  perubahan 
+Dalam  kondisi  stres, 
+
+kortisol, 
+
+hipofisa 
+
+hormon 
+
+steroid 
+
+berupa 
+
+diproduksi 
+
+langsung  terhadap  HPA  dan  saat  hormon 
+kortisol 
+berlebihan 
+terdapat  hubungan  yang  kompleks  antara 
+endokrin, 
+imunitas 
+(Setiyono, Prasetyo, & Maramis, 2015). 
+
+saraf  dan 
+
+sistem 
+
+secara 
+
+lebih 
+
+relatif 
+
+komponen 
+
+antioksidan, 
+
+Tanaman  herbal  merupakan  bahan  pangan 
+yang  memiliki  manfaat  sebagai 
+immune 
+booster  sehingga  dapat  membantu  menjaga 
+kesehatan.  Hal  tersebut  dikarenakan  adanya 
+berbagai  senyawa  bioaktif,  salah  satunya 
+adalah 
+seperti 
+golongan  flavonoid  dan  polifenol,  serta 
+beberapa  senyawa  golongan  sulfur,  tanin, 
+alkaloid dan diterpene fenolik (Yashin et al., 
+2017)  yang 
+tinggi  bila 
+dibandingkan dengan sayuran, buah-buahan, 
+serta sereal (Li et al., 2013). Tanaman herbal 
+pegagan  (Centella  asiatica),  kelor  (Moringa 
+(Phyllanthus  niruri), 
+oleifera),  meniran 
+paniculata), 
+sambiloto 
+katuk 
+ciplukan 
+(Sauropus  androgynous)  dan  kumis  kucing 
+(Orthosiphon 
+merupakan 
+stamineus) 
+tanaman  yang  populer  untuk  dikonsumsi 
+COVID-19 
+dalam 
+(Kementerian 
+Republik 
+Indonesia,  2020;  Gangal  et  al.,  2020; 
+Muryani,  2020;  Triandini  et  al.,  2020).  Hal 
+ini  dikarenakan,  tanaman  herbal  kaya  akan 
+kandungan 
+dengan 
+mekanisme  yang  mungkin  dapat  berperan 
+sebagai  imunostimulan,  anti-inflamasi,  anti-
+stress serta antioksidan.  
+
+pandemi 
+Kesehatan 
+
+(Andrographis 
+
+angulata), 
+
+(Physalis 
+
+senyawa 
+
+bioaktif 
+
+situasi 
+
+Khasiat  tanaman  herbal  dalam  membantu 
+mencegah berbagai jenis penyakit telah lama 
+diteliti  secara  global,  akan  tetapi  informasi 
+terkait  seberapa  kuat  bukti  riset  mengenai 
+potensi tanaman herbal dalam meningkatkan 
+sistem  imunitas  tubuh  masih  terbatas.  Studi 
+literatur  ini  bertujuan  untuk  menganalisis 
+kekuatan  bukti 
+terkait  pengaruh 
+ilmiah 
+senyawa  bioaktif  pada  berbagai  tanaman 
+herbal  Indonesia  terhadap  sistem  imunitas, 
+aktivitas  sitokin  dan  hormon  kortisol  untuk 
+menurunkan  risiko  penyakit  COVID-19. 
+Dengan 
+hasil 
+penelitian  ini  dapat  dijadikan  pertimbangan 
+dan strategi untuk menjaga kesehatan selama 
+
+diharapkan 
+
+demikian, 
+
+91 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+Pandemi 
+
+COVID-19 
+
+masa 
+dengan 
+menekankan prinsip whole-person wellbeing 
+sistem 
+dengan  mengoptimalkan 
+yaitu 
+kekebalan tubuh (aspek  kesehatan fisik) dan 
+pengendalian stress dengan menekan sekresi 
+hormon  kortisol  berlebih  di  dalam  tubuh 
+(aspek kesehatan emosional).  
+
+METODE PENELITIAN  
+
+Selanjutnya, 
+
+Penelitian 
+ini  dilakukan  dengan  metode 
+systematic  review  (PRISMA)  yang  diawali 
+dengan  pengumpulan 
+(database:  Google 
+Scholar,  Science  Direct,  SpringerLink  dan 
+PubMed). 
+disaring 
+berdasarkan  kriteria  inkulsi  dan  eksklusi. 
+Kemudian,  data  yang  didapatkan  akan 
+dianalisis  menggunakan  metode  evidence-
+based  analysis 
+(Murad  et  al.,  2016; 
+Mulimani,  2017).  Diagram  penelitian  dapat 
+dicermati pada Gambar 1.   
+
+data 
+
+Tabel 1. Nilai Km Ratio Dalam Perhitungan 
+Human Equivalent Dose (HED) 
+
+Sumber: Nair & Jacob (2016)   
+
+pyramid 
+
+(Mulimani, 
+
+Analisis kekuatan bukti ilmiah berbasis pada 
+evidence 
+2017). 
+Piramida  bukti  atau  evidence  pyramid 
+merupakan  sebuah  alat  fundamental  yang 
+diperlukan  dalam 
+studi  dengan 
+menunjukkan  hirarki  penelitian  (Murad  et 
+al., 2016; Mulimani, 2017). 
+
+suatu 
+
+Gambar 2. Evidence Pyramid (Mulimani, 
+2017) 
+
+jumlah 
+
+Penentuan  tingkatan  piramida  didasarkan 
+studi  penelitian,  desain 
+pada 
+penelitian,  efek  estimasi  dan  efek  absolut, 
+resiko bias, serta ketepatan hasil. Klasifikasi 
+kekuatan bukti penelitian dibagi menjadi:  
+  Weak: penelitian berada di level in-vitro / 
+
+Lab Tests 
+
+  Moderate:  penelitian  berada  di 
+
+level 
+animal model, yaitu penelitian yang telah 
+menggunakan hewan uji 
+
+Gambar 1. Diagram alir Penelitian: 
+Systematic Review (PRISMA) 
+
+Data berupa animal dose dikonversi menjadi 
+(HED) 
+Human 
+menggunakan  rumus  yang  mengacu  pada 
+Nair  &  Jacob  (2016),  sebagai  berikut: 
+
+Equivalent 
+
+Dose 
+
+  Strong: penelitian telah dilakukan melalui 
+studi  klinis/human  study  (case  report, 
+study, 
+study, 
+case 
+randomized controlled trials) 
+
+control 
+
+cohort 
+
+92 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+HASIL PENELITIAN 
+
+Hasil  analisis  potensi  tanaman  herbal  Indonesia  sebagai  immunostimulan,  anti-stress  dan  anti-inflamasi  berbasis  kekuatan  bukti  ilmiah  dapat  dilihat 
+pada Tabel 1. Seluruh penelitian menggunakan teknik oral consumption untuk mengevaluasi manfaat komponen polar yang terdapat pada 7 tanaman 
+herbal  Indonesia  yakni  pegagan  (Centella  asiatica),  kelor  (Moringa  oleifera),  meniran  (Phyllanthus  niruri),  sambiloto  (Andrographis  paniculata), 
+ciplukan  (Physalis  angulata),  katuk  (Sauropus  androgynous)  dan  kumis  kucing  (Orthosiphon  stamineus).  Data  yang  dikumpulkan  merupakan  hasil 
+riset eksperimental terbaru yaitu dalam 10 tahun terakhir).    
+
+Tabel 2. Potensi Tanaman Herbal dalam Mengendalikan Stres dan Mencegah Penyakit di Masa Pandemi COVID-19 Berdasarkan Evidence Strength 
+
+Tanaman 
+Herbal 
+
+Senyawa 
+Bioaktif Polar 
+
+Desain 
+Penelitian 
+
+Kekuatan 
+Penelitian 
+
+Deskripsi 
+
+Parameter 
+yang 
+Diukur 
+
+↓TNF-α,  
+↓IL-1β,  
+↓IL-4, ↓IL-
+13 
+↑IgE 
+
+Dosis 
+
+0,4%a 
+
+0,2%b 
+
+HED 
+(mg/k
+g bb) 
+
+- 
+
+- 
+
+Hasil 
+
+Ref. 
+
+Anti-inflamasi 
+
+Aktivitas 
+imunoglobulin 
+
+(Ju Ho et al., 
+2018; Kim et 
+al., 2009; 
+Rahman et 
+al., 2013) 
+
+Animal 
+Study 
+
+Moderate 
+
+40  ekor  mencit  atopic  dermatitis 
+(AD) 
+berumur 8 minggu. Mencit AD diinduksi oleh 
+PA  (phthalic  anhydride)  pada  bagian  kulit 
+punggung  atau  telinga.  Selanjutnya,  mencit 
+AD  yang  sudah  terinduksi,  diberi  treatment 
+ekstrak  centella  asiatica  secara  oral  pada 
+konsentrasi  0,2%  dan  0,4%  v/v  vs  kelompok 
+mencit yang diinduksi PA tanpa treatment dan 
+kelompok kontrol sehat selama 4 minggu 
+
+Centella 
+asiatica 
+(Pegagan) 
+
+Asam asiatat 
+Asiaticoside, 
+pirogalol, 
+quercetin, 
+β-karoten, 
+asam tanat 
+
+Animal 
+Study 
+
+Moderate 
+
+40 ekor tikus Sprague-Dawley jantan berumur 
+6  minggu.  Tikus  yang 
+terinfeksi  DMN 
+(dimethylnitrosamine)  diberi  treatment  oral 
+100  dan  200  mg/kg  bb  ekstrak  Centella 
+asiatica  vs  kelompok  kontrol  yang  diberi 
+treatment DMN + distilled water selama 5 hari 
+
+↓IL-2, ↓IL-
+6,  
+↓IL-10,  
+↓IL-12 
+
+200 
+mg/kga 
+
+32,43 
+
+Anti-inflamasi 
+
+(Choi et al., 
+2016) 
+
+93 
+
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+Tanaman 
+Herbal 
+
+Senyawa 
+Bioaktif Polar 
+
+Desain 
+Penelitian 
+
+Kekuatan 
+Penelitian 
+
+Deskripsi 
+
+Parameter 
+yang 
+Diukur 
+
+Dosis 
+
+HED 
+(mg/k
+g bb) 
+
+Hasil 
+
+Ref. 
+
+Moringa 
+Oleifera 
+(Kelor) 
+
+Mirisetin, 
+quercetin, 
+kaemferol, 
+alkaloid, 
+flavonoid, 
+saponin, steroid, 
+triterpenoid, 
+antrakuinon, 
+antosianin, tanin, 
+karotenoid 
+
+Animal 
+Study 
+
+Moderate 
+
+Animal 
+Study 
+
+Moderate 
+
+Animal 
+Study 
+
+Moderate 
+
+Organ  limpa  Mus  musculus  jantan  strain 
+Balb/c  diambil  dan  dikultur  sebanyak  3x106 
+sel per 48 well cawan kultur dan ditumbuhkan 
+dalam  media RPMI 1640  yang berisikan 10% 
+fetal bovine serum (FBS), antibiotik (penisilin 
+&  streptomisin),  1%  α-CD3,  dan  1  μl  2-
+merkaptoethanol.  Media  dicampur  dengan  3 
+dosis ekstrak air  Moringa oleifera: 0,1 μg/ml, 
+1 μg/ml, 10 μg/ml vs 0 μg/ml sebagai kontrol 
+dan  disebarkan  ke  dalam  48  well  cawan 
+kultur, lalu dipanen setelah 4 hari 
+
+48 ekor tikus wistar jantan dewasa berumur 10 
+minggu. 
+Treatment: 
+1.Kelompok 
+tikus  diabetes  yang  diberi 
+treatment  oral  ekstrak  Moringa  oleifera  pada 
+dosis  250  mg/kg  bb  vs  kelompok  kontrol 
+(tikus diabetes tanpa treatment). 
+2. Kelompok tikus sehat yang diberi treatment 
+oral  ekstrak  Moringa  oleifera  pada  dosis  250 
+mg/kg  bb  vs  kelompok  kontrol  (tikus  sehat 
+tanpa treatment) selama 6 minggu 
+
+45  ekor  kelinci  putih  berumur  6  minggu. 
+Kelompok  kelinci  heat  stress  (kelinci  yang 
+ditempatkan  pada  suhu  28-39oC)  +  treatment 
+oral  ekstrak  air  Moringa  oleifera  pada  dosis 
+100  mg/kg  bb  vs  kelompok  kontrol  dan 
+kelompok heat stress selama 6 minggu 
+
+↑CD4+, 
+↑CD8+, 
+↑B220+ 
+
+10 μg/mlb 
+
+- 
+
+Imunostimulan 
+
+↓IL-6,  
+↓TNF-α 
+
+250 
+mg/kga,b 
+
+40,54 
+
+Anti-inflamasi 
+
+(Rachmawati 
+& Rifa’i, 
+2014; 
+Matshediso 
+et al., 2015; 
+Abalaka et 
+al., 2012; 
+Nkechinyere 
+Onyekwere 
+& Felix I., 
+2014) 
+
+(Omodanisi 
+et al., 2017) 
+
+↓TNF-α, 
+↓IFN-γ 
+
+100 
+mg/kga,b 
+
+32,43 
+
+Anti-inflamasi 
+
+(Abdel-Latif 
+et al., 2018) 
+
+↓Kortisol 
+
+100 
+mg/kga,b 
+
+32,43 
+
+Anti-stress 
+
+94 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tanaman 
+Herbal 
+
+Senyawa 
+Bioaktif Polar 
+
+Desain 
+Penelitian 
+
+Kekuatan 
+Penelitian 
+
+Deskripsi 
+
+Moringa 
+Oleifera 
+(Kelor) 
+
+Mirisetin, 
+quercetin, 
+kaemferol, 
+alkaloid, 
+flavonoid, 
+saponin, steroid, 
+triterpenoid, 
+antrakuinon, 
+antosianin, tanin, 
+karotenoid 
+
+Phyllanthus 
+niruri 
+(Meniran) 
+
+Asam galat, 
+quercetin, 
+phyllanthin, 
+hypophyllanthin, 
+niranthin 
+
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+Animal 
+Study 
+
+Moderate 
+
+40  ekor  tikus  wistar  jantan.  Kelompok  tikus 
+yang diberi treatment oral ekstrak air Moringa 
+oleifera  pada  dosis  20,  40,  60,  dan  80  mg/kg 
+bb vs kelompok kontrol (tikus yang diberi 1,0 
+ml air distilasi) selama 14 hari 
+
+Animal 
+Study 
+
+Moderate 
+
+diberi 
+
+perlakuan 
+
+52  ekor  ikan  Oreochromis  niloticus.  Air 
+akuarium 
+berupa 
+(PM)  dan  ekstrak  etanol 
+pendimethalin 
+Moringa  oleifera.  Jenis  perlakuan  yang 
+diberikan  yaitu  ekstrak  etanol  Moringa 
+oleifera  pada  dosis  20  ml/30  l  air;  0,52  mg 
+PM/l;  dan  0,52  mg  PM/l  +  20  ml/30  l  air  vs 
+kelompok kontrol sehat selama 28 hari 
+
+Parameter 
+yang 
+Diukur 
+
+↑IgA, ↑IgM, 
+↑IgG 
+
+Dosis 
+
+HED 
+(mg/k
+g bb) 
+
+80 mg/kgb 
+
+12,97 
+
+Hasil 
+
+Ref. 
+
+Aktivitas 
+imunoglobulin 
+
+(Ojeka et al., 
+2016) 
+
+↓Kortisol 
+
+20 ml/30l 
+airb 
+
+- 
+
+Anti-stress 
+
+(Hamed & 
+El-Sayed, 
+2018) 
+
+Animal 
+Study 
+
+Moderate  Kultur  splenosit  dari  organ  limpa  mencit 
+C57BL/6  betina  di  suspensi  dalam  medium 
+RPMI  1640.  Media  dicampur  dengan  ekstrak 
+air  Phyllanthus  niruri  dalam  konsentrasi 
+bertingkat  12.5,  25,  50,  100,  200  μg/ml  vs 
+kelompok  kontrol  yang 
+tidak  distimulasi 
+Phyllanthus  niruri  (0  μg/ml)  dan  disebarkan 
+ke  dalam  96  well  cawan  kultur  dengan 
+kepadatan 1x105 sel/well yang diinkubasi pada 
+suhu 37oC dalam 5% CO2 
+
+↑CD4+, 
+↑CD8+, 
+↑B220+  
+
+200  
+μg/mlb 
+
+- 
+
+Imunostimulan 
+
+(Nworu et 
+al., 2010; 
+Zain & 
+Omar, 2018; 
+Muthusamy 
+et al., 2017) 
+
+Strong 
+
+Human 
+Study – 
+RCT 
+
+34 
+
+pasien 
+
+67  pasien  TBC  (tuberculosis)  yang  baru 
+didiagnosis  dalam  rentang  umur  15-55  tahun. 
+Sebanyak 
+yang  menerima 
+pengobatan  kapsul  RHZE+PNE  dosis  50 
+mg/kg bb selama 2 bulan vs kelompok pasien 
+kontrol 
+pengobatan 
+RHZE+PNE  dosis  50  mg/kg  bb  pada  bulan 
+ke-0 
+
+yang  menerima 
+
+↓IL-6,  
+↓TNF-α 
+
+50 mg/kga 
+
+50 
+
+Anti-inflamasi 
+
+(Amin, 2017) 
+
+95 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+Tanaman 
+Herbal 
+
+Senyawa 
+Bioaktif Polar 
+
+Desain 
+Penelitian 
+
+Kekuatan 
+Penelitian 
+
+Deskripsi 
+
+Animal 
+Study 
+
+Moderate  Mus  musculus  jantan  strain  BALB/c  berumur 
+6  minggu.  Mencit  BALB/c  normal  (kondisi 
+sehat)  diberi 
+etanol 
+treatment 
+Andrographis  paniculata  secara  oral  dalam 
+dosis 100,  500, 1000 mg/kg bb vs kelompok 
+kontrol  (mencit  tidak  menerima  treatment) 
+selama 14 hari 
+
+ekstrak 
+
+Andrographis 
+paniculata 
+(Sambiloto) 
+
+Andrographolide, 
+neo-
+andrographolide 
+
+Parameter 
+yang 
+Diukur 
+
+↑CD4+, 
+↑CD8+, 
+↑CD25+ 
+
+Dosis 
+
+500 
+mg/kgb 
+
+HED 
+(mg/k
+g bb) 
+
+Hasil 
+
+Ref. 
+
+40,54 
+
+Imunostimulan 
+
+Animal 
+Study 
+
+Moderate 
+
+Human 
+Study 
+
+Strong 
+
+Tikus  C57BL/6  jantan  berumur  4  minggu 
+yang  diinduksi  karsinogen  NQO  (sel  kanker 
+esofagus).  Kelompok  tikus  yang  menerima 
+treatment  oral  Androggraphis  paniculata  hot 
+water  extract  (APW)  pada  dosis  1600  mg/kg 
+bb vs kelompok kontrol (tikus yang diinduksi 
+karsinogen, tanpa diobati) selama 21 hari 
+
+21  pasien 
+terinfeksi  HTLV-1  yang  di 
+diagnosis HAM/TSP (perempuan dan laki-laki 
+berumur  61  tahun).  Sel  PBMC  dari  pasien 
+terinfeksi  HTLV-1  diobati  dengan  Physalin  F 
+dosis  10  µM  dan  diinkubasi  pada  suhu  37oC 
+selama  18  jam  vs  kontrol  (pasien  yang  tidak 
+diobati)  yang  dibiakkan  dalam  96-well  plate 
+dengan  jumlah  sel  2x105  sel/well  pada  media 
+RPMI 1640 
+
+16 ekor Mus musculus jantan. Kelompok yang 
+menerima 
+treatment  oral  ekstrak  etanol 
+Physalis minima Linn. + larutan suspensi Na-
+CMC  1%  pada  dosis  4%,  8%,  12%  b/v  vs 
+kontrol  (hanya  menerima  Na-CMC  1%  b/v) 
+serta  diimunisasi  dengan  suspensi  sel  darah 
+merah  domba  secara  intraperitonial  selama  6 
+hari 
+
+Physalis 
+angulata L. 
+(Ciplukan) 
+
+Asam galat, 
+quercetin, routine 
+
+Animal 
+Study 
+
+Moderate 
+
+(Qarni & 
+Rifa’i, 2013; 
+Malahubban 
+et al., 2013; 
+Kumar et al., 
+2014) 
+
+(Yue et al., 
+2019) 
+
+(Pinto et al., 
+2016; Frida 
+Susanti et al., 
+2015) 
+
+↓IL-2, ↓IL-
+10, ↓IL-12,  
+↓TNF-α 
+
+1600 
+mg/kga 
+
+129,73  Anti-inflamasi 
+
+10 µMa 
+
+- 
+
+Anti-inflamasi 
+
+↓IL-2,  
+↓IL-6,  
+↓IL-10,  
+↓TNF-α, 
+↓IFN-γ 
+
+↑IgM 
+
+12%b 
+
+- 
+
+Aktivitas 
+imunoglobulin 
+
+(Effendi & 
+Widiastuti, 
+2014) 
+
+96 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+Tanaman 
+Herbal 
+
+Senyawa 
+Bioaktif Polar 
+
+Desain 
+Penelitian 
+
+Kekuatan 
+Penelitian 
+
+Deskripsi 
+
+Sauropus 
+androgynus 
+(Katuk) 
+
+Asam galat 
+
+Animal 
+Study 
+
+Moderate 
+
+In Vitro 
+
+Weak 
+
+Orthosiphon 
+stamineus 
+(Kumis 
+Kucing) 
+
+Sinensetin, 
+eupatorin, asam 
+rosmarinat 
+
+Animal 
+Study 
+
+Moderate 
+
+Animal 
+Study 
+
+Moderate 
+
+35 ekor mencit BALB/c betina hamil berumur 
+8  minggu.  Kelompok  mencit  yang  yang 
+terinfeksi  S.typhi  +  treatment  ekstrak  etanol 
+Sauropus  androgynus  dosis  37,5;  75;  11,25; 
+150  mg/kg  bb  pada  PBMC  vs  kontrol  negatif 
+(sehat  tanpa  infeksi)    dan  kontrol  positif 
+(terinfeksi dan tanpa treatment) selama 18 hari 
+
+Kultur  Sel:  Makrofag  murine  J774  dibiakkan 
+pada  suhu  37oC  di  media  dulbeccos,  dipanen 
+dengan  trypsin  EDTA  dan  diunggulkan  pada 
+24 well plates. 
+Treatment:  Sel  J774  yang  distimulasi  LPS 
+(lipopolisakarida)  +  Eupatorin  dan  sinensetin 
+pada  dosis  masing-masing  50  mg/kg  i.p.  dan 
+50 mg/kg i.p. selama 24 jam 
+
+ekor 
+
+56 
+tikus  betina  Sprague-Dawley. 
+Kelompok tikus yang menerima treatment oral 
+ekstrak  etanol  Orthosiphon  stamineus  (OSE) 
+dan ekstrak air  Orthosiphon stamineus (OSA) 
+pada  dosis  150  dan  300  mg/kg  bb  vs 
+kelompok  SHAM  (kontrol  sehat)  dan  OVX 
+(ovariectomized) selama 4 bulan 
+
+32  mencit  BALB/c  betina  dengan  rentang 
+umur  4-5  minggu.  Kelompok  mencit  yang 
+diinjeksi  kultur  sel  kanker  payudara  “4T1”  + 
+ditreatment  eupatorin  dalam  dosis  5  dan  20 
+mg/kg  bb  vs  kontrol  sehat  dan  kontrol  positif 
+(terinfeksi,  tanpa  treatment  eupatorin)  selama 
+28 hari 
+
+Parameter 
+yang 
+Diukur 
+
+↑CD4+ 
+
+Dosis 
+
+150 
+mg/kga,b 
+
+HED 
+(mg/k
+g bb) 
+
+Hasil 
+
+Ref. 
+
+12,16 
+
+Imunostimulan 
+
+↑IL-2, ↑IFN-
+γ 
+
+150 
+mg/kga 
+
+12,16 
+
+Proliferasi sel 
+imun 
+
+↑CD68+, 
+↑B220+ 
+
+112,5 
+mg/kga,b 
+
+9,12 
+
+Imunostimulan 
+
+↓TNF-α 
+
+50 mg/kg 
+
+- 
+
+Anti-inflamasi 
+
+↓IL-6 
+
+150 
+mg/kga,b 
+
+24,32 
+
+Anti-inflamasi 
+
+(Djati et al., 
+2016; Huda-
+Faujan et al., 
+2015) 
+
+(Djati et al., 
+2016) 
+
+(Laavola et 
+al., 2012; 
+Klungboonkr
+ong et al., 
+2018; 
+Malahubban 
+et al., 2013; 
+Li et al., 
+2020) 
+
+(Bokhari et 
+al., 2018) 
+
+↑NK 1.1+, 
+↑CD8+ 
+
+↓TNF-α, 
+↓IL-1β 
+
+20 mg/kga 
+
+1,62 
+
+Imunostimulan 
+
+(Abd Razak 
+et al., 2020) 
+
+20 mg/kga 
+
+1,62 
+
+Anti-inflamasi 
+
+Keterangan: HED = Human Equivalent Dose. bb= berat badan. a P<0,05 peningkatan signifikan vs kontrol positif (sampel terinfeksi – tanpa treatment). b P<0,05 peningkatan 
+signifikan vs kontrol negatif (sampel kontrol sehat). “i.p.” = intraperitoneal 
+
+97 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+PEMBAHASAN  
+
+Tanaman Herbal Indonesia 
+
+dalam 
+
+peningkatan 
+
+Tanaman  herbal 
+Indonesia  kaya  akan 
+kandungan  senyawa  bioaktif  yang  terdapat 
+didalamnya (Tabel 2). Dalam hal ini, ketujuh 
+senyawa 
+tanaman  herbal  mengandung 
+bioaktif  dari  kelompok  besar  golongan 
+flavonoid,  triterpenoid,  alkaloid,  polifenol, 
+terpenoid,  fenolik  serta  trihidroksi  lakton. 
+Komponen  bioaktif  ini  akan  memberikan 
+kontribusi 
+sistem 
+imunitas  tubuh  dan  aktivitas  antioksidan 
+(Bala et al., 2017). Studi dari Mancuso et al. 
+(2007),  disampaikan  bahwa  antioksidan 
+berpotensi  dalam  menekan  radikal  bebas 
+penyebab timbulnya berbagai jenis penyakit, 
+sebab  antioksidan  mampu  memblok  aksi 
+sitokin  proinflamasi  yang  menyebabkan 
+kerusakan  oksidatif.  Aktivitas  antioksidan 
+juga  berperan  penting  dalam  mengurangi 
+cedera  sel  dan  disfungsi  sel  akibat  dari 
+gangguan  inflamasi  atau  autoimun  (De  la 
+Fuente,  2002).  Selain  itu,  senyawa  bioaktif 
+mampu  bertindak  sebagai  anti-inflamasi 
+(Rosa et al., 2012). 
+
+Tanaman Herbal dan Sel Imunitas 
+
+Sistem  imunitas  berperan  dalam  mendeteksi 
+adanya  patogen  asing  yang  berbahaya 
+menginfeksi tubuh. Dalam hal ini, kerja dari 
+imunoglobulin  dan  aktivitas  sitokin  saling 
+berkaitan  untuk  mempengaruhi  kerja  dari 
+sistem  imunitas.  Hasil  dari  studi  review 
+(Tabel  2)  menunjukkan  bahwa  ketujuh 
+tanaman  herbal  mampu  meningkatkan 
+produksi limfosit sel T (CD4+ T cells, CD8+ 
+T cells, CD25+ T cells, dan CD68+ T cells), 
+limfosit  sel  B  dan  NK  cell.  Limfosit  sel  T 
+CD4+ (T helper cell) berperan penting dalam 
+mempengaruhi jumlah sel nya sendiri dan sel 
+T 
+serta 
+merangsang  sel  B  untuk  mengeluarkan 
+antibodi  dan  mensekresi  sitokin  IL-2  dan 
+IFN-  γ  (Bell  &  Gray,  2003).  Selain  itu, 
+limfosit  sel  T  CD8+  (T  cytotoxic  cell)  yang 
+diinduksi  oleh  sel  T  CD4+  berkontribusi 
+ini 
+besar  dalam  menyerang  virus.  Hal 
+dikarenakan,  sel  T  CD8+  akan  melepaskan 
+
+seperti  CD8+,  CD25+, 
+
+lain 
+
+suatu  senyawa  kimia  sangat  toksik  yang 
+bersifat  mampu  untuk  melawan  virus 
+tersebut. Sel T CD8+ juga dibutuhkan dalam 
+kontrol sitokin proinflamasi serta membantu 
+kerja sel T CD4+ pada saat sel tidak mampu 
+lagi  mengontrol  antigen  yang  masuk 
+kedalam  tubuh  (Christina  &  Rifa’i,  2014). 
+Selain itu, sel NK 1.1+ juga berperan penting 
+dalam  respon  awal  imun  bawaan  (innate 
+immunity)  serta  sel  imun  adaptif  untuk 
+mendeteksi dan melawan patogen asing yang 
+masuk  kedalam  tubuh  (Iwabuchi  et  al., 
+2001). 
+
+Tanaman Herbal dan Imunoglobulin  
+
+dari 
+
+imun 
+
+salah 
+
+sistem 
+
+digunakan 
+
+peningkatan 
+
+Imunoglobulin  merupakan 
+satu 
+antibodi  yang  dihasilkan  oleh  limfosit  sel  B 
+untuk 
+dan 
+mengidentifikasi  dan  menetralkan  patogen 
+yang  masuk  kedalam  tubuh.  Dalam  hal  ini, 
+herbal  Centella  asiatica,  Moringa  oleifera 
+dan  Physalis  angulata  L.  memberikan 
+kontribusi 
+produksi 
+imunoglobulin  A  (IgA),  imunoglobulin  E 
+dan 
+(IgE), 
+imunoglobulin  G  (IgG).  Peningkatan  kadar 
+IgA  dan  IgM  berkorelasi  baik  dengan 
+penyakit  autoimun  serta  individu  dengan 
+defisiensi IgA,  dimana bersifat sebagai anti-
+inflamasi  (West  et  al.,  1962;  Latiff  &  Kerr, 
+2007),  sedangkan  IgG  dan  IgM  merupakan 
+imunoglobulin  utama  yang  terlibat  dalam 
+dan 
+aktivasi 
+netralisasi racun. 
+
+imunoglobulin  M 
+
+komplemen, 
+
+opsonisasi 
+
+(IgM) 
+
+Tanaman Herbal dan Aktivitas Sitokin 
+
+Treatment  dari  ketujuh 
+tanaman  herbal 
+Indonesia  dalam  berbagai  studi  penelitian 
+(Tabel  2)  menunjukkan  penurunan  aktivitas 
+inflamasi  dengan  menekan  sitokin  yang 
+meningkat  pada  pasien  COVID-19  dan 
+depresi. Dalam studi Cheon et al. (2018) dan 
+Song et al. (2015), disampaikan bahwa IL-1, 
+IL-6,  IL-8,  IL-17,  IL-21,  IL-22,  TNF-α  dan 
+IFN-γ  merupakan  sitokin  pemicu  inflamasi 
+(proinflamasi), 
+sitokin  yang 
+sedangkan 
+bertindak  sebagai  anti-inflamasi  yaitu  IL-10 
+dan  TGF-β.  Pada  kondisi  normal,  IL-2 
+dibutuhkan  tubuh  dalam  sistem  kekebalan 
+
+98 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+untuk meningkatkan proliferasi sel T dan sel 
+B.  IL-2  akan  bekerja  dengan  mengatur 
+komunikasi antar sel untuk mengaktifkan sel 
+lainnya (Krieg et al., 2012) (Roediger et al., 
+2015). Selain itu, dalam studi  Kicielinska & 
+Pajtasz-Piasecka  (2014)  disampaikan  bahwa 
+sitokin  anti  inflamasi  yaitu  IL-10  dapat 
+menjadi  penghambat  makrofag  dan  sel  Th1, 
+tetapi mengaktifkan sel Th2 dan sel limfosit 
+B.  Sehingga  IL-10  dapat  bertindak  sebagai 
+imunosupresif sekaligus imunostimulan. Hal 
+ini  dikarenakan, 
+sitokin  dapat  bekerja 
+sebagai  pleiotropi,  yaitu  suatu  fenomena 
+dimana  satu  sitokin  memiliki  efek  beragam 
+pada  sel  yang  berbeda.  Selain  itu,  aktivitas 
+sitokin  yang  diproduksi  oleh  satu  jenis  sel, 
+juga dapat menginduksi produksi sitokin dari 
+jenis sel lain, seperti IL-4 akan menginduksi 
+ekspresi  sitokin 
+IL-13 
+IL-3, 
+(Lorentz & Bischoff, 2001). Adapun, sitokin 
+proinflamasi  yaitu 
+IL-6  penting  untuk 
+diminimalisir keberadaannya di dalam tubuh, 
+sebab sitokin IL-6 mampu bertindak sebagai 
+faktor pertumbuhan bagi beberapa sel tumor 
+serta  digunakan  virus  untuk  bereplikasi 
+(Tracey & Cerami, 1994).     
+
+IL-5  dan 
+
+Tanaman  Herbal  dalam  Mengendalikan 
+Stress 
+
+Berdasarkan  hasil  penelitian  ini,  hanya  satu 
+dari  tujuh  tanaman  herbal,  yakni  daun  kelor 
+(Moringa  oleifera)  yang  secara  signifikan 
+memiliki potensi dalam menurunkan sekresi 
+
+hormon  kortisol  berlebih  yang  diakibatkan 
+oleh stress (Abdel-Latif et al., 2018; Hamed 
+telah 
+&  El-Sayed,  2018).  Penelitian 
+dilakukan  hingga 
+tingkat  animal  study 
+(kekuatan  bukti:  moderate)  dan  perlu 
+dilakukan  penelitian 
+lanjut  untuk 
+memberikan bukti ilmiah yang lebih kuat.  
+
+lebih 
+
+Dalam  kondisi  gangguan  psikologis  pada 
+individu  yang  mengalami  depresi,  terjadi 
+sekresi  Adrenocorticotropic  hormone  yang 
+menyebabkan 
+sekresi  berlebih  hormon 
+glukokortikoid (kortisol) oleh adrenal (Adam 
+et  al.,  2017).  Sistem  saraf  pusat,  sistem 
+endokrin,  dan  sistem  kekebalan  adalah 
+sistem kompleks yang berinteraksi satu sama 
+lain  (Glaser  et  al.,  1993).  Sekresi  kortisol 
+yang  berlebihan  dapat  memicu  penurunan 
+sistem  kekebalan  tubuh  (Maydych  et  al., 
+2017).  
+
+dapat 
+
+imunoglobulin, 
+
+bersifat 
+(meningkatkan 
+
+Dapat  dilihat  pada  data  Gambar  3.,  di  mana 
+ketujuh  dari  tanaman  hebal  Indonesia  yang 
+populer  digunakan  dalam  masa  pandemi 
+sebagai 
+COVID-19 
+sistem 
+imunostimulan 
+imunitas), 
+anti-inflamasi 
+serta  anti-stress.  Dalam  hal  ini,  kemampuan 
+ketujuh  tanaman  herbal  sangat  dipengaruhi 
+oleh peran dari senyawa bioaktif alami yang 
+terkandung  didalamnya.  Sehingga,    hormon 
+kortisol  penyebab 
+stres  dapat  ditekan 
+keberadaannya  dan  infeksi  virus  COVID-19 
+di masa pandemi dapat dikendalikan. 
+
+Gambar 3. Graphical Summary: Multidimensi potensi tanaman herbal sebagai pangan fungsional 
+dalam mencegah infeksi virus COVID-19 melalui mekanisme sebagai anti-inflamasi, 
+imunostimulan dan anti-stress 
+
+99 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+KESIMPULAN DAN SARAN 
+
+  Tanaman  herbal  pegagan 
+
+(Centella 
+asiatica)  dan  sambiloto  (Andrographis 
+paniculata)  memiliki  potensi  (kekuatan 
+bukti:  moderate)  sebagai  anti-inflamasi 
+dan imunostimulan  
+
+(Moringa 
+
+kelor 
+potensi 
+
+  Tanaman 
+oleifera) 
+memiliki 
+bukti: 
+moderate)  sebagai  anti-inflamasi,  anti-
+stress dan imunostimulan  
+
+(kekuatan 
+
+potensi 
+
+  Tanaman  meniran  (Phyllanthus  niruri) 
+memiliki 
+bukti: 
+moderate)  sebagai  imunostimulan  serta 
+anti-inflamasi 
+bermanfaat 
+(kekuatan  bukti:  strong)  terhadap  IL-6 
+dan TNF-α 
+
+(kekuatan 
+
+sebagai 
+
+potensi 
+
+  Tanaman ciplukan (Physalis angulata L.) 
+bukti: 
+memiliki 
+moderate)  sebagai  immunostimulan  serta 
+bermanfaat 
+anti-inflamasi 
+(kekuatan  bukti:  strong)  terhadap  IL-2, 
+IL-6, IL-10, TNF-α, IFN-γ 
+
+(kekuatan 
+
+sebagai 
+
+  Tanaman  katuk  (Sauropus  androgynus) 
+bukti: 
+
+memiliki 
+(kekuatan 
+potensi 
+moderate) sebagai imunostimulan 
+
+  Tanaman  kumis  kucing  (Orthosiphon 
+stamineus)  memiliki  potensi  (kekuatan 
+bukti:moderate) sebagai immunostimulan 
+dan anti-inflamasi 
+
+Strategi pencegahan penyakit Covid-19 perlu 
+dilakukan  dengan  pendekatan  yang  lebih 
+holistik  dengan  memperhatikan  kesehatan 
+mental  dan  fisik.  Tanaman  herbal  Indonesia 
+memiliki 
+dapat 
+mempertahankan  sistem  kekebalan  tubuh 
+dan  membantu  mengendalikan 
+stress. 
+Tanaman  herbal  dapat  dikonsumsi  sebagai 
+pangan fungsional. 
+
+potensi 
+
+untuk 
+
+Saran:  penelitian  yang  masih  berada  pada 
+tahap  animal  study  perlu  dilanjutkan  ke 
+tahap  studi  klinis  agar  dapat  memberikan 
+bukti yang lebih kuat. 
+
+DAFTAR PUSTAKA 
+
+Abalaka, M. E., Y. Daniyan, S., B. Oyeleke, 
+S.,  &  O.  Adeyemo,  S.  (2012).  The 
+
+Antibacterial  Evaluation  of  Moringa 
+Oleifera  Leaf  Extracts  on  Selected 
+of 
+Bacterial 
+Microbiology  Research, 
+1–4. 
+https://doi.org/10.5923/j.microbiology.20
+120202.01 
+
+Journal 
+2(2), 
+
+Pathogens. 
+
+Abd Razak, N., Yeap, S. K., Alitheen, N. B., 
+Ho,  W.  Y.,  Yong,  C.  Y.,  Tan,  S.  W.,  … 
+Long,  K.  (2020).  Eupatorin  Suppressed 
+and  Enhanced 
+Tumor 
+Immunity in a 4T1 Murine Breast Cancer 
+Model. Integrative Cancer Therapies, 19. 
+https://doi.org/10.1177/153473542093562
+5 
+
+Progression 
+
+Abdel-Latif,  M.,  Sakran,  T.,  Badawi,  Y.  K., 
+& Abdel-Hady, D. S. (2018). Influence of 
+Moringa  oleifera  extract,  vitamin  C,  and 
+sodium  bicarbonate  on  heat 
+stress-
+induced  HSP70  expression  and  cellular 
+immune  response  in  rabbits.  Cell  Stress 
+975–984. 
+and  Chaperones, 
+https://doi.org/10.1007/s12192-018-0906-
+1 
+
+23(5), 
+
+Adam,  E.  K.,  Quinn,  M.  E.,  Tavernier,  R., 
+McQuillan,  M.  T.,  Dahlke,  K.  A.,  & 
+Gilbert,  K.  E.  (2017).  Diurnal  cortisol 
+slopes  and  mental  and  physical  health 
+outcomes: A systematic review and meta-
+analysis.  Psychoneuroendocrinology,  83, 
+25–41. 
+https://doi.org/10.1016/j.psyneuen.2017.0
+5.018 
+
+Amin, Z. (2017). Faster Sputum Conversion 
+with  Addition  Phyllanthus  niruri  Extracts 
+to Standard Anti-Tuberculosis Therapy: A 
+Double-Blind  Randomized  Controlled 
+Trial. 
+https://www.ecronicon.com/ecprm/pdf/E
+CPRM-03-00058.pdf 
+
+Astutik,  W.,  &  Kuswati,  E. 
+
+(2014). 
+Efektivitas  Pemberian  Jus  Kulit  Manggis 
+Terhadap  Kadar  Hormon  Kortisol  Pada 
+Mencit (Mus musculus) Yang Mengalami 
+Stres. Jurnal Skala Husada, 11(1), 91–95. 
+http://www.poltekkes-
+denpasar.ac.id/files/JSH/V11N1/Windu%
+20Astutik1,%20Elfi%20Kuswati2%20JS
+H%20V11N1.pdf 
+
+100 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+Bala,  M.,  Troja,  R.,  &  Dalanaj,  N.  (2017). 
+Antioxidant  effects  of  natural  bioactive 
+of  Hygienic 
+compounds. 
+Engineering  and  Design,  18,  59–62. 
+https://keypublishing.org/jhed/wp-
+content/uploads/2020/07/04.-Full-paper-
+Mimoza-Bala.pdf 
+
+Journal 
+
+Bell,  J.,  &  Gray,  D.  (2003).  Antigen-
+capturing  cells  can  masquerade  as 
+memory B cells. Journal of Experimental 
+Medicine, 
+1233–1244. 
+197(10), 
+https://doi.org/10.1084/jem.20020270 
+
+ameliorated 
+
+Bokhari,  R.  A.,  Lau,  S.  F.,  &  Mohamed,  S. 
+(2018).  Orthosiphon  stamineus  (Misai 
+Kucing) 
+postmenopausal 
+osteoporosis  in  rat  model.  Menopause, 
+202–210. 
+25(2), 
+https://doi.org/10.1097/GME.0000000000
+000980 
+
+Cheon, Y. H., Lee, S. G., Kim, M., Kim, H. 
+O., Sun Suh, Y., Park, K. S., … Lee, S. Il. 
+(2018).  The  association  of  disease 
+activity,  pro-inflammatory  cytokines,  and 
+neurotrophic  factors  with  depression  in 
+patients  with  rheumatoid  arthritis.  Brain, 
+Behavior,  and  Immunity,  73,  274–281. 
+https://doi.org/10.1016/j.bbi.2018.05.012 
+
+Choi, M. J., Zheng, H. M., Kim, J. M., Lee, 
+K. W., Park, Y. H., & Lee, D. H. (2016). 
+Protective effects of Centella asiatica leaf 
+extract  on  dimethylnitrosamine-induced 
+liver  injury  in  rats.  Molecular  Medicine 
+Reports, 
+4521–4528. 
+14(5), 
+https://doi.org/10.3892/mmr.2016.5809 
+
+Christina,  Y.  I.,  &  Rifa’i,  M.  (2014). 
+Bioactivity  of  Purple  Yam  Tuber 
+(Dioscorea  alata  L.)  on  the  Level  of 
+CD8+and  CD8+CD462L+  T  cells  and 
+Histology  of  Liver  in  BALB/c  Mice 
+Model  of  Digestive  Allergy.  The  Journal 
+of  Experimental  Life  Sciences,  4(2),  27–
+33. 
+https://doi.org/10.21776/ub.jels.2014.004.
+02.01 
+
+De  Bellis,  M.  D.,  &  Zisk,  A.  (2014).  The 
+Biological  Effects  of  Childhood  Trauma. 
+Child  and  Adolescent  Psychiatric  Clinics 
+
+of  North  America,  23(2),  185–222. 
+https://doi.org/10.1016/j.chc.2014.01.002 
+
+De 
+
+la  Fuente,  M. 
+
+(2002).  Effects  of 
+antioxidants  on  immune  system  ageing. 
+European  Journal  of  Clinical  Nutrition, 
+S5–S8. 
+56, 
+https://doi.org/10.1038/sj.ejcn.1601476 
+
+Djati,  M. 
+
+S.,  Dwijayanti,  D.  R., 
+Nurmamulyosari,  L.  D.,  Fuadah,  Y., 
+Basyarudin,  M.,  &  Jannah,  N.  (2016). 
+Elephantopus 
+and  Sauropus 
+scaber 
+androgynus Regulate Macrophages and B 
+Lymphocyte  Cells  during  Salmonella 
+typhi Infection. Proceeding The 1st IBSC: 
+Towards  The  Extended  Use  Of  Basic 
+Science 
+Health, 
+Environment, Energy And Biotechnology, 
+42–44. 
+https://jurnal.unej.ac.id/index.php/prosidi
+ng/article/view/4130/3810 
+
+Enhancing 
+
+For 
+
+Djati, M. S., Dwijayanti, D. R., & Rifa’I, M. 
+(2016).  Herbal  supplement  formula  of 
+and  Sauropus 
+Elephantopus 
+scaber 
+IL-2  cytokine 
+androgynus  promotes 
+production  of  CD4+T  cells  in  pregnant 
+typhoid  fever.  Open  Life 
+mice  with 
+Sciences, 
+211–219. 
+https://doi.org/10.1515/biol-2016-0029 
+
+11(1), 
+
+Effendi,  N.,  &  Widiastuti,  H.  (2014). 
+Identifikasi  aktivitas  imunoglobulin  M 
+(Ig.M)  ekstrak  etanolik  daun  ceplukan 
+(Physalis  minima  Linn.)  pada  mencit. 
+Jurnal  Kesehatan, 
+353–360. 
+http://103.55.216.56/index.php/kesehatan/
+article/view/54/28 
+
+7(2), 
+
+Frida  Susanti,  R.,  Kurnia,  K.,  Vania,  A.,  & 
+Jeremy Reynaldo, I. (2015). Total Phenol, 
+Flavanoid  and  Antioxidant  Activity  of 
+Physalis  angulata  Leaves  Extract  by 
+Subcritical  Water  Extraction.  Modern 
+Applied 
+190. 
+https://doi.org/10.5539/mas.v9n7p190 
+
+Science, 
+
+9(7), 
+
+Fu,  Y.,  Cheng,  Y.,  &  Wu,  Y.  (2020). 
+Understanding 
+SARS-CoV-2-Mediated 
+Inflammatory 
+From 
+to  Potential  Therapeutic 
+Mechanisms 
+Tools. Virologica Sinica, 35(3), 266–271. 
+
+Responses: 
+
+101 
+
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+https://doi.org/10.1007/s12250-020-
+00207-4 
+
+to 
+
+Gangal,  N.,  Nagle,  V.,  Pawar,  Y.,  & 
+Dasgupta,  S.  (2020).  AIJR  Preprints 
+Reconsidering  Traditional  Medicinal 
+COVID-19. 
+Combat 
+Plants 
+Researchgate.Net, (April), 1–6. Retrieved 
+from 
+https://www.researchgate.net/profile/Andr
+ei_Sommer3/publication/341537951_Thy
+moquinone_shield_and_sword_against_S
+ARS-CoV-
+2/links/5ec8cdae299bf1c09ad5b703/Thy
+moquinone-shield-and-sword-against-
+SARS-CoV-2.pdf 
+
+Glaser  R,  Pearson  GR,  Bonneau  RH, 
+Esterling  BA,  Atkinson  C,  Kiecolt-
+Glaser  JK. 
+the 
+memory  T-cell  response  to  the  Epstein-
+Barr  virus  in  healthy  medical  students. 
+Health Psychol 12:435–442 
+
+(1993).  Stress  and 
+
+extract 
+
+Hamed,  H.  S.,  &  El-Sayed,  Y.  S.  (2018). 
+Antioxidant activities of Moringa oleifera 
+pendimethalin-
+against 
+leaf 
+induced  oxidative  stress  and  genotoxicity 
+in Nile tilapia, Oreochromis niloticus (L.). 
+Fish Physiology and Biochemistry, 45(1), 
+https://doi.org/10.1007/s10695-
+71–82. 
+018-0535-8 
+
+Huang, C., Wang, Y., Li, X., Ren, L., Zhao, 
+J.,  Hu,  Y.,  …  Cao,  B.  (2020).  Clinical 
+features  of  patients  infected  with  2019 
+novel  coronavirus  in  Wuhan,  China.  The 
+Lancet, 
+497–506. 
+395(10223), 
+https://doi.org/10.1016/S0140-
+6736(20)30183-5 
+
+Huda-Faujan,  N.,  Rahim,  Z.  A.,  Rehan,  M. 
+M.,  &  Ahmad,  F.  B.  H. 
+(2015). 
+Comparative analysis of  phenolic content 
+and  antioxidative  activities  of  eight 
+Malaysian 
+vegetables. 
+traditional 
+Malaysian Journal of Analytical Sciences, 
+19(3), 
+611–624. 
+http://ddms.usim.edu.my/bitstream/12345
+6789/16040/1/2015%20-
+%20MJAS%202015%20COMPARATIV
+E%20.pdf 
+
+development 
+
+Iwabuchi,  K.,  Iwabuchi,  C.,  Tone,  S.,  Itoh, 
+D.,  Tosa,  N.,  Negishi,  I.,  …  Onoé,  K. 
+of 
+(2001).  Defective 
+NK1.1+ T-cell antigen receptor αβ+ cells 
+in  zeta-associated  protein  70  null  mice 
+with  an  accumulation  of  NK1.1+  CD3- 
+NK-like cells in the thymus. Blood, 97(6), 
+1765–1775. 
+https://doi.org/10.1182/blood.V97.6.1765 
+
+Jiang,  F.,  Deng,  L.,  Zhang,  L.,  Cai,  Y., 
+Cheung, C. W., & Xia, Z. (2020). Review 
+of 
+the  Clinical  Characteristics  of 
+Coronavirus  Disease  2019  (COVID-19). 
+Journal  of  General  Internal  Medicine, 
+35(5), 
+1545–1549. 
+https://doi.org/10.1007/s11606-020-
+05762-w 
+
+Ju Ho, P., Jun Sung, J., Ki Cheon, K., & Jin 
+Tae,  H.  (2018).  Anti-inflammatory  effect 
+of Centella asiatica phytosome in a mouse 
+model  of  phthalic  anhydride-induced 
+atopic  dermatitis.  Phytomedicine,  43, 
+110–119. 
+https://doi.org/10.1016/j.phymed.2018.04.
+013 
+
+Pemeliharaan 
+
+Kementerian Kesehatan Republik Indonesia. 
+(2020).  Pemanfaat  Obat  Tradisional 
+Kesehatan, 
+Untuk 
+Pencegahan  Penyakit,  dan  Perawatan 
+Kesehatan. Direktorat Jenderal Pelayanan 
+Kesehatan. 
+dari 
+http://yankes.kemkes.go.id/unduh/fileund
+uhan_1592367336_716430.pdf/6 
+
+Diakses 
+
+Kicielinska,  J.,  &  Pajtasz-Piasecka,  E. 
+in  The 
+(2014).  The  Role  of  IL-10 
+Modulation  of  The  Immune  Response  in 
+Normal  Conditions  and  The  Tumor 
+Environment. 
+i 
+Medycyny  Doswiadczalnej,  68,  879–892. 
+https://doi.org/10.5604/17322693.111112
+3 
+
+Postepy  Higieny 
+
+Kim, W. J., Kim, J., Veriansyah, B., Kim, J. 
+D.,  Lee,  Y.  W.,  Oh,  S.  G.,  & 
+Tjandrawinata,  R.  R.  (2009).  Extraction 
+of  bioactive  components  from  Centella 
+asiatica using subcritical water. Journal of 
+Supercritical  Fluids,  48(3),  211–216. 
+https://doi.org/10.1016/j.supflu.2008.11.0
+
+102 
+
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+07 
+
+1298458 
+
+Klungboonkrong,  V.,  Phoungchandang,  S., 
+(2018).  Drying  of 
+&  Lamsal,  B. 
+leaves: 
+aristatus 
+Orthosiphon 
+drying 
+modeling, 
+Mathematical 
+aspects. 
+and  quality 
+characteristics, 
+Chemical  Engineering  Communications, 
+205(9), 
+1239–1251. 
+https://doi.org/10.1080/00986445.2018.14
+43080 
+
+Köhler,  C.  A.,  Freitas,  T.  H.,  Maes,  M.,  de 
+Andrade, N. Q., Liu, C. S., Fernandes, B. 
+S.,  …  Carvalho,  A.  F.  (2017).  Peripheral 
+cytokine  and  chemokine  alterations  in 
+depression: a meta-analysis of 82 studies. 
+Acta  Psychiatrica  Scandinavica,  135(5), 
+373–387. 
+https://doi.org/10.1111/acps.12698 
+
+and 
+
+by 
+receptors 
+
+immunotherapy 
+IL-2 
+of 
+
+Krieg,  C.,  Létourneau,  S.,  Pantaleo,  G.,  & 
+Boyman,  O.  (2012).  Erratum:  Improved 
+selective 
+IL-2 
+on 
+stimulation 
+lymphocytes 
+cells 
+(Proceedings of the National Academy of 
+Sciences of the United States of America 
+(2010) 
+(11906-11911)  DOI: 
+10.1073/pnas.1002569107).  Proceedings 
+of  the  National  Academy  of  Sciences  of 
+the United States of America, 109(1), 345. 
+https://doi.org/10.1073/pnas.1119897109 
+
+endothelial 
+
+107, 
+
+Kumar,  S.,  Dhanani,  T.,  &  Shah,  S.  (2014). 
+Extraction of three bioactive diterpenoids 
+from  andrographis  paniculata:  Effect  of 
+the  extraction 
+techniques  on  extract 
+composition  and  quantification  of  three 
+andrographolides  using  high-performance 
+liquid 
+of 
+Chromatographic  Science,  52(9),  1043–
+1050. 
+https://doi.org/10.1093/chromsci/bmt157 
+
+chromatography. 
+
+Journal 
+
+E. 
+
+(2012). 
+
+Laavola,  M.,  Nieminen,  R.,  Yam,  M., 
+Sadikun,  A.,  Asmawi,  M.,  Basir,  R.,  … 
+Flavonoids 
+Moilanen, 
+eupatorin  and  sinensetin  present 
+in 
+inhibit 
+Orthosiphon  stamineus 
+and 
+inflammatory 
+STAT1  activation.  Planta  Medica,  78(8), 
+779–786.  https://doi.org/10.1055/s-0031-
+
+leaves 
+expression 
+
+gene 
+
+Latiff, A. H. A., & Kerr, M. A. (2007). The 
+clinical  significance  of  immunoglobulin 
+of  Clinical 
+A 
+Biochemistry, 
+131–139. 
+https://doi.org/10.1258/000456307780117
+993 
+
+deficiency.  Annals 
+44(2), 
+
+Li,  S.,  Li,  S.  K.,  Gan,  R.  Y.,  Song,  F.  L., 
+Kuang,  L.,  &  Li,  H.  Bin.  (2013). 
+Antioxidant  capacities  and  total  phenolic 
+contents  of  infusions  from  223 medicinal 
+plants. Industrial Crops and Products, 51, 
+289–298. 
+https://doi.org/10.1016/j.indcrop.2013.09.
+017 
+
+Lorentz,  A.,  &  Bischoff,  S.  C.  (2001). 
+Regulation of human intestinal mast cells 
+by 
+IL-4. 
+Immunological  Reviews,  179,  57–60. 
+https://doi.org/10.1034/j.1600-
+065X.2001.790106.x 
+
+factor 
+
+stem 
+
+cell 
+
+and 
+
+Malahubban,  M.,  Alimon,  A.  R.,  Sazili,  A. 
+Q.,  Fakurazi,  S.,  &  Zakry,  F.  A.  (2013). 
+Phytochemical  analysis  of  Andrographis 
+paniculata  and  Orthosiphon  stamineus 
+leaf  extracts  for  their  antibacterial  and 
+Tropical 
+antioxidant 
+467–480. 
+Biomedicine, 
+http://www.msptm.org/files/467_-
+_480_Malahubban_M.pdf 
+
+potential. 
+30(3), 
+
+Mancuso, C., Bates, T. E., Butterfield, D. A., 
+Calafato,  S.,  Cornelius,  C.,  Lorenzo,  A. 
+D.,  ...  &  Calabrese,  V.  (2007).  Natural 
+antioxidants 
+Alzheimer's 
+in 
+disease. Expert opinion on investigational 
+drugs, 16(12), 
+1921-1931. 
+https://www.tandfonline.com/doi/abs/10.1
+517/13543784.16.12.1921 
+
+Maydych  V,  Claus  M,  Dychus  N,  Ebel  M, 
+Damaschke  J,  Diestel  S,  et  al.  (2017). 
+Impact  of  chronic  and  acute  academic 
+and 
+stress  on 
+monocyte  function.  PLoS  ONE  12(11): 
+e0188108. 
+https://doi.org/10.1371/journal.pone.0188
+108 
+
+lymphocyte 
+
+subsets 
+
+Mehta,  P.,  McAuley,  D.  F.,  Brown,  M., 
+
+103 
+
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+storm 
+
+Sanchez, E., Tattersall, R. S., & Manson, 
+consider 
+J. 
+(2020).  COVID-19: 
+J. 
+and 
+cytokine 
+Lancet, 
+immunosuppression. 
+395(10229), 
+1033–1034. 
+https://doi.org/10.1016/S0140-
+6736(20)30628-0 
+
+syndromes 
+The 
+
+Mulimani,  P.  S.  (2017).  Evidence-based 
+practice and the evidence pyramid: A 21st 
+century  orthodontic  odyssey.  American 
+Journal  of  Orthodontics  and  Dentofacial 
+Orthopedics, 
+1–8. 
+https://doi.org/10.1016/j.ajodo.2017.03.02
+0 
+
+152(1), 
+
+Murad,  M.  H.,  Asi,  N.,  Alsawas,  M.,  & 
+Alahdab,  F. 
+(2016).  New  evidence 
+pyramid.  Evidence-Based  Medicine, 
+21(4), 
+125–127. 
+https://doi.org/10.1136/ebmed-2016- 
+110401 
+
+Muryani, 
+
+S. 
+
+N. 
+
+(2020). 
+M. 
+PemanfaatanTanaman  Obat  Keluarga  ( 
+TOGA  )  di  Masa  Pandemi  COVID-19. 
+https://jayapanguspress.penerbit.org/index
+.php/JPB/article/view/548/541 
+
+Muthusamy,  A.,  Sanjay,  E.  R.,  Nagendra 
+Prasad,  H.  N.,  Radhakrishna  Rao,  M., 
+Manjunath  Joshi,  B.,  Padmalatha  Rai,  S., 
+&  Satyamoorthy,  K.  (2017).  Quantitative 
+Analysis  of  Phyllanthus  Species 
+for 
+Bioactive Molecules Using High-Pressure 
+Liquid  Chromatography  and  Liquid 
+Chromatography–Mass 
+Spectrometry. 
+Proceedings  of  the  National  Academy  of 
+Sciences  India  Section  B  -  Biological 
+Sciences, 
+1043–1054. 
+88(3), 
+https://doi.org/10.1007/s40011-017-0839-
+y 
+
+Nair,  A.  B.,  &  Jacob,  S.  (2016).  A  simple 
+practice  guide 
+for  dose  conversion 
+between  animals  and  human. Journal  of 
+basic  and  clinical  pharmacy, 7(2),  27. 
+https://www.ncbi.nlm.nih.gov/pmc/article
+s/PMC4804402/pdf/JBCP-7-27.pdf 
+
+Nkechinyere  Onyekwere,  N.,  &  Felix  I.,  N. 
+(2014).  Phytochemical,  Proximate  and 
+Mineral  Composition  of  Leaf  Extracts  of 
+
+Moringa  oleifera  Lam.  from  Nsukka, 
+South-Eastern  Nigeria.  IOSR  Journal  of 
+Pharmacy  and  Biological  Sciences,  9(1), 
+99–103. 
+https://doi.org/10.9790/3008-
+091699103 
+
+Nworu, C. S., Akah, P. A., Okoye, F. B. C., 
+Proksch,  P.,  &  Esimone,  C.  O.  (2010). 
+The effects of Phyllanthus niruri aqueous 
+extract  on 
+the  activation  of  murine 
+lymphocytes  and  bone  marrow-derived 
+Immunological 
+macrophages. 
+Investigations, 
+245–267. 
+https://doi.org/10.3109/088201310035995
+85 
+
+39(3), 
+
+Ojeka,  S.,  Obia,  O.,  &  Dapper,  D.  (2016). 
+Effect  of  Acute  Administration  of 
+Aqueous Leaf Extract of Moringa oleifera 
+on Immunoglobulin levels in Wistar Rats. 
+European  Journal  of  Medicinal  Plants, 
+14(4), 
+1–7. 
+https://journalejmp.com/index.php/EJMP/
+article/view/14194/26075 
+
+of 
+
+the 
+
+Omodanisi, E. I., Aboua, Y. G., Oguntibeju, 
+O.  O.,  &  Lamuela-Raventós,  R.  M. 
+(2017).  Assessment 
+anti-
+hyperglycaemic,  anti-inflammatory  and 
+antioxidant  activities  of  the  methanol 
+extract  of  moringa  oleifera  in  diabetes-
+induced  nephrotoxic  male  wistar  rats. 
+Molecules, 
+1–16. 
+https://doi.org/10.3390/molecules220404
+39 
+
+22(4), 
+
+angulata 
+
+Pinto,  L.  A.,  Meira,  C.  S.,  Villarreal,  C.  F., 
+Vannier-Santos,  M.  A.,  De  Souza,  C.  V. 
+C.,  Ribeiro,  I.  M.,  …  Grassi,  M.  F.  R. 
+(2016).  Physalin  F,  a  seco-steroid  from 
+Physalis 
+has 
+immunosuppressive  activity  in  peripheral 
+blood  mononuclear  cells  from  patients 
+with  HTLV1-associated  myelopathy. 
+Biomedicine  and  Pharmacotherapy,  79, 
+129–134. 
+https://doi.org/10.1016/j.biopha.2016.01.0
+41 
+
+L., 
+
+Qarni,  U.  A.  Q.,  &  Rifa’i,  M.  (2013).  Uji 
+Aktifitas  Biologis  Fraksi  Ethanol  Daun 
+Sambiloto  (  Andrographis  paniculata  ) 
+Terhadap  Perubahan  Kuantitatif  Sel  T 
+
+104 
+
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+Regulator  Pada  Mencit  BALB/c  (  Mus 
+musculus ). Jurnal Biotropika, 1(5), 201–
+205. 
+https://biotropika.ub.ac.id/index.php/biotr
+opika/article/download/182/155 
+
+Rachmawati,  I.,  &  Rifa’i,  M.  (2014).  In 
+Vitro 
+Immunomodulatory  Activity  of 
+Aqueous  Extract  of  Moringa  oleifera 
+Lam.  Leaf  to  the  CD4  +,  CD8+  and 
+in  Mus  musculus.  The 
+B220+  Cells 
+Journal  of  Experimental  Life  Sciences, 
+4(1), 
+15–20. 
+https://doi.org/10.21776/ub.jels.2014.004.
+01.03 
+
+Rahman,  M.,  Hossain,  S.,  Rahaman,  A., 
+Fatima,  N.,  Nahar,  T.,  &  Uddin,  B. 
+(2013).  Antioxidant  Activity  of  Centella 
+asiatica  (  Linn 
+.)  Urban :  Impact  of 
+Extraction  Solvent  Polarity.  Journal  of 
+Pharmacognosy  and  Phytochemistry, 
+27–32. 
+1(6), 
+https://www.phytojournal.com/vol1Issue6
+/Issue_march_2013/7.pdf 
+
+Roediger, B., Kyle, R., Tay,  S. S., Mitchell, 
+A.  J.,  Bolton,  H.  A.,  Guy,  T.  V.,  … 
+Weninger,  W.  (2015).  IL-2  is  a  critical 
+regulator of group 2 innate lymphoid cell 
+function  during  pulmonary  inflammation. 
+and  Clinical 
+of  Allergy 
+Journal 
+Immunology, 
+1653-1663.e7. 
+136(6), 
+https://doi.org/10.1016/j.jaci.2015.03.043 
+
+J.  A. 
+
+Rosa, F. T., Zulet, M. Á., Marchini, J. S., & 
+Martínez, 
+(2012).  Bioactive 
+compounds  with  effects  on  inflammation 
+markers in humans. International Journal 
+of  Food  Sciences  and  Nutrition,  63(6), 
+749–765. 
+https://doi.org/10.3109/09637486.2011.64
+9250 
+
+Schmidt, F. M., Lichtblau, N., Minkwitz, J., 
+Chittka,  T.,  Thormann,  J.,  Kirkby,  K.  C., 
+… Himmerich, H. (2014). Cytokine levels 
+in  depressed  and  non-depressed  subjects, 
+and masking effects of obesity. Journal of 
+Psychiatric  Research,  55(1),  29–34. 
+https://doi.org/10.1016/j.jpsychires.2014.
+04.021 
+
+Setiyono,  A.,  Prasetyo,  B.,  &  Maramis,  M. 
+(2015). Pengaruh Tingkat Stres dan Kadar 
+Kortisol dengan Jumlah Folikel Dominan 
+pada Penderita Infertilitas yang Menjalani 
+Fertilisasi  Invitro.  Majalah  Obstetri  & 
+Ginekologi, 
+128. 
+https://doi.org/10.20473/mog.v23i3.2078 
+
+23(3), 
+
+Sohrabi,  C.,  Alsafi,  Z.,  O’Neill,  N.,  Khan, 
+M., Kerwan, A., Al-Jabir, A., … Agha, R. 
+(2020).  World  Health  Organization 
+declares  global  emergency:  A  review  of 
+the  2019  novel  coronavirus  (COVID-19). 
+Surgery, 
+International 
+Journal 
+71–76. 
+76(February), 
+https://doi.org/10.1016/j.ijsu.2020.02.034 
+
+of 
+
+Tracey,  K.  J.,  &  Cerami,  A.  (1994).  Tumor 
+necrosis  factor:  A  pleiotropic  cytokine 
+and  therapeutic  target.  Annual  Review  of 
+Medicine, 
+491–503. 
+45, 
+https://doi.org/10.1146/annurev.med.45.1.
+491 
+
+Triandini,  I.  G.  A.  A.  H.,  Isviyanti,  I., 
+Gumangsari,  N.  M.  G.,  &  Hidayati,  D. 
+(2020).  Sosialisasi  Budidaya  Toga  Di 
+Lahan  Terbatas  Dengan  Vertical  Garden 
+Untuk  Menunjang  Primary  Health  Care 
+Dalam  Upaya  Pencegahan  Covid-19  Di 
+Lingkungan  Bendega.  SELAPARANG 
+Masyarakat 
+Jurnal 
+Berkemajuan, 
+594. 
+https://doi.org/10.31764/jpmb.v4i1.3378 
+
+Pengabdian 
+
+4(1), 
+
+West,  C.  D.,  Hong,  R.,  &  Holland,  N.  H. 
+(1962).  Immunoglobulin  levels  from  the 
+newborn  period  to  adulthood  and  in 
+immunoglobulin  deficiency  states.  The 
+Journal  of  Clinical  Investigation,  41(11), 
+2054–2064. 
+https://doi.org/10.1172/JCI104663 
+
+Xiang,  Z.,  Liu,  J.,  Shi,  D.,  Chen,  W.,  Li,  J., 
+Yan,  R.,  …  Yang,  Z. 
+(2020). 
+Glucocorticoids improve severe or critical 
+covid-19 by activating ace2 and reducing 
+il-6 
+International  Journal  of 
+Biological  Sciences,  16(13),  2382–2391. 
+https://doi.org/10.7150/ijbs.47652 
+
+levels. 
+
+Yashin, A., Yashin, Y., Xia, X., & Nemzer, 
+B.  (2017).  Antioxidant  activity  of  spices 
+
+105 
+
+ 
+ 
+ 
+Praxis : Jurnal Sains, Teknologi, Masyarakat dan Jejaring | Vol. 4 | No. 1 | September 2021 
+
+and  their  impact  on  human  health:  A 
+review.  Antioxidants, 
+1–18. 
+https://doi.org/10.3390/antiox6030070 
+
+6(3), 
+
+Yue, G. G.  L.,  Li,  L.,  Lee, J. K. M., Kwok, 
+H. F., Wong, E. C. W., Li, M., … Lau, C. 
+(2019).  Multiple  modulatory 
+B.  S. 
+activities  of  Andrographis  paniculata  on 
+immune  responses  and  xenograft  growth 
+in  esophageal  cancer  preclinical  models. 
+Phytomedicine,  60(January),  152886. 
+
+https://doi.org/10.1016/j.phymed.2019.15
+2886 
+
+Zain,  S.  N.  D.  M.,  &  Omar,  W.  A.  W. 
+total 
+activity, 
+(2018).  Antioxidant 
+phenolic  content  and 
+total  flavonoid 
+content of water and methanol extracts of 
+phyllanthus 
+from  Malaysia. 
+Pharmacognosy Journal, 10(4), 677–681. 
+https://doi.org/10.5530/pj.2018.4.111 
+
+species 
+
+106 
+
+ 
+ 
+ 
+ 
+
