@@ -2,6 +2,11 @@ from __future__ import annotations
 from typing import Iterable, List, Set
 import re
 from .stemmer_porter_id import stem_tokens
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
+
+stop_factory = StopWordRemoverFactory()
+data = stop_factory.get_stop_words()
+stopword = stop_factory.create_stop_word_remover()
 
 DEFAULT_STOPWORDS: Set[str] = {
     "yang","dan","di","ke","dari","pada","untuk","dengan","atau","sebagai","adalah","itu","ini","oleh","dalam",
@@ -20,7 +25,8 @@ def tokenize(text: str) -> List[str]:
     return [t.lower() for t in TOKEN_RE.findall(text or "")]
 
 def remove_stopwords(tokens: List[str], stopwords: Set[str] | None = None) -> List[str]:
-    sw = (DEFAULT_STOPWORDS | DOMAIN_STOPWORDS) if stopwords is None else stopwords
+    # sw = (DEFAULT_STOPWORDS | DOMAIN_STOPWORDS) if stopwords is None else stopwords
+    sw = (data | DOMAIN_STOPWORDS | DEFAULT_STOPWORDS) if stopwords is None else stopwords
     return [t for t in tokens if t not in sw]
 
 def preprocess(text: str) -> List[str]:
@@ -29,3 +35,5 @@ def preprocess(text: str) -> List[str]:
     toks = stem_tokens(toks)
     toks = [t for t in toks if t]
     return toks
+
+print(data)
