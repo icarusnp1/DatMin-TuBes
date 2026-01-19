@@ -1,0 +1,1333 @@
+pISSN:2355-7583 | eISSN:2549-4864 
+http://ejurnalmalahayati.ac.id/index.php/kesehatan 
+ 
+ 
+ 
+ 
+ 
+Jurnal Ilmu Kedokteran dan Kesehatan, Vol. 11, No. 10, Oktober 2024  
+1992 
+ 
+ 
+ 
+JAHE (ZINGIBER OFFICINALE) : TINJAUAN FITOKIMIA, FARMAKOLOGI, 
+DAN TOKSIKOLOGI 
+ 
+Miyada Nur Ahnafani1*, Nasiroh2, Nina Aulia3, Noor Laili Mega Lestrari4, 
+Marselina Ngongo5, Ali Rakhman Hakim6 
+ 
+1-6 Program Studi Sarjana Farmasi, Fakultas Kesehatan, Universitas Sari Mulia 
+ 
+*)Email Korespondensi: miyadanurahnafani@gmail.com  
+__________________________________________________________________ 
+Abstract: Ginger (Zingiber officinale): A Review of Phytochemistry, 
+Pharmacology and Toxicology. is a medicinal plant that is widely used in 
+traditional and modern medicine. Based on research, ginger contains compounds 
+such as alkaloids, flavonoids, phenolics, triterpenoids, gingerols and saponins which 
+act as analgesics, antioxidants, anti-inflammatory and antitumor. From a 
+pharmacological 
+perspective, 
+ginger 
+has 
+carminative, 
+digestive 
+stimulant, 
+vasodilator, expectorant, antibacterial, antibacterial, antipyretic, anti-inflammatory, 
+analgesic and antioxidant effects. Toxicology shows ginger is generally safe, but 
+excessive consumption can cause heartburn and stomach irritation, as well as 
+allergic reactions if inhaled. Animal and human studies indicate ginger does not 
+increase the risk of malformations in babies during pregnancy. This research 
+confirms the health benefits of ginger and the importance of consuming it in the 
+right dosage to avoid toxicity. 
+Keywords: Ginger (Zingiber officinale), Pharmacology, Phytochemistry, Toxicology 
+ 
+Abstrak:  Jahe (Zingiber officinale): Tinjauan Fitokimia, Farmakologi, dan 
+Toksikologi. Tanaman obat yang banyak digunakan dalam pengobatan tradisional 
+dan modern. Berdasarkan penelitian, Jahe mengandung senyawa seperti alkaloid, 
+flavonoid, fenolik, triterpenoid, gingerol dan saponin yang berperan sebagai 
+analgesik, antioksidan, antiinflamasi, dan antitumor. Dari segi farmakologi, jahe 
+memiliki 
+efek 
+karminatif, 
+stimulan 
+pencernaan, 
+vasodilator, 
+ekspektoran, 
+antibakteri, antipiretik antibakteri, antiinflamasi, analgesic, dan antioksidan. 
+Toksikologi menunjukkan jahe umumnya aman, tetapi konsumsi berlebih bisa 
+menyebabkan nyeri ulu hati dan iritasi lambung, serta reaksi alergi jika terhirup. 
+Studi pada hewan dan manusia mengindikasikan jahe tidak meningkatkan risiko 
+malformasi pada bayi selama kehamilan. Penelitian ini menegaskan manfaat 
+kesehatan jahe dan pentingnya konsumsi dalam dosis tepat untuk menghindari 
+toksisitas. 
+Kata kunci: Farmakologi, Fitokimia, Jahe (Zingiber officinale), Toksikologi  
+ 
+PENDAHULUAN 
+Jahe, 
+atau 
+zingiber 
+officinale, 
+adalah tanaman rempah-rempah yang 
+digunakan 
+sebagai 
+obat 
+tradisional 
+sejak lama (Syarah, 2020). Tanaman 
+ini telah digunakan dalam berbagai 
+sistem pengobatan tradisional selama 
+ribuan 
+tahun, 
+seperti 
+Ayurveda, 
+pengobatan tradisional Tiongkok, dan 
+Unani (Syamsu et al., 2021). Rimpang 
+jahe 
+adalah 
+bagian 
+yang 
+paling 
+berharga dari tanaman ini, karena 
+mengandung berbagai senyawa bioaktif 
+yang 
+berkontribusi 
+pada 
+berbagai 
+manfaat terapeutik (Munaeni et al., 
+2022). 
+Dalam 
+pengobatan 
+tradisional 
+Ayurveda, 
+jahe 
+dikenal 
+sebagai 
+"Vishvabhesaj" atau obat universal. 
+Jahe 
+digunakan 
+untuk 
+mengatasi 
+berbagai masalah kesehatan seperti 
+gangguan 
+pencernaan, 
+peradangan, 
+dan nyeri (Laelasari dan Syadza, 2022). 
+Dalam 
+pengobatan 
+tradisional 
+Tiongkok, jahe dianggap sebagai obat 
+yang 
+efektif 
+untuk 
+menghangatkan 
+tubuh, 
+meredakan 
+mual, 
+dan 
+meningkatkan sirkulasi darah. Dalam 
+sistem 
+pengobatan 
+Unani, 
+jahe 
+digunakan 
+sebagai 
+tonik 
+untuk 
+meningkatkan 
+kesehatan 
+secara 
+keseluruhan dan mengobati berbagai 
+penyakit. 
+Penelitian 
+modern 
+telah 
+
+pISSN:2355-7583 | eISSN:2549-4864 
+http://ejurnalmalahayati.ac.id/index.php/kesehatan 
+ 
+ 
+ 
+ 
+ 
+Jurnal Ilmu Kedokteran dan Kesehatan, Vol. 11, No. 10, Oktober 2024  
+1993 
+ 
+ 
+ 
+mengonfirmasi banyak klaim kesehatan 
+yang 
+dibuat 
+oleh 
+pengobatan 
+tradisional. Jahe diketahui mengandung 
+berbagai 
+senyawa 
+bioaktif 
+seperti 
+gingerol, 
+shogaol, 
+paradol, 
+dan 
+zingerone 
+(Vifta 
+& 
+Hasri, 
+2022). 
+Senyawa-senyawa ini memberikan jahe 
+sifat 
+anti-inflamasi, 
+antioksidan, 
+antikanker, dan antimikroba yang kuat 
+(Wahyu et al., 2024). Minyak atsiri 
+yang memberikan aroma khas dan 
+memiliki khasiat terapeutik tambahan 
+yang terkandung dalam jahe (Triana, 
+2019). 
+Salah satu kegunaan jahe yang 
+paling terkenal adalah sebagai obat 
+alami untuk masalah pencernaan. Jahe 
+dipercaya dapat merangsang produksi 
+enzim 
+pencernaan 
+dan 
+empedu, 
+membantu meredakan perut kembung, 
+dan memperlancar proses pencernaan 
+(Andarwulan, 2021). Jahe juga sering 
+digunakan untuk mengatasi mual dan 
+muntah, 
+termasuk 
+mual 
+yang 
+disebabkan 
+oleh 
+kehamilan, 
+mabuk 
+perjalanan, 
+dan 
+efek 
+samping 
+kemoterapi. Khasiat anti-inflamasi dan 
+analgesik 
+jahe 
+juga 
+telah 
+banyak 
+diteliti. 
+Jahe 
+dapat 
+mengurangi 
+peradangan dan nyeri pada kondisi 
+seperti arthritis dan nyeri otot. Sifat 
+anti-inflamasi jahe ini sebagian besar 
+disebabkan 
+oleh 
+gingerol, 
+senyawa 
+utama 
+dalam 
+rimpang 
+jahe 
+segar 
+(Shandy et al., 2023). Gingerol bekerja 
+dengan 
+menghambat 
+produksi 
+prostaglandin 
+dan 
+leukotrien, 
+dua 
+senyawa yang berperan dalam proses 
+peradangan (Anggraeni et al., 2024). 
+Jahe juga dapat berfungsi sebagai 
+antikanker. Gingerol dan shogaol dapat 
+menghambat pertumbuhan sel kanker 
+dan 
+mendorong 
+kematian 
+atau 
+kematian sel kanker, menurut beberapa 
+penelitian. 
+Ini 
+menunjukkan 
+bahwa 
+jahe dapat berfungsi sebagai suplemen 
+dalam terapi kanker. Namun, penelitian 
+lebih 
+lanjut 
+diperlukan 
+untuk 
+memahami 
+mekanisme 
+dan 
+efektivitasnya 
+(Rembet 
+& 
+Wowor, 
+2024). 
+Jahe juga dikenal memiliki efek 
+antimikroba yang kuat (Paujiah et al., 
+2020). 
+Minyak 
+atsiri 
+jahe 
+dapat 
+melawan berbagai bakteri, jamur, dan 
+virus. Meningkatkan kekebalan tubuh 
+dan melawan infeksi. Efek antimikroba 
+ini juga bermanfaat dalam menjaga 
+kesehatan 
+mulut 
+dan 
+mencegah 
+penyakit periodontal Ini membuat jahe 
+menjadi 
+pilihan 
+yang 
+baik. 
+Selain 
+manfaat-manfaat tersebut, jahe juga 
+memiliki 
+efek 
+kardioprotektif. 
+Jahe 
+dapat membantu menurunkan kadar 
+kolesterol, mencegah agregasi platelet, 
+dan 
+meningkatkan 
+sirkulasi 
+darah 
+(Tanaya, 
+2022). 
+Untuk 
+menjaga 
+kesehatan 
+jantung 
+dan 
+mencegah 
+penyakit kardiovaskular Ini menjadikan 
+jahe sebagai suplemen yang baik. 
+Penelitian 
+menunjukkan 
+bahwa 
+konsumsi jahe secara teratur dapat 
+berkontribusi pada penurunan risiko 
+penyakit jantung (Adi et al.,, 2023). 
+Secara 
+keseluruhan, 
+jahe 
+merupakan tanaman yang luar biasa 
+dengan berbagai manfaat kesehatan. 
+Penggunaannya 
+yang 
+luas 
+dalam 
+pengobatan tradisional dan dukungan 
+dari 
+penelitian 
+ilmiah 
+modern 
+menunjukkan 
+bahwa 
+jahe 
+memiliki 
+potensi besar sebagai agen terapeutik 
+alami. Dengan terus berkembangnya 
+penelitian tentang jahe, diharapkan 
+lebih banyak lagi manfaat kesehatan 
+dari tanaman ini yang dapat diungkap 
+dan dimanfaatkan untuk meningkatkan 
+kesejahteraan manusia. 
+ 
+ 
+METODE 
+Menguraikan informasi tentang 
+pemanfaatan tradisional jahe untuk 
+pengobatan 
+dan 
+komposisi 
+fitokimianya, 
+penelitian 
+ini 
+menggunakan dua metode utama, yaitu 
+pencarian 
+sistematis 
+literatur 
+dan 
+analisis tematik. Pertama-tama, kami 
+melakukan 
+pencarian 
+sistematis 
+literatur dengan mengakses berbagai 
+sumber data ilmiah yang terpercaya, 
+seperti PubMed, Google Scholar, dan 
+Science Direct. Melalui penggunaan 
+kata 
+kunci 
+yang 
+relevan 
+seperti 
+"Zingiber 
+officinale" 
+"traditional 
+medicine" dan "phytochemistry" dapat 
+ditemukan sejumlah artikel yang sesuai 
+dengan tujuan penelitian. Setelah itu, 
+artikel-artikel 
+tersebut 
+diseleksi 
+berdasarkan 
+kriteria 
+inklusi 
+dan 
+eksklusi 
+yang 
+telah 
+ditentukan, 
+memastikan bahwa hanya artikel yang 
+relevan dan valid yang dimasukkan 
+dalam analisis. 
+Selanjutnya, penerapan metode 
+analisis 
+tematik 
+dilakukan 
+ 
+untuk 
+mengorganisir dan menganalisis data 
+
+pISSN:2355-7583 | eISSN:2549-4864 
+http://ejurnalmalahayati.ac.id/index.php/kesehatan 
+ 
+ 
+ 
+ 
+ 
+Jurnal Ilmu Kedokteran dan Kesehatan, Vol. 11, No. 10, Oktober 2024  
+1994 
+ 
+ 
+ 
+yang terkumpul (Rifa’i, 2023). Dengan 
+mengekstraksi informasi yang relevan 
+dari setiap artikel terpilih, Identifikasi 
+berbagai penggunaan tradisional jahe 
+dalam 
+pengobatan 
+dilakukan 
+serta 
+senyawa fitokimia yang dominan dalam 
+tanaman 
+tersebut. 
+Lalu, 
+dilakukan 
+pengkategorian data berdasarkan jenis 
+pemanfaatan tradisional, seperti untuk 
+pencernaan, anti-inflamasi, anti-mual, 
+kesehatan pernapasan, dan kesehatan 
+menstruasi. 
+Selain 
+itu, 
+juga 
+mengkategorikan 
+senyawa 
+fitokimia 
+utama yang terkandung dalam jahe, 
+seperti 
+gingerol, 
+shogaol, 
+paradol, 
+zingerone, dan minyak atsiri. Melalui 
+analisis tematik ini, dapat diidentifikasi 
+pola 
+umum 
+dan 
+hubungan 
+antara 
+penggunaan 
+tradisional 
+jahe 
+dan 
+komposisi 
+fitokimianya, 
+memberikan 
+wawasan 
+yang 
+mendalam 
+tentang 
+potensi terapeutik jahe. 
+Penelitian ini menggabungkan 
+kedua 
+metode 
+ini, 
+memberikan 
+pemahaman 
+yang 
+komprehensif 
+tentang pemanfaatan tradisional jahe 
+dalam pengobatan serta sifat fitokimia 
+yang mendasari efek terapeutiknya 
+tujuan dari penelitian ini. Proses ini 
+tidak hanya memastikan bahwa data 
+yang dikumpulkan komprehensif dan 
+relevan, tetapi juga membantu dalam 
+mengidentifikasi 
+tema-tema 
+utama 
+dalam literatur yang berkaitan dengan 
+jahe. 
+Oleh 
+karena 
+itu, 
+diharapkan 
+bahwa 
+penelitian 
+ini 
+meningkatkan 
+pemahaman ilmiah tentang jahe dan 
+membantu dalam pengembangan obat 
+alami berbasis jahe yang lebih baik. 
+  
+HASIL 
+Sebelum 
+membahas 
+tinjauan 
+literatur 
+mengenai 
+pemanfaatan 
+tradisional jahe untuk pengobatan dan 
+fitokimianya, penting untuk memahami 
+hasil dan karakteristik dari tinjauan ini. 
+Berikut adalah hasil tinjauan literatur 
+yang disajikan dalam bentuk tabel: 
+ 
+Tabel 1. Hasil Tinjauan Literature 
+Karakteristik 
+Deskripsi 
+Nama Ilmiah 
+Zingiber officinale 
+Keluarga 
+Zingiberaceae 
+Daerah Asal 
+Asia Tenggara 
+ 
+Senyawa 
+Fitokimia 
+Utama 
+Gingerol, shogaol, paradol, zingerone, dan minyak atsiri 
+Penggunaan 
+Tradisional 
+Mengatasi masalah pencernaan seperti mual, muntah, dan 
+perut kembung 
+Mengurangi peradangan pada arthritis 
+Meredakan gejala pilek dan batuk. 
+Mengurangi nyeri haid. 
+Meningkatkan sistem kekebalan tubuh 
+Metode Konsumsi 
+Jahe segar 
+Jahe kering 
+Minyak atsiri jahe 
+ 
+Karakteristik 
+Utama 
+Jahe 
+dan 
+Pemanfaatannya dalam Pengobatan 
+Tradisional 
+Analisis dan interpretasi hasil ini 
+menunjukkan 
+bahwa 
+jahe 
+memiliki 
+beragam 
+senyawa 
+fitokimia 
+yang 
+memberikan 
+sifat 
+terapeutik 
+pada 
+tanaman 
+ini, 
+seperti 
+gingerol 
+dan 
+shogaol 
+yang 
+memiliki 
+efek 
+anti-
+inflamasi dan antioksidan. Selain itu, 
+pemanfaatan tradisional jahe meliputi 
+pengobatan 
+masalah 
+pencernaan, 
+peradangan, masalah pernapasan, dan 
+kesehatan 
+menstruasi, 
+serta 
+meningkatkan sistem kekebalan tubuh. 
+Dengan 
+demikian, 
+jahe 
+merupakan 
+tanaman yang berpotensi sebagai agen 
+terapeutik alami yang dapat digunakan 
+dalam 
+pengobatan 
+tradisional 
+dan 
+alternatif. 
+ 
+PEMBAHASAN 
+Tinjauan 
+literatur 
+mengenai 
+pemanfaatan 
+tradisional 
+jahe 
+untuk 
+pengobatan 
+dan 
+fitokimianya 
+mengungkapkan 
+beragam 
+informasi 
+yang penting. Penggunaan jahe dalam 
+pengobatan tradisional telah tercatat 
+
+pISSN:2355-7583 | eISSN:2549-4864 
+http://ejurnalmalahayati.ac.id/index.php/kesehatan 
+ 
+ 
+ 
+ 
+ 
+Jurnal Ilmu Kedokteran dan Kesehatan, Vol. 11, No. 10, Oktober 2024  
+1995 
+ 
+ 
+ 
+dalam 
+berbagai 
+budaya 
+selama 
+berabad-abad, 
+menunjukkan 
+potensi 
+terapeutik yang luas (Tilaar, 2017). 
+Dalam 
+pengobatan 
+tradisional, 
+jahe 
+digunakan untuk mengatasi masalah 
+pencernaan, 
+peradangan, 
+masalah 
+pernapasan, nyeri haid, dan bahkan 
+untuk meningkatkan sistem kekebalan 
+tubuh 
+(Laelasari 
+& 
+Syadza, 
+2022). 
+Metode konsumsi jahe juga bervariasi, 
+mulai dari mengonsumsi jahe segar 
+hingga 
+menggunakan 
+minyak 
+atsiri 
+jahe. 
+Selain itu, jahe mengandung 
+sejumlah senyawa fitokimia yang kaya 
+akan sifat terapeutik, seperti gingerol, 
+shogaol, paradol, dan zingerone, serta 
+minyak 
+atsiri 
+(Damayanti, 
+2018). 
+Senyawa-senyawa 
+ini 
+telah 
+terbukti 
+memiliki 
+efek 
+anti-inflamasi, 
+antioksidan, antimikroba, dan bahkan 
+antikanker, menjadikan jahe sebagai 
+bahan 
+yang 
+menjanjikan 
+dalam 
+pengobatan alami. 
+Fitokimia 
+Kelompok 
+senyawa 
+metabolit 
+sekunder, termasuk alkaloid, flavonoid, 
+fenolik, 
+triterpenoid, 
+dan 
+saponin, 
+ditemukan dalam penelitian fitokimia 
+terhadap ekstrak metanol dari rimpang 
+jahe. Sebuah studi (Kaban et al., 2016) 
+menemukan bahwa jahe mengandung 
+alkaloid 
+yang 
+berfungsi 
+sebagai 
+analgesik, obat batuk, dan pengobatan 
+migrain. 
+Selain 
+itu, 
+flavonoid 
+jahe 
+memiliki 
+sifat 
+analgesik, 
+antitumor, 
+antioksidan, 
+antiinflamasi, 
+antibiotik, 
+anti alergi, dan diuretik. Selain itu, 
+saponin 
+jahe 
+memiliki 
+sifat 
+antikoagulan, 
+antikarsinogenik, 
+hipoglikemik, 
+antioksidan, 
+dan 
+antiinflamasi (Yuliningtyas et al., 2019).  
+Jahe mengandung triterpenoid yang 
+berfungsi 
+sebagai 
+antioksidan 
+dan 
+membantu mengobati diabetes serta 
+mempercepat 
+penyembuhan 
+luka 
+(Sutardi, 2017). Selain itu, senyawa 
+fenolik aktif jahe, seperti shogaol dan 
+gingerol, berfungsi sebagai antioksidan 
+dan 
+membantu 
+menjaga 
+kesehatan 
+jantung, 
+menurunkan 
+berat 
+badan, 
+mencegah 
+kanker 
+usus, 
+dan 
+meningkatkan sistem kekebalan tubuh 
+(Yuliningtyas et al., 2019). 
+Kandungan 
+fenol 
+dalam 
+jahe 
+juga memiliki efek melindungi sel tubuh 
+dari 
+kerusakan 
+dan 
+bersifat 
+antiproliferatif terhadap sel kanker (Sari 
+& 
+Nasuha, 
+2021). 
+Gingerol, 
+yang 
+merupakan komponen aktif lainnya, 
+terkenal karena sifat antiinflamasi dan 
+antioksidannya 
+yang 
+kuat 
+(Aryanta, 
+2019), untuk mengatasi mual pada 
+wanita hamil, mengurangi nyeri otot, 
+mengelola osteoarthritis, menurunkan 
+gula darah, dan mencegah berbagai 
+penyakit 
+seperti 
+kanker, 
+penyakit 
+jantung, dan infeksi telah digunakan 
+(Aryanta, 2019). 
+Farmakologis 
+Kelompok sesquiterpen utama, 
+seperti 
+bisapolen, 
+zingiberen, 
+dan 
+zingiberol, membentuk 1-3% minyak 
+atsiri yang ditemukan dalam jahe. ini 
+memiliki berbagai efek fisiologis, yang 
+sangat 
+penting 
+untuk 
+menjaga 
+kesehatan dan penyembuhan penyakit 
+(Rehman et al., 2011). Banyak efek 
+farmakologis yang dimiliki oleh senyawa 
+aktif dalam rimpang jahe. Ini termasuk 
+efek 
+karminatif, 
+stimulan 
+saluran 
+pencernaan, 
+antispasmodik, 
+pencernaan, pengatur asam lambung, 
+vasodilator, ekspektoran, bronkodilator, 
+analgesik, dan antiflatulen. Jahe juga 
+membantu dalam masalah pencernaan, 
+antitusif, pencahar, dan meningkatkan 
+aktivitas 
+enzim 
+usus. 
+Selain 
+itu, 
+senyawa ini meningkatkan peredaran 
+darah dan meredakan peradangan dan 
+nyeri rematik (Rehman et al., 2011).  
+Selain 
+sifat 
+antipiretik 
+dan 
+antibakterinya, 
+ekstrak 
+etanol 
+dari 
+rimpang jahe memiliki efek analgesik 
+dan antiinflamasi (Damayanti et al., 
+2022). 
+Selain 
+itu, 
+telah 
+dilakukan 
+penelitian tentang sifat jahe sebagai 
+imunomodulator, 
+antitumor, 
+antiapoptosis, 
+antihiperglikemik, 
+dan 
+antihiperlipidemia. Kekuatannya sebagai 
+antioksidan 
+dapat 
+mengurangi 
+atau 
+mencegah pembentukan radikal bebas 
+(Amin et al., 2006). 
+Toksikologi 
+Jahe umumnya dianggap sebagai 
+obat herbal yang aman digunakan. 
+Namun, konsumsi dalam jumlah besar 
+dapat 
+menyebabkan 
+efek 
+samping. 
+Dosis 
+jahe 
+sebesar 
+35 
+gram 
+bisa 
+mengakibatkan 
+nyeri 
+ulu 
+hati, 
+sementara dosis lebih dari 6 gram dapat 
+mengiritasi lambung. Jika bubuk jahe 
+dihirup, 
+dapat 
+menyebabkan 
+reaksi 
+alergi yang diperantarai oleh IgE. Studi 
+toksikologi hewan (Muliaty et al., 2018) 
+menemukan bahwa pemberian ekstrak 
+
+pISSN:2355-7583 | eISSN:2549-4864 
+http://ejurnalmalahayati.ac.id/index.php/kesehatan 
+ 
+ 
+ 
+ 
+ 
+Jurnal Ilmu Kedokteran dan Kesehatan, Vol. 11, No. 10, Oktober 2024  
+1996 
+ 
+ 
+ 
+jahe (EV.EXT 33) pada dosis 1000 
+mg/kg berat badan (BB) pada tikus 
+hamil selama periode organogenesis 
+tidak 
+menyebabkan 
+gangguan 
+perkembangan atau toksisitas maternal. 
+Studi 
+toksisitas 
+akut 
+(LD50) 
+menunjukkan bahwa ekstrak jahe yang 
+dilarutkan dalam metanol memiliki LD50 
+sebesar 10,25 g/kg BB pada pemberian 
+oral kepada tikus, dan ekstrak jahe 
+yang 
+dilarutkan 
+dalam 
+etanol 
+dan 
+diberikan 
+secara 
+intraperitoneal 
+memiliki LD50 sebesar 1551 ± 75 
+mg/kg BB. Uji klinis pada manusia di 
+berbagai negara menunjukkan bahwa 
+perempuan yang mengkonsumsi ekstrak 
+jahe dilarutkan dalam etanol memiliki 
+LD50 sebesar 11,75 g/kg BB 
+ 
+KESIMPULAN 
+Jahe 
+mengandung 
+senyawa 
+bioaktif 
+seperti 
+gingerol, 
+shogaol, 
+paradol, 
+dan 
+zingerone 
+yang 
+memberikan efek farmakologis yang 
+signifikan. 
+Senyawa-senyawa 
+ini 
+memberikan jahe sifat anti-inflamasi, 
+antioksidan, 
+antikanker, 
+dan 
+antimikroba. Jahe juga menunjukkan 
+potensi sebagai agen terapeutik alami 
+dalam 
+pengobatan 
+berbagai 
+kondisi 
+kesehatan, 
+termasuk 
+masalah 
+pencernaan, peradangan, kanker, serta 
+infeksi. Meskipun jahe memiliki manfaat 
+kesehatan yang luas, perlu dilakukan 
+penelitian lebih lanjut dalam bidang 
+toksikologi 
+untuk 
+memastikan 
+keamanan 
+penggunaannya 
+dalam 
+jangka panjang. Dengan pemahaman 
+yang lebih mendalam tentang fitokimia 
+jahe, 
+diharapkan 
+dapat 
+terus 
+dikembangkan sebagai obat alami yang 
+efektif dan aman. 
+ 
+DAFTAR PUSTAKA 
+Adi, G. S., Pratiwi, E., & Permanasari, P. 
+(2023). Efektivitas Jahe Merah 
+Sebagai Kontrol Gula Darah Lansia 
+di Wilayah Puskesmas Tegalrejo. 
+Jurnal 
+Pengabdian 
+Kesehatan, 
+6(4), 315-322. 
+Al-Amin, Z. M., Thomson, M., Al-Qattan, 
+K. K., Peltonen-Shalaby, R., & Ali, 
+M. 
+ 
+(2006). 
+Anti-diabetic 
+and 
+hypolipidaemic properties of ginger 
+(Zingiber 
+officinale) 
+in 
+streptozotocin-induced 
+diabetic 
+rats. British journal of nutrition, 
+96(4), 660-666. 
+Andarwulan, 
+S. 
+(2021). 
+Terapi 
+Komplementer 
+Kebidanan. 
+Guepedia. 
+Anggraeni, E., Handayani, Y., & Sari, M. 
+P. (2024). Edukasi Kesehatan: 
+Pelatihan Pembuatan Air Rebusan 
+Jahe sebagai Terapi Herbal Non-
+Farmakologi 
+Untuk 
+Mengatasi 
+Dismenore. Indonesian Journal of 
+Community Dedication in Health 
+(IJCDH), 4(01), 13-19. 
+Aryanta, I.W.R. (2019). Manfaat jahe 
+untuk kesehatan. Jurnal Widya 
+Kesehatan 1 (2): 39-43 
+Damayanti, A. S. (2018). Pengaruh 
+Pemberian Jus Kombinasi Jahe 
+(Zingiber officinale Rosc.), Bawang 
+Bombai (Allium cepa L.), Jeruk 
+Mandarin 
+(Citrus 
+reticulata 
+Blanco), APEL (Malus domestica), 
+Wortel 
+(Daucus 
+carota 
+L.) 
+Terhadap Tekanan Darah Pada 
+Pasien Hipertensi. 
+Damayanti, Y., Ulfah, M., & Irawan, A. 
+(2022). Perbandingan Efektivitas 
+Ekstrak 
+Etanol 
+Rimpang 
+Jahe 
+(Zingiber 
+officinale) 
+Terhadap 
+Pertumbuhan 
+Staphylococus 
+aureus 
+dan 
+Staphylococus 
+pyogenes. FarmasiMu, 1(I), 1-9. 
+Gunani, 
+S. 
+B. 
+(2009). 
+Uji 
+Daya 
+Antiinflamasi 
+Krim 
+Tipe 
+A/M 
+Ekstrak 
+Etanolik 
+Jahe 
+10%(Zingiber officinale Roscoe) 
+yang Diberikan Topikal Terhadap 
+Udem Kaki Tikus yang Diinduksi 
+Karagenin (Doctoral dissertation, 
+Univerversitas 
+Muhammadiyah 
+Surakarta). 
+Herawati, I. E., & Saptarini, N. M. 
+(2019). Studi Fitokimia pada Jahe 
+Merah (Zingiber officinale Roscoe 
+Var. 
+Sunti 
+Val). 
+Majalah 
+Farmasetika, 4 (1), 22–27. 
+Kaban, A. N., Tarigan, D., & Saleh, C. 
+(2016). Uji Fitokimia, Toksisitas 
+dan Aktivitas Antioksidan Fraksi n-
+heksan dan Etil Asetat terhadap 
+Ekstrak 
+Jahe 
+Merah 
+(Zingiber 
+officinale var. amarum). Jurnal 
+Kimia Mulawarman, 14(1), 24-28. 
+Laelasari, I., & Syadza, N. Z. (2022). 
+Pendampingan Pemanfaatan Jahe 
+(Zingiber 
+officinale) 
+Sebagai 
+Bahan Rempah Dalam Pembuatan 
+Inovasi 
+Makanan 
+Herbal 
+Penambah Immunitas. Jurnal Bakti 
+Saintek: 
+Jurnal 
+Pengabdian 
+
+pISSN:2355-7583 | eISSN:2549-4864 
+http://ejurnalmalahayati.ac.id/index.php/kesehatan 
+ 
+ 
+ 
+ 
+ 
+Jurnal Ilmu Kedokteran dan Kesehatan, Vol. 11, No. 10, Oktober 2024  
+1997 
+ 
+ 
+ 
+Masyarakat 
+Bidang 
+Sains 
+dan 
+Teknologi, 6(2), 31-37. 
+Laelasari, I., & Syadza, N. Z. (2022). 
+Pendampingan pemanfaatan jahe 
+(Zingiber officinale) sebagai bahan 
+rempah dalam pembuatan inovasi 
+makanan 
+herbal 
+penambah 
+immunitas. Jurnal Bakti Saintek: 
+Jurnal 
+Pengabdian 
+Masyarakat 
+Bidang Sains dan Teknologi, 6(2), 
+31-37. 
+Muksin, 
+M., 
+Syukur, 
+S. 
+B., 
+& 
+Syamsuddin, F. (2023). Pengaruh 
+Terapi Rendam Kaki Air Hangat 
+Jahe 
+Terhadap 
+Penurunan 
+Tekanan 
+Darah 
+Pada 
+Pasien 
+Hipertensi Di Puskesmas Limboto. 
+Jurnal 
+Riset 
+Rumpun 
+Ilmu 
+Kesehatan (JURRIKES), 2(1), 91-
+101. 
+Muliaty, S., Indrawati, L., & Ikawati, Z. 
+(2018). 
+Efek 
+Jahe 
+(Zingiber 
+officinale) terhadap Kadar Gula 
+dan 
+Kadar 
+Kolesterol 
+Darah: 
+Tinjauan 
+Sistematik. 
+Majalah 
+Kedokteran UKI, 34(1), 26-40. 
+Munaeni, 
+W., 
+Mainassy, 
+M. 
+C., 
+Puspitasari, 
+D., 
+Susanti, 
+L., 
+Endriyatno, N. C., Yuniastuti, A., 
+... 
+& 
+Hendra, 
+G. 
+A. 
+(2022). 
+Perkembangan Dan Manfaat Obat 
+Herbal Sebagai Fitoterapi. Tohar 
+Media. 
+Paujiah, S., Ulum, K., Pratiwi, D., Zahra, 
+N. A., & Nola, F. (2020). Potensi 
+Jahe Merah (Zingiber officinale 
+var. Rubrum) Sebagai Antibakteri. 
+HSG Journal, 5(2), 17-30. 
+Rehman, R., Akram, M., Akhtar, N., 
+Jabeen, Q., Saeed, T., Shah, 
+S.M.A., Ahmed, K., Shaheen, G., 
+Asif, 
+H.M. 
+(2011). 
+Zingiber 
+officinale Roscoe (pharmacological 
+activity). 
+Journal 
+of 
+Medicinal 
+Plants Research 5 (3): 344-348. 
+Rembet, I. Y., & Wowor, M. D. (2024). 
+Manfaat Jahe (Zingiber Officinale 
+Roscoe) Untuk Menurunkan Kadar 
+Gula 
+Darah 
+Pada 
+Penyakit 
+Diabetes Melitus Tipe 2. Watson 
+Journal Of Nursing, 2(2), 51-65. 
+Rifa’i, Y. (2023). Analisis Metodologi 
+Penelitian 
+Kulitatif 
+dalam 
+Pengumpulan Data di Penelitian 
+Ilmiah 
+pada 
+Penyusunan 
+Mini 
+Riset. 
+Cendekia 
+Inovatif 
+Dan 
+Berbudaya, 1(1), 31-37. 
+Sari, 
+D., 
+& 
+Nasuha, 
+A. 
+(2021). 
+Kandungan Zat Gizi, Fitokimia, 
+dan Aktivitas Farmakologis pada 
+Jahe (Zingiber officinale Rosc.). 
+Tropical 
+Bioscience: 
+Journal 
+of 
+Biological Science, 1(2), 11-18. 
+Shandy, A. D., Fauziah, F., Azzahro, N. 
+H., & Siregar, W. T. (2023). Studi 
+Literatur: 
+Efekivitas 
+Rimpang 
+Indonesia Sebagai Anti Inflamasi. 
+Jurnal Inovasi Kesehatan Adaptif, 
+5(5). 
+Sutardi, S. (2017). Kandungan Bahan 
+Aktif 
+Tanaman 
+Pegagan 
+dan 
+Khasiatnya 
+untuk 
+Meningkatkan 
+Sistem 
+Imun 
+Tubuh. 
+Jurnal 
+Penelitian 
+dan 
+Pengembangan 
+Pertanian, 
+35(3), 
+121. 
+https://doi.org/10.21082/jp3.v35n
+3.2016.p121-130 
+Syamsu, R. F., Nuryanti, S., & Jamal, M. 
+F. (2021). Herbal yang berpotensi 
+sebagai anti virus pada COVID-19. 
+Molucca Medica, 76-85. 
+SYARAH, N. A. (2020). Uji Efektivitas 
+Antibakteri 
+Minyak 
+Atsiri 
+Jahe 
+Merah 
+(Zingiber 
+officinale 
+var. 
+rubrum) 
+terhadap 
+bakteri 
+Streptococcus sanguinis (Doctoral 
+dissertation, Universitas YARSI). 
+TANAYA, 
+B. 
+T. 
+K. 
+(2022). 
+Kajian 
+Penggunaan Rempah Dan Sifat 
+Fungsional Herbal Wine Review: 
+Study Of Herbs Use And Functional 
+Properties Of Herbal Wine. 
+Tilaar, D. M. (2017). The power of 
+jamu: kekayaan dan kearifan lokal 
+Indonesia. 
+Gramedia 
+Pustaka 
+Utama. 
+TRIANA, O. (2019). Formulasi dan 
+Evaluasi Fisik Sediaan Balsem dari 
+Minyak Atsiri Jahe Putih (Zingiber 
+officinale) (Doctoral dissertation, 
+Institut Kesehatan Helvetia). 
+Vifta, R. L., & Hasri, A. P. (2022). 
+Potensi 
+Herba 
+Jahe 
+Merah 
+(Zingiber officinale Var Rubrum) 
+Asal 
+Desa 
+Kemetul 
+Kabupaten 
+Semarang 
+Sebagai 
+Sumber 
+Antioksidan 
+Alami. 
+Media 
+Informasi 
+Penelitian 
+Kabupaten 
+Semarang, 4(2), 30-40. 
+Wahyu, S., Hasbi, B. E., Wiryansya, E. 
+P., & Royani, I. (2024). Literature 
+Review: 
+Efek 
+Pemberian 
+Jahe 
+(Zingiber 
+Officinale) 
+Terhadap 
+Reinfeksi 
+Covid-19. 
+Innovative: 
+
+pISSN:2355-7583 | eISSN:2549-4864 
+http://ejurnalmalahayati.ac.id/index.php/kesehatan 
+ 
+ 
+ 
+ 
+ 
+Jurnal Ilmu Kedokteran dan Kesehatan, Vol. 11, No. 10, Oktober 2024  
+1998 
+ 
+ 
+ 
+Journal 
+Of 
+Social 
+Science 
+Research, 4(1), 4872-4885. 
+Yuliningtyas, A. W., Santoso, H., & 
+Syauqi, A. (2019). Uji kandungan 
+senyawa aktif minuman jahe sereh 
+(Zingiber 
+officinale 
+dan 
+Cymbopogon 
+citratus). 
+Jurnal 
+Ilmiah Biosaintropis (Bioscience-
+Tropic), 4(2), 1-6. 

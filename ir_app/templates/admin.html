@@ -1,1 +1,214 @@
-<!doctype html><html><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Admin - Herbal IR</title><link rel="stylesheet" href="/static/site.css"/></head><body><div class="container"><div class="row"><div><h1>Admin</h1><p class="muted">Upload TXT/PDF dan rebuild index.</p></div><div class="right"><a class="btn secondary" href="/">Home</a></div></div>{% if request.query_params.get('err') %}<div class="alert">{{ request.query_params.get('err') }}</div>{% endif %}<div class="card"><p><strong>Status index:</strong> {{ "Ada" if has_index else "Belum ada" }}</p><p class="muted">Dokumen termuat (jika index ada): {{ doc_count }}</p></div><div class="card"><h3>Feature Selection</h3>{% if fs %}<p class="muted">Metode: {{ fs.get("method","") }}</p><p class="muted">N dokumen: {{ fs.get("N") }} | Vocab awal: {{ fs.get("vocab") }} | Vocab terpilih: {{ fs.get("selected") }}</p><p class="muted">min_df: {{ fs.get("min_df") }} | max_df_ratio: {{ fs.get("max_df_ratio") }} | top_n: {{ fs.get("top_n") }}</p>{% else %}<p class="muted">Belum ada. Klik <em>Rebuild Index</em>.</p>{% endif %}</div><div class="card"><h3>Upload Dokumen</h3><form method="post" action="/admin/upload" enctype="multipart/form-data"><input type="file" name="file" required /><button class="btn" type="submit">Upload</button></form><p class="muted">Format: .txt atau .pdf</p></div><div class="card"><h3>Rebuild Index</h3><form method="post" action="/admin/rebuild"><button class="btn" type="submit">Rebuild Index</button></form></div></div></body></html>
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Admin - Herbal IR</title>
+  <link rel="stylesheet" href="/static/site.css"/>
+  <style>
+    pre { white-space: pre-wrap; word-break: break-word; }
+    .small { font-size: 12px; }
+
+    /* matriks: scroll horizontal + vertical + tidak wrap */
+    .matrix-wrap {
+      overflow-x: auto;
+      overflow-y: auto;
+      max-height: 70vh;
+      border: 1px solid #eee;
+      border-radius: 10px;
+    }
+
+    table.matrix { border-collapse: collapse; width: max-content; min-width: 100%; }
+    table.matrix th, table.matrix td {
+      border: 1px solid #eee;
+      padding: 6px 10px;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: top;
+    }
+
+    table.matrix th {
+      background: #fafafa;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+
+    table.matrix td.term { text-align: left; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div>
+        <h1>Admin</h1>
+        <p class="muted">Upload TXT/PDF dan rebuild index.</p>
+      </div>
+      <div class="right">
+        <a class="btn secondary" href="/">Home</a>
+      </div>
+    </div>
+
+    {% if request.query_params.get('err') %}
+      <div class="alert">{{ request.query_params.get('err') }}</div>
+    {% endif %}
+
+    <div class="card">
+      <p><strong>Status index:</strong> {{ "Ada" if has_index else "Belum ada" }}</p>
+      <p class="muted">Dokumen termuat (jika index ada): {{ doc_count }}</p>
+    </div>
+
+    <div class="card">
+      <h3>Feature Selection</h3>
+      {% if fs %}
+        <p class="muted">Metode: {{ fs.get("method","") }}</p>
+        <p class="muted">
+          N dokumen: {{ fs.get("N") }} |
+          Vocab awal: {{ fs.get("vocab") }} |
+          Vocab terpilih: {{ fs.get("selected") }}
+        </p>
+        <p class="muted">
+          min_df: {{ fs.get("min_df") }} |
+          max_df_ratio: {{ fs.get("max_df_ratio") }} |
+          top_n: {{ fs.get("top_n") }}
+        </p>
+      {% else %}
+        <p class="muted">Belum ada. Klik <em>Rebuild Index</em>.</p>
+      {% endif %}
+    </div>
+
+    <div class="card">
+      <h3>Upload Dokumen</h3>
+      <form method="post" action="/admin/upload" enctype="multipart/form-data">
+        <input type="file" name="file" required />
+        <button class="btn" type="submit">Upload</button>
+      </form>
+      <p class="muted">Format: .txt atau .pdf</p>
+    </div>
+
+    <div class="card">
+      <h3>Rebuild Index</h3>
+      <form method="post" action="/admin/rebuild">
+        <button class="btn" type="submit">Rebuild Index</button>
+      </form>
+    </div>
+
+    <div class="card">
+      <h3>Hasil Ingest PDF (preview)</h3>
+      {% if ingest_previews and ingest_previews|length > 0 %}
+        {% for p in ingest_previews %}
+          <details style="margin-top:10px;">
+            <summary><strong>{{ p.doc_id }}</strong></summary>
+            <pre class="small">{{ p.preview }}</pre>
+          </details>
+        {% endfor %}
+      {% else %}
+        <p class="muted">Belum ada hasil ingest di folder <code>data/ingested_from_pdf</code>.</p>
+      {% endif %}
+    </div>
+
+    <div class="card">
+      <h3>Hasil Preprocessing (Dataset Sample)</h3>
+      <p class="muted small">Ditampilkan untuk maksimal 5 dokumen pertama yang termuat.</p>
+
+      {% if prep_samples and prep_samples|length > 0 %}
+        {% for d in prep_samples %}
+          <details style="margin-top:10px;">
+            <summary><strong>{{ d.doc_id }}</strong></summary>
+
+            <p class="muted"><strong>Original (preview)</strong></p>
+            <pre class="small">{{ d.prep.original_preview }}</pre>
+
+            <p class="muted"><strong>Case Folding</strong></p>
+            <pre class="small">{{ d.prep.case_folding_preview }}</pre>
+
+            <p class="muted"><strong>Tokenizing</strong> (count={{ d.prep.tokenize.count }})</p>
+            <pre class="small">{{ d.prep.tokenize.shown }}</pre>
+
+            <p class="muted"><strong>Stopword Removal</strong> (count={{ d.prep.stopword_removed.count }})</p>
+            <pre class="small">{{ d.prep.stopword_removed.shown }}</pre>
+
+            <p class="muted"><strong>Stemming (final)</strong> (count={{ d.prep.stemming.count }})</p>
+            <pre class="small">{{ d.prep.stemming.shown }}</pre>
+          </details>
+        {% endfor %}
+      {% else %}
+        <p class="muted">Belum ada dokumen termuat.</p>
+      {% endif %}
+    </div>
+
+    <div class="card">
+      <h3>TF Matrix + DF + IDF (Dokumen Dataset)</h3>
+      <p class="muted small">
+        Baris = semua term di index. Kolom = semua dokumen yang termuat. Tabel ini bisa besar (scroll ke samping dan ke bawah).
+      </p>
+
+      {% if admin_tf_df_idf_matrix %}
+        <div class="matrix-wrap">
+          <table class="matrix">
+            <thead>
+              <tr>
+                <th>Term</th>
+                {% for c in admin_tf_df_idf_matrix.cols %}
+                  <th>{{ c }}</th>
+                {% endfor %}
+                <th>DF</th>
+                <th>IDF</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for r in admin_tf_df_idf_matrix.rows %}
+                <tr>
+                  <td class="term">{{ r.term }}</td>
+                  {% for tf in r.tfs %}
+                    <td>{{ tf }}</td>
+                  {% endfor %}
+                  <td>{{ r.df }}</td>
+                  <td>{{ "%.6f"|format(r.idf) }}</td>
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      {% else %}
+        <p class="muted">Index belum ada / belum termuat. Klik <em>Rebuild Index</em> dulu.</p>
+      {% endif %}
+    </div>
+
+    <div class="card">
+      <h3>TF‑IDF (RAW) Matrix (Dokumen Dataset)</h3>
+      <p class="muted small">
+        TF‑IDF dihitung dengan <code>(1 + ln(tf)) × idf</code> (tanpa normalisasi). Tabel ini bisa besar (scroll ke samping dan ke bawah).
+      </p>
+
+      {% if admin_tfidf_matrix %}
+        <div class="matrix-wrap">
+          <table class="matrix">
+            <thead>
+              <tr>
+                <th>Term</th>
+                {% for c in admin_tfidf_matrix.cols %}
+                  <th>{{ c }}</th>
+                {% endfor %}
+              </tr>
+            </thead>
+            <tbody>
+              {% for r in admin_tfidf_matrix.rows %}
+                <tr>
+                  <td class="term">{{ r.term }}</td>
+                  {% for v in r.tfidf %}
+                    <td>{{ "%.6f"|format(v) }}</td>
+                  {% endfor %}
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      {% else %}
+        <p class="muted">Index belum ada / belum termuat. Klik <em>Rebuild Index</em> dulu.</p>
+      {% endif %}
+    </div>
+
+  </div>
+</body>
+</html>

@@ -1,5 +1,5 @@
 from __future__ import annotations
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Any, Optional
 import math
 
 from .indexing import InvertedIndex
@@ -66,3 +66,42 @@ def retrieve(q_vec: SparseVec, index: InvertedIndex, doc_vecs: Dict[str, SparseV
             scored.append((doc_id, score))
     scored.sort(key=lambda x: x[1], reverse=True)
     return scored[:top_k]
+
+def build_tfidf_matrix(
+    *,
+    index: InvertedIndex,
+    model: TfidfModel,
+    doc_ids: List[str],
+    terms: Optional[List[str]] = None,
+    q_tf: Optional[Dict[str, int]] = None,
+) -> Dict[str, Any]:
+    """
+    Matriks TF-IDF (RAW, tanpa normalisasi):
+      Term | D1 | D2 | ... | Dk | (Q)
+
+    - terms=None => semua term (sorted)
+    - q_tf diberikan => tambah kolom Q (TF-IDF query)
+    """
+    if terms is None:
+        terms = sorted(index.keys())
+
+    cols = list(doc_ids)
+    has_q = q_tf is not None
+    if has_q:
+        cols = cols + ["Q"]
+
+    rows = []
+    for term in terms:
+        postings = index.get(term, {}) or {}
+        vals = []
+        for d in doc_ids:
+            tf = int(postings.get(d, 0))
+            vals.append(float(model.tfidf(tf, term)) if tf > 0 else 0.0)
+
+        if has_q:
+            tfq = int((q_tf or {}).get(term, 0))
+            vals.append(float(model.tfidf(tfq, term)) if tfq > 0 else 0.0)
+
+        rows.append({"term": term, "tfidf": vals})
+
+    return {"cols": cols, "rows": rows}
