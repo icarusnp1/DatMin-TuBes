@@ -1,1 +1,188 @@
-<!doctype html><html><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Hasil - Herbal IR</title><link rel="stylesheet" href="/static/site.css"/></head><body><div class="container"><div class="row"><div><h1>Hasil Pencarian</h1><p class="muted">Query: <strong>{{ q }}</strong> | Dokumen: {{ doc_count }}</p></div><div class="right"><a class="btn secondary" href="/">Cari lagi</a><a class="btn secondary" href="/admin">Admin</a></div></div>{% if results|length == 0 %}<div class="card">Tidak ada hasil. Coba query lain.</div>{% endif %}{% for r in results %}<div class="card"><h3><a href="/doc/{{ r.doc_id }}?q={{ q|urlencode }}">{{ loop.index }}. {{ r.doc_id }}</a></h3><p class="muted">score: {{ "%.4f"|format(r.score) }}</p><p><strong>Snippet:</strong> <span class="snippet">{{ r.snippet | safe }}</span></p><p><strong>Ringkasan:</strong> <span class="snippet">{{ r.summary | safe }}</span></p></div>{% endfor %}</div></body></html>
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Hasil - Herbal IR</title>
+  <link rel="stylesheet" href="/static/site.css"/>
+  <style>
+    pre { white-space: pre-wrap; word-break: break-word; }
+    .small { font-size: 12px; }
+
+    /* matriks: scroll horizontal + vertical + tidak wrap */
+    .matrix-wrap {
+      overflow-x: auto;
+      overflow-y: auto;
+      max-height: 70vh;
+      border: 1px solid #eee;
+      border-radius: 10px;
+    }
+
+    table.matrix { border-collapse: collapse; width: max-content; min-width: 100%; }
+    table.matrix th, table.matrix td {
+      border: 1px solid #eee;
+      padding: 6px 10px;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: top;
+    }
+
+    table.matrix th {
+      background: #fafafa;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+
+    table.matrix td.term { text-align: left; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div>
+      <h1>Hasil Pencarian</h1>
+      <p class="muted">Query: <strong>{{ q }}</strong> | Dokumen: {{ doc_count }}</p>
+    </div>
+    <div class="right">
+      <a class="btn secondary" href="/">Cari lagi</a>
+      <a class="btn secondary" href="/admin">Admin</a>
+    </div>
+  </div>
+
+  {% if results|length == 0 %}
+    <div class="card">Tidak ada hasil. Coba query lain.</div>
+  {% endif %}
+
+  {% for r in results %}
+    <div class="card">
+      <h3><a href="/doc/{{ r.doc_id }}?q={{ q|urlencode }}">{{ loop.index }}. {{ r.doc_id }}</a></h3>
+      <p class="muted">score: {{ "%.4f"|format(r.score) }}</p>
+      <p><strong>Snippet:</strong> <span class="snippet">{{ r.snippet | safe }}</span></p>
+      <p><strong>Ringkasan:</strong> <span class="snippet">{{ r.summary | safe }}</span></p>
+    </div>
+  {% endfor %}
+
+  {% if preprocessing_view %}
+    <div class="card">
+      <h3>Hasil Preprocessing - Query</h3>
+
+      <p class="muted"><strong>Original (preview)</strong></p>
+      <pre>{{ preprocessing_view.query.original_preview }}</pre>
+
+      <p class="muted"><strong>Case Folding (lowercase preview)</strong></p>
+      <pre>{{ preprocessing_view.query.case_folding_preview }}</pre>
+
+      <p class="muted"><strong>Tokenizing</strong> (count={{ preprocessing_view.query.tokenize.count }})</p>
+      <pre>{{ preprocessing_view.query.tokenize.shown }}</pre>
+      {% if preprocessing_view.query.tokenize.truncated %}<p class="muted">...dipotong</p>{% endif %}
+
+      <p class="muted"><strong>Stopword Removal</strong> (count={{ preprocessing_view.query.stopword_removed.count }})</p>
+      <pre>{{ preprocessing_view.query.stopword_removed.shown }}</pre>
+      {% if preprocessing_view.query.stopword_removed.truncated %}<p class="muted">...dipotong</p>{% endif %}
+
+      <p class="muted"><strong>Stemming (final terms)</strong> (count={{ preprocessing_view.query.stemming.count }})</p>
+      <pre>{{ preprocessing_view.query.stemming.shown }}</pre>
+      {% if preprocessing_view.query.stemming.truncated %}<p class="muted">...dipotong</p>{% endif %}
+    </div>
+
+    <div class="card">
+      <h3>Hasil Preprocessing - Dataset (Dokumen hasil ranking)</h3>
+      <p class="muted">Ditampilkan untuk maksimal 5 dokumen teratas.</p>
+
+      {% for d in preprocessing_view.docs %}
+        <details style="margin-top: 10px;">
+          <summary><strong>{{ d.doc_id }}</strong></summary>
+
+          <p class="muted"><strong>Original (preview)</strong></p>
+          <pre>{{ d.prep.original_preview }}</pre>
+
+          <p class="muted"><strong>Case Folding (lowercase preview)</strong></p>
+          <pre>{{ d.prep.case_folding_preview }}</pre>
+
+          <p class="muted"><strong>Tokenizing</strong> (count={{ d.prep.tokenize.count }})</p>
+          <pre>{{ d.prep.tokenize.shown }}</pre>
+          {% if d.prep.tokenize.truncated %}<p class="muted">...dipotong</p>{% endif %}
+
+          <p class="muted"><strong>Stopword Removal</strong> (count={{ d.prep.stopword_removed.count }})</p>
+          <pre>{{ d.prep.stopword_removed.shown }}</pre>
+          {% if d.prep.stopword_removed.truncated %}<p class="muted">...dipotong</p>{% endif %}
+
+          <p class="muted"><strong>Stemming (final terms)</strong> (count={{ d.prep.stemming.count }})</p>
+          <pre>{{ d.prep.stemming.shown }}</pre>
+          {% if d.prep.stemming.truncated %}<p class="muted">...dipotong</p>{% endif %}
+        </details>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if tf_df_idf_matrix %}
+    <div class="card">
+      <h3>TF (Term Frequency) + DF + IDF — Dataset & Query</h3>
+      <p class="muted small">
+        Baris = term (hasil preprocessing query), kolom = dokumen hasil ranking + kolom <strong>Q</strong> (TF query), lalu <strong>DF</strong> dan <strong>IDF</strong>.
+      </p>
+
+      <div class="matrix-wrap">
+        <table class="matrix">
+          <thead>
+            <tr>
+              <th>Term</th>
+              {% for c in tf_df_idf_matrix.cols %}
+                <th>{{ c }}</th>
+              {% endfor %}
+              <th>DF</th>
+              <th>IDF</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in tf_df_idf_matrix.rows %}
+              <tr>
+                <td class="term">{{ row.term }}</td>
+                {% for tf in row.tfs %}
+                  <td>{{ tf }}</td>
+                {% endfor %}
+                <td>{{ row.df }}</td>
+                <td>{{ "%.6f"|format(row.idf) }}</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  {% endif %}
+
+  {% if tfidf_matrix %}
+    <div class="card">
+      <h3>TF‑IDF (RAW) Matrix — Dataset & Query</h3>
+      <p class="muted small">
+        TF‑IDF dihitung dengan <code>(1 + ln(tf)) × idf</code>. Nilai ini <strong>belum dinormalisasi</strong>.
+      </p>
+
+      <div class="matrix-wrap">
+        <table class="matrix">
+          <thead>
+            <tr>
+              <th>Term</th>
+              {% for c in tfidf_matrix.cols %}
+                <th>{{ c }}</th>
+              {% endfor %}
+            </tr>
+          </thead>
+          <tbody>
+            {% for r in tfidf_matrix.rows %}
+              <tr>
+                <td class="term">{{ r.term }}</td>
+                {% for v in r.tfidf %}
+                  <td>{{ "%.6f"|format(v) }}</td>
+                {% endfor %}
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  {% endif %}
+</div>
+</body>
+</html>

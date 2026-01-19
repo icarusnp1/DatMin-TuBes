@@ -1,5 +1,5 @@
 from __future__ import annotations
-from typing import Dict, List, Tuple, Any
+from typing import Dict, List, Tuple, Any, Optional
 import json
 import math
 
@@ -41,3 +41,44 @@ def save_index(index: InvertedIndex, path: str) -> None:
 def load_index(path: str) -> InvertedIndex:
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+def build_tf_df_idf_matrix(
+    *,
+    index: InvertedIndex,
+    idf: Dict[str, float],
+    doc_ids: List[str],
+    terms: Optional[List[str]] = None,
+    q_tf: Optional[Dict[str, int]] = None,
+) -> Dict[str, Any]:
+    """
+    Matriks:
+      Term | D1 | D2 | ... | Dk | (Q) | DF | IDF
+
+    - terms=None => semua term (sorted)
+    - q_tf diberikan => tambah kolom Q (TF query)
+    """
+    if terms is None:
+        terms = sorted(index.keys())
+
+    cols = list(doc_ids)
+    has_q = q_tf is not None
+    if has_q:
+        cols = cols + ["Q"]
+
+    rows = []
+    for term in terms:
+        postings = index.get(term, {}) or {}
+        tf_docs = [int(postings.get(d, 0)) for d in doc_ids]
+        if has_q:
+            tf_docs.append(int((q_tf or {}).get(term, 0)))
+        df = int(len(postings))
+        rows.append(
+            {
+                "term": term,
+                "tfs": tf_docs,
+                "df": df,
+                "idf": float(idf.get(term, 0.0)),
+            }
+        )
+
+    return {"cols": cols, "rows": rows}
